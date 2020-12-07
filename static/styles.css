@@ -1,0 +1,46 @@
+body {
+    background-color: #1c1e21;
+    color: #ccc;
+    text-align: center;
+}
+
+ul {
+}
+
+li {
+    /* maybe switch to block and make js hamburger dropdown */
+    display: inline-block;
+    list-style-type: none;
+}
+
+li:hover {
+    color: #65b3ba;
+}
+
+header {
+    display: inline;
+}
+
+footer { 
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+#pageTitle {
+    height: 60px;
+}
+
+#setCarousel {
+    text-align: center;
+}
+
+.navbar {
+    list-style-type: none;
+    text-align: left;
+    width: 33%;    
+}
+
+.rightsReserved {
+    font-size: .5rem;
+}
