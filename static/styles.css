@@ -1,6 +1,7 @@
 body {
     background-color: #1c1e21;
     color: #ccc;
+    font-family: 'PT Sans', sans-serif;
     text-align: center;
 }
 
@@ -11,6 +12,8 @@ li {
     /* maybe switch to block and make js hamburger dropdown */
     display: inline-block;
     list-style-type: none;
+    padding-right: 5px;
+    font-weight: bold;
 }
 
 li:hover {
@@ -32,13 +35,43 @@ footer {
 }
 
 #setCarousel {
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .navbar {
     list-style-type: none;
     text-align: left;
-    width: 33%;    
+    width: 33%;
+}
+
+.setPhoto {
+    height: 350px;
+    width: 210px;
+    object-fit: cover;
+    display: inline-block;
+    padding: 5px;
+    position: relative;
+}
+
+.setPhoto:hover {
+    transition: 0.3s ease;
+    opacity: 0.5;
+}
+
+.setPhoto:hover + .setTitle { 
+    opacity: 1;
+}
+
+.setTitle {
+    opacity: 0;;
+    position: absolute;
+    display: flex;
+    font-size: 1rem;
+}
+
+.setTitle:hover {
+    opacity: 1;
 }
 
 .rightsReserved {
