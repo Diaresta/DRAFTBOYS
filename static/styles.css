@@ -3,6 +3,9 @@ body {
     color: #ccc;
     font-family: 'PT Sans', sans-serif;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 ul {
@@ -20,14 +23,22 @@ li:hover {
     color: #65b3ba;
 }
 
+a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #65b3ba;
+}
+
 header {
     display: inline;
 }
 
 footer { 
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    margin-top: auto;
+    flex: 0 0 50px;
 }
 
 #pageTitle {
@@ -43,11 +54,28 @@ footer {
 .navbar {
     list-style-type: none;
     text-align: left;
-    width: 33%;
+    /* width: 33%; */
 }
 
 .navLi {
     margin-left: -10px;
+}
+
+.navRight {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 25px;
+}
+
+.setList {
+    position: relative;
+    text-align: center;
+}
+
+.setList:hover {
+    transition: 0.3s ease;
+    opacity: 0.5;
 }
 
 .setPhoto {
@@ -59,20 +87,20 @@ footer {
     position: relative;
 }
 
-.setPhoto:hover {
-    transition: 0.3s ease;
-    opacity: 0.5;
-}
-
 .setPhoto:hover + .setTitle { 
     opacity: 1;
 }
 
 .setTitle {
+    font-size: 1.5rem !important;
+    color: #65b3ba;
     opacity: 0;;
     position: absolute;
     display: flex;
-    font-size: 1rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 1px 1px #000;
 }
 
 .setTitle:hover {
@@ -81,4 +109,18 @@ footer {
 
 .rightsReserved {
     font-size: .5rem;
+}
+
+@media (max-width: 1182px) {
+    #setCarousel {
+        /* width: 952px; */
+    }
+
+    .photoWrap {
+        /* maybe use this instead? if not remove this class from li */
+    }
+}
+
+@media (max-width: 605px) {
+    /* make image carousel */
 }
