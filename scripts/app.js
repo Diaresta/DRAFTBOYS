@@ -13,7 +13,7 @@ function currentSlide(n) {
 }
 
 function showSlides(n) {
-    // if (mediaQ.matches) {
+    if (mediaQ.matches) {
         var i;
         var slides = document.getElementsByClassName("setPhoto");
         var dots = document.getElementsByClassName("dot");
@@ -27,5 +27,5 @@ function showSlides(n) {
         }
         slides[slideIndex-1].style.display = "block";
         dots[slideIndex-1].className += " active";
-    // }
+    }
 } 
