@@ -48,6 +48,7 @@ footer {
 
 #setCarousel {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
@@ -107,6 +108,40 @@ footer {
     opacity: 1;
 }
 
+.carouselArrows {
+    display: none;
+}
+
+.prevArrow:hover, .nextArrow:hover {
+    background-color: rgba(0,0,0,0.4);
+}
+
+.prevArrow, .nextArrow {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px; 
+    /* maybe <16px 10px;*/
+    color: #ccc;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+.nextArrow {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prevArrow {
+    left: 0;
+    border-radius: 3px 0 0 3px;
+}
+
 .rightsReserved {
     font-size: .5rem;
 }
@@ -121,6 +156,19 @@ footer {
     }
 }
 
-@media (max-width: 605px) {
+@media (max-width: 630px) {
+    /* maybe 605px?? */
     /* make image carousel */
+    #setCarousel {
+        max-width: 300px;
+        position: relative;
+        margin: auto;
+    }
+
+    .setPhoto {
+    }
+
+    .carouselArrows {
+        display: inline-flex;
+    }
 }
