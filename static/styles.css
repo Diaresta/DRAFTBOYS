@@ -166,6 +166,12 @@ footer {
     }
 
     .setPhoto {
+
+    }
+
+    .setTitle:hover {
+        display: none;
+        /* cursor: pointer; */
     }
 
     .carouselArrows {
