@@ -1,6 +1,6 @@
 var slideIndex = 1;
 showSlides(slideIndex);
-var mediaQ = window.matchMedia("(max-width: 630px)");
+// var mediaQ = window.matchMedia("(max-width: 630px)");
 
 // Next/previous controls
 function plusSlides(n) {
@@ -13,7 +13,7 @@ function currentSlide(n) {
 }
 
 function showSlides(n) {
-    if (mediaQ.matches) {
+    if (window.matchMedia("(max-width: 630px)").matches) {
         var i;
         var slides = document.getElementsByClassName("setPhoto");
 
@@ -25,6 +25,5 @@ function showSlides(n) {
         }
 
         slides[slideIndex-1].style.display = "block";
-        dots[slideIndex-1].className += " active";
     }
 } 
