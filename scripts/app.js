@@ -13,9 +13,8 @@ function currentSlide(n) {
 }
 
 function showSlides(n) {
-    if (window.matchMedia("(max-width: 630px)").matches) {
-        var i;
-        var slides = document.getElementsByClassName("setPhoto");
+    if (window.matchMedia("(max-width: 723px)").matches) {
+        var slides = document.getElementsByClassName("setList");
 
         if (n > slides.length) {slideIndex = 1}
         if (n < 1) {slideIndex = slides.length}

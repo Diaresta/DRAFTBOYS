@@ -95,7 +95,7 @@ footer {
 .setTitle {
     font-size: 1.5rem !important;
     color: #65b3ba;
-    opacity: 0;;
+    opacity: 0;
     position: absolute;
     display: flex;
     top: 50%;
@@ -156,7 +156,14 @@ footer {
     }
 }
 
-@media (max-width: 630px) {
+@media (max-width: 850px) {
+    .setTitle {
+        opacity: 1;
+        /* cursor: pointer; */
+    }
+}
+
+@media (max-width: 723px) {
     /* maybe 605px?? */
     /* make image carousel */
     #setCarousel {
@@ -166,11 +173,9 @@ footer {
     }
 
     .setPhoto {
-
     }
 
-    .setTitle:hover {
-        display: none;
+    .setTitle {
         /* cursor: pointer; */
     }
 
