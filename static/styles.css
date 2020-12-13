@@ -173,10 +173,12 @@ footer {
     }
 
     .setPhoto {
+        margin-right: 35px;
     }
 
     .setTitle {
         /* cursor: pointer; */
+        padding-right: 35px;
     }
 
     .carouselArrows {
