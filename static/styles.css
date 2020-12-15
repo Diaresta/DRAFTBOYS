@@ -169,7 +169,7 @@ footer {
     }
 }
 
-@media (max-width: 723px) {
+@media screen and (max-width: 723px) {
     /* maybe 605px?? */
     /* make image carousel */
     #setCarousel {
