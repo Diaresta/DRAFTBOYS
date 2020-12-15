@@ -24,5 +24,8 @@ function showSlides(n) {
         }
 
         slides[slideIndex-1].style.display = "block";
+    } else {
     }
 } 
+
+window.addEventListener('resize', showSlides);
