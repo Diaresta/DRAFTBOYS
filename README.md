@@ -4,7 +4,7 @@
 
 - [ ] Add event listener on media query to:
 	- [x] Change to/from image carousel when window is resized
-	- [ ] Change from image carousel when window is resized
+	- [x] Change from image carousel when window is resized
 	- [ ] Navbar to/from hamburger menu when media query
 
 - [x] When media query <=630, have set title always visible
