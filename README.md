@@ -9,3 +9,11 @@
 
 - [x] When media query <=630, have set title always visible
 	- [x] Fix extra set names popping up	
+
+- [ ] Set up node + express
+	- [ ] Route html through node
+
+- [ ] Link MTG Card API 
+
+- [ ] HTML for drafting page
+	- [ ] Send MTG API to HTML
