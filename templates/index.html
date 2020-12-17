@@ -20,22 +20,30 @@
     <body>
         <header>
             <nav class="navbar">
-                <!-- add styling to css -->
-                <ul class="navLi">
-                    <li><a href="index.html">Home</a></li> 
-                    <li><a href="#">All Sets</a></li>
-                </ul>
-                <ul class="navRight">
-                    <li><a href="#">Contact</a></li>
-                    <li><a href="https://github.com/Diaresta/DRAFTBOYS" target="_blank">GitHub</a></li>
-                </ul>
+                <input type="checkbox" id="toggle"/>
+                <div class="hamburger"><div></div></div>
+                <div class="mainNav">
+                    <div>
+                        <div>
+                            <ul class="navLi">
+                                <li><a href="index.html">Home</a></li> 
+                                <li><a href="#">All Sets</a></li>
+                            </ul>
+                            <ul class="navRight">
+                                <li><a href="#">Contact</a></li>
+                                <li><a href="https://github.com/Diaresta/DRAFTBOYS" target="_blank">GitHub</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
             </nav>
             <img id="pageTitle" src="/static/logoGrad1.png" alt="Page Title" type="image/png">
         </header>
 
         <main>
             <h2 class="selectSet">Select a Set</h2>
-            <!-- DIV for set Carousel (js? + separate css? + flexbox) -->
+
             <div id="setCarousel">
                 <ul>
                     <li class="setList">
