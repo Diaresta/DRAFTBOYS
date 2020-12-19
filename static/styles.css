@@ -353,3 +353,30 @@ footer {
         justify-content: center;
     }
 }
+
+/* -------------------------------------------- Draft Page ------------------------------------------------------------ */
+
+#cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#packsCards {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: ;
+}
+
+.draftCards {
+    margin: 0;
+    width: ;
+    height: ;
+    transition: ;
+    cursor: ;
+}
+
+.draftCards:hover {
+    transform: scale();
+}
