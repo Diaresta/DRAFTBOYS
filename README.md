@@ -17,3 +17,5 @@
 
 - [ ] HTML for drafting page
 	- [ ] Send MTG API to HTML
+
+- [ ] Refactor HTML to extend layouts + remove redundant code
