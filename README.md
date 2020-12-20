@@ -17,5 +17,9 @@
 
 - [ ] HTML for drafting page
 	- [ ] Send MTG API to HTML
+	- [ ] Event for selectedCards. When hovered, create preview of full card to the left of container
+	- [ ] Add draggable/repositional to selectedCards
+	- [ ] Add sorting to selectedCards - Order picked/CMC/Color
+	- [ ] Remove hard-coded card img tags 
 
 - [ ] Refactor HTML to extend layouts + remove redundant code

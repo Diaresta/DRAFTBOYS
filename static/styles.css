@@ -359,24 +359,62 @@ footer {
 #cardContainer {
     display: flex;
     flex-wrap: wrap;
+    float: left;
     justify-content: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    /* width: 85vw; */
+    width: 85%;
+    height: 70%;
+    padding: 10px 0 10px 0;
+    margin-left: 28px;
 }
 
 #packsCards {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
     position: relative;
-    margin: ;
+}
+
+#selectedContainer {
+    display: inline-block;
+    /* display: flex; */
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 200px;   
+    height: 415px;
+    overflow: scroll;
+    scrollbar-width: none;
+    padding-top: 235px;
 }
 
 .draftCards {
-    margin: 0;
-    width: ;
-    height: ;
-    transition: ;
-    cursor: ;
+    margin: 5px;
+    width: 215px;
+    /* height: min-content; */
+    /* cursor: pointer; */
 }
 
 .draftCards:hover {
-    transform: scale();
+    transform: scale(1.05);
+    transition: all 0.2s ease;
+}
+
+.draftCards:active {
+    /* onclick */
+}
+
+.selectedCards {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 180px;
+    margin: auto;
+    margin-top: -225px;
+}
+
+.selectedCards:hover {
+    transform: scale(1.02);
 }
