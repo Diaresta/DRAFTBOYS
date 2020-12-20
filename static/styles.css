@@ -356,31 +356,31 @@ footer {
 
 /* -------------------------------------------- Draft Page ------------------------------------------------------------ */
 
-#cardContainer {
+#cardSelectArea {
     display: flex;
     flex-wrap: wrap;
     float: left;
-    justify-content: center;
     border: 10px solid black;
     border-radius: 10px;
-    /* width: 85vw; */
-    width: 85%;
-    height: 70%;
+    width: 1618px;
+    height: 620px;
     padding: 10px 0 10px 0;
     margin-left: 28px;
+}
+
+#cardContainer {
+    justify-content: center;
 }
 
 #packsCards {
     display: flex;
     justify-content: center;
-    /* flex-direction: column; */
     flex-wrap: wrap;
     position: relative;
 }
 
 #selectedContainer {
     display: inline-block;
-    /* display: flex; */
     border: 5px solid black;
     border-radius: 10px;
     width: 200px;   
@@ -393,7 +393,6 @@ footer {
 .draftCards {
     margin: 5px;
     width: 215px;
-    /* height: min-content; */
     /* cursor: pointer; */
 }
 
