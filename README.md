@@ -21,5 +21,6 @@
 	- [ ] Add draggable/repositional to selectedCards
 	- [ ] Add sorting to selectedCards - Order picked/CMC/Color
 	- [ ] Remove hard-coded card img tags 
+	- [ ] FIX DRAFT CONTAINER TO BE RESIZABLE FOR WINDOW, BUT NOT FOR CARD AMOUNT
 
 - [ ] Refactor HTML to extend layouts + remove redundant code
