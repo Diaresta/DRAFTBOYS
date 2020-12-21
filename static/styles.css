@@ -417,3 +417,5 @@ footer {
 .selectedCards:hover {
     transform: scale(1.02);
 }
+
+/* media queries for draft resize. When x amount of cards per row, and excess area in draft area, resize div */
