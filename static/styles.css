@@ -362,8 +362,8 @@ footer {
     float: left;
     border: 10px solid black;
     border-radius: 10px;
-    width: 1618px;
-    height: 620px;
+    width: 85%;
+    height: 70%;
     padding: 10px 0 10px 0;
     margin-left: 28px;
 }
@@ -383,7 +383,7 @@ footer {
     display: inline-block;
     border: 5px solid black;
     border-radius: 10px;
-    width: 200px;   
+    width: 10%;   
     height: 415px;
     overflow: scroll;
     scrollbar-width: none;
