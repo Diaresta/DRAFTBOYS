@@ -38,6 +38,10 @@ mtg.set.where({ block: 'Shadows over Innistrad', border: 'black' })
   console.log(sets[2].block) // "Eldritch Moon"
 });
 
+// Scryfall API examples
+// https://api.scryfall.com/sets/znr
+// https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints
+
 module.exports = app;
 
 console.log('node working');
