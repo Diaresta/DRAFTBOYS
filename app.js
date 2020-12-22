@@ -1,20 +1,23 @@
 // Imports
-// const { response } = require('express');
 const express = require('express');
+const app = express();
+const path = require('path');
 // const fs = require('fs');   
 // const http = require('http');
-const path = require('path');
-const app = express();
 
 // Static Files
-app.use('/public', express.static(path.join(__dirname, 'templates')));
+app.use('/public', express.static(path.join(__dirname, 'static')));
 // app.use(express.static('static'));
 // app.use('/css', express.static(__dirname + 'static/css'));
 // app.use('/img', express.static(__dirname + 'static/img'));
 
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'templates', 'index.html'));
+    res.sendFile(path.join(__dirname, 'static', 'index.html'));
     // res.sendFile(path.resolve(__dirname, './templates/index.html'));
+});
+
+app.get('/test', (req, res) => {
+    res.send('test');
 });
 
 app.listen(3000, () => {
