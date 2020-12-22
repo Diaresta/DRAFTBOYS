@@ -1,17 +1,24 @@
+// Imports
+// const { response } = require('express');
 const express = require('express');
-const http = require('http');
+// const fs = require('fs');   
+// const http = require('http');
 const path = require('path');
-
 const app = express();
 
-app.use('/css', express.static(path.resolve(__dirname, './static/styles.css')))
+// Static Files
+app.use('/public', express.static(path.join(__dirname, 'templates')));
+// app.use(express.static('static'));
+// app.use('/css', express.static(__dirname + 'static/css'));
+// app.use('/img', express.static(__dirname + 'static/img'));
 
 app.get('/', (req, res) => {
-    res.sendFile(path.resolve(__dirname, './templates/index.html'));
+    res.sendFile(path.join(__dirname, 'templates', 'index.html'));
+    // res.sendFile(path.resolve(__dirname, './templates/index.html'));
 });
 
 app.listen(3000, () => {
-    console.log('Port Started');
+    console.log('Listening on port 3000');
 });
 
 module.exports = app;
