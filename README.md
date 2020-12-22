@@ -23,4 +23,6 @@
 	- [ ] Remove hard-coded card img tags 
 	- [ ] FIX DRAFT CONTAINER TO BE RESIZABLE FOR WINDOW, BUT NOT FOR CARD AMOUNT
 
+- [ ] Change HTML routing to be express kind. (css, images, html)
+
 - [ ] Refactor HTML to extend layouts + remove redundant code

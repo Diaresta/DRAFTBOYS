@@ -6,15 +6,15 @@ const path = require('path');
 // const http = require('http');
 
 // Static Files
-app.use('/public', express.static(path.join(__dirname, 'static')));
-// app.use('/img', express.static(__dirname + 'static/img'));
+app.use(express.static(path.join(__dirname, 'static')));
 
+// Routing
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'static', 'index.html'));
 });
 
-app.get('/test', (req, res) => {
-    res.send('test');
+app.get('/draft', (req, res) => {
+    res.sendFile(path.join(__dirname, 'static/views', 'draft.html'));
 });
 
 app.listen(3000, () => {
