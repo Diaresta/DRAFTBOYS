@@ -24,47 +24,6 @@ app.listen(3000, () => {
     console.log('Listening on port 3000');
 });
 
-// ------------------------------------  finding cards json -------------------------------------------------
-// Find specific card
-mtg.card.find(3)
-.then(result => {
-    console.log(result.card.name) // "Black Lotus"
-    console.log(result.card.imageUrl)
-});
-
-// Testing
-mtg.set.where({ block: 'Shadows over Innistrad', border: 'black' })
-.then(sets => {
-  console.log(sets[0].name) // "Welcome Deck 2016"
-  console.log(sets[1].name) // "Shadows over Innistrad"
-  console.log(sets[2].block) // "Eldritch Moon"
-});
-
-// Scryfall API examples
-// https://api.scryfall.com/sets/znr
-// https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints
-
-// ------------------------------------ card rarity -------------------------------------------------
-// const common;
-// const uncommon;
-// const rare;
-// const mythic;
-// how draftpod does their card function
-// export rare(card) => {
-//     return rarity(["rare"](card));
-// }
-
-
-
-// how draftpod does their rare/mythic choice
-// packRareChoice(card) {
-//     if (Math.random() <= (1/8)) {
-//         return mythic(card);
-//     } else {
-//         return rare(card);
-//     }
-// }
-
 // ------------------------------------ set parsing -------------------------------------------------
 const eldData = fs.readFileSync('static/sets/eld.json');
 const eldSet = JSON.parse(eldData);
@@ -81,7 +40,44 @@ const thbSet = JSON.parse(thbData);
 const znrData = fs.readFileSync('static/sets/znr.json');
 const znrSet = JSON.parse(znrData);
 
+// ------------------------------------  finding cards json -------------------------------------------------
+// loop through set for name/rarity
+// for (let i = 0; i < znrSet.length; i++) {
+//     // console.log(znrSet[i].name);
+//     // console.log(znrSet[i].rarity);
+//     // console.log(Math.floor(Math.random() * i));
+//     console.log(znrSet[Math.floor(Math.random() * 270)].name);
+// }
 
-console.log('node w orking');
+var counter = 0;
+
+do {
+    console.log(znrSet[Math.floor(Math.random() * 270)].name);
+    console.log(znrSet[Math.floor(Math.random() * 270)].rarity);
+    counter += 1;
+} while (counter < 10);
+
+// ------------------------------------ card rarity -------------------------------------------------
+// const common;
+// const uncommon;
+// const rare;
+// const mythic;
+// how draftpod does their card function
+// export rare(card) => {
+//     return rarity(["rare"](card));
+// }
+
+// how draftpod does their rare/mythic choice
+// packRareChoice(card) {
+//     if (Math.random() <= (1/8)) {
+//         return mythic(card);
+//     } else {
+//         return rare(card);
+//     }
+// }
+
+// --------------------------------------------------------------------------------------------------
+
+console.log('node working');
 
 module.exports = app;
