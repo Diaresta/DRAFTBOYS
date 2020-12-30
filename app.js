@@ -49,8 +49,8 @@ const znrSet = JSON.parse(znrData);
 //     console.log(znrSet[Math.floor(Math.random() * 270)].name);
 // }
 
+// Change to have set load when choosing on site
 var counter = 0;
-
 do {
     // Randomly loops through json 
     const znrCards = znrSet[Math.floor(Math.random() * 270)];
