@@ -52,8 +52,13 @@ const znrSet = JSON.parse(znrData);
 var counter = 0;
 
 do {
-    console.log(znrSet[Math.floor(Math.random() * 270)].name);
-    console.log(znrSet[Math.floor(Math.random() * 270)].rarity);
+    // Randomly loops through json 
+    const znrCards = znrSet[Math.floor(Math.random() * 270)];
+
+    console.log(znrCards.name);
+    console.log(znrCards.rarity);
+    console.log(znrCards.image_uris[0]);
+
     counter += 1;
 } while (counter < 10);
 
