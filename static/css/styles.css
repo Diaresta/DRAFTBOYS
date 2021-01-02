@@ -418,4 +418,9 @@ footer {
     transform: scale(1.02);
 }
 
+.draftCards,
+.selectedCards {
+    border-radius: 4%;
+}
+
 /* media queries for draft resize. When x amount of cards per row, and excess area in draft area, resize div */
