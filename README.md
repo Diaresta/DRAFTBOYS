@@ -23,6 +23,8 @@
 	- [ ] Remove hard-coded card img tags 
 	- [ ] FIX DRAFT CONTAINER TO BE RESIZABLE FOR WINDOW, BUT NOT FOR CARD AMOUNT
 
+- [ ] Border Radius on Draft cards to remove non-transparent corners
+
 - [ ] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js
 
 - [ ] Refactor HTML to extend layouts + remove redundant code
