@@ -17,7 +17,7 @@
 
 - [ ] HTML for drafting page
 	- [x] Send MTG API to HTML
-	- [ ] Event for selectedCards. When hovered, create preview of full card to the left of container
+	- [x] ~~Event for selectedCards. When hovered, create preview of full card to the left of container~~ Instead added z-index to card appear in the forefront when hovered.
 	- [ ] Add draggable/repositional to selectedCards
 	- [ ] Add sorting to selectedCards - Order picked/CMC/Color
 	- [x] Remove hard-coded card img tags 
