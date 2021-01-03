@@ -53,9 +53,9 @@ xhttp.onreadystatechange = function() {
             // Appending Card Images to Selected Area
             const selectedContainer = document.getElementById('selectedContainer');
             
-            cardImage.onclick = () => REE();
+            cardImage.onclick = () => PickCard();
             
-            function REE() {
+            function PickCard() {
                 packsCardsDiv.removeChild(cardImage);    
                 selectedContainer.append(cardImage);
                 cardImage.className = 'selectedCards';
