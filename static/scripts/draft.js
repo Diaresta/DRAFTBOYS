@@ -84,7 +84,7 @@ xhttp.onreadystatechange = function() {
                     const packsCardsDiv = document.getElementById('packsCards');
                     cardImage.src = znrCardImg;
                     cardImage.className = 'draftCards';
-                    cardImage.id = packCount;
+                    cardImage.name = packCount;
                     packsCardsDiv.append(cardImage);
         
                     // Appending Card Images to Selected Area
@@ -107,7 +107,7 @@ xhttp.onreadystatechange = function() {
             };
     
             // var packs = document.getElementsByClassName('draftCards');
-    
+
             // console.log(packs);
     
             // for (let i = 0; i < packs.length; i++){
