@@ -96,7 +96,7 @@ xhttp.onreadystatechange = function() {
                         packsCardsDiv.removeChild(cardImage);    
                         selectedContainer.append(cardImage);
                         cardImage.className = 'selectedCards';
-                        cardImage.id = '';
+                        cardImage.name = 'selected';
                     }
                 }
                 packCount+= 1;
