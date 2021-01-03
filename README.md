@@ -28,3 +28,10 @@
 - [ ] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js
 
 - [ ] Refactor HTML to extend layouts + remove redundant code
+
+___
+**Ideas** 
+
+ - Have each pack create its own div within cardContainer. Currently creating packs within packsCards div, which is nested within cardContainer. When a card within its div is clicked, display it to none, and display next div to show to give the idea of passing card packs in a draft.
+ - Create a Sealed Section?
+
