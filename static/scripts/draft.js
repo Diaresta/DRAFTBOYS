@@ -70,23 +70,23 @@ xhttp.onreadystatechange = function() {
                 return set.rarity == 'common';
             });
 
+            const uncommonFilter = response.filter((set) => {
+                return set.rarity == 'uncommon';
+            });
+
             function commonCards(amount){
                 for (let i = 0; i < amount; i++){
                     var znrCards = commonFilter[Math.floor(Math.random() * commonFilter.length)];
                     
                     // Card values
-                    var znrCardName = znrCards.name;
-                    var znrCardRarity = znrCards.rarity;
-                    var znrCardImg = znrCards.image_uris[0];
-        
-                    // console.log(znrCardName);
-                    // console.log(znrCardRarity);
-                    // console.log(znrCardImg);        
+                    var znrCommonCardName = znrCards.name;
+                    var znrCommonCardRarity = znrCards.rarity;
+                    var znrCommonCardImg = znrCards.image_uris[0];   
         
                     // Appending Card Images to Webpage
                     const cardImage = document.createElement('img');
                     const packsCardsDiv = document.getElementById('packsCards');
-                    cardImage.src = znrCardImg;
+                    cardImage.src = znrCommonCardImg;
                     cardImage.className = 'draftCards';
                     cardImage.name = packCount;
                     packsCardsDiv.append(cardImage);
@@ -104,7 +104,39 @@ xhttp.onreadystatechange = function() {
                     }
                 }
                 // packCount+= 1;
-            }
+            };
+
+            function uncommonCards(amount){
+                for (let i = 0; i < amount; i++){
+                    var znrCards = uncommonFilter[Math.floor(Math.random() * uncommonFilter.length)];
+                    
+                    // Card values
+                    var znrUncommonCardImg = znrCards.name;
+                    var znrUncommonCardRarity = znrCards.rarity;
+                    var znrUncommonCardImg = znrCards.image_uris[0];   
+        
+                    // Appending Card Images to Webpage
+                    const cardImage = document.createElement('img');
+                    const packsCardsDiv = document.getElementById('packsCards');
+                    cardImage.src = znrUncommonCardImg;
+                    cardImage.className = 'draftCards';
+                    cardImage.name = packCount;
+                    packsCardsDiv.append(cardImage);
+        
+                    // Appending Card Images to Selected Area
+                    const selectedContainer = document.getElementById('selectedContainer');
+                    
+                    cardImage.onclick = () => PickCard();
+                    
+                    function PickCard() {
+                        packsCardsDiv.removeChild(cardImage);    
+                        selectedContainer.append(cardImage);
+                        cardImage.className = 'selectedCards';
+                        cardImage.name = 'selected';
+                    }
+                }
+                // packCount+= 1;
+            };
 
             // function pack(){
             //     for (let i = 0; i < 14; i++){
@@ -144,12 +176,12 @@ xhttp.onreadystatechange = function() {
             
             function boosterPack(){
                 commonCards(10);
-                commonCards(4)
+                uncommonCards(3)
             };
 
-            for (let i = 0; i < 1; i++){
-                boosterPack();
-            };
+
+            boosterPack();
+
     
             // var packs = document.getElementsByClassName('draftCards');
 
