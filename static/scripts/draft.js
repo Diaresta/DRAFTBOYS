@@ -66,10 +66,14 @@ xhttp.onreadystatechange = function() {
 
             var packCount = 0;
 
-            function pack (){
-                for (let i = 0; i < 14; i++){
-                    var znrCards = response[Math.floor(Math.random() * 270)];
-        
+            const commonFilter = response.filter((set) => {
+                return set.rarity == 'common';
+            });
+
+            function commonCards(amount){
+                for (let i = 0; i < amount; i++){
+                    var znrCards = commonFilter[Math.floor(Math.random() * commonFilter.length)];
+                    
                     // Card values
                     var znrCardName = znrCards.name;
                     var znrCardRarity = znrCards.rarity;
@@ -99,11 +103,52 @@ xhttp.onreadystatechange = function() {
                         cardImage.name = 'selected';
                     }
                 }
-                packCount+= 1;
+                // packCount+= 1;
             }
-    
-            for (let i = 0; i < 7; i++){
-                pack();
+
+            // function pack(){
+            //     for (let i = 0; i < 14; i++){
+            //         var znrCards = commonFilter[Math.floor(Math.random() * commonFilter.length)];
+                    
+            //         // Card values
+            //         var znrCardName = znrCards.name;
+            //         var znrCardRarity = znrCards.rarity;
+            //         var znrCardImg = znrCards.image_uris[0];
+        
+            //         // console.log(znrCardName);
+            //         // console.log(znrCardRarity);
+            //         // console.log(znrCardImg);        
+        
+            //         // Appending Card Images to Webpage
+            //         const cardImage = document.createElement('img');
+            //         const packsCardsDiv = document.getElementById('packsCards');
+            //         cardImage.src = znrCardImg;
+            //         cardImage.className = 'draftCards';
+            //         cardImage.name = packCount;
+            //         packsCardsDiv.append(cardImage);
+        
+            //         // Appending Card Images to Selected Area
+            //         const selectedContainer = document.getElementById('selectedContainer');
+                    
+            //         cardImage.onclick = () => PickCard();
+                    
+            //         function PickCard() {
+            //             packsCardsDiv.removeChild(cardImage);    
+            //             selectedContainer.append(cardImage);
+            //             cardImage.className = 'selectedCards';
+            //             cardImage.name = 'selected';
+            //         }
+            //     }
+            //     packCount+= 1;
+            // }
+            
+            function boosterPack(){
+                commonCards(10);
+                commonCards(4)
+            };
+
+            for (let i = 0; i < 1; i++){
+                boosterPack();
             };
     
             // var packs = document.getElementsByClassName('draftCards');
