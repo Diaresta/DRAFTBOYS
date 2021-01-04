@@ -5,6 +5,11 @@ xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         var response = JSON.parse(xhttp.responseText);
 
+        // Set h2 element as set name
+        if (response[1].set == 'znr'){
+            document.getElementById('selectSet').innerHTML = 'Zendikar Rising';
+        }
+
         // Set number to individual boosters
         var packCount = 0;
 
