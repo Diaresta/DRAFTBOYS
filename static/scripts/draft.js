@@ -10,6 +10,13 @@ xhttp.onreadystatechange = function() {
             document.getElementById('selectSet').innerHTML = 'Zendikar Rising';
         }
 
+        // Testing -----------------------------------------------------------------------
+        var selectedCount = document.getElementById('selectedContainer').childElementCount;
+
+        document.getElementById('countboys').innerHTML = selectedCount; 
+        console.log(selectedCount);
+        // Testing -----------------------------------------------------------------------
+
         // Set number to individual boosters
         var packCount = 0;
 
@@ -55,7 +62,13 @@ xhttp.onreadystatechange = function() {
             packCount+= 1;
         };
 
-        boosterPack();
+        function draft(amount){
+            for (let i = 0; i < amount; i++){
+                boosterPack()
+            }
+        };
+
+        draft(2);
 
         // Loop through set json and append to webpage
         function boosterCards(amount, filter){

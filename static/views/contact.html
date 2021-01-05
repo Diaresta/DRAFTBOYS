@@ -4,6 +4,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+        <!-- Favicon fix -->
+        <link rel="shortcut icon" href="#">
+
         <!-- Import CSS -->
         <link href="/static/css/normalize.css" rel="stylesheet" type="text/css">
         <link href="/static/css/styles.css" rel="stylesheet" type="text/css">
@@ -42,25 +45,29 @@
         </header>
 
         <main>
-            <h2 id="selectSet">Set Name Here</h2>
-            <!-- REMOVE ALL IMG WHEN DONE TESTING -->
-            <div id="cardSelectArea">
-                <div id="cardContainer">
-                    <div id="packsCards">
-                    </div>
-                </div>
+            <h2 id="title">Select a Set</h2>
+            <p id="description"></p>
+
+            <form id="survey-form">
+            <div>
+                <label for="name" id="name-label"></label>
+                <input type="text" id="name">
             </div>
-            <div id="selectedContainer">
+            <div>
+                <label for="email" id="email-label"></label>
+                <input type="email" id="email">
             </div>
+            <div>
+                <label for="number" id="number-label"></label>
+                <input type="number" id="number" min="1" max="99">
+            </div>
+            </form>
+            
         </main>
         <footer>
             <p class="rightsReserved">Magic: The Gathering and its logos are trademarks of Wizards of the Coast LLC, subsidiary of Hasbro, Inc. DRAFTBOYS is not approved, endorsed, or affiliated with/by Wizards of the Coast.
             <br>&copy; 2020 DRAFTBOYS. All rights reserved.</p>
         </footer>
-        <!-- <script src="/scripts/window.js"></script> -->
-        <script src="/static/scripts/draft.js"></script>
+        <script src="scripts/window.js"></script>
     </body>
 </html>
-
-    
-      
