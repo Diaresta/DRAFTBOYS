@@ -428,13 +428,13 @@ footer {
 
 /* -------------------------------------------- Contact Page ------------------------------------------------------------ */
 
-
 form {
     display: block;
     justify-content: center;
-    width: 25%;
+    max-width: 478px;
     margin: auto;
     font-size: 1.05rem;
+    top: 50%;
 }
 
 label {
@@ -451,6 +451,11 @@ input {
 textarea {
     resize: vertical;
     height: 200px;
+}
+
+#form-wrapper {
+    width: 100%;
+    position:absolute;
 }
 
 #contact-description {
@@ -470,12 +475,12 @@ textarea {
     margin-right: 82px;
 }
 
-#submit {
+#contact-submit {
     padding: 10px 10px 30px 10px;
     text-shadow: 1px 1px 1px white;
 }
 
-#submit:hover {
+#contact-submit:hover {
     background-color: #ccc;
     color: #65b3ba;
     text-shadow: 1px 1px 1px whitesmoke;
@@ -491,3 +496,25 @@ textarea {
     width: 100%;
     margin: 15px;
 }
+
+@media screen and (max-width: 723px) {
+    form {
+        flex-direction: row;
+        max-width: 80%;
+
+    }
+
+    #form-name {
+        display: inherit;
+    }
+
+    #first-name {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    #last-name {
+        width: 100%;
+    }
+}
+/* tablet viewport make form width 80% */
