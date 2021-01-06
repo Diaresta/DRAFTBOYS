@@ -453,6 +453,11 @@ textarea {
     height: 200px;
 }
 
+input:focus,
+textarea:focus  {
+    background: #ccc;
+}
+
 #form-wrapper {
     width: 100%;
     position:absolute;
