@@ -425,3 +425,69 @@ footer {
 }
 
 /* media queries for draft resize. When x amount of cards per row, and excess area in draft area, resize div */
+
+/* -------------------------------------------- Contact Page ------------------------------------------------------------ */
+
+
+form {
+    display: block;
+    justify-content: center;
+    width: 25%;
+    margin: auto;
+    font-size: 1.05rem;
+}
+
+label {
+    float: left;
+    text-align: left;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+input {
+    height: 2rem;
+}
+
+textarea {
+    resize: vertical;
+    height: 200px;
+}
+
+#contact-description {
+    margin-top: -10px;
+    margin-bottom: 40px;
+    font-size: 1rem;
+}
+
+#form-name {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    margin: 15px;
+}
+
+#first-name {
+    margin-right: 82px;
+}
+
+#submit {
+    padding: 10px 10px 30px 10px;
+    text-shadow: 1px 1px 1px white;
+}
+
+#submit:hover {
+    background-color: #ccc;
+    color: #65b3ba;
+    text-shadow: 1px 1px 1px whitesmoke;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.form-row {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    width: 100%;
+    margin: 15px;
+}

@@ -45,22 +45,33 @@
         </header>
 
         <main>
-            <h2 id="title">Select a Set</h2>
-            <p id="description"></p>
+            <h2 id="title">Contact</h2>
+            
+            <form id="contact-form" method="POST" action="mailto:TheAndrewRobles@yahoo.com" role="form">
+                <p id="contact-description">Have any questions, problems, or suggestions? Feel free to get in touch with us and we'll get back to you as soon as possible!</p>
+                <div id="form-name">
+                    <div class="form-group">
+                        <label id="name-label" for="last-name">First Name: </label><br>
+                        <input id="first-name" type="text"  placeholder="" required data-error="First name is required.">
+                    </div>
+                    <div class="form-group">
+                        <label id="name-label" for="last-name">Last Name:</label><br>
+                        <input id="last-name" type="text"  placeholder="" required data-error="Last name is required.">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label id="email-label" for="form-email">Email:</label><br>
+                    <input id="form-email" type="email"  placeholder="" required>
+                </div>
 
-            <form id="survey-form">
-            <div>
-                <label for="name" id="name-label"></label>
-                <input type="text" id="name">
-            </div>
-            <div>
-                <label for="email" id="email-label"></label>
-                <input type="email" id="email">
-            </div>
-            <div>
-                <label for="number" id="number-label"></label>
-                <input type="number" id="number" min="1" max="99">
-            </div>
+                <div class="form-row">
+                    <label id="message-label" for="form-message">Message:</label><br>
+                    <textarea id="form-message" placeholder="" required data-error="You've gotta' write a message!"></textarea>
+                </div>
+
+                <div>
+                    <input id="submit" type="submit" class="submit-button" value="Send Message">
+                </div>
             </form>
             
         </main>
