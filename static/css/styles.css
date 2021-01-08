@@ -491,6 +491,7 @@ textarea:focus  {
     text-shadow: 1px 1px 1px whitesmoke;
     border-radius: 2px;
     cursor: pointer;
+    border: none;
 }
 
 .form-row {
