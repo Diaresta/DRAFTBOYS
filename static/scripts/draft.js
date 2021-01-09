@@ -16,7 +16,10 @@ xhttp.onreadystatechange = function() {
             const packDiv = document.createElement('div');
             const packsCardsDiv = document.getElementById('packsCards');
             const packDivAppend = packsCardsDiv.appendChild(packDiv);
-            packDivAppend.id = 'testboys';
+            packDivAppend.id = 'boosterPackDiv';
+
+            var draftCards = document.getElementsByClassName('draftCards');
+            packDivAppend.appendChild(draftCards[i]);
         }
         // -------------------------------------------------------------------------------
 
@@ -72,7 +75,7 @@ xhttp.onreadystatechange = function() {
             }
         };
 
-        draft(2);
+        draft(1);
 
         // Loop through set json and append to webpage
         function boosterCards(amount, filter){
@@ -91,7 +94,7 @@ xhttp.onreadystatechange = function() {
                 cardImage.className = 'draftCards';
                 cardImage.name = packCount;
                 packsCardsDiv.append(cardImage);
-    
+
                 // Appending card images to selected area
                 const selectedContainer = document.getElementById('selectedContainer');
                 
