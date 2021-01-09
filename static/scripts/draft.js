@@ -11,11 +11,14 @@ xhttp.onreadystatechange = function() {
         }
 
         // Testing -----------------------------------------------------------------------
-        var selectedCount = document.getElementById('selectedContainer').childElementCount;
-
-        document.getElementById('countboys').innerHTML = selectedCount; 
-        console.log(selectedCount);
-        // Testing -----------------------------------------------------------------------
+        // Creates divs for individual packs
+        function boosterDiv(){
+            const packDiv = document.createElement('div');
+            const packsCardsDiv = document.getElementById('packsCards');
+            const packDivAppend = packsCardsDiv.appendChild(packDiv);
+            packDivAppend.id = 'testboys';
+        }
+        // -------------------------------------------------------------------------------
 
         // Set number to individual boosters
         var packCount = 0;
@@ -60,6 +63,7 @@ xhttp.onreadystatechange = function() {
             uncommonCards()
             rareCard();
             packCount+= 1;
+            boosterDiv();
         };
 
         function draft(amount){
@@ -102,7 +106,6 @@ xhttp.onreadystatechange = function() {
                 }
             }
         };
-
     } else; 
     // Add error handling
 };
