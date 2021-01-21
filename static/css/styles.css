@@ -243,7 +243,7 @@ footer {
 
     /* Toggle animation - hamburger lines X when checked*/
     .navbar #toggle:checked + .hamburger > div {
-        transform: rotate(135deg);
+        transform: rotate(45deg);
     }
 
     /* Turns hamburger lines to X when clicked */
@@ -255,7 +255,7 @@ footer {
 
     /* X hover animation when checked */
     .navbar #toggle:checked:hover + .hamburger > div {
-        transform: rotate(225deg);
+        transform: rotate(135deg);
     }
 
     /* Show nav when checked */
