@@ -34,6 +34,16 @@ xhttp.onreadystatechange = function() {
                 var packDivAppend = packsCardsDiv.appendChild(packDiv);
                 packDivAppend.id = 'boosterPackDiv' + i;
             }
+
+            for(let i = 0; i < draftCards.length; i++){
+                var testCards0 = document.getElementsByName('0');
+                var testDiv0 = document.getElementById('boosterPackDiv0');
+
+                for(let i = 0; i < 7;i ++){
+                    testDiv0.append(testCards0[i]);
+                }
+                
+            }
         }
         // -------------------------------------------------------------------------------
 
@@ -106,7 +116,7 @@ xhttp.onreadystatechange = function() {
                 const packsCardsDiv = document.getElementById('packsCards');
                 cardImage.src = znrCommonCardImg;
                 cardImage.className = 'draftCards';
-                cardImage.id = packCount;
+                cardImage.name = packCount;
                 packsCardsDiv.append(cardImage);
 
                 // Appending card images to selected area
