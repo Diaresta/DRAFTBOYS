@@ -13,13 +13,27 @@ xhttp.onreadystatechange = function() {
         // Testing -----------------------------------------------------------------------
         // Creates divs for individual packs
         function boosterDiv(){
-            const packDiv = document.createElement('div');
-            const packsCardsDiv = document.getElementById('packsCards');
-            const packDivAppend = packsCardsDiv.appendChild(packDiv);
-            packDivAppend.id = 'boosterPackDiv';
+            // const packDiv = document.createElement('div');
+            // const packsCardsDiv = document.getElementById('packsCards');
+            // const packDivAppend = packsCardsDiv.appendChild(packDiv);
+            // packDivAppend.id = 'boosterPackDiv';
 
-            var draftCards = document.getElementsByClassName('draftCards');
-            packDivAppend.appendChild(draftCards[i]);
+            // var draftCards = document.getElementsByClassName('draftCards');
+            // packDivAppend.appendChild(draftCards[i]);
+
+            // const packDiv = document.createElement('div');
+            // const packsCardsDiv = document.getElementById('packsCards');
+            // const packDivAppend = packsCardsDiv.appendChild(packDiv);
+            // packDivAppend.id = 'boosterPackDiv';
+            const boosterPackDiv = document.getElementById('boosterPackDiv');
+            const draftCards = document.getElementsByClassName('draftCards');
+
+            for(let i = 0; i < 8; i++){
+                var packDiv = document.createElement('div');
+                var packsCardsDiv = document.getElementById('packsCards');
+                var packDivAppend = packsCardsDiv.appendChild(packDiv);
+                packDivAppend.id = 'boosterPackDiv' + i;
+            }
         }
         // -------------------------------------------------------------------------------
 
@@ -66,16 +80,16 @@ xhttp.onreadystatechange = function() {
             uncommonCards()
             rareCard();
             packCount+= 1;
-            boosterDiv();
         };
 
         function draft(amount){
             for (let i = 0; i < amount; i++){
-                boosterPack()
+                boosterPack();
             }
+            boosterDiv()
         };
 
-        draft(1);
+        draft(3);
 
         // Loop through set json and append to webpage
         function boosterCards(amount, filter){
@@ -92,7 +106,7 @@ xhttp.onreadystatechange = function() {
                 const packsCardsDiv = document.getElementById('packsCards');
                 cardImage.src = znrCommonCardImg;
                 cardImage.className = 'draftCards';
-                cardImage.name = packCount;
+                cardImage.id = packCount;
                 packsCardsDiv.append(cardImage);
 
                 // Appending card images to selected area
