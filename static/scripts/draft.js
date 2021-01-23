@@ -13,18 +13,6 @@ xhttp.onreadystatechange = function() {
         // Testing -----------------------------------------------------------------------
         // Creates divs for individual packs
         function boosterDiv(){
-            // const packDiv = document.createElement('div');
-            // const packsCardsDiv = document.getElementById('packsCards');
-            // const packDivAppend = packsCardsDiv.appendChild(packDiv);
-            // packDivAppend.id = 'boosterPackDiv';
-
-            // var draftCards = document.getElementsByClassName('draftCards');
-            // packDivAppend.appendChild(draftCards[i]);
-
-            // const packDiv = document.createElement('div');
-            // const packsCardsDiv = document.getElementById('packsCards');
-            // const packDivAppend = packsCardsDiv.appendChild(packDiv);
-            // packDivAppend.id = 'boosterPackDiv';
             const boosterPackDiv = document.getElementById('boosterPackDiv');
             const draftCards = document.getElementsByClassName('draftCards');
 
@@ -35,6 +23,8 @@ xhttp.onreadystatechange = function() {
                 packDivAppend.id = 'boosterPackDiv' + i;
             }
 
+            // ---------- REFACTOR BELOW ----------
+
             for(let i = 0; i < draftCards.length; i++){
                 var testCards0 = document.getElementsByName('0');
                 var testDiv0 = document.getElementById('boosterPackDiv0');
@@ -42,9 +32,73 @@ xhttp.onreadystatechange = function() {
                 for(let i = 0; i < 7;i ++){
                     testDiv0.append(testCards0[i]);
                 }
-                
+            }
+
+            for(let i = 0; i < draftCards.length; i++){
+                var testCards1 = document.getElementsByName('1');
+                var testDiv1 = document.getElementById('boosterPackDiv1');
+
+                for(let i = 0; i < 7;i ++){
+                    testDiv1.append(testCards1[i]);
+                }
+            }
+
+            for(let i = 0; i < draftCards.length; i++){
+                var testCards2 = document.getElementsByName('2');
+                var testDiv2 = document.getElementById('boosterPackDiv2');
+
+                for(let i = 0; i < 7;i ++){
+                    testDiv2.append(testCards2[i]);
+                }
+            }
+
+            for(let i = 0; i < draftCards.length; i++){
+                var testCards3 = document.getElementsByName('3');
+                var testDiv3 = document.getElementById('boosterPackDiv3');
+
+                for(let i = 0; i < 7;i ++){
+                    testDiv3.append(testCards3[i]);
+                }
+            }
+
+            for(let i = 0; i < draftCards.length; i++){
+                var testCards4 = document.getElementsByName('4');
+                var testDiv4 = document.getElementById('boosterPackDiv4');
+
+                for(let i = 0; i < 7;i ++){
+                    testDiv4.append(testCards4[i]);
+                }
+            }
+
+            for(let i = 0; i < draftCards.length; i++){
+                var testCards5 = document.getElementsByName('5');
+                var testDiv5 = document.getElementById('boosterPackDiv5');
+
+                for(let i = 0; i < 7;i ++){
+                    testDiv5.append(testCards5[i]);
+                }
+            }
+
+            for(let i = 0; i < draftCards.length; i++){
+                var testCards6 = document.getElementsByName('6');
+                var testDiv6 = document.getElementById('boosterPackDiv6');
+
+                for(let i = 0; i < 7;i ++){
+                    testDiv6.append(testCards6[i]);
+                }
+            }
+
+            for(let i = 0; i < draftCards.length; i++){
+                var testCards7 = document.getElementsByName('7');
+                var testDiv7 = document.getElementById('boosterPackDiv7');
+
+                for(let i = 0; i < 7;i ++){
+                    testDiv7.append(testCards7[i]);
+                }
             }
         }
+            // ---------- REFACTOR ABOVE ----------
+        
         // -------------------------------------------------------------------------------
 
         // Set number to individual boosters
@@ -99,7 +153,7 @@ xhttp.onreadystatechange = function() {
             boosterDiv()
         };
 
-        draft(3);
+        draft(8);
 
         // Loop through set json and append to webpage
         function boosterCards(amount, filter){
@@ -122,10 +176,10 @@ xhttp.onreadystatechange = function() {
                 // Appending card images to selected area
                 const selectedContainer = document.getElementById('selectedContainer');
                 
-                cardImage.onclick = () => PickCard();
+                cardImage.onclick = () => pickCard();
                 
                 // Moves cards from packs div to selected div
-                function PickCard() {
+                function pickCard() {
                     packsCardsDiv.removeChild(cardImage);    
                     selectedContainer.append(cardImage);
                     cardImage.className = 'selectedCards';
