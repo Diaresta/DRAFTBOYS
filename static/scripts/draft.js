@@ -159,7 +159,7 @@ xhttp.onreadystatechange = function() {
             for (let i = 0; i < amount; i++){
                 boosterPack();
             }
-            boosterDiv();
+            // boosterDiv();
         };
 
         draft(8);
@@ -180,6 +180,8 @@ xhttp.onreadystatechange = function() {
                 cardImage.src = znrCommonCardImg;
                 cardImage.className = 'draftCards';
                 cardImage.name = packCount;
+
+                // ---------- REFACTOR BELOW ----------
 
                 var testDiv0 = document.getElementById('boosterPackDiv0');
                 var testDiv1 = document.getElementById('boosterPackDiv1');
@@ -208,6 +210,8 @@ xhttp.onreadystatechange = function() {
                     testDiv7.append(cardImage);
                 }
 
+                // ---------- REFACTOR ABOVE ----------
+
                 // Appending card images to selected area
                 const selectedContainer = document.getElementById('selectedContainer');
                 
@@ -215,7 +219,29 @@ xhttp.onreadystatechange = function() {
                 
                 // Moves cards from packs div to selected div
                 function pickCard() {
-                    testDiv0.removeChild(cardImage);    
+
+                    // ---------- REFACTOR BELOW ----------
+
+                    if(cardImage.name == 0){
+                        testDiv0.removeChild(cardImage);
+                    } else if (cardImage.name == 1) {
+                        testDiv1.removeChild(cardImage);
+                    } else if (cardImage.name == 2) {
+                        testDiv2.removeChild(cardImage);
+                    } else if (cardImage.name == 3) {
+                        testDiv3.removeChild(cardImage);
+                    } else if (cardImage.name == 4) {
+                        testDiv4.removeChild(cardImage);
+                    } else if (cardImage.name == 5) {
+                        testDiv5.removeChild(cardImage);
+                    } else if (cardImage.name == 6) {
+                        testDiv6.removeChild(cardImage);
+                    } else if (cardImage.name == 7) {
+                        testDiv7.removeChild(cardImage);
+                    }
+
+                    // ---------- REFACTOR ABOVE ----------
+ 
                     selectedContainer.append(cardImage);
                     cardImage.className = 'selectedCards';
                     cardImage.name = 'selected';
