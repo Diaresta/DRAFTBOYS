@@ -12,91 +12,100 @@ xhttp.onreadystatechange = function() {
 
         // Testing -----------------------------------------------------------------------
         // Creates divs for individual packs
-        function boosterDiv(){
-            const boosterPackDiv = document.getElementById('boosterPackDiv');
-            const draftCards = document.getElementsByClassName('draftCards');
+        // function boosterDiv(){
+        //     const boosterPackDiv = document.getElementById('boosterPackDiv');
+        //     const draftCards = document.getElementsByClassName('draftCards');
 
-            for(let i = 0; i < 8; i++){
-                var packDiv = document.createElement('div');
-                var packsCardsDiv = document.getElementById('packsCards');
-                var packDivAppend = packsCardsDiv.appendChild(packDiv);
-                packDivAppend.id = 'boosterPackDiv' + i;
-            }
+        //     for(let i = 0; i < 8; i++){
+        //         var packDiv = document.createElement('div');
+        //         var packsCardsDiv = document.getElementById('packsCards');
+        //         var packDivAppend = packsCardsDiv.appendChild(packDiv);
+        //         packDivAppend.id = 'boosterPackDiv' + i;
+        //     }
 
-            // ---------- REFACTOR BELOW ----------
+        //     // ---------- REFACTOR BELOW ----------
 
-            for(let i = 0; i < draftCards.length; i++){
-                var testCards0 = document.getElementsByName('0');
-                var testDiv0 = document.getElementById('boosterPackDiv0');
+        //     for(let i = 0; i < draftCards.length; i++){
+        //         var testCards0 = document.getElementsByName('0');
+        //         var testDiv0 = document.getElementById('boosterPackDiv0');
 
-                for(let i = 0; i < 7;i ++){
-                    testDiv0.append(testCards0[i]);
-                }
-            }
+        //         for(let i = 0; i < 7;i ++){
+        //             testDiv0.append(testCards0[i]);
+        //         }
+        //     }
 
-            for(let i = 0; i < draftCards.length; i++){
-                var testCards1 = document.getElementsByName('1');
-                var testDiv1 = document.getElementById('boosterPackDiv1');
+        //     for(let i = 0; i < draftCards.length; i++){
+        //         var testCards1 = document.getElementsByName('1');
+        //         var testDiv1 = document.getElementById('boosterPackDiv1');
 
-                for(let i = 0; i < 7;i ++){
-                    testDiv1.append(testCards1[i]);
-                }
-            }
+        //         for(let i = 0; i < 7;i ++){
+        //             testDiv1.append(testCards1[i]);
+        //         }
+        //     }
 
-            for(let i = 0; i < draftCards.length; i++){
-                var testCards2 = document.getElementsByName('2');
-                var testDiv2 = document.getElementById('boosterPackDiv2');
+        //     for(let i = 0; i < draftCards.length; i++){
+        //         var testCards2 = document.getElementsByName('2');
+        //         var testDiv2 = document.getElementById('boosterPackDiv2');
 
-                for(let i = 0; i < 7;i ++){
-                    testDiv2.append(testCards2[i]);
-                }
-            }
+        //         for(let i = 0; i < 7;i ++){
+        //             testDiv2.append(testCards2[i]);
+        //         }
+        //     }
 
-            for(let i = 0; i < draftCards.length; i++){
-                var testCards3 = document.getElementsByName('3');
-                var testDiv3 = document.getElementById('boosterPackDiv3');
+        //     for(let i = 0; i < draftCards.length; i++){
+        //         var testCards3 = document.getElementsByName('3');
+        //         var testDiv3 = document.getElementById('boosterPackDiv3');
 
-                for(let i = 0; i < 7;i ++){
-                    testDiv3.append(testCards3[i]);
-                }
-            }
+        //         for(let i = 0; i < 7;i ++){
+        //             testDiv3.append(testCards3[i]);
+        //         }
+        //     }
 
-            for(let i = 0; i < draftCards.length; i++){
-                var testCards4 = document.getElementsByName('4');
-                var testDiv4 = document.getElementById('boosterPackDiv4');
+        //     for(let i = 0; i < draftCards.length; i++){
+        //         var testCards4 = document.getElementsByName('4');
+        //         var testDiv4 = document.getElementById('boosterPackDiv4');
 
-                for(let i = 0; i < 7;i ++){
-                    testDiv4.append(testCards4[i]);
-                }
-            }
+        //         for(let i = 0; i < 7;i ++){
+        //             testDiv4.append(testCards4[i]);
+        //         }
+        //     }
 
-            for(let i = 0; i < draftCards.length; i++){
-                var testCards5 = document.getElementsByName('5');
-                var testDiv5 = document.getElementById('boosterPackDiv5');
+        //     for(let i = 0; i < draftCards.length; i++){
+        //         var testCards5 = document.getElementsByName('5');
+        //         var testDiv5 = document.getElementById('boosterPackDiv5');
 
-                for(let i = 0; i < 7;i ++){
-                    testDiv5.append(testCards5[i]);
-                }
-            }
+        //         for(let i = 0; i < 7;i ++){
+        //             testDiv5.append(testCards5[i]);
+        //         }
+        //     }
 
-            for(let i = 0; i < draftCards.length; i++){
-                var testCards6 = document.getElementsByName('6');
-                var testDiv6 = document.getElementById('boosterPackDiv6');
+        //     for(let i = 0; i < draftCards.length; i++){
+        //         var testCards6 = document.getElementsByName('6');
+        //         var testDiv6 = document.getElementById('boosterPackDiv6');
 
-                for(let i = 0; i < 7;i ++){
-                    testDiv6.append(testCards6[i]);
-                }
-            }
+        //         for(let i = 0; i < 7;i ++){
+        //             testDiv6.append(testCards6[i]);
+        //         }
+        //     }
 
-            for(let i = 0; i < draftCards.length; i++){
-                var testCards7 = document.getElementsByName('7');
-                var testDiv7 = document.getElementById('boosterPackDiv7');
+        //     for(let i = 0; i < draftCards.length; i++){
+        //         var testCards7 = document.getElementsByName('7');
+        //         var testDiv7 = document.getElementById('boosterPackDiv7');
 
-                for(let i = 0; i < 7;i ++){
-                    testDiv7.append(testCards7[i]);
-                }
-            }
-        }
+        //         for(let i = 0; i < 7;i ++){
+        //             testDiv7.append(testCards7[i]);
+        //         }
+        //     }
+
+        //     cardImage.onclick = () => pickCard();
+
+        //     function pickCard(){
+        //         for(let i = 0; i < 8; i++){
+        //             var packChoose = document.getElementById('boosterPackDiv' + i);
+        //         }
+        //         return
+        //     }
+        // }
             // ---------- REFACTOR ABOVE ----------
         
         // -------------------------------------------------------------------------------
@@ -150,7 +159,7 @@ xhttp.onreadystatechange = function() {
             for (let i = 0; i < amount; i++){
                 boosterPack();
             }
-            boosterDiv()
+            boosterDiv();
         };
 
         draft(8);
@@ -171,7 +180,33 @@ xhttp.onreadystatechange = function() {
                 cardImage.src = znrCommonCardImg;
                 cardImage.className = 'draftCards';
                 cardImage.name = packCount;
-                packsCardsDiv.append(cardImage);
+
+                var testDiv0 = document.getElementById('boosterPackDiv0');
+                var testDiv1 = document.getElementById('boosterPackDiv1');
+                var testDiv2 = document.getElementById('boosterPackDiv2');
+                var testDiv3 = document.getElementById('boosterPackDiv3');
+                var testDiv4 = document.getElementById('boosterPackDiv4');
+                var testDiv5 = document.getElementById('boosterPackDiv5');
+                var testDiv6 = document.getElementById('boosterPackDiv6');
+                var testDiv7 = document.getElementById('boosterPackDiv7');
+                
+                if(cardImage.name == 0){
+                    testDiv0.append(cardImage);
+                } else if (cardImage.name == 1) {
+                    testDiv1.append(cardImage);
+                } else if (cardImage.name == 2) {
+                    testDiv2.append(cardImage);
+                } else if (cardImage.name == 3) {
+                    testDiv3.append(cardImage);
+                } else if (cardImage.name == 4) {
+                    testDiv4.append(cardImage);
+                } else if (cardImage.name == 5) {
+                    testDiv5.append(cardImage);
+                } else if (cardImage.name == 6) {
+                    testDiv6.append(cardImage);
+                } else if (cardImage.name == 7) {
+                    testDiv7.append(cardImage);
+                }
 
                 // Appending card images to selected area
                 const selectedContainer = document.getElementById('selectedContainer');
@@ -180,7 +215,7 @@ xhttp.onreadystatechange = function() {
                 
                 // Moves cards from packs div to selected div
                 function pickCard() {
-                    packsCardsDiv.removeChild(cardImage);    
+                    testDiv0.removeChild(cardImage);    
                     selectedContainer.append(cardImage);
                     cardImage.className = 'selectedCards';
                     cardImage.name = 'selected';
