@@ -157,29 +157,52 @@ xhttp.onreadystatechange = function() {
                     // Simulates booster pack passing by displaying/showing subsequent packs
                     if(cardImage.name == 0){
                         testDiv0.style.display = 'none';
-                        testDiv1.style.display = 'inherit';
-                        console.log('reeee');
+                        testDiv1.style.display = 'flex';
+                        testDiv1.style.flexWrap = 'wrap';
+                        testDiv1.style.justifyContent = 'center';
+                        testDiv1.style.position = 'relative';
                     } else if(cardImage.name == 1){
                         testDiv1.style.display = 'none';
-                        testDiv2.style.display = 'inherit';
+                        testDiv2.style.display = 'flex';
+                        testDiv2.style.flexWrap = 'wrap';
+                        testDiv2.style.justifyContent = 'center';
+                        testDiv2.style.position = 'relative';
                     } else if(cardImage.name == 2){
                         testDiv2.style.display = 'none';
-                        testDiv3.style.display = 'inherit';
+                        testDiv3.style.display = 'flex';
+                        testDiv3.style.flexWrap = 'wrap';
+                        testDiv3.style.justifyContent = 'center';
+                        testDiv3.style.position = 'relative';
                     } else if(cardImage.name == 3){
                         testDiv3.style.display = 'none';
-                        testDiv4.style.display = 'inherit';
+                        testDiv4.style.display = 'flex';
+                        testDiv4.style.flexWrap = 'wrap';
+                        testDiv4.style.justifyContent = 'center';
+                        testDiv4.style.position = 'relative';
                     } else if(cardImage.name == 4){
                         testDiv4.style.display = 'none';
-                        testDiv5.style.display = 'inherit';
+                        testDiv5.style.display = 'flex';
+                        testDiv5.style.flexWrap = 'wrap';
+                        testDiv5.style.justifyContent = 'center';
+                        testDiv5.style.position = 'relative';
                     } else if(cardImage.name == 5){
                         testDiv5.style.display = 'none';
-                        testDiv6.style.display = 'inherit';
+                        testDiv6.style.display = 'flex';
+                        testDiv6.style.flexWrap = 'wrap';
+                        testDiv6.style.justifyContent = 'center';
+                        testDiv6.style.position = 'relative';
                     } else if(cardImage.name == 6){
                         testDiv6.style.display = 'none';
-                        testDiv7.style.display = 'inherit';
+                        testDiv7.style.display = 'flex';
+                        testDiv7.style.flexWrap = 'wrap';
+                        testDiv7.style.justifyContent = 'center';
+                        testDiv7.style.position = 'relative';
                     } else {
                         testDiv7.style.display = 'none';
-                        testDiv0.style.display = 'inherit';
+                        testDiv0.style.display = 'flex';
+                        testDiv0.style.flexWrap = 'wrap';
+                        testDiv0.style.justifyContent = 'center';
+                        testDiv0.style.position = 'relative';
                     } 
                     // ---------- REFACTOR ABOVE ----------
 
