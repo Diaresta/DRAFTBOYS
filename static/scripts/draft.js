@@ -5,110 +5,32 @@ xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         var response = JSON.parse(xhttp.responseText);
 
+        // ---------- REFACTOR BELOW ----------
+        var testDiv0 = document.getElementById('boosterPackDiv0');
+        var testDiv1 = document.getElementById('boosterPackDiv1');
+        var testDiv2 = document.getElementById('boosterPackDiv2');
+        var testDiv3 = document.getElementById('boosterPackDiv3');
+        var testDiv4 = document.getElementById('boosterPackDiv4');
+        var testDiv5 = document.getElementById('boosterPackDiv5');
+        var testDiv6 = document.getElementById('boosterPackDiv6');
+        var testDiv7 = document.getElementById('boosterPackDiv7');
+        // ---------- REFACTOR ABOVE ----------
+
+        // Sets boosterPackDivs display to none
+        function displayNone(){
+            testDiv1.style.display = 'none';
+            testDiv2.style.display = 'none';
+            testDiv3.style.display = 'none';
+            testDiv4.style.display = 'none';
+            testDiv5.style.display = 'none';
+            testDiv6.style.display = 'none';
+            testDiv7.style.display = 'none';
+        }
+
         // Set h2 element as set name
         if (response[1].set == 'znr'){
             document.getElementById('selectSet').innerHTML = 'Zendikar Rising';
         }
-
-        // Testing -----------------------------------------------------------------------
-        // Creates divs for individual packs
-        // function boosterDiv(){
-        //     const boosterPackDiv = document.getElementById('boosterPackDiv');
-        //     const draftCards = document.getElementsByClassName('draftCards');
-
-        //     for(let i = 0; i < 8; i++){
-        //         var packDiv = document.createElement('div');
-        //         var packsCardsDiv = document.getElementById('packsCards');
-        //         var packDivAppend = packsCardsDiv.appendChild(packDiv);
-        //         packDivAppend.id = 'boosterPackDiv' + i;
-        //     }
-
-        //     // ---------- REFACTOR BELOW ----------
-
-        //     for(let i = 0; i < draftCards.length; i++){
-        //         var testCards0 = document.getElementsByName('0');
-        //         var testDiv0 = document.getElementById('boosterPackDiv0');
-
-        //         for(let i = 0; i < 7;i ++){
-        //             testDiv0.append(testCards0[i]);
-        //         }
-        //     }
-
-        //     for(let i = 0; i < draftCards.length; i++){
-        //         var testCards1 = document.getElementsByName('1');
-        //         var testDiv1 = document.getElementById('boosterPackDiv1');
-
-        //         for(let i = 0; i < 7;i ++){
-        //             testDiv1.append(testCards1[i]);
-        //         }
-        //     }
-
-        //     for(let i = 0; i < draftCards.length; i++){
-        //         var testCards2 = document.getElementsByName('2');
-        //         var testDiv2 = document.getElementById('boosterPackDiv2');
-
-        //         for(let i = 0; i < 7;i ++){
-        //             testDiv2.append(testCards2[i]);
-        //         }
-        //     }
-
-        //     for(let i = 0; i < draftCards.length; i++){
-        //         var testCards3 = document.getElementsByName('3');
-        //         var testDiv3 = document.getElementById('boosterPackDiv3');
-
-        //         for(let i = 0; i < 7;i ++){
-        //             testDiv3.append(testCards3[i]);
-        //         }
-        //     }
-
-        //     for(let i = 0; i < draftCards.length; i++){
-        //         var testCards4 = document.getElementsByName('4');
-        //         var testDiv4 = document.getElementById('boosterPackDiv4');
-
-        //         for(let i = 0; i < 7;i ++){
-        //             testDiv4.append(testCards4[i]);
-        //         }
-        //     }
-
-        //     for(let i = 0; i < draftCards.length; i++){
-        //         var testCards5 = document.getElementsByName('5');
-        //         var testDiv5 = document.getElementById('boosterPackDiv5');
-
-        //         for(let i = 0; i < 7;i ++){
-        //             testDiv5.append(testCards5[i]);
-        //         }
-        //     }
-
-        //     for(let i = 0; i < draftCards.length; i++){
-        //         var testCards6 = document.getElementsByName('6');
-        //         var testDiv6 = document.getElementById('boosterPackDiv6');
-
-        //         for(let i = 0; i < 7;i ++){
-        //             testDiv6.append(testCards6[i]);
-        //         }
-        //     }
-
-        //     for(let i = 0; i < draftCards.length; i++){
-        //         var testCards7 = document.getElementsByName('7');
-        //         var testDiv7 = document.getElementById('boosterPackDiv7');
-
-        //         for(let i = 0; i < 7;i ++){
-        //             testDiv7.append(testCards7[i]);
-        //         }
-        //     }
-
-        //     cardImage.onclick = () => pickCard();
-
-        //     function pickCard(){
-        //         for(let i = 0; i < 8; i++){
-        //             var packChoose = document.getElementById('boosterPackDiv' + i);
-        //         }
-        //         return
-        //     }
-        // }
-            // ---------- REFACTOR ABOVE ----------
-        
-        // -------------------------------------------------------------------------------
 
         // Set number to individual boosters
         var packCount = 0;
@@ -159,7 +81,7 @@ xhttp.onreadystatechange = function() {
             for (let i = 0; i < amount; i++){
                 boosterPack();
             }
-            // boosterDiv();
+            displayNone();
         };
 
         draft(8);
@@ -182,16 +104,7 @@ xhttp.onreadystatechange = function() {
                 cardImage.name = packCount;
 
                 // ---------- REFACTOR BELOW ----------
-
-                var testDiv0 = document.getElementById('boosterPackDiv0');
-                var testDiv1 = document.getElementById('boosterPackDiv1');
-                var testDiv2 = document.getElementById('boosterPackDiv2');
-                var testDiv3 = document.getElementById('boosterPackDiv3');
-                var testDiv4 = document.getElementById('boosterPackDiv4');
-                var testDiv5 = document.getElementById('boosterPackDiv5');
-                var testDiv6 = document.getElementById('boosterPackDiv6');
-                var testDiv7 = document.getElementById('boosterPackDiv7');
-                
+                // Appending card images to respective boosterPackDivs
                 if(cardImage.name == 0){
                     testDiv0.append(cardImage);
                 } else if (cardImage.name == 1) {
@@ -209,7 +122,6 @@ xhttp.onreadystatechange = function() {
                 } else if (cardImage.name == 7) {
                     testDiv7.append(cardImage);
                 }
-
                 // ---------- REFACTOR ABOVE ----------
 
                 // Appending card images to selected area
@@ -218,10 +130,10 @@ xhttp.onreadystatechange = function() {
                 cardImage.onclick = () => pickCard();
                 
                 // Moves cards from packs div to selected div
-                function pickCard() {
+                function pickCard(){
 
                     // ---------- REFACTOR BELOW ----------
-
+                    // Appending card images to selected div
                     if(cardImage.name == 0){
                         testDiv0.removeChild(cardImage);
                     } else if (cardImage.name == 1) {
@@ -239,9 +151,38 @@ xhttp.onreadystatechange = function() {
                     } else if (cardImage.name == 7) {
                         testDiv7.removeChild(cardImage);
                     }
-
                     // ---------- REFACTOR ABOVE ----------
- 
+
+                    // ---------- REFACTOR BELOW ----------
+                    // Simulates booster pack passing by displaying/showing subsequent packs
+                    if(cardImage.name == 0){
+                        testDiv0.style.display = 'none';
+                        testDiv1.style.display = 'inherit';
+                        console.log('reeee');
+                    } else if(cardImage.name == 1){
+                        testDiv1.style.display = 'none';
+                        testDiv2.style.display = 'inherit';
+                    } else if(cardImage.name == 2){
+                        testDiv2.style.display = 'none';
+                        testDiv3.style.display = 'inherit';
+                    } else if(cardImage.name == 3){
+                        testDiv3.style.display = 'none';
+                        testDiv4.style.display = 'inherit';
+                    } else if(cardImage.name == 4){
+                        testDiv4.style.display = 'none';
+                        testDiv5.style.display = 'inherit';
+                    } else if(cardImage.name == 5){
+                        testDiv5.style.display = 'none';
+                        testDiv6.style.display = 'inherit';
+                    } else if(cardImage.name == 6){
+                        testDiv6.style.display = 'none';
+                        testDiv7.style.display = 'inherit';
+                    } else {
+                        testDiv7.style.display = 'none';
+                        testDiv0.style.display = 'inherit';
+                    } 
+                    // ---------- REFACTOR ABOVE ----------
+
                     selectedContainer.append(cardImage);
                     cardImage.className = 'selectedCards';
                     cardImage.name = 'selected';
