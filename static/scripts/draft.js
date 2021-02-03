@@ -85,7 +85,7 @@ xhttp.onreadystatechange = function() {
         // Groups cards as a booster pack
         function boosterPack(){
             commonCards();
-            uncommonCards()
+            uncommonCards();
             rareCard();
             packCount+= 1;
         };
@@ -95,22 +95,35 @@ xhttp.onreadystatechange = function() {
                 boosterPack();
             }
             displayNone();
+            console.log('reeeeasd87gasd');
         };
 
-        function game(){
-            draft(8);
-        }
+        // Starts Draft
+        draft(8);
 
-        game();
-        
-        selectedContainer.addEventListener("change", function() {
-            // if(selectedContainer.childElementCount == 14){
-            //     game();
-            // }
-            console.log('reee');
-        });
-        
-        
+        // ---------------------------- Testing ----------------------------
+
+        var counter = 0;
+        var cardContainer = document.getElementById('cardContainer');
+
+        cardContainer.onclick = () => nextPacks();
+
+        function nextPacks(){
+            counter++;
+            console.log(counter);
+            if(counter == 14){
+                testDiv0.style.display = 'flex';
+                testDiv0.style.flexWrap = 'wrap';
+                testDiv0.style.justifyContent = 'center';
+                testDiv0.style.position = 'relative';
+
+                draft(8);
+            } else if(counter == 28){
+                draft(8);
+            } else{
+            }
+        }
+        // ---------------------------- Testing ----------------------------
 
         // Loop through set json and append to webpage
         function boosterCards(amount, filter){
@@ -196,6 +209,7 @@ xhttp.onreadystatechange = function() {
                             testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
                             testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
                             testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
+                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
                             // }
 
                         } else if(cardImage.name == 1){
