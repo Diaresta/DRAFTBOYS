@@ -14,6 +14,24 @@ xhttp.onreadystatechange = function() {
         var testDiv5 = document.getElementById('boosterPackDiv5');
         var testDiv6 = document.getElementById('boosterPackDiv6');
         var testDiv7 = document.getElementById('boosterPackDiv7');
+        
+        var testDiv8 = document.getElementById('boosterPackDiv8');
+        var testDiv9 = document.getElementById('boosterPackDiv9');
+        var testDiv10 = document.getElementById('boosterPackDiv10');
+        var testDiv11 = document.getElementById('boosterPackDiv11');
+        var testDiv12 = document.getElementById('boosterPackDiv12');
+        var testDiv13 = document.getElementById('boosterPackDiv13');
+        var testDiv14 = document.getElementById('boosterPackDiv14');
+        var testDiv15 = document.getElementById('boosterPackDiv15');
+
+        var testDiv16 = document.getElementById('boosterPackDiv16');
+        var testDiv17 = document.getElementById('boosterPackDiv17');
+        var testDiv18 = document.getElementById('boosterPackDiv18');
+        var testDiv19 = document.getElementById('boosterPackDiv19');
+        var testDiv20 = document.getElementById('boosterPackDiv20');
+        var testDiv21 = document.getElementById('boosterPackDiv21');
+        var testDiv22 = document.getElementById('boosterPackDiv22');
+        var testDiv23 = document.getElementById('boosterPackDiv23');
 
         var testCards0 = document.getElementsByName('0');
         var testCards1 = document.getElementsByName('1');
@@ -24,8 +42,27 @@ xhttp.onreadystatechange = function() {
         var testCards6 = document.getElementsByName('6');
         var testCards7 = document.getElementsByName('7');
 
+        var testCards8 = document.getElementsByName('8');
+        var testCards9 = document.getElementsByName('9');
+        var testCards10 = document.getElementsByName('10');
+        var testCards11 = document.getElementsByName('11');
+        var testCards12 = document.getElementsByName('12');
+        var testCards13 = document.getElementsByName('13');
+        var testCards14 = document.getElementsByName('14');
+        var testCards15 = document.getElementsByName('15');
+
+        var testCards16 = document.getElementsByName('16');
+        var testCards17 = document.getElementsByName('17');
+        var testCards18 = document.getElementsByName('18');
+        var testCards19 = document.getElementsByName('19');
+        var testCards20 = document.getElementsByName('20');
+        var testCards21 = document.getElementsByName('21');
+        var testCards22 = document.getElementsByName('22');
+        var testCards23 = document.getElementsByName('23');
+
         var boosterPackDivs = document.getElementsByClassName('boosterPackDiv');
         var selectedContainer = document.getElementById('selectedContainer');
+        var cardContainer = document.getElementById('cardContainer');
 
         // ---------- REFACTOR ABOVE ----------
 
@@ -38,6 +75,55 @@ xhttp.onreadystatechange = function() {
             testDiv5.style.display = 'none';
             testDiv6.style.display = 'none';
             testDiv7.style.display = 'none';
+
+            testDiv8.style.display = 'none';
+            testDiv9.style.display = 'none';
+            testDiv10.style.display = 'none';
+            testDiv11.style.display = 'none';
+            testDiv12.style.display = 'none';
+            testDiv13.style.display = 'none';
+            testDiv14.style.display = 'none';
+            testDiv15.style.display = 'none';
+
+            testDiv16.style.display = 'none';
+            testDiv17.style.display = 'none';
+            testDiv18.style.display = 'none';
+            testDiv19.style.display = 'none';
+            testDiv20.style.display = 'none';
+            testDiv21.style.display = 'none';
+            testDiv22.style.display = 'none';
+            testDiv23.style.display = 'none';
+        }
+
+        cardContainer.onclick = () => nextPacks();
+
+        function nextPacks(){
+            var cardCounter = selectedContainer.childElementCount;
+            console.log(cardCounter);
+            if(cardCounter == 14){
+                testDiv6.style.display = 'none';
+                testDiv8.style.display = 'flex';
+                testDiv8.style.flexWrap = 'wrap';
+                testDiv8.style.justifyContent = 'center';
+                testDiv8.style.position = 'relative';
+            } else if(cardCounter == 28){
+                testDiv14.style.display = 'none';
+                testDiv16.style.display = 'flex';
+                testDiv16.style.flexWrap = 'wrap';
+                testDiv16.style.justifyContent = 'center';
+                testDiv16.style.position = 'relative';
+            } else if(cardCounter == 42){
+                testDiv22.style.display = 'none';
+                var draftedCards = document.createElement('div');
+                draftedCards.id = 'draftCards';
+                cardContainer.append(draftedCards);
+                draftedCards.innerHTML = 'asdasdasd';
+
+                // for(let i = 0; i < selectedContainer.length; i++){
+                //     selectedContainer.removeChild(i);
+                // }
+                console.log('add next step');
+            }
         }
 
         // Set h2 element as set name
@@ -95,35 +181,10 @@ xhttp.onreadystatechange = function() {
                 boosterPack();
             }
             displayNone();
-            console.log('reeeeasd87gasd');
         };
 
         // Starts Draft
-        draft(8);
-
-        // ---------------------------- Testing ----------------------------
-
-        var counter = 0;
-        var cardContainer = document.getElementById('cardContainer');
-
-        cardContainer.onclick = () => nextPacks();
-
-        function nextPacks(){
-            counter++;
-            console.log(counter);
-            if(counter == 14){
-                testDiv0.style.display = 'flex';
-                testDiv0.style.flexWrap = 'wrap';
-                testDiv0.style.justifyContent = 'center';
-                testDiv0.style.position = 'relative';
-
-                draft(8);
-            } else if(counter == 28){
-                draft(8);
-            } else{
-            }
-        }
-        // ---------------------------- Testing ----------------------------
+        draft(24);
 
         // Loop through set json and append to webpage
         function boosterCards(amount, filter){
@@ -144,6 +205,7 @@ xhttp.onreadystatechange = function() {
 
                 // ---------- REFACTOR BELOW ----------
                 // Appending card images to respective boosterPackDivs
+                // Pack(s) 1
                 if(cardImage.name == 0){
                     testDiv0.append(cardImage);
                 } else if (cardImage.name == 1) {
@@ -160,6 +222,44 @@ xhttp.onreadystatechange = function() {
                     testDiv6.append(cardImage);
                 } else if (cardImage.name == 7) {
                     testDiv7.append(cardImage);
+                } 
+                
+                // Pack(s) 2
+                if (cardImage.name == 8) {
+                    testDiv8.append(cardImage);
+                } else if (cardImage.name == 9) {
+                    testDiv9.append(cardImage);
+                } else if (cardImage.name == 10) {
+                    testDiv10.append(cardImage);
+                } else if (cardImage.name == 11) {
+                    testDiv11.append(cardImage);
+                } else if (cardImage.name == 12) {
+                    testDiv12.append(cardImage);
+                } else if (cardImage.name == 13) {
+                    testDiv13.append(cardImage);
+                } else if (cardImage.name == 14) {
+                    testDiv14.append(cardImage);
+                } else if (cardImage.name == 15) {
+                    testDiv15.append(cardImage);
+                } 
+                
+                // Pack(s) 3
+                if (cardImage.name == 16) {
+                    testDiv16.append(cardImage);
+                } else if (cardImage.name == 17) {
+                    testDiv17.append(cardImage);
+                } else if (cardImage.name == 18) {
+                    testDiv18.append(cardImage);
+                } else if (cardImage.name == 19) {
+                    testDiv19.append(cardImage);
+                } else if (cardImage.name == 20) {
+                    testDiv20.append(cardImage);
+                } else if (cardImage.name == 21) {
+                    testDiv21.append(cardImage);
+                } else if (cardImage.name == 22) {
+                    testDiv22.append(cardImage);
+                }  else if (cardImage.name == 23) {
+                    testDiv23.append(cardImage);
                 }
                 // ---------- REFACTOR ABOVE ----------
 
@@ -172,6 +272,7 @@ xhttp.onreadystatechange = function() {
                     if(cardImage.className == 'draftCards'){
                         // ---------- REFACTOR BELOW ----------
                         // Appending card images to selected div
+                        // Pack(s) 1
                         if(cardImage.name == 0){
                             testDiv0.removeChild(cardImage);
                         } else if (cardImage.name == 1) {
@@ -189,10 +290,49 @@ xhttp.onreadystatechange = function() {
                         } else if (cardImage.name == 7) {
                             testDiv7.removeChild(cardImage);
                         }
+
+                        // Pack(s) 2
+                        if(cardImage.name == 8){
+                            testDiv8.removeChild(cardImage);
+                        } else if (cardImage.name == 9) {
+                            testDiv9.removeChild(cardImage);
+                        } else if (cardImage.name == 10) {
+                            testDiv10.removeChild(cardImage);
+                        } else if (cardImage.name == 11) {
+                            testDiv11.removeChild(cardImage);
+                        } else if (cardImage.name == 12) {
+                            testDiv12.removeChild(cardImage);
+                        } else if (cardImage.name == 13) {
+                            testDiv13.removeChild(cardImage);
+                        } else if (cardImage.name == 14) {
+                            testDiv14.removeChild(cardImage);
+                        } else if (cardImage.name == 15) {
+                            testDiv15.removeChild(cardImage);
+                        }
+
+                        // Pack(s) 3
+                        if(cardImage.name == 16){
+                            testDiv16.removeChild(cardImage);
+                        } else if (cardImage.name == 17) {
+                            testDiv17.removeChild(cardImage);
+                        } else if (cardImage.name == 18) {
+                            testDiv18.removeChild(cardImage);
+                        } else if (cardImage.name == 19) {
+                            testDiv19.removeChild(cardImage);
+                        } else if (cardImage.name == 20) {
+                            testDiv20.removeChild(cardImage);
+                        } else if (cardImage.name == 21) {
+                            testDiv21.removeChild(cardImage);
+                        } else if (cardImage.name == 22) {
+                            testDiv22.removeChild(cardImage);
+                        } else if (cardImage.name == 23) {
+                            testDiv23.removeChild(cardImage);
+                        }
                         // ---------- REFACTOR ABOVE ----------
 
                         // ---------- REFACTOR BELOW ----------
                         // Simulates booster pack passing by displaying/showing subsequent packs && simulates "other players" choosing cards by randomly removing a card from subsequent packs
+                        // Pack(s) 1
                         if(cardImage.name == 0){
                             // "Passing" packs | Styling pack divs
                             testDiv0.style.display = 'none';
@@ -202,7 +342,6 @@ xhttp.onreadystatechange = function() {
                             testDiv1.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            // if(boosterPackDivs.length > 0){
                             testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
                             testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
                             testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
@@ -210,7 +349,6 @@ xhttp.onreadystatechange = function() {
                             testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
                             testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
                             testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
-                            // }
 
                         } else if(cardImage.name == 1){
                             // "Passing" packs | Styling pack divs
@@ -221,7 +359,6 @@ xhttp.onreadystatechange = function() {
                             testDiv2.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            // if(boosterPackDivs.length > 0){
                             testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
                             testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
                             testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
@@ -229,7 +366,6 @@ xhttp.onreadystatechange = function() {
                             testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
                             testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
                             testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
-                            // }
 
                         } else if(cardImage.name == 2){
                             // "Passing" packs | Styling pack divs
@@ -240,15 +376,13 @@ xhttp.onreadystatechange = function() {
                             testDiv3.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            // if(boosterPackDivs.length > 0){
                             testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
                             testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
                             testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
                             testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
                             testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
                             testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
-                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
-                            // }       
+                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);    
 
                         } else if(cardImage.name == 3){
                             // "Passing" packs | Styling pack divs
@@ -259,7 +393,6 @@ xhttp.onreadystatechange = function() {
                             testDiv4.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            // if(boosterPackDivs.length > 0){
                             testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
                             testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
                             testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
@@ -267,7 +400,6 @@ xhttp.onreadystatechange = function() {
                             testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
                             testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
                             testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
-                            // }
 
                         } else if(cardImage.name == 4){
                             // "Passing" packs | Styling pack divs
@@ -278,7 +410,6 @@ xhttp.onreadystatechange = function() {
                             testDiv5.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            // if(boosterPackDivs.length > 0){
                             testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
                             testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
                             testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
@@ -286,7 +417,6 @@ xhttp.onreadystatechange = function() {
                             testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
                             testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
                             testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
-                            // }
 
                         } else if(cardImage.name == 5){
                             // "Passing" packs | Styling pack divs
@@ -297,7 +427,6 @@ xhttp.onreadystatechange = function() {
                             testDiv6.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            // if(boosterPackDivs.length > 0){
                             testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
                             testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
                             testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
@@ -305,7 +434,6 @@ xhttp.onreadystatechange = function() {
                             testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
                             testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
                             testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
-                            // }
 
                         } else if(cardImage.name == 6){
                             // "Passing" packs | Styling pack divs
@@ -316,7 +444,6 @@ xhttp.onreadystatechange = function() {
                             testDiv7.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            // if(boosterPackDivs.length > 0){
                             testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
                             testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
                             testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
@@ -324,9 +451,8 @@ xhttp.onreadystatechange = function() {
                             testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
                             testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
                             testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
-                            // }
 
-                        } else {
+                        } else if(cardImage.name == 7){
                             // "Passing" packs | Styling pack divs
                             testDiv7.style.display = 'none';
                             testDiv0.style.display = 'flex';
@@ -335,7 +461,6 @@ xhttp.onreadystatechange = function() {
                             testDiv0.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            // if(boosterPackDivs.length > 0){
                             testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
                             testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
                             testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
@@ -343,9 +468,284 @@ xhttp.onreadystatechange = function() {
                             testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
                             testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
                             testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
-                            // }
+                        }
+                        
+                        // Pack(s) 2
+                        if(cardImage.name == 8){
+                            // "Passing" packs | Styling pack divs
+                            testDiv8.style.display = 'none';
+                            testDiv9.style.display = 'flex';
+                            testDiv9.style.flexWrap = 'wrap';
+                            testDiv9.style.justifyContent = 'center';
+                            testDiv9.style.position = 'relative';
 
-                        } 
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
+                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
+                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
+                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
+                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
+                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
+                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+
+                        } else if(cardImage.name == 9){
+                            // "Passing" packs | Styling pack divs
+                            testDiv9.style.display = 'none';
+                            testDiv10.style.display = 'flex';
+                            testDiv10.style.flexWrap = 'wrap';
+                            testDiv10.style.justifyContent = 'center';
+                            testDiv10.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
+                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
+                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
+                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
+                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
+                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
+                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+
+                        } else if(cardImage.name == 10){
+                            // "Passing" packs | Styling pack divs
+                            testDiv10.style.display = 'none';
+                            testDiv11.style.display = 'flex';
+                            testDiv11.style.flexWrap = 'wrap';
+                            testDiv11.style.justifyContent = 'center';
+                            testDiv11.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
+                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
+                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
+                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
+                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
+                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
+                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);   
+
+                        } else if(cardImage.name == 11){
+                            // "Passing" packs | Styling pack divs
+                            testDiv11.style.display = 'none';
+                            testDiv12.style.display = 'flex';
+                            testDiv12.style.flexWrap = 'wrap';
+                            testDiv12.style.justifyContent = 'center';
+                            testDiv12.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
+                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
+                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
+                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
+                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
+                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
+                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+
+                        } else if(cardImage.name == 12){
+                            // "Passing" packs | Styling pack divs
+                            testDiv12.style.display = 'none';
+                            testDiv13.style.display = 'flex';
+                            testDiv13.style.flexWrap = 'wrap';
+                            testDiv13.style.justifyContent = 'center';
+                            testDiv13.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
+                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
+                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
+                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
+                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
+                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
+                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+
+                        } else if(cardImage.name == 13){
+                            // "Passing" packs | Styling pack divs
+                            testDiv13.style.display = 'none';
+                            testDiv14.style.display = 'flex';
+                            testDiv14.style.flexWrap = 'wrap';
+                            testDiv14.style.justifyContent = 'center';
+                            testDiv14.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
+                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
+                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
+                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
+                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
+                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
+                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+
+                        } else if(cardImage.name == 14){
+                            // "Passing" packs | Styling pack divs
+                            testDiv14.style.display = 'none';
+                            testDiv15.style.display = 'flex';
+                            testDiv15.style.flexWrap = 'wrap';
+                            testDiv15.style.justifyContent = 'center';
+                            testDiv15.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
+                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
+                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
+                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
+                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
+                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
+                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+
+                        } else if(cardImage.name == 15){
+                            // "Passing" packs | Styling pack divs
+                            testDiv15.style.display = 'none';
+                            testDiv8.style.display = 'flex';
+                            testDiv8.style.flexWrap = 'wrap';
+                            testDiv8.style.justifyContent = 'center';
+                            testDiv8.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
+                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
+                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
+                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
+                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
+                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
+                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
+                        }
+
+                        // Pack(s) 3
+                        if(cardImage.name == 16){
+                            // "Passing" packs | Styling pack divs
+                            testDiv16.style.display = 'none';
+                            testDiv17.style.display = 'flex';
+                            testDiv17.style.flexWrap = 'wrap';
+                            testDiv17.style.justifyContent = 'center';
+                            testDiv17.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
+                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
+                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
+                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
+                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
+                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
+                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+
+                        } else if(cardImage.name == 17){
+                            // "Passing" packs | Styling pack divs
+                            testDiv17.style.display = 'none';
+                            testDiv18.style.display = 'flex';
+                            testDiv18.style.flexWrap = 'wrap';
+                            testDiv18.style.justifyContent = 'center';
+                            testDiv18.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
+                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
+                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
+                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
+                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
+                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
+                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+
+                        } else if(cardImage.name == 18){
+                            // "Passing" packs | Styling pack divs
+                            testDiv18.style.display = 'none';
+                            testDiv19.style.display = 'flex';
+                            testDiv19.style.flexWrap = 'wrap';
+                            testDiv19.style.justifyContent = 'center';
+                            testDiv19.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
+                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
+                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
+                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
+                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
+                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
+                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+
+                        } else if(cardImage.name == 19){
+                            // "Passing" packs | Styling pack divs
+                            testDiv19.style.display = 'none';
+                            testDiv20.style.display = 'flex';
+                            testDiv20.style.flexWrap = 'wrap';
+                            testDiv20.style.justifyContent = 'center';
+                            testDiv20.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
+                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
+                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
+                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
+                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
+                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
+                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+
+                        } else if(cardImage.name == 20){
+                            // "Passing" packs | Styling pack divs
+                            testDiv20.style.display = 'none';
+                            testDiv21.style.display = 'flex';
+                            testDiv21.style.flexWrap = 'wrap';
+                            testDiv21.style.justifyContent = 'center';
+                            testDiv21.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
+                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
+                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
+                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
+                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
+                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
+                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+
+                        } else if(cardImage.name == 21){
+                            // "Passing" packs | Styling pack divs
+                            testDiv21.style.display = 'none';
+                            testDiv22.style.display = 'flex';
+                            testDiv22.style.flexWrap = 'wrap';
+                            testDiv22.style.justifyContent = 'center';
+                            testDiv22.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
+                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
+                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
+                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
+                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
+                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
+                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+
+                        } else if(cardImage.name == 22){
+                            // "Passing" packs | Styling pack divs
+                            testDiv22.style.display = 'none';
+                            testDiv23.style.display = 'flex';
+                            testDiv23.style.flexWrap = 'wrap';
+                            testDiv23.style.justifyContent = 'center';
+                            testDiv23.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
+                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
+                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
+                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
+                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
+                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
+                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+
+                        } else if(cardImage.name == 23){
+                            // "Passing" packs | Styling pack divs
+                            testDiv23.style.display = 'none';
+                            testDiv16.style.display = 'flex';
+                            testDiv16.style.flexWrap = 'wrap';
+                            testDiv16.style.justifyContent = 'center';
+                            testDiv16.style.position = 'relative';
+
+                            // "Other players picking" cards | Randomly removing cards
+                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
+                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
+                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
+                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
+                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
+                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
+                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
+                        }
+
                         // ---------- REFACTOR ABOVE ----------
 
                         selectedContainer.append(cardImage);
