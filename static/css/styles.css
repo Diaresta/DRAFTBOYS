@@ -390,7 +390,8 @@ footer {
     padding-top: 235px;
 }
 
-.draftCards {
+.draftCards,
+.draftedCards {
     margin: 5px;
     width: 215px;
     /* cursor: pointer; */
@@ -401,8 +402,9 @@ footer {
     transition: all 0.2s ease;
 }
 
-.draftCards:active {
-    /* onclick */
+.draftedCards:hover {
+    transform: scale(1.05);
+    transition: all 0.2s ease;
 }
 
 .selectedCards {
@@ -420,7 +422,8 @@ footer {
 }
 
 .draftCards,
-.selectedCards {
+.selectedCards,
+.draftedCards {
     border-radius: 4%;
 }
 

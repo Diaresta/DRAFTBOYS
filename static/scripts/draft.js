@@ -60,9 +60,11 @@ xhttp.onreadystatechange = function() {
         var testCards22 = document.getElementsByName('22');
         var testCards23 = document.getElementsByName('23');
 
+        var mainDiv = document.getElementsByTagName('main');
         var boosterPackDivs = document.getElementsByClassName('boosterPackDiv');
         var selectedContainer = document.getElementById('selectedContainer');
         var cardContainer = document.getElementById('cardContainer');
+        var cardSelectArea = document.getElementById('cardSelectArea');
 
         // ---------- REFACTOR ABOVE ----------
 
@@ -97,9 +99,11 @@ xhttp.onreadystatechange = function() {
 
         cardContainer.onclick = () => nextPacks();
 
+        // Shows/Hides BoosterPackDivs to simulate passing packs.
         function nextPacks(){
             var cardCounter = selectedContainer.childElementCount;
-            console.log(cardCounter);
+
+            // Fixes styling between packs 1/2/3
             if(cardCounter == 14){
                 testDiv6.style.display = 'none';
                 testDiv8.style.display = 'flex';
@@ -112,17 +116,35 @@ xhttp.onreadystatechange = function() {
                 testDiv16.style.flexWrap = 'wrap';
                 testDiv16.style.justifyContent = 'center';
                 testDiv16.style.position = 'relative';
-            } else if(cardCounter == 42){
+            } 
+
+            // When all cards are selected...
+            if(cardCounter == 42){
                 testDiv22.style.display = 'none';
+                
+                // Creates new final div and appends it to cardContainer
                 var draftedCards = document.createElement('div');
                 draftedCards.id = 'draftCards';
                 cardContainer.append(draftedCards);
-                draftedCards.innerHTML = 'asdasdasd';
 
-                // for(let i = 0; i < selectedContainer.length; i++){
-                //     selectedContainer.removeChild(i);
-                // }
-                console.log('add next step');
+                // Loop through selectedCards div and append them to new draftedCards div
+                for(let i = 0; i < 42; i++){
+                    var selectedCards = document.getElementsByClassName('selectedCards');
+                    draftedCards.append(selectedCards[i]);
+                }
+                
+                // Selects draftCards div child nodes (card images)
+                var finalDraft = draftedCards.childNodes;
+
+                selectedContainer.style.display = 'none';
+                cardSelectArea.style.width = '95%';
+                cardSelectArea.style.marginLeft = '35px';
+                cardSelectArea.style.marginRight = '35px';
+
+                // Changes card images to draftedCards styling
+                for(let x = 0; x < 42; x++){
+                    finalDraft[x].className = 'draftedCards';
+                }
             }
         }
 
