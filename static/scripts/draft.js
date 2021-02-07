@@ -3,6 +3,16 @@ xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         var response = JSON.parse(xhttp.responseText);
 
+        var mainDiv = document.getElementsByTagName('main');
+        var boosterPackDivs = document.getElementsByClassName('boosterPackDiv');
+        var selectedContainer = document.getElementById('selectedContainer');
+        var cardContainer = document.getElementById('cardContainer');
+        var cardSelectArea = document.getElementById('cardSelectArea');
+
+        var pickAmount = document.getElementById('pick-amount');
+        var pickCounter = 0;
+        var packCounter = 1;
+
         // ---------- REFACTOR BELOW ----------
         var testDiv0 = document.getElementById('boosterPackDiv0');
         var testDiv1 = document.getElementById('boosterPackDiv1');
@@ -57,13 +67,6 @@ xhttp.onreadystatechange = function() {
         var testCards21 = document.getElementsByName('21');
         var testCards22 = document.getElementsByName('22');
         var testCards23 = document.getElementsByName('23');
-
-        var mainDiv = document.getElementsByTagName('main');
-        var boosterPackDivs = document.getElementsByClassName('boosterPackDiv');
-        var selectedContainer = document.getElementById('selectedContainer');
-        var cardContainer = document.getElementById('cardContainer');
-        var cardSelectArea = document.getElementById('cardSelectArea');
-
         // ---------- REFACTOR ABOVE ----------
 
         // Sets boosterPackDivs display to none
@@ -771,6 +774,18 @@ xhttp.onreadystatechange = function() {
                         selectedContainer.append(cardImage);
                         cardImage.className = 'selectedCards';
                         cardImage.name = 'selected';
+
+                        // Increments packCounter, and adds card amount picked, and pack number to DOM
+                        pickCounter++;
+                        pickAmount.innerHTML = `Pack: ${packCounter} | Drafted: ${pickCounter}`;
+
+                        if(pickCounter == 13){
+                            packCounter++;
+                        } else if(pickCounter == 27){
+                            packCounter++;
+                        } else if(pickCounter == 42){
+                            pickAmount.innerHTML = 'Thanks for drafting!';
+                        }
                     }       
                 }
             }
