@@ -35,11 +35,14 @@
 
 - [ ] Add all sets html
 
+- [ ] Media Queries for draft page
+
 ___
 **Ideas** 
 
  - ~~Have each pack create its own div within cardContainer. Currently creating packs within packsCards div, which is nested within cardContainer. When a card within its div is clicked, display it to none, and display next div to show to give the idea of passing card packs in a draft.~~
  - Create a Sealed Section?
+ - sass for css?
  __
 
  # TOREFACTOR
