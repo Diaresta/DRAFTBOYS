@@ -533,3 +533,26 @@ textarea:focus  {
     }
 }
 /* tablet viewport make form width 80% */
+
+/* -------------------------------------------- All Sets Page ------------------------------------------------------------ */
+#all-sets-ul {
+    display: inline-block;  
+}
+
+.all-sets-li {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0px;
+}
+
+.all-sets-li:hover {
+    color: #ccc;
+}
+
+.all-sets-li > a {
+    color: #65b3ba;
+}
+
+.format-title {
+    text-decoration: underline;
+}

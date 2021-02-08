@@ -4,9 +4,6 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!-- Favicon fix -->
-        <link rel="shortcut icon" href="#">
-
         <!-- Import CSS -->
         <link href="/static/css/normalize.css" rel="stylesheet" type="text/css">
         <link href="/static/css/styles.css" rel="stylesheet" type="text/css">
@@ -45,41 +42,29 @@
         </header>
 
         <main>
-            <h2 id="title">Contact</h2>
-            <div id="form-wrapper">
-                <form id="contact-form" method="POST" action="mailto:TheAndrewRobles@yahoo.com" role="form">
-                    <p id="contact-description">Have any questions, problems, or suggestions? Feel free to get in touch with us and we'll get back to you as soon as possible!</p>
-                    <div id="form-name">
-                        <div class="form-group">
-                            <label id="name-label" for="last-name">First Name: </label><br>
-                            <input id="first-name" type="text"  placeholder="" required data-error="First name is required.">
-                        </div>
-                        <div class="form-group">
-                            <label id="name-label" for="last-name">Last Name:</label><br>
-                            <input id="last-name" type="text"  placeholder="" required data-error="Last name is required.">
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <label id="email-label" for="form-email">Email:</label><br>
-                        <input id="form-email" type="email"  placeholder="" required>
-                    </div>
-
-                    <div class="form-row">
-                        <label id="message-label" for="form-message">Message:</label><br>
-                        <textarea id="form-message" placeholder="" required data-error="You've gotta' write a message!"></textarea>
-                    </div>
-
-                    <div>
-                        <input id="contact-submit" type="submit" class="submit-button" value="Send Message" target="_blank">
-                    </div>
-                </form>
-            </div>
+            <h2 id="selectSet">All Sets</h2>
             
+            <h3 class="format-title">Standard</h3>
+            <ul id="all-sets-ul">
+                <li class="all-sets-li">Kaldheim - <a href=#"">&nbsp;Draft</a></li>
+                <li class="all-sets-li">Zendikar Rising - <a href="">&nbsp;Draft</a></li>
+                <li class="all-sets-li">Core 2021 - <a href="#">&nbsp;Draft</a></li>
+                <li class="all-sets-li">Ikoria: Lair of Behemoths - <a href="#">&nbsp;Draft</a></li>
+                <li class="all-sets-li">Theros Beyond Death - <a href="#">&nbsp;Draft</a></li>
+                <li class="all-sets-li">Throne of Eldraine - <a href="#">&nbsp;Draft</a></li>
+            </ul>
+            <h3 class="format-title">Eternal</h3>
+
+
         </main>
         <footer>
             <p class="rightsReserved">Magic: The Gathering and its logos are trademarks of Wizards of the Coast LLC, subsidiary of Hasbro, Inc. DRAFTBOYS is not approved, endorsed, or affiliated with/by Wizards of the Coast.
             <br>&copy; 2020 DRAFTBOYS. All rights reserved.</p>
         </footer>
-        <script src="/static/scripts/contact.js"></script>
+        <!-- <script src="/scripts/window.js"></script> -->
+        <script src="/static/scripts/draft.js"></script>
     </body>
 </html>
+
+    
+      

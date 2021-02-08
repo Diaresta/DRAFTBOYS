@@ -13,12 +13,12 @@
 - [ ] Set up node + express
 	- [ ] Route html through node
 
-- [x] Link MTG Card API 
+- ~~[x] Link MTG Card API~~
 
 - [ ] HTML for drafting page
 	- [x] Send MTG API to HTML
 	- [x] ~~Event for selectedCards. When hovered, create preview of full card to the left of container~~ Instead added z-index to card appear in the forefront when hovered.
-	- [ ] Add draggable/repositional to selectedCards
+	- ~~[ ] Add draggable/repositional to selectedCards~~
 	- [ ] Add sorting to selectedCards - Order picked/CMC/Color
 	- [x] Remove hard-coded card img tags 
 	- [ ] FIX DRAFT CONTAINER TO BE RESIZABLE FOR WINDOW, BUT NOT FOR CARD AMOUNT
@@ -36,6 +36,8 @@
 - [ ] Add all sets html
 
 - [ ] Media Queries for draft page
+
+- [ ] Double check for accessibility(alt, etc.)
 
 ___
 **Ideas** 
