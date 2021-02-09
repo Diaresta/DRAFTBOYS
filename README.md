@@ -10,8 +10,12 @@
 - [x] When media query <=630, have set title always visible
 	- [x] Fix extra set names popping up	
 
-- [ ] Set up node + express
+- [x] Set up node + express
 	- [ ] Route html through node
+	- [ ] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js
+	- [ ] Dynamically change sets for draft.js. Pass in draft name as a function in app.js routing
+
+- [ ] Refactor HTML to extend layouts + remove redundant code
 
 - ~~[x] Link MTG Card API~~
 
@@ -26,12 +30,6 @@
 - [x] Border Radius on Draft cards to remove non-transparent corners
 
 - [x] Submit contact form to DB or email
-
-- [ ] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js
-
-- [ ] Refactor HTML to extend layouts + remove redundant code
-
-- [ ] Dynamically change sets for draft.js. Pass in draft name as a function in app.js routing
 
 - [x] Add all sets html
 

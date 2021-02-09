@@ -152,6 +152,14 @@ xhttp.onreadystatechange = function() {
         // Set h2 element as set name
         if (response[1].set == 'znr'){
             document.getElementById('selectSet').innerHTML = 'Zendikar Rising';
+        } else if (response[1].set == 'm21'){
+            document.getElementById('selectSet').innerHTML = 'Core Set 2021';
+        } else if (response[1].set == 'iko'){
+            document.getElementById('selectSet').innerHTML = 'Ikoria: Lair of Behemoths';
+        } else if (response[1].set == 'thb'){
+            document.getElementById('selectSet').innerHTML = 'Theros Beyond Death';
+        } else if (response[1].set == 'eld'){
+            document.getElementById('selectSet').innerHTML = 'Throne of Eldraine';
         }
 
         // Set number to individual boosters
@@ -212,17 +220,17 @@ xhttp.onreadystatechange = function() {
         // Loop through set json and append to webpage
         function boosterCards(amount, filter){
             for (let i = 0; i < amount; i++){
-                var znrCards = filter[Math.floor(Math.random() * filter.length)];
+                var jsonCards = filter[Math.floor(Math.random() * filter.length)];
                 
                 // Card values
-                var znrCommonCardName = znrCards.name;
-                var znrCommonCardRarity = znrCards.rarity;
-                var znrCommonCardImg = znrCards.image_uris[0];   
+                var jsonCommonCardName = jsonCards.name;
+                var jsonCommonCardRarity = jsonCards.rarity;
+                var jsonCommonCardImg = jsonCards.image_uris[0];   
     
                 // Appending card images to webpage
                 const cardImage = document.createElement('img');
                 const packsCardsDiv = document.getElementById('packsCards');
-                cardImage.src = znrCommonCardImg;
+                cardImage.src = jsonCommonCardImg;
                 cardImage.className = 'draftCards';
                 cardImage.name = packCount;
 
