@@ -25,7 +25,7 @@
 
 - [x] Border Radius on Draft cards to remove non-transparent corners
 
-- [ ] Submit contact form to DB or email
+- [x] Submit contact form to DB or email
 
 - [ ] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js
 
@@ -33,7 +33,7 @@
 
 - [ ] Dynamically change sets for draft.js. Pass in draft name as a function in app.js routing
 
-- [ ] Add all sets html
+- [x] Add all sets html
 
 - [ ] Media Queries for draft page
 
@@ -51,4 +51,14 @@ ___
  - [ ] html variable names (and their corresponding css/js variable declarations)
 
  - [ ] js variable names (mostly titled test(div/pack/etc)
+
+ __
+
+# About
+
+- node.js npm install -g npm
+
+- express npm install express --save
+
+- Contact page form connects to Formspree to catalogue messages.
 

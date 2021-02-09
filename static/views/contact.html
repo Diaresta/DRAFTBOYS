@@ -47,30 +47,30 @@
         <main>
             <h2 id="title">Contact</h2>
             <div id="form-wrapper">
-                <form id="contact-form" method="POST" action="mailto:TheAndrewRobles@yahoo.com" role="form">
+                <form id="contact-form" action="https://formspree.io/f/mwkwapyr" method="POST" role="form">
                     <p id="contact-description">Have any questions, problems, or suggestions? Feel free to get in touch with us and we'll get back to you as soon as possible!</p>
                     <div id="form-name">
                         <div class="form-group">
-                            <label id="name-label" for="last-name">First Name: </label><br>
-                            <input id="first-name" type="text"  placeholder="" required data-error="First name is required.">
+                            <label id="name-label" for="first-name">First Name: </label><br>
+                            <input id="first-name" type="text" placeholder="" required data-error="First name is required." name="first-name">
                         </div>
                         <div class="form-group">
                             <label id="name-label" for="last-name">Last Name:</label><br>
-                            <input id="last-name" type="text"  placeholder="" required data-error="Last name is required.">
+                            <input id="last-name" type="text" placeholder="" required data-error="Last name is required." name="last-name">
                         </div>
                     </div>
                     <div class="form-row">
                         <label id="email-label" for="form-email">Email:</label><br>
-                        <input id="form-email" type="email"  placeholder="" required>
+                        <input id="form-email" type="email" placeholder="" required name="form-email">
                     </div>
 
                     <div class="form-row">
                         <label id="message-label" for="form-message">Message:</label><br>
-                        <textarea id="form-message" placeholder="" required data-error="You've gotta' write a message!"></textarea>
+                        <textarea id="form-message" placeholder="" required data-error="You've gotta' write a message!" name="form-message"></textarea>
                     </div>
 
                     <div>
-                        <input id="contact-submit" type="submit" class="submit-button" value="Send Message" target="_blank">
+                        <input id="contact-submit" type="submit" class="submit-button" value="Send Message">
                     </div>
                 </form>
             </div>

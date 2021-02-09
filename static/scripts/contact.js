@@ -9,5 +9,4 @@ submitButton.onclick = () => messageSent();
 
 function messageSent(){
     submitButton.value = 'Message Sent!';
-    console.log('reee');
 }

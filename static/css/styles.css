@@ -542,7 +542,9 @@ textarea:focus  {
 .all-sets-li {
     display: flex;
     flex-direction: column;
-    margin: 5px 0px;
+    flex-flow: row;
+    margin: 7px 0px;
+
 }
 
 .all-sets-li:hover {
@@ -551,6 +553,10 @@ textarea:focus  {
 
 .all-sets-li > a {
     color: #65b3ba;
+}
+
+.all-sets-li > a:hover {
+    color: rgb(101, 179, 186, 0.5);
 }
 
 .format-title {
