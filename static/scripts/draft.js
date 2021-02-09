@@ -14,88 +14,88 @@ xhttp.onreadystatechange = function() {
         var packCounter = 1;
 
         // ---------- REFACTOR BELOW ----------
-        var testDiv0 = document.getElementById('boosterPackDiv0');
-        var testDiv1 = document.getElementById('boosterPackDiv1');
-        var testDiv2 = document.getElementById('boosterPackDiv2');
-        var testDiv3 = document.getElementById('boosterPackDiv3');
-        var testDiv4 = document.getElementById('boosterPackDiv4');
-        var testDiv5 = document.getElementById('boosterPackDiv5');
-        var testDiv6 = document.getElementById('boosterPackDiv6');
-        var testDiv7 = document.getElementById('boosterPackDiv7');
+        var packDiv0 = document.getElementById('boosterPackDiv0');
+        var packDiv1 = document.getElementById('boosterPackDiv1');
+        var packDiv2 = document.getElementById('boosterPackDiv2');
+        var packDiv3 = document.getElementById('boosterPackDiv3');
+        var packDiv4 = document.getElementById('boosterPackDiv4');
+        var packDiv5 = document.getElementById('boosterPackDiv5');
+        var packDiv6 = document.getElementById('boosterPackDiv6');
+        var packDiv7 = document.getElementById('boosterPackDiv7');
         
-        var testDiv8 = document.getElementById('boosterPackDiv8');
-        var testDiv9 = document.getElementById('boosterPackDiv9');
-        var testDiv10 = document.getElementById('boosterPackDiv10');
-        var testDiv11 = document.getElementById('boosterPackDiv11');
-        var testDiv12 = document.getElementById('boosterPackDiv12');
-        var testDiv13 = document.getElementById('boosterPackDiv13');
-        var testDiv14 = document.getElementById('boosterPackDiv14');
-        var testDiv15 = document.getElementById('boosterPackDiv15');
+        var packDiv8 = document.getElementById('boosterPackDiv8');
+        var packDiv9 = document.getElementById('boosterPackDiv9');
+        var packDiv10 = document.getElementById('boosterPackDiv10');
+        var packDiv11 = document.getElementById('boosterPackDiv11');
+        var packDiv12 = document.getElementById('boosterPackDiv12');
+        var packDiv13 = document.getElementById('boosterPackDiv13');
+        var packDiv14 = document.getElementById('boosterPackDiv14');
+        var packDiv15 = document.getElementById('boosterPackDiv15');
 
-        var testDiv16 = document.getElementById('boosterPackDiv16');
-        var testDiv17 = document.getElementById('boosterPackDiv17');
-        var testDiv18 = document.getElementById('boosterPackDiv18');
-        var testDiv19 = document.getElementById('boosterPackDiv19');
-        var testDiv20 = document.getElementById('boosterPackDiv20');
-        var testDiv21 = document.getElementById('boosterPackDiv21');
-        var testDiv22 = document.getElementById('boosterPackDiv22');
-        var testDiv23 = document.getElementById('boosterPackDiv23');
+        var packDiv16 = document.getElementById('boosterPackDiv16');
+        var packDiv17 = document.getElementById('boosterPackDiv17');
+        var packDiv18 = document.getElementById('boosterPackDiv18');
+        var packDiv19 = document.getElementById('boosterPackDiv19');
+        var packDiv20 = document.getElementById('boosterPackDiv20');
+        var packDiv21 = document.getElementById('boosterPackDiv21');
+        var packDiv22 = document.getElementById('boosterPackDiv22');
+        var packDiv23 = document.getElementById('boosterPackDiv23');
 
-        var testCards0 = document.getElementsByName('0');
-        var testCards1 = document.getElementsByName('1');
-        var testCards2 = document.getElementsByName('2');
-        var testCards3 = document.getElementsByName('3');
-        var testCards4 = document.getElementsByName('4');
-        var testCards5 = document.getElementsByName('5');
-        var testCards6 = document.getElementsByName('6');
-        var testCards7 = document.getElementsByName('7');
+        var packCards0 = document.getElementsByName('0');
+        var packCards1 = document.getElementsByName('1');
+        var packCards2 = document.getElementsByName('2');
+        var packCards3 = document.getElementsByName('3');
+        var packCards4 = document.getElementsByName('4');
+        var packCards5 = document.getElementsByName('5');
+        var packCards6 = document.getElementsByName('6');
+        var packCards7 = document.getElementsByName('7');
 
-        var testCards8 = document.getElementsByName('8');
-        var testCards9 = document.getElementsByName('9');
-        var testCards10 = document.getElementsByName('10');
-        var testCards11 = document.getElementsByName('11');
-        var testCards12 = document.getElementsByName('12');
-        var testCards13 = document.getElementsByName('13');
-        var testCards14 = document.getElementsByName('14');
-        var testCards15 = document.getElementsByName('15');
+        var packCards8 = document.getElementsByName('8');
+        var packCards9 = document.getElementsByName('9');
+        var packCards10 = document.getElementsByName('10');
+        var packCards11 = document.getElementsByName('11');
+        var packCards12 = document.getElementsByName('12');
+        var packCards13 = document.getElementsByName('13');
+        var packCards14 = document.getElementsByName('14');
+        var packCards15 = document.getElementsByName('15');
 
-        var testCards16 = document.getElementsByName('16');
-        var testCards17 = document.getElementsByName('17');
-        var testCards18 = document.getElementsByName('18');
-        var testCards19 = document.getElementsByName('19');
-        var testCards20 = document.getElementsByName('20');
-        var testCards21 = document.getElementsByName('21');
-        var testCards22 = document.getElementsByName('22');
-        var testCards23 = document.getElementsByName('23');
+        var packCards16 = document.getElementsByName('16');
+        var packCards17 = document.getElementsByName('17');
+        var packCards18 = document.getElementsByName('18');
+        var packCards19 = document.getElementsByName('19');
+        var packCards20 = document.getElementsByName('20');
+        var packCards21 = document.getElementsByName('21');
+        var packCards22 = document.getElementsByName('22');
+        var packCards23 = document.getElementsByName('23');
         // ---------- REFACTOR ABOVE ----------
 
         // Sets boosterPackDivs display to none
         function displayNone(){
-            testDiv1.style.display = 'none';
-            testDiv2.style.display = 'none';
-            testDiv3.style.display = 'none';
-            testDiv4.style.display = 'none';
-            testDiv5.style.display = 'none';
-            testDiv6.style.display = 'none';
-            testDiv7.style.display = 'none';
+            packDiv1.style.display = 'none';
+            packDiv2.style.display = 'none';
+            packDiv3.style.display = 'none';
+            packDiv4.style.display = 'none';
+            packDiv5.style.display = 'none';
+            packDiv6.style.display = 'none';
+            packDiv7.style.display = 'none';
 
-            testDiv8.style.display = 'none';
-            testDiv9.style.display = 'none';
-            testDiv10.style.display = 'none';
-            testDiv11.style.display = 'none';
-            testDiv12.style.display = 'none';
-            testDiv13.style.display = 'none';
-            testDiv14.style.display = 'none';
-            testDiv15.style.display = 'none';
+            packDiv8.style.display = 'none';
+            packDiv9.style.display = 'none';
+            packDiv10.style.display = 'none';
+            packDiv11.style.display = 'none';
+            packDiv12.style.display = 'none';
+            packDiv13.style.display = 'none';
+            packDiv14.style.display = 'none';
+            packDiv15.style.display = 'none';
 
-            testDiv16.style.display = 'none';
-            testDiv17.style.display = 'none';
-            testDiv18.style.display = 'none';
-            testDiv19.style.display = 'none';
-            testDiv20.style.display = 'none';
-            testDiv21.style.display = 'none';
-            testDiv22.style.display = 'none';
-            testDiv23.style.display = 'none';
+            packDiv16.style.display = 'none';
+            packDiv17.style.display = 'none';
+            packDiv18.style.display = 'none';
+            packDiv19.style.display = 'none';
+            packDiv20.style.display = 'none';
+            packDiv21.style.display = 'none';
+            packDiv22.style.display = 'none';
+            packDiv23.style.display = 'none';
         }
 
         cardContainer.onclick = () => nextPacks();
@@ -106,22 +106,22 @@ xhttp.onreadystatechange = function() {
 
             // Fixes styling between packs 1/2/3
             if(cardCounter == 14){
-                testDiv6.style.display = 'none';
-                testDiv8.style.display = 'flex';
-                testDiv8.style.flexWrap = 'wrap';
-                testDiv8.style.justifyContent = 'center';
-                testDiv8.style.position = 'relative';
+                packDiv6.style.display = 'none';
+                packDiv8.style.display = 'flex';
+                packDiv8.style.flexWrap = 'wrap';
+                packDiv8.style.justifyContent = 'center';
+                packDiv8.style.position = 'relative';
             } else if(cardCounter == 28){
-                testDiv14.style.display = 'none';
-                testDiv16.style.display = 'flex';
-                testDiv16.style.flexWrap = 'wrap';
-                testDiv16.style.justifyContent = 'center';
-                testDiv16.style.position = 'relative';
+                packDiv14.style.display = 'none';
+                packDiv16.style.display = 'flex';
+                packDiv16.style.flexWrap = 'wrap';
+                packDiv16.style.justifyContent = 'center';
+                packDiv16.style.position = 'relative';
             } 
 
             // When all cards are selected...
             if(cardCounter == 42){
-                testDiv22.style.display = 'none';
+                packDiv22.style.display = 'none';
                 
                 // Creates new final div and appends it to cardContainer
                 var draftedCards = document.createElement('div');
@@ -238,59 +238,59 @@ xhttp.onreadystatechange = function() {
                 // Appending card images to respective boosterPackDivs
                 // Pack(s) 1
                 if(cardImage.name == 0){
-                    testDiv0.append(cardImage);
+                    packDiv0.append(cardImage);
                 } else if (cardImage.name == 1) {
-                    testDiv1.append(cardImage);
+                    packDiv1.append(cardImage);
                 } else if (cardImage.name == 2) {
-                    testDiv2.append(cardImage);
+                    packDiv2.append(cardImage);
                 } else if (cardImage.name == 3) {
-                    testDiv3.append(cardImage);
+                    packDiv3.append(cardImage);
                 } else if (cardImage.name == 4) {
-                    testDiv4.append(cardImage);
+                    packDiv4.append(cardImage);
                 } else if (cardImage.name == 5) {
-                    testDiv5.append(cardImage);
+                    packDiv5.append(cardImage);
                 } else if (cardImage.name == 6) {
-                    testDiv6.append(cardImage);
+                    packDiv6.append(cardImage);
                 } else if (cardImage.name == 7) {
-                    testDiv7.append(cardImage);
+                    packDiv7.append(cardImage);
                 } 
                 
                 // Pack(s) 2
                 if (cardImage.name == 8) {
-                    testDiv8.append(cardImage);
+                    packDiv8.append(cardImage);
                 } else if (cardImage.name == 9) {
-                    testDiv9.append(cardImage);
+                    packDiv9.append(cardImage);
                 } else if (cardImage.name == 10) {
-                    testDiv10.append(cardImage);
+                    packDiv10.append(cardImage);
                 } else if (cardImage.name == 11) {
-                    testDiv11.append(cardImage);
+                    packDiv11.append(cardImage);
                 } else if (cardImage.name == 12) {
-                    testDiv12.append(cardImage);
+                    packDiv12.append(cardImage);
                 } else if (cardImage.name == 13) {
-                    testDiv13.append(cardImage);
+                    packDiv13.append(cardImage);
                 } else if (cardImage.name == 14) {
-                    testDiv14.append(cardImage);
+                    packDiv14.append(cardImage);
                 } else if (cardImage.name == 15) {
-                    testDiv15.append(cardImage);
+                    packDiv15.append(cardImage);
                 } 
                 
                 // Pack(s) 3
                 if (cardImage.name == 16) {
-                    testDiv16.append(cardImage);
+                    packDiv16.append(cardImage);
                 } else if (cardImage.name == 17) {
-                    testDiv17.append(cardImage);
+                    packDiv17.append(cardImage);
                 } else if (cardImage.name == 18) {
-                    testDiv18.append(cardImage);
+                    packDiv18.append(cardImage);
                 } else if (cardImage.name == 19) {
-                    testDiv19.append(cardImage);
+                    packDiv19.append(cardImage);
                 } else if (cardImage.name == 20) {
-                    testDiv20.append(cardImage);
+                    packDiv20.append(cardImage);
                 } else if (cardImage.name == 21) {
-                    testDiv21.append(cardImage);
+                    packDiv21.append(cardImage);
                 } else if (cardImage.name == 22) {
-                    testDiv22.append(cardImage);
+                    packDiv22.append(cardImage);
                 }  else if (cardImage.name == 23) {
-                    testDiv23.append(cardImage);
+                    packDiv23.append(cardImage);
                 }
                 // ---------- REFACTOR ABOVE ----------
 
@@ -305,59 +305,59 @@ xhttp.onreadystatechange = function() {
                         // Appending card images to selected div
                         // Pack(s) 1
                         if(cardImage.name == 0){
-                            testDiv0.removeChild(cardImage);
+                            packDiv0.removeChild(cardImage);
                         } else if (cardImage.name == 1) {
-                            testDiv1.removeChild(cardImage);
+                            packDiv1.removeChild(cardImage);
                         } else if (cardImage.name == 2) {
-                            testDiv2.removeChild(cardImage);
+                            packDiv2.removeChild(cardImage);
                         } else if (cardImage.name == 3) {
-                            testDiv3.removeChild(cardImage);
+                            packDiv3.removeChild(cardImage);
                         } else if (cardImage.name == 4) {
-                            testDiv4.removeChild(cardImage);
+                            packDiv4.removeChild(cardImage);
                         } else if (cardImage.name == 5) {
-                            testDiv5.removeChild(cardImage);
+                            packDiv5.removeChild(cardImage);
                         } else if (cardImage.name == 6) {
-                            testDiv6.removeChild(cardImage);
+                            packDiv6.removeChild(cardImage);
                         } else if (cardImage.name == 7) {
-                            testDiv7.removeChild(cardImage);
+                            packDiv7.removeChild(cardImage);
                         }
 
                         // Pack(s) 2
                         if(cardImage.name == 8){
-                            testDiv8.removeChild(cardImage);
+                            packDiv8.removeChild(cardImage);
                         } else if (cardImage.name == 9) {
-                            testDiv9.removeChild(cardImage);
+                            packDiv9.removeChild(cardImage);
                         } else if (cardImage.name == 10) {
-                            testDiv10.removeChild(cardImage);
+                            packDiv10.removeChild(cardImage);
                         } else if (cardImage.name == 11) {
-                            testDiv11.removeChild(cardImage);
+                            packDiv11.removeChild(cardImage);
                         } else if (cardImage.name == 12) {
-                            testDiv12.removeChild(cardImage);
+                            packDiv12.removeChild(cardImage);
                         } else if (cardImage.name == 13) {
-                            testDiv13.removeChild(cardImage);
+                            packDiv13.removeChild(cardImage);
                         } else if (cardImage.name == 14) {
-                            testDiv14.removeChild(cardImage);
+                            packDiv14.removeChild(cardImage);
                         } else if (cardImage.name == 15) {
-                            testDiv15.removeChild(cardImage);
+                            packDiv15.removeChild(cardImage);
                         }
 
                         // Pack(s) 3
                         if(cardImage.name == 16){
-                            testDiv16.removeChild(cardImage);
+                            packDiv16.removeChild(cardImage);
                         } else if (cardImage.name == 17) {
-                            testDiv17.removeChild(cardImage);
+                            packDiv17.removeChild(cardImage);
                         } else if (cardImage.name == 18) {
-                            testDiv18.removeChild(cardImage);
+                            packDiv18.removeChild(cardImage);
                         } else if (cardImage.name == 19) {
-                            testDiv19.removeChild(cardImage);
+                            packDiv19.removeChild(cardImage);
                         } else if (cardImage.name == 20) {
-                            testDiv20.removeChild(cardImage);
+                            packDiv20.removeChild(cardImage);
                         } else if (cardImage.name == 21) {
-                            testDiv21.removeChild(cardImage);
+                            packDiv21.removeChild(cardImage);
                         } else if (cardImage.name == 22) {
-                            testDiv22.removeChild(cardImage);
+                            packDiv22.removeChild(cardImage);
                         } else if (cardImage.name == 23) {
-                            testDiv23.removeChild(cardImage);
+                            packDiv23.removeChild(cardImage);
                         }
                         // ---------- REFACTOR ABOVE ----------
 
@@ -366,415 +366,415 @@ xhttp.onreadystatechange = function() {
                         // Pack(s) 1
                         if(cardImage.name == 0){
                             // "Passing" packs | Styling pack divs
-                            testDiv0.style.display = 'none';
-                            testDiv1.style.display = 'flex';
-                            testDiv1.style.flexWrap = 'wrap';
-                            testDiv1.style.justifyContent = 'center';
-                            testDiv1.style.position = 'relative';
+                            packDiv0.style.display = 'none';
+                            packDiv1.style.display = 'flex';
+                            packDiv1.style.flexWrap = 'wrap';
+                            packDiv1.style.justifyContent = 'center';
+                            packDiv1.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
-                            testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
-                            testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
-                            testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
-                            testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
-                            testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
-                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
+                            packDiv1.removeChild(packCards1[randomNum(packDiv1.childElementCount)]);
+                            packDiv2.removeChild(packCards2[randomNum(packDiv2.childElementCount)]);
+                            packDiv3.removeChild(packCards3[randomNum(packDiv3.childElementCount)]);
+                            packDiv4.removeChild(packCards4[randomNum(packDiv4.childElementCount)]);
+                            packDiv5.removeChild(packCards5[randomNum(packDiv5.childElementCount)]);
+                            packDiv6.removeChild(packCards6[randomNum(packDiv6.childElementCount)]);
+                            packDiv7.removeChild(packCards7[randomNum(packDiv7.childElementCount)]);
 
                         } else if(cardImage.name == 1){
                             // "Passing" packs | Styling pack divs
-                            testDiv1.style.display = 'none';
-                            testDiv2.style.display = 'flex';
-                            testDiv2.style.flexWrap = 'wrap';
-                            testDiv2.style.justifyContent = 'center';
-                            testDiv2.style.position = 'relative';
+                            packDiv1.style.display = 'none';
+                            packDiv2.style.display = 'flex';
+                            packDiv2.style.flexWrap = 'wrap';
+                            packDiv2.style.justifyContent = 'center';
+                            packDiv2.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
-                            testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
-                            testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
-                            testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
-                            testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
-                            testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
-                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
+                            packDiv0.removeChild(packCards0[randomNum(packDiv0.childElementCount)]);
+                            packDiv2.removeChild(packCards2[randomNum(packDiv2.childElementCount)]);
+                            packDiv3.removeChild(packCards3[randomNum(packDiv3.childElementCount)]);
+                            packDiv4.removeChild(packCards4[randomNum(packDiv4.childElementCount)]);
+                            packDiv5.removeChild(packCards5[randomNum(packDiv5.childElementCount)]);
+                            packDiv6.removeChild(packCards6[randomNum(packDiv6.childElementCount)]);
+                            packDiv7.removeChild(packCards7[randomNum(packDiv7.childElementCount)]);
 
                         } else if(cardImage.name == 2){
                             // "Passing" packs | Styling pack divs
-                            testDiv2.style.display = 'none';
-                            testDiv3.style.display = 'flex';
-                            testDiv3.style.flexWrap = 'wrap';
-                            testDiv3.style.justifyContent = 'center';
-                            testDiv3.style.position = 'relative';
+                            packDiv2.style.display = 'none';
+                            packDiv3.style.display = 'flex';
+                            packDiv3.style.flexWrap = 'wrap';
+                            packDiv3.style.justifyContent = 'center';
+                            packDiv3.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
-                            testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
-                            testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
-                            testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
-                            testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
-                            testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
-                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);    
+                            packDiv0.removeChild(packCards0[randomNum(packDiv0.childElementCount)]);
+                            packDiv1.removeChild(packCards1[randomNum(packDiv1.childElementCount)]);
+                            packDiv3.removeChild(packCards3[randomNum(packDiv3.childElementCount)]);
+                            packDiv4.removeChild(packCards4[randomNum(packDiv4.childElementCount)]);
+                            packDiv5.removeChild(packCards5[randomNum(packDiv5.childElementCount)]);
+                            packDiv6.removeChild(packCards6[randomNum(packDiv6.childElementCount)]);
+                            packDiv7.removeChild(packCards7[randomNum(packDiv7.childElementCount)]);    
 
                         } else if(cardImage.name == 3){
                             // "Passing" packs | Styling pack divs
-                            testDiv3.style.display = 'none';
-                            testDiv4.style.display = 'flex';
-                            testDiv4.style.flexWrap = 'wrap';
-                            testDiv4.style.justifyContent = 'center';
-                            testDiv4.style.position = 'relative';
+                            packDiv3.style.display = 'none';
+                            packDiv4.style.display = 'flex';
+                            packDiv4.style.flexWrap = 'wrap';
+                            packDiv4.style.justifyContent = 'center';
+                            packDiv4.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
-                            testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
-                            testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
-                            testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
-                            testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
-                            testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
-                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
+                            packDiv0.removeChild(packCards0[randomNum(packDiv0.childElementCount)]);
+                            packDiv1.removeChild(packCards1[randomNum(packDiv1.childElementCount)]);
+                            packDiv2.removeChild(packCards2[randomNum(packDiv2.childElementCount)]);
+                            packDiv4.removeChild(packCards4[randomNum(packDiv4.childElementCount)]);
+                            packDiv5.removeChild(packCards5[randomNum(packDiv5.childElementCount)]);
+                            packDiv6.removeChild(packCards6[randomNum(packDiv6.childElementCount)]);
+                            packDiv7.removeChild(packCards7[randomNum(packDiv7.childElementCount)]);
 
                         } else if(cardImage.name == 4){
                             // "Passing" packs | Styling pack divs
-                            testDiv4.style.display = 'none';
-                            testDiv5.style.display = 'flex';
-                            testDiv5.style.flexWrap = 'wrap';
-                            testDiv5.style.justifyContent = 'center';
-                            testDiv5.style.position = 'relative';
+                            packDiv4.style.display = 'none';
+                            packDiv5.style.display = 'flex';
+                            packDiv5.style.flexWrap = 'wrap';
+                            packDiv5.style.justifyContent = 'center';
+                            packDiv5.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
-                            testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
-                            testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
-                            testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
-                            testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
-                            testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
-                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
+                            packDiv0.removeChild(packCards0[randomNum(packDiv0.childElementCount)]);
+                            packDiv1.removeChild(packCards1[randomNum(packDiv1.childElementCount)]);
+                            packDiv2.removeChild(packCards2[randomNum(packDiv2.childElementCount)]);
+                            packDiv3.removeChild(packCards3[randomNum(packDiv3.childElementCount)]);
+                            packDiv5.removeChild(packCards5[randomNum(packDiv5.childElementCount)]);
+                            packDiv6.removeChild(packCards6[randomNum(packDiv6.childElementCount)]);
+                            packDiv7.removeChild(packCards7[randomNum(packDiv7.childElementCount)]);
 
                         } else if(cardImage.name == 5){
                             // "Passing" packs | Styling pack divs
-                            testDiv5.style.display = 'none';
-                            testDiv6.style.display = 'flex';
-                            testDiv6.style.flexWrap = 'wrap';
-                            testDiv6.style.justifyContent = 'center';
-                            testDiv6.style.position = 'relative';
+                            packDiv5.style.display = 'none';
+                            packDiv6.style.display = 'flex';
+                            packDiv6.style.flexWrap = 'wrap';
+                            packDiv6.style.justifyContent = 'center';
+                            packDiv6.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
-                            testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
-                            testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
-                            testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
-                            testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
-                            testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
-                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
+                            packDiv0.removeChild(packCards0[randomNum(packDiv0.childElementCount)]);
+                            packDiv1.removeChild(packCards1[randomNum(packDiv1.childElementCount)]);
+                            packDiv2.removeChild(packCards2[randomNum(packDiv2.childElementCount)]);
+                            packDiv3.removeChild(packCards3[randomNum(packDiv3.childElementCount)]);
+                            packDiv4.removeChild(packCards4[randomNum(packDiv4.childElementCount)]);
+                            packDiv6.removeChild(packCards6[randomNum(packDiv6.childElementCount)]);
+                            packDiv7.removeChild(packCards7[randomNum(packDiv7.childElementCount)]);
 
                         } else if(cardImage.name == 6){
                             // "Passing" packs | Styling pack divs
-                            testDiv6.style.display = 'none';
-                            testDiv7.style.display = 'flex';
-                            testDiv7.style.flexWrap = 'wrap';
-                            testDiv7.style.justifyContent = 'center';
-                            testDiv7.style.position = 'relative';
+                            packDiv6.style.display = 'none';
+                            packDiv7.style.display = 'flex';
+                            packDiv7.style.flexWrap = 'wrap';
+                            packDiv7.style.justifyContent = 'center';
+                            packDiv7.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
-                            testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
-                            testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
-                            testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
-                            testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
-                            testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
-                            testDiv7.removeChild(testCards7[randomNum(testDiv7.childElementCount)]);
+                            packDiv0.removeChild(packCards0[randomNum(packDiv0.childElementCount)]);
+                            packDiv1.removeChild(packCards1[randomNum(packDiv1.childElementCount)]);
+                            packDiv2.removeChild(packCards2[randomNum(packDiv2.childElementCount)]);
+                            packDiv3.removeChild(packCards3[randomNum(packDiv3.childElementCount)]);
+                            packDiv4.removeChild(packCards4[randomNum(packDiv4.childElementCount)]);
+                            packDiv5.removeChild(packCards5[randomNum(packDiv5.childElementCount)]);
+                            packDiv7.removeChild(packCards7[randomNum(packDiv7.childElementCount)]);
 
                         } else if(cardImage.name == 7){
                             // "Passing" packs | Styling pack divs
-                            testDiv7.style.display = 'none';
-                            testDiv0.style.display = 'flex';
-                            testDiv0.style.flexWrap = 'wrap';
-                            testDiv0.style.justifyContent = 'center';
-                            testDiv0.style.position = 'relative';
+                            packDiv7.style.display = 'none';
+                            packDiv0.style.display = 'flex';
+                            packDiv0.style.flexWrap = 'wrap';
+                            packDiv0.style.justifyContent = 'center';
+                            packDiv0.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv0.removeChild(testCards0[randomNum(testDiv0.childElementCount)]);
-                            testDiv1.removeChild(testCards1[randomNum(testDiv1.childElementCount)]);
-                            testDiv2.removeChild(testCards2[randomNum(testDiv2.childElementCount)]);
-                            testDiv3.removeChild(testCards3[randomNum(testDiv3.childElementCount)]);
-                            testDiv4.removeChild(testCards4[randomNum(testDiv4.childElementCount)]);
-                            testDiv5.removeChild(testCards5[randomNum(testDiv5.childElementCount)]);
-                            testDiv6.removeChild(testCards6[randomNum(testDiv6.childElementCount)]);
+                            packDiv0.removeChild(packCards0[randomNum(packDiv0.childElementCount)]);
+                            packDiv1.removeChild(packCards1[randomNum(packDiv1.childElementCount)]);
+                            packDiv2.removeChild(packCards2[randomNum(packDiv2.childElementCount)]);
+                            packDiv3.removeChild(packCards3[randomNum(packDiv3.childElementCount)]);
+                            packDiv4.removeChild(packCards4[randomNum(packDiv4.childElementCount)]);
+                            packDiv5.removeChild(packCards5[randomNum(packDiv5.childElementCount)]);
+                            packDiv6.removeChild(packCards6[randomNum(packDiv6.childElementCount)]);
                         }
                         
                         // Pack(s) 2
                         if(cardImage.name == 8){
                             // "Passing" packs | Styling pack divs
-                            testDiv8.style.display = 'none';
-                            testDiv9.style.display = 'flex';
-                            testDiv9.style.flexWrap = 'wrap';
-                            testDiv9.style.justifyContent = 'center';
-                            testDiv9.style.position = 'relative';
+                            packDiv8.style.display = 'none';
+                            packDiv9.style.display = 'flex';
+                            packDiv9.style.flexWrap = 'wrap';
+                            packDiv9.style.justifyContent = 'center';
+                            packDiv9.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
-                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
-                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
-                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
-                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
-                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
-                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+                            packDiv9.removeChild(packCards9[randomNum(packDiv9.childElementCount)]);
+                            packDiv10.removeChild(packCards10[randomNum(packDiv10.childElementCount)]);
+                            packDiv11.removeChild(packCards11[randomNum(packDiv11.childElementCount)]);
+                            packDiv12.removeChild(packCards12[randomNum(packDiv12.childElementCount)]);
+                            packDiv13.removeChild(packCards13[randomNum(packDiv13.childElementCount)]);
+                            packDiv14.removeChild(packCards14[randomNum(packDiv14.childElementCount)]);
+                            packDiv15.removeChild(packCards15[randomNum(packDiv15.childElementCount)]);
 
                         } else if(cardImage.name == 9){
                             // "Passing" packs | Styling pack divs
-                            testDiv9.style.display = 'none';
-                            testDiv10.style.display = 'flex';
-                            testDiv10.style.flexWrap = 'wrap';
-                            testDiv10.style.justifyContent = 'center';
-                            testDiv10.style.position = 'relative';
+                            packDiv9.style.display = 'none';
+                            packDiv10.style.display = 'flex';
+                            packDiv10.style.flexWrap = 'wrap';
+                            packDiv10.style.justifyContent = 'center';
+                            packDiv10.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
-                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
-                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
-                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
-                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
-                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
-                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+                            packDiv8.removeChild(packCards8[randomNum(packDiv8.childElementCount)]);
+                            packDiv10.removeChild(packCards10[randomNum(packDiv10.childElementCount)]);
+                            packDiv11.removeChild(packCards11[randomNum(packDiv11.childElementCount)]);
+                            packDiv12.removeChild(packCards12[randomNum(packDiv12.childElementCount)]);
+                            packDiv13.removeChild(packCards13[randomNum(packDiv13.childElementCount)]);
+                            packDiv14.removeChild(packCards14[randomNum(packDiv14.childElementCount)]);
+                            packDiv15.removeChild(packCards15[randomNum(packDiv15.childElementCount)]);
 
                         } else if(cardImage.name == 10){
                             // "Passing" packs | Styling pack divs
-                            testDiv10.style.display = 'none';
-                            testDiv11.style.display = 'flex';
-                            testDiv11.style.flexWrap = 'wrap';
-                            testDiv11.style.justifyContent = 'center';
-                            testDiv11.style.position = 'relative';
+                            packDiv10.style.display = 'none';
+                            packDiv11.style.display = 'flex';
+                            packDiv11.style.flexWrap = 'wrap';
+                            packDiv11.style.justifyContent = 'center';
+                            packDiv11.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
-                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
-                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
-                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
-                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
-                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
-                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);   
+                            packDiv8.removeChild(packCards8[randomNum(packDiv8.childElementCount)]);
+                            packDiv9.removeChild(packCards9[randomNum(packDiv9.childElementCount)]);
+                            packDiv11.removeChild(packCards11[randomNum(packDiv11.childElementCount)]);
+                            packDiv12.removeChild(packCards12[randomNum(packDiv12.childElementCount)]);
+                            packDiv13.removeChild(packCards13[randomNum(packDiv13.childElementCount)]);
+                            packDiv14.removeChild(packCards14[randomNum(packDiv14.childElementCount)]);
+                            packDiv15.removeChild(packCards15[randomNum(packDiv15.childElementCount)]);   
 
                         } else if(cardImage.name == 11){
                             // "Passing" packs | Styling pack divs
-                            testDiv11.style.display = 'none';
-                            testDiv12.style.display = 'flex';
-                            testDiv12.style.flexWrap = 'wrap';
-                            testDiv12.style.justifyContent = 'center';
-                            testDiv12.style.position = 'relative';
+                            packDiv11.style.display = 'none';
+                            packDiv12.style.display = 'flex';
+                            packDiv12.style.flexWrap = 'wrap';
+                            packDiv12.style.justifyContent = 'center';
+                            packDiv12.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
-                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
-                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
-                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
-                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
-                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
-                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+                            packDiv8.removeChild(packCards8[randomNum(packDiv8.childElementCount)]);
+                            packDiv9.removeChild(packCards9[randomNum(packDiv9.childElementCount)]);
+                            packDiv10.removeChild(packCards10[randomNum(packDiv10.childElementCount)]);
+                            packDiv12.removeChild(packCards12[randomNum(packDiv12.childElementCount)]);
+                            packDiv13.removeChild(packCards13[randomNum(packDiv13.childElementCount)]);
+                            packDiv14.removeChild(packCards14[randomNum(packDiv14.childElementCount)]);
+                            packDiv15.removeChild(packCards15[randomNum(packDiv15.childElementCount)]);
 
                         } else if(cardImage.name == 12){
                             // "Passing" packs | Styling pack divs
-                            testDiv12.style.display = 'none';
-                            testDiv13.style.display = 'flex';
-                            testDiv13.style.flexWrap = 'wrap';
-                            testDiv13.style.justifyContent = 'center';
-                            testDiv13.style.position = 'relative';
+                            packDiv12.style.display = 'none';
+                            packDiv13.style.display = 'flex';
+                            packDiv13.style.flexWrap = 'wrap';
+                            packDiv13.style.justifyContent = 'center';
+                            packDiv13.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
-                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
-                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
-                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
-                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
-                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
-                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+                            packDiv8.removeChild(packCards8[randomNum(packDiv8.childElementCount)]);
+                            packDiv9.removeChild(packCards9[randomNum(packDiv9.childElementCount)]);
+                            packDiv10.removeChild(packCards10[randomNum(packDiv10.childElementCount)]);
+                            packDiv11.removeChild(packCards11[randomNum(packDiv11.childElementCount)]);
+                            packDiv13.removeChild(packCards13[randomNum(packDiv13.childElementCount)]);
+                            packDiv14.removeChild(packCards14[randomNum(packDiv14.childElementCount)]);
+                            packDiv15.removeChild(packCards15[randomNum(packDiv15.childElementCount)]);
 
                         } else if(cardImage.name == 13){
                             // "Passing" packs | Styling pack divs
-                            testDiv13.style.display = 'none';
-                            testDiv14.style.display = 'flex';
-                            testDiv14.style.flexWrap = 'wrap';
-                            testDiv14.style.justifyContent = 'center';
-                            testDiv14.style.position = 'relative';
+                            packDiv13.style.display = 'none';
+                            packDiv14.style.display = 'flex';
+                            packDiv14.style.flexWrap = 'wrap';
+                            packDiv14.style.justifyContent = 'center';
+                            packDiv14.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
-                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
-                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
-                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
-                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
-                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
-                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+                            packDiv8.removeChild(packCards8[randomNum(packDiv8.childElementCount)]);
+                            packDiv9.removeChild(packCards9[randomNum(packDiv9.childElementCount)]);
+                            packDiv10.removeChild(packCards10[randomNum(packDiv10.childElementCount)]);
+                            packDiv11.removeChild(packCards11[randomNum(packDiv11.childElementCount)]);
+                            packDiv12.removeChild(packCards12[randomNum(packDiv12.childElementCount)]);
+                            packDiv14.removeChild(packCards14[randomNum(packDiv14.childElementCount)]);
+                            packDiv15.removeChild(packCards15[randomNum(packDiv15.childElementCount)]);
 
                         } else if(cardImage.name == 14){
                             // "Passing" packs | Styling pack divs
-                            testDiv14.style.display = 'none';
-                            testDiv15.style.display = 'flex';
-                            testDiv15.style.flexWrap = 'wrap';
-                            testDiv15.style.justifyContent = 'center';
-                            testDiv15.style.position = 'relative';
+                            packDiv14.style.display = 'none';
+                            packDiv15.style.display = 'flex';
+                            packDiv15.style.flexWrap = 'wrap';
+                            packDiv15.style.justifyContent = 'center';
+                            packDiv15.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
-                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
-                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
-                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
-                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
-                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
-                            testDiv15.removeChild(testCards15[randomNum(testDiv15.childElementCount)]);
+                            packDiv8.removeChild(packCards8[randomNum(packDiv8.childElementCount)]);
+                            packDiv9.removeChild(packCards9[randomNum(packDiv9.childElementCount)]);
+                            packDiv10.removeChild(packCards10[randomNum(packDiv10.childElementCount)]);
+                            packDiv11.removeChild(packCards11[randomNum(packDiv11.childElementCount)]);
+                            packDiv12.removeChild(packCards12[randomNum(packDiv12.childElementCount)]);
+                            packDiv13.removeChild(packCards13[randomNum(packDiv13.childElementCount)]);
+                            packDiv15.removeChild(packCards15[randomNum(packDiv15.childElementCount)]);
 
                         } else if(cardImage.name == 15){
                             // "Passing" packs | Styling pack divs
-                            testDiv15.style.display = 'none';
-                            testDiv8.style.display = 'flex';
-                            testDiv8.style.flexWrap = 'wrap';
-                            testDiv8.style.justifyContent = 'center';
-                            testDiv8.style.position = 'relative';
+                            packDiv15.style.display = 'none';
+                            packDiv8.style.display = 'flex';
+                            packDiv8.style.flexWrap = 'wrap';
+                            packDiv8.style.justifyContent = 'center';
+                            packDiv8.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv8.removeChild(testCards8[randomNum(testDiv8.childElementCount)]);
-                            testDiv9.removeChild(testCards9[randomNum(testDiv9.childElementCount)]);
-                            testDiv10.removeChild(testCards10[randomNum(testDiv10.childElementCount)]);
-                            testDiv11.removeChild(testCards11[randomNum(testDiv11.childElementCount)]);
-                            testDiv12.removeChild(testCards12[randomNum(testDiv12.childElementCount)]);
-                            testDiv13.removeChild(testCards13[randomNum(testDiv13.childElementCount)]);
-                            testDiv14.removeChild(testCards14[randomNum(testDiv14.childElementCount)]);
+                            packDiv8.removeChild(packCards8[randomNum(packDiv8.childElementCount)]);
+                            packDiv9.removeChild(packCards9[randomNum(packDiv9.childElementCount)]);
+                            packDiv10.removeChild(packCards10[randomNum(packDiv10.childElementCount)]);
+                            packDiv11.removeChild(packCards11[randomNum(packDiv11.childElementCount)]);
+                            packDiv12.removeChild(packCards12[randomNum(packDiv12.childElementCount)]);
+                            packDiv13.removeChild(packCards13[randomNum(packDiv13.childElementCount)]);
+                            packDiv14.removeChild(packCards14[randomNum(packDiv14.childElementCount)]);
                         }
 
                         // Pack(s) 3
                         if(cardImage.name == 16){
                             // "Passing" packs | Styling pack divs
-                            testDiv16.style.display = 'none';
-                            testDiv17.style.display = 'flex';
-                            testDiv17.style.flexWrap = 'wrap';
-                            testDiv17.style.justifyContent = 'center';
-                            testDiv17.style.position = 'relative';
+                            packDiv16.style.display = 'none';
+                            packDiv17.style.display = 'flex';
+                            packDiv17.style.flexWrap = 'wrap';
+                            packDiv17.style.justifyContent = 'center';
+                            packDiv17.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
-                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
-                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
-                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
-                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
-                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
-                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+                            packDiv17.removeChild(packCards17[randomNum(packDiv17.childElementCount)]);
+                            packDiv18.removeChild(packCards18[randomNum(packDiv18.childElementCount)]);
+                            packDiv19.removeChild(packCards19[randomNum(packDiv19.childElementCount)]);
+                            packDiv20.removeChild(packCards20[randomNum(packDiv20.childElementCount)]);
+                            packDiv21.removeChild(packCards21[randomNum(packDiv21.childElementCount)]);
+                            packDiv22.removeChild(packCards22[randomNum(packDiv22.childElementCount)]);
+                            packDiv23.removeChild(packCards23[randomNum(packDiv23.childElementCount)]);
 
                         } else if(cardImage.name == 17){
                             // "Passing" packs | Styling pack divs
-                            testDiv17.style.display = 'none';
-                            testDiv18.style.display = 'flex';
-                            testDiv18.style.flexWrap = 'wrap';
-                            testDiv18.style.justifyContent = 'center';
-                            testDiv18.style.position = 'relative';
+                            packDiv17.style.display = 'none';
+                            packDiv18.style.display = 'flex';
+                            packDiv18.style.flexWrap = 'wrap';
+                            packDiv18.style.justifyContent = 'center';
+                            packDiv18.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
-                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
-                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
-                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
-                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
-                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
-                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+                            packDiv16.removeChild(packCards16[randomNum(packDiv16.childElementCount)]);
+                            packDiv18.removeChild(packCards18[randomNum(packDiv18.childElementCount)]);
+                            packDiv19.removeChild(packCards19[randomNum(packDiv19.childElementCount)]);
+                            packDiv20.removeChild(packCards20[randomNum(packDiv20.childElementCount)]);
+                            packDiv21.removeChild(packCards21[randomNum(packDiv21.childElementCount)]);
+                            packDiv22.removeChild(packCards22[randomNum(packDiv22.childElementCount)]);
+                            packDiv23.removeChild(packCards23[randomNum(packDiv23.childElementCount)]);
 
                         } else if(cardImage.name == 18){
                             // "Passing" packs | Styling pack divs
-                            testDiv18.style.display = 'none';
-                            testDiv19.style.display = 'flex';
-                            testDiv19.style.flexWrap = 'wrap';
-                            testDiv19.style.justifyContent = 'center';
-                            testDiv19.style.position = 'relative';
+                            packDiv18.style.display = 'none';
+                            packDiv19.style.display = 'flex';
+                            packDiv19.style.flexWrap = 'wrap';
+                            packDiv19.style.justifyContent = 'center';
+                            packDiv19.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
-                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
-                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
-                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
-                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
-                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
-                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+                            packDiv16.removeChild(packCards16[randomNum(packDiv16.childElementCount)]);
+                            packDiv17.removeChild(packCards17[randomNum(packDiv17.childElementCount)]);
+                            packDiv19.removeChild(packCards19[randomNum(packDiv19.childElementCount)]);
+                            packDiv20.removeChild(packCards20[randomNum(packDiv20.childElementCount)]);
+                            packDiv21.removeChild(packCards21[randomNum(packDiv21.childElementCount)]);
+                            packDiv22.removeChild(packCards22[randomNum(packDiv22.childElementCount)]);
+                            packDiv23.removeChild(packCards23[randomNum(packDiv23.childElementCount)]);
 
                         } else if(cardImage.name == 19){
                             // "Passing" packs | Styling pack divs
-                            testDiv19.style.display = 'none';
-                            testDiv20.style.display = 'flex';
-                            testDiv20.style.flexWrap = 'wrap';
-                            testDiv20.style.justifyContent = 'center';
-                            testDiv20.style.position = 'relative';
+                            packDiv19.style.display = 'none';
+                            packDiv20.style.display = 'flex';
+                            packDiv20.style.flexWrap = 'wrap';
+                            packDiv20.style.justifyContent = 'center';
+                            packDiv20.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
-                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
-                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
-                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
-                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
-                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
-                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+                            packDiv16.removeChild(packCards16[randomNum(packDiv16.childElementCount)]);
+                            packDiv17.removeChild(packCards17[randomNum(packDiv17.childElementCount)]);
+                            packDiv18.removeChild(packCards18[randomNum(packDiv18.childElementCount)]);
+                            packDiv20.removeChild(packCards20[randomNum(packDiv20.childElementCount)]);
+                            packDiv21.removeChild(packCards21[randomNum(packDiv21.childElementCount)]);
+                            packDiv22.removeChild(packCards22[randomNum(packDiv22.childElementCount)]);
+                            packDiv23.removeChild(packCards23[randomNum(packDiv23.childElementCount)]);
 
                         } else if(cardImage.name == 20){
                             // "Passing" packs | Styling pack divs
-                            testDiv20.style.display = 'none';
-                            testDiv21.style.display = 'flex';
-                            testDiv21.style.flexWrap = 'wrap';
-                            testDiv21.style.justifyContent = 'center';
-                            testDiv21.style.position = 'relative';
+                            packDiv20.style.display = 'none';
+                            packDiv21.style.display = 'flex';
+                            packDiv21.style.flexWrap = 'wrap';
+                            packDiv21.style.justifyContent = 'center';
+                            packDiv21.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
-                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
-                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
-                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
-                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
-                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
-                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+                            packDiv16.removeChild(packCards16[randomNum(packDiv16.childElementCount)]);
+                            packDiv17.removeChild(packCards17[randomNum(packDiv17.childElementCount)]);
+                            packDiv18.removeChild(packCards18[randomNum(packDiv18.childElementCount)]);
+                            packDiv19.removeChild(packCards19[randomNum(packDiv19.childElementCount)]);
+                            packDiv21.removeChild(packCards21[randomNum(packDiv21.childElementCount)]);
+                            packDiv22.removeChild(packCards22[randomNum(packDiv22.childElementCount)]);
+                            packDiv23.removeChild(packCards23[randomNum(packDiv23.childElementCount)]);
 
                         } else if(cardImage.name == 21){
                             // "Passing" packs | Styling pack divs
-                            testDiv21.style.display = 'none';
-                            testDiv22.style.display = 'flex';
-                            testDiv22.style.flexWrap = 'wrap';
-                            testDiv22.style.justifyContent = 'center';
-                            testDiv22.style.position = 'relative';
+                            packDiv21.style.display = 'none';
+                            packDiv22.style.display = 'flex';
+                            packDiv22.style.flexWrap = 'wrap';
+                            packDiv22.style.justifyContent = 'center';
+                            packDiv22.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
-                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
-                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
-                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
-                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
-                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
-                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+                            packDiv16.removeChild(packCards16[randomNum(packDiv16.childElementCount)]);
+                            packDiv17.removeChild(packCards17[randomNum(packDiv17.childElementCount)]);
+                            packDiv18.removeChild(packCards18[randomNum(packDiv18.childElementCount)]);
+                            packDiv19.removeChild(packCards19[randomNum(packDiv19.childElementCount)]);
+                            packDiv20.removeChild(packCards20[randomNum(packDiv20.childElementCount)]);
+                            packDiv22.removeChild(packCards22[randomNum(packDiv22.childElementCount)]);
+                            packDiv23.removeChild(packCards23[randomNum(packDiv23.childElementCount)]);
 
                         } else if(cardImage.name == 22){
                             // "Passing" packs | Styling pack divs
-                            testDiv22.style.display = 'none';
-                            testDiv23.style.display = 'flex';
-                            testDiv23.style.flexWrap = 'wrap';
-                            testDiv23.style.justifyContent = 'center';
-                            testDiv23.style.position = 'relative';
+                            packDiv22.style.display = 'none';
+                            packDiv23.style.display = 'flex';
+                            packDiv23.style.flexWrap = 'wrap';
+                            packDiv23.style.justifyContent = 'center';
+                            packDiv23.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
-                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
-                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
-                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
-                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
-                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
-                            testDiv23.removeChild(testCards23[randomNum(testDiv23.childElementCount)]);
+                            packDiv16.removeChild(packCards16[randomNum(packDiv16.childElementCount)]);
+                            packDiv17.removeChild(packCards17[randomNum(packDiv17.childElementCount)]);
+                            packDiv18.removeChild(packCards18[randomNum(packDiv18.childElementCount)]);
+                            packDiv19.removeChild(packCards19[randomNum(packDiv19.childElementCount)]);
+                            packDiv20.removeChild(packCards20[randomNum(packDiv20.childElementCount)]);
+                            packDiv21.removeChild(packCards21[randomNum(packDiv21.childElementCount)]);
+                            packDiv23.removeChild(packCards23[randomNum(packDiv23.childElementCount)]);
 
                         } else if(cardImage.name == 23){
                             // "Passing" packs | Styling pack divs
-                            testDiv23.style.display = 'none';
-                            testDiv16.style.display = 'flex';
-                            testDiv16.style.flexWrap = 'wrap';
-                            testDiv16.style.justifyContent = 'center';
-                            testDiv16.style.position = 'relative';
+                            packDiv23.style.display = 'none';
+                            packDiv16.style.display = 'flex';
+                            packDiv16.style.flexWrap = 'wrap';
+                            packDiv16.style.justifyContent = 'center';
+                            packDiv16.style.position = 'relative';
 
                             // "Other players picking" cards | Randomly removing cards
-                            testDiv16.removeChild(testCards16[randomNum(testDiv16.childElementCount)]);
-                            testDiv17.removeChild(testCards17[randomNum(testDiv17.childElementCount)]);
-                            testDiv18.removeChild(testCards18[randomNum(testDiv18.childElementCount)]);
-                            testDiv19.removeChild(testCards19[randomNum(testDiv19.childElementCount)]);
-                            testDiv20.removeChild(testCards20[randomNum(testDiv20.childElementCount)]);
-                            testDiv21.removeChild(testCards21[randomNum(testDiv21.childElementCount)]);
-                            testDiv22.removeChild(testCards22[randomNum(testDiv22.childElementCount)]);
+                            packDiv16.removeChild(packCards16[randomNum(packDiv16.childElementCount)]);
+                            packDiv17.removeChild(packCards17[randomNum(packDiv17.childElementCount)]);
+                            packDiv18.removeChild(packCards18[randomNum(packDiv18.childElementCount)]);
+                            packDiv19.removeChild(packCards19[randomNum(packDiv19.childElementCount)]);
+                            packDiv20.removeChild(packCards20[randomNum(packDiv20.childElementCount)]);
+                            packDiv21.removeChild(packCards21[randomNum(packDiv21.childElementCount)]);
+                            packDiv22.removeChild(packCards22[randomNum(packDiv22.childElementCount)]);
                         }
 
                         // ---------- REFACTOR ABOVE ----------
