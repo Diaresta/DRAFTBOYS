@@ -1,0 +1,62 @@
+<body>
+    <header>
+        <nav class="navbar">
+            <input type="checkbox" id="toggle"/>
+            <div class="hamburger"><div></div></div>
+            <div class="mainNav">
+                <div>
+                    <div>
+                        <ul class="navLi">
+                            <li><a href="/static/index.html">Home</a></li> 
+                            <li><a href="/static/views/all-sets.html">All Sets</a></li>
+                        </ul>
+                        <ul class="navRight">
+                            <li><a href="/static/views/contact.html">Contact</a></li>
+                            <li><a href="https://github.com/Diaresta/DRAFTBOYS" target="_blank">GitHub</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </nav>
+        <img id="pageTitle" src="/static/images/logoGrad1.png" alt="Page Title" type="image/png">
+    </header>
+
+    <main>
+        <h2 id="title">Contact</h2>
+        <div id="form-wrapper">
+            <form id="contact-form" action="https://formspree.io/f/mwkwapyr" method="POST" role="form">
+                <p id="contact-description">Have any questions, problems, or suggestions? Feel free to get in touch with us and we'll get back to you as soon as possible!</p>
+                <div id="form-name">
+                    <div class="form-group">
+                        <label id="name-label" for="first-name">First Name: </label><br>
+                        <input id="first-name" type="text" placeholder="" required data-error="First name is required." name="first-name">
+                    </div>
+                    <div class="form-group">
+                        <label id="name-label" for="last-name">Last Name:</label><br>
+                        <input id="last-name" type="text" placeholder="" required data-error="Last name is required." name="last-name">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label id="email-label" for="form-email">Email:</label><br>
+                    <input id="form-email" type="email" placeholder="" required name="form-email">
+                </div>
+
+                <div class="form-row">
+                    <label id="message-label" for="form-message">Message:</label><br>
+                    <textarea id="form-message" placeholder="" required data-error="You've gotta' write a message!" name="form-message"></textarea>
+                </div>
+
+                <div>
+                    <input id="contact-submit" type="submit" class="submit-button" value="Send Message">
+                </div>
+            </form>
+        </div>
+        
+    </main>
+    <footer>
+        <p class="rightsReserved">Magic: The Gathering and its logos are trademarks of Wizards of the Coast LLC, subsidiary of Hasbro, Inc. DRAFTBOYS is not approved, endorsed, or affiliated with/by Wizards of the Coast.
+        <br>&copy; 2020 DRAFTBOYS. All rights reserved.</p>
+    </footer>
+    <script src="/static/scripts/contact.js"></script>
+</body>

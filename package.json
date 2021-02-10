@@ -4,7 +4,8 @@
   "description": "Magic: The Gathering Draft Simulator",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/Diaresta/DRAFTBOYS#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
     "mtgsdk": "^0.4.3",
     "nodemon": "^2.0.6",
     "request": "^2.88.2"

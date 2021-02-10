@@ -3,24 +3,58 @@ const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 const path = require('path');
-// const fs = require('fs');
+const exphbs = require('express-handlebars');
+const fs = require('fs');
+
+const PORT = process.env.PORT || 5000;
 
 // Static Files
 app.use(express.static(path.join(__dirname, 'static')));
 app.use(bodyParser.json());
 
-// Routing
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'static', 'index.html'));
-    console.log('Testing');
-});
 
-app.get('/draft', (req, res) => {
-    res.sendFile(path.join(__dirname, 'static/views', 'draft.html'));
-});
+// ----- testing -----
+// Handlebars MW
+app.engine('handlebars', exphbs({defaultLayout: 'main'}));
+app.set('view engine', 'handlebars');
 
-app.listen(3000, () => {
-    console.log('Listening on port 3000');
+app.get('/home', (req, res) => res.render('index', {
+    title: 'DRAFTBOYS - MTG Draft Simulator'
+}));
+
+app.get('/all_sets', (req, res) => res.render('all-sets', {
+    title: 'DRAFTBOYS - All Sets'
+}));
+
+app.get('/contact', (req, res) => res.render('contact', {
+    title: 'DRAFTBOYS - Contact'
+}));
+
+app.get('/draft', (req, res) => res.render('draft', {
+    title: 'DRAFTBOYS - Draft'
+}));
+
+// // Routing
+// app.get('/', (req, res) => {
+//     res.sendFile(path.join(__dirname, 'static', 'index.html'));
+//     console.log('Testing');
+// });
+
+// app.get('/all_sets', (req, res) => {
+//     res.sendFile(path.join(__dirname, 'static', '/views/all-sets.html'));
+//     console.log('Testing');
+// });
+
+// app.get('/contact', (req, res) => {
+//     res.sendFile(path.join(__dirname, 'static/views', 'contact.html'));
+// });
+
+// app.get('/draft', (req, res) => {
+//     res.sendFile(path.join(__dirname, 'static/views', 'draft.html'));
+// });
+
+app.listen(PORT, () => {
+    console.log(`Listening on port ${PORT}`);
 });
 
 console.log('node working');

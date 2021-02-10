@@ -1,3 +1,6 @@
+const SET = "/sets/znr.json";
+// /static/sets/znr.json for non-handlebars
+
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -806,5 +809,5 @@ xhttp.onreadystatechange = function() {
     } else; 
     // Add error handling
 }
-xhttp.open("GET", "/static/sets/znr.json", true);
+xhttp.open("GET", SET, true);
 xhttp.send();

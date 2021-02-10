@@ -48,7 +48,7 @@ ___
  # TOREFACTOR
  - [ ] html variable names (and their corresponding css/js variable declarations)
 
- - [ ] js variable names (mostly titled test(div/pack/etc)
+ - [x] js variable names (mostly titled test(div/pack/etc)
 
  __
 
@@ -57,6 +57,8 @@ ___
 - node.js npm install -g npm
 
 - express npm install express --save
+
+- handlebars npm i express-handlebars
 
 - Contact page form connects to Formspree to catalogue messages.
 
