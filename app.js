@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
-app.get('/home', (req, res) => res.render('index', {
+app.get('/', (req, res) => res.render('home', {
     title: 'DRAFTBOYS - MTG Draft Simulator'
 }));
 
