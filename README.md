@@ -37,6 +37,8 @@
 
 - [ ] Double check for accessibility(alt, etc.)
 
+- [ ] Take views folder (outside of 'static') and replace the one in static with it (and fix express routing)
+
 ___
 **Ideas** 
 
