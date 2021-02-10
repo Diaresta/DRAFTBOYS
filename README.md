@@ -11,11 +11,11 @@
 	- [x] Fix extra set names popping up	
 
 - [x] Set up node + express
-	- [ ] Route html through node
-	- [ ] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js
+	- ~~[ ] Route html through node~~
+	- ~~[ ] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js~~
 	- [ ] Dynamically change sets for draft.js. Pass in draft name as a function in app.js routing
 
-- [ ] Refactor HTML to extend layouts + remove redundant code
+- [x] ~~Refactor HTML to extend layouts + remove redundant code~~ *Did with handlebars*
 
 - ~~[x] Link MTG Card API~~
 
@@ -38,6 +38,8 @@
 - [ ] Double check for accessibility(alt, etc.)
 
 - [ ] Take views folder (outside of 'static') and replace the one in static with it (and fix express routing)
+
+- [ ] Delete html files (will also stop localhost from loading index.html)
 
 ___
 **Ideas** 
