@@ -66,5 +66,5 @@ ___
 
 - request npm i (something??)
 
-- Contact page form connects to Formspree to catalogue messages.
+- Contact page form connects to Formspree to catalogue messages. 
 
