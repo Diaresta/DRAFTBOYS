@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
-app.get('/', (req, res) => res.render('home', {
+app.get(['/', '/home', '/draft'], (req, res) => res.render('home', {
     title: 'DRAFTBOYS - MTG Draft Simulator'
 }));
 
@@ -30,7 +30,7 @@ app.get('/contact', (req, res) => res.render('contact', {
     title: 'DRAFTBOYS - Contact'
 }));
 
-app.get('/draft', (req, res) => res.render('draft', {
+app.get('/draft/znr', (req, res) => res.render('draft', {
     title: 'DRAFTBOYS - Draft'
 }));
 

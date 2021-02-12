@@ -1,4 +1,10 @@
-const SET = "/sets/znr.json";
+const SET = {
+    "znr": "/sets/znr.json",
+    "m21": "/sets/m21.json",
+    "iko": "/sets/iko.json",
+    "thb": "/sets/thb.json",
+    "eld": "/sets/eld.json"
+};
 // /static/sets/znr.json for non-handlebars
 
 var xhttp = new XMLHttpRequest();
@@ -809,5 +815,7 @@ xhttp.onreadystatechange = function() {
     } else; 
     // Add error handling
 }
-xhttp.open("GET", SET, true);
+xhttp.open("GET", SET.znr, true);
 xhttp.send();
+
+// set draft title in app.js. if(draft title = draft){SET = that set's json} else if{etc}

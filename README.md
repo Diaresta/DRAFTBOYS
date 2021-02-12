@@ -10,14 +10,14 @@
 - [x] When media query <=630, have set title always visible
 	- [x] Fix extra set names popping up	
 
-- [x] Set up node + express
-	- ~~[ ] Route html through node~~
-	- ~~[ ] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js~~
-	- [ ] Dynamically change sets for draft.js. Pass in draft name as a function in app.js routing
+- [ ] Set up node + express
+	- ~~[x] Route html through node~~
+	- ~~[x] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js~~
+	- [ ] Dynamically change sets for draft.js. Pass in draft name as a function in app.js routing + add routes /draft/setName
 
-- [x] ~~Refactor HTML to extend layouts + remove redundant code~~ *Did with handlebars*
+- [x] ~~Refactor HTML to extend layouts + remove redundant code~~ !*Did with handlebars*!
 
-- ~~[x] Link MTG Card API~~
+- [x] ~~Link MTG Card API~~
 
 - [ ] HTML for drafting page
 	- [x] Send MTG API to HTML
@@ -63,6 +63,8 @@ ___
 - express npm install express --save
 
 - handlebars npm i express-handlebars
+
+- request npm i (something??)
 
 - Contact page form connects to Formspree to catalogue messages.
 
