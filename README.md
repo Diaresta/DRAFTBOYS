@@ -41,6 +41,8 @@
 
 - [x] Delete html files (will also stop localhost from loading index.html)
 
+- [ ] Error handling, specifically if no url route is found
+
 ___
 **Ideas** 
 
@@ -50,9 +52,11 @@ ___
  __
 
  # TOREFACTOR
- - [ ] html variable names (and their corresponding css/js variable declarations)
+ - [x] html variable names (and their corresponding css/js variable declarations)
 
  - [x] js variable names (mostly titled test(div/pack/etc)
+
+ - [ ] prettier clean up of files when ready to ship
 
  __
 

@@ -14,7 +14,7 @@ function currentSlide(n) {
 // Slideshow when <= 723px
 function showSlides(n) {
     if (window.matchMedia("(max-width: 723px)").matches) {
-        var slides = document.getElementsByClassName("setList");
+        var slides = document.getElementsByClassName("set-list");
 
         if (n > slides.length) {slideIndex = 1};
 
@@ -31,7 +31,7 @@ function showSlides(n) {
 // Inline set photos when >=724px
 function showSets(n) {
     if (window.matchMedia("(min-width: 724px)").matches) {
-        var setPhotos = document.getElementsByClassName("setList");
+        var setPhotos = document.getElementsByClassName("set-list");
 
         if (n > setPhotos.length) {slideIndex = 1};
 

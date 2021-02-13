@@ -42,7 +42,7 @@ footer {
     flex: 0 0 50px;
 }
 
-#pageTitle {
+#page-title {
     height: 60px;
     margin-top: -34px;
 }
@@ -52,7 +52,7 @@ footer {
     cursor: pointer;
 }
 
-#setCarousel {
+#set-carousel {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -70,29 +70,29 @@ footer {
     /* width: 33%; */
 }
 
-.navLi {
+.nav-left {
     margin-left: -10px;
     padding-left: 40px;
 }
 
-.navRight {
+.nav-right {
     position: absolute;
     top: 0;
     right: 0;
     margin-right: 25px;
 }
 
-.setList {
+.set-list {
     position: relative;
     text-align: center;
 }
 
-.setList:hover {
+.set-list:hover {
     transition: 0.3s ease;
     opacity: 0.5;
 }
 
-.setPhoto {
+.set-photo {
     height: 350px;
     width: 210px;
     object-fit: cover;
@@ -101,11 +101,11 @@ footer {
     position: relative;
 }
 
-.setPhoto:hover + .setTitle { 
+.set-photo:hover + .set-title { 
     opacity: 1;
 }
 
-.setTitle {
+.set-title {
     font-size: 1.5rem !important;
     color: #65b3ba;
     opacity: 0;
@@ -117,19 +117,19 @@ footer {
     text-shadow: 1px 1px #000;
 }
 
-.setTitle:hover {
+.set-title:hover {
     opacity: 1;
 }
 
-.carouselArrows {
+.carousel-arrows {
     display: none;
 }
 
-.prevArrow:hover, .nextArrow:hover {
+.prev-arrow:hover, .next-arrow:hover {
     background-color: rgba(0,0,0,0.4);
 }
 
-.prevArrow, .nextArrow {
+.prev-arrow, .next-arrow {
     cursor: pointer;
     position: absolute;
     top: 50%;
@@ -144,34 +144,34 @@ footer {
     user-select: none;
 }
 
-.nextArrow {
+.next-arrow {
     right: 0;
     border-radius: 3px 0 0 3px;
 }
 
-.prevArrow {
+.prev-arrow {
     left: 0;
     border-radius: 3px 0 0 3px;
 }
 
-.rightsReserved {
+.rights-reserved {
     font-size: .5rem;
 }
 
 @media screen and (max-width: 850px) {
-    .setTitle {
+    .set-title {
         opacity: 1;
     }
 }
 
 @media screen and (max-width: 723px) {
-    #setCarousel {
+    #set-carousel {
         max-width: 300px;
         position: relative;
         margin: auto;
     }
 
-    #pageTitle {
+    #page-title {
         padding-top: 50px;
     }
 
@@ -182,13 +182,13 @@ footer {
         z-index: 1;
     }
 
-    .navLi, .navRight {
+    .nav-left, .nav-right {
         margin: 0px;
         padding: 0;
         position: relative;
     }
 
-    .navRight:last-child {
+    .nav-right:last-child {
         padding-bottom: 150px;
     }
     
@@ -265,23 +265,23 @@ footer {
     }
 
     /* Show nav when checked */
-    .navbar #toggle:checked ~ .mainNav {
+    .navbar #toggle:checked ~ .main-nav {
         visibility: visible;
     }
 
     /* Nav animation when clicked */
-    .navbar #toggle:checked ~ .mainNav > div { 
+    .navbar #toggle:checked ~ .main-nav > div { 
         transform: scale(1);
     }
 
     /* Show ul when checked + navigation items animation*/
-    .navbar #toggle:checked ~ .mainNav > div > div {
+    .navbar #toggle:checked ~ .main-nav > div > div {
         opacity: 1;
         transition:  opacity 0.4s ease 0.1s;
     }
 
     /* Navbar positioning when hamburger checked */
-    .navbar .mainNav {
+    .navbar .main-nav {
         position: fixed;
         top: 0;
         left: 0;
@@ -295,7 +295,7 @@ footer {
     }
 
     /* Hamburger menu opacity background + circle transition*/
-    .navbar .mainNav > div {
+    .navbar .main-nav > div {
         border-radius: 50%;
         width: 300vw;
         height: 300vw;
@@ -310,7 +310,7 @@ footer {
     }
 
     /* Hamburger menu alignment */
-    .navbar .mainNav > div > div {
+    .navbar .main-nav > div > div {
         text-align: center;
         max-width: 90vw;
         max-height: 100vh;
@@ -319,7 +319,7 @@ footer {
     }
 
     /* Hamburger menu li block display */
-    .navbar .mainNav > div > div > ul > li {
+    .navbar .main-nav > div > div > ul > li {
         list-style: none;
         color: #fff;
         font-size: 1.5rem;
@@ -327,20 +327,16 @@ footer {
         display: block;
     }
 
-    /* .navbar .mainNav > div > div > ul > li > a {
-        transition: color 0.4s ease;
-    } */
-
-    .setPhoto {
+    .set-photo {
         margin-left: 5px;
     }
 
-    .setTitle {
+    .set-title {
         /* cursor: pointer; */
         padding-left: 5px;
     }
 
-    .carouselArrows {
+    .carousel-arrows {
         display: inline-flex;
     }
 }
