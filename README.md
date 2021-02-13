@@ -10,10 +10,10 @@
 - [x] When media query <=630, have set title always visible
 	- [x] Fix extra set names popping up	
 
-- [ ] Set up node + express
+- [x] Set up node + express
 	- ~~[x] Route html through node~~
 	- ~~[x] Change HTML routing to be express kind. (css, images, html) /static/images/logoGrad1.png --> | scripts/window.js --> /scripts/window.js~~
-	- [ ] Dynamically change sets for draft.js. Pass in draft name as a function in app.js routing + add routes /draft/setName
+	- [x] Dynamically change sets for draft.js. Pass in draft name as a function in app.js routing + add routes /draft/setName
 
 - [x] ~~Refactor HTML to extend layouts + remove redundant code~~ !*Did with handlebars*!
 
@@ -39,7 +39,7 @@
 
 - [ ] Take views folder (outside of 'static') and replace the one in static with it (and fix express routing)
 
-- [ ] Delete html files (will also stop localhost from loading index.html)
+- [x] Delete html files (will also stop localhost from loading index.html)
 
 ___
 **Ideas** 

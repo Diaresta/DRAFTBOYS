@@ -12,9 +12,7 @@ const PORT = process.env.PORT || 5000;
 app.use(express.static(path.join(__dirname, 'static')));
 app.use(bodyParser.json());
 
-
-// ----- testing -----
-// Handlebars MW
+// Routing
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
@@ -31,27 +29,29 @@ app.get('/contact', (req, res) => res.render('contact', {
 }));
 
 app.get('/draft/znr', (req, res) => res.render('draft', {
-    title: 'DRAFTBOYS - Draft'
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Zendikar Rising'
 }));
 
-// // Routing
-// app.get('/', (req, res) => {
-//     res.sendFile(path.join(__dirname, 'static', 'index.html'));
-//     console.log('Testing');
-// });
+app.get('/draft/m21', (req, res) => res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Core Set 2021'
+}));
 
-// app.get('/all_sets', (req, res) => {
-//     res.sendFile(path.join(__dirname, 'static', '/views/all-sets.html'));
-//     console.log('Testing');
-// });
+app.get('/draft/iko', (req, res) => res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Ikoria: Lair of Behemoths'
+}));
 
-// app.get('/contact', (req, res) => {
-//     res.sendFile(path.join(__dirname, 'static/views', 'contact.html'));
-// });
+app.get('/draft/thb', (req, res) => res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Theros Beyond Death'
+}));
 
-// app.get('/draft', (req, res) => {
-//     res.sendFile(path.join(__dirname, 'static/views', 'draft.html'));
-// });
+app.get('/draft/eld', (req, res) => res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Throne of Eldraine'
+}));
 
 app.listen(PORT, () => {
     console.log(`Listening on port ${PORT}`);
@@ -61,7 +61,7 @@ console.log('node working');
 
 module.exports = app;
 
-// ------------------------------------ set parsing -------------------------------------------------
+// ------------------------------------ backup set parsing -------------------------------------------------
 // const eldData = fs.readFileSync('static/sets/eld.json');
 // const eldSet = JSON.parse(eldData);
 

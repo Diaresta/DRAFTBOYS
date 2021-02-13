@@ -1,11 +1,4 @@
-const SET = {
-    "znr": "/sets/znr.json",
-    "m21": "/sets/m21.json",
-    "iko": "/sets/iko.json",
-    "thb": "/sets/thb.json",
-    "eld": "/sets/eld.json"
-};
-// /static/sets/znr.json for non-handlebars
+import { SET } from './sets.js';
 
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
@@ -156,19 +149,6 @@ xhttp.onreadystatechange = function() {
                     finalDraft[x].className = 'draftedCards';
                 }
             }
-        }
-
-        // Set h2 element as set name
-        if (response[1].set == 'znr'){
-            document.getElementById('selectSet').innerHTML = 'Zendikar Rising';
-        } else if (response[1].set == 'm21'){
-            document.getElementById('selectSet').innerHTML = 'Core Set 2021';
-        } else if (response[1].set == 'iko'){
-            document.getElementById('selectSet').innerHTML = 'Ikoria: Lair of Behemoths';
-        } else if (response[1].set == 'thb'){
-            document.getElementById('selectSet').innerHTML = 'Theros Beyond Death';
-        } else if (response[1].set == 'eld'){
-            document.getElementById('selectSet').innerHTML = 'Throne of Eldraine';
         }
 
         // Set number to individual boosters
@@ -815,7 +795,7 @@ xhttp.onreadystatechange = function() {
     } else; 
     // Add error handling
 }
-xhttp.open("GET", SET.znr, true);
+xhttp.open("GET", SET, true);
 xhttp.send();
 
 // set draft title in app.js. if(draft title = draft){SET = that set's json} else if{etc}
