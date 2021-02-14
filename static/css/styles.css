@@ -558,3 +558,24 @@ textarea:focus  {
 .format-title {
     text-decoration: underline;
 }
+
+/* -------------------------------------------- Error Page ------------------------------------------------------------ */
+#error-img {
+    margin-top: 50px;
+    border-radius: 18px;
+}
+
+#error-p {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#error-a {
+    color: #65b3ba;
+}
+
+#error-a:hover {
+    cursor: pointer;
+    color: rgb(101, 179, 186, 0.5);
+}
+

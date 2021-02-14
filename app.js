@@ -53,6 +53,14 @@ app.get('/draft/eld', (req, res) => res.render('draft', {
     setName: 'Throne of Eldraine'
 }));
 
+app.use(function (req, res, next) {
+    res.status(404);
+    res.render('error-page', {
+        title: 'DRAFTBOYS - 404 Error',
+    });
+
+});
+
 app.listen(PORT, () => {
     console.log(`Listening on port ${PORT}`);
 });
