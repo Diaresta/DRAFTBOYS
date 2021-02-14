@@ -37,11 +37,13 @@
 
 - [ ] Double check for accessibility(alt, etc.)
 
+- [ ] Download img of completed draft?
+
 - [ ] Take views folder (outside of 'static') and replace the one in static with it (and fix express routing)
 
 - [x] Delete html files (will also stop localhost from loading index.html)
 
-- [ ] Error handling, specifically if no url route is found
+- [x] Error handling, specifically if no url route is found
 
 ___
 **Ideas** 
