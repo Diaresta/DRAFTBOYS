@@ -6,16 +6,16 @@ const path = require('path');
 const exphbs = require('express-handlebars');
 const fs = require('fs');
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 // Static Files
 app.use(express.static(path.join(__dirname, 'static')));
 app.use(bodyParser.json());
 
-// Routing
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
+// Routing
 app.get(['/', '/home', '/draft'], (req, res) => res.render('home', {
     title: 'DRAFTBOYS - MTG Draft Simulator'
 }));
@@ -53,12 +53,27 @@ app.get('/draft/eld', (req, res) => res.render('draft', {
     setName: 'Throne of Eldraine'
 }));
 
-app.use(function (req, res, next) {
-    res.status(404);
-    res.render('error-page', {
-        title: 'DRAFTBOYS - 404 Error',
-    });
 
+// Error Handling
+app.use(function(req, res, next) {
+    var err = new Error('Not Found');
+    err.status = 404;
+    next(err);
+});
+
+app.use(function (err, req, res, next) {
+    if(res.status(404)){
+        res.render('404-page', {
+            title: 'DRAFTBOYS - 404 Error',
+        });
+    } else if(res.status(500)){
+        res.render('500-page', {
+            title: 'DRAFTBOYS - 500 Error',
+        });
+    } else if(res.status(err.status)){
+        res.render('500-page', {
+            title: `DRAFTBOYS - ${err.status} Error`
+    })}
 });
 
 app.listen(PORT, () => {
