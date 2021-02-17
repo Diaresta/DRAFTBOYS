@@ -19,11 +19,11 @@
 
 - [x] ~~Link MTG Card API~~
 
-- [ ] HTML for drafting page
+- [x] HTML for drafting page
 	- [x] Send MTG API to HTML
 	- [x] ~~Event for selectedCards. When hovered, create preview of full card to the left of container~~ Instead added z-index to card appear in the forefront when hovered.
 	- ~~[ ] Add draggable/repositional to selectedCards~~
-	- [ ] Add sorting to selectedCards - Order picked/CMC/Color
+	- ~~[ ] Add sorting to selectedCards - Order picked/CMC/Color~~
 	- [x] Remove hard-coded card img tags 
 	- [ ] FIX DRAFT CONTAINER TO BE RESIZABLE FOR WINDOW, BUT NOT FOR CARD AMOUNT
 
@@ -37,7 +37,7 @@
 
 - [ ] Double check for accessibility(alt, etc.)
 
-- [ ] Download img of completed draft?
+- [x] Download ~~img~~ text of completed draft
 
 - [ ] Take views folder (outside of 'static') and replace the one in static with it (and fix express routing)
 

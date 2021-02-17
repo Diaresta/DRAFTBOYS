@@ -392,6 +392,36 @@ footer {
     padding-top: 235px;
 }
 
+#download-button {
+    display: none;
+    color: black;
+    text-shadow: 1px 1px 1px white;
+}
+
+#download-button:hover {
+    background-color: #ccc;
+    color: #65b3ba;
+    text-shadow: 1px 1px 1px whitesmoke;
+    border-radius: 2px;
+    cursor: pointer;
+    border: none;
+}
+
+#download-style {
+    display: none;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 5px;
+}
+
+#download-style:hover {
+    background-color: #ccc;
+    border-radius: 2px;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 11px;
+    transform: scale(1.03);
+}
+
 .draftCards,
 .draftedCards {
     margin: 5px;
@@ -464,6 +494,12 @@ footer {
         width: 95%;
         display: flex;   
         flex-wrap: wrap;   
+    }
+
+    #draftCards {
+        width: 95%;
+        margin-left: 15px;
+        margin-bottom: 10px;
     }
 
     .selectedCards {

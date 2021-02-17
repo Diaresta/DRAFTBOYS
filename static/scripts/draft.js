@@ -10,6 +10,7 @@ xhttp.onreadystatechange = function() {
         var selectedContainer = document.getElementById('selectedContainer');
         var cardContainer = document.getElementById('cardContainer');
         var cardSelectArea = document.getElementById('cardSelectArea');
+        var nameArray = [];
 
         var pickAmount = document.getElementById('pick-amount');
         var pickCounter = 0;
@@ -141,16 +142,33 @@ xhttp.onreadystatechange = function() {
 
                 selectedContainer.style.display = 'none';
                 cardSelectArea.style.width = '95%';
-                cardSelectArea.style.marginLeft = '35px';
-                cardSelectArea.style.marginRight = '35px';
+                // cardSelectArea.style.marginLeft = '35px';
+                // cardSelectArea.style.marginRight = '35px';
 
                 // Changes card images to draftedCards styling
                 for(let x = 0; x < 42; x++){
                     finalDraft[x].className = 'draftedCards';
                 }
+
+                const downloadButton = document.getElementById('download-button');
+                downloadButton.style.display = 'initial';
+                const downloadStyle = document.getElementById('download-style');
+                downloadStyle.style.display = 'initial';
+
+                console.log(nameArray);
+                console.log(downloadButton);
+
+                // Download draft cards
+                downloadButton.onclick = () => download(downloadButton, "hello.txt", nameArray);
             }
         }
 
+        // Download draft cards
+        function download(element, filename, text) {
+            element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+            element.setAttribute('download', filename);
+        }
+        
         // Set number to individual boosters
         var packCount = 0;
 
@@ -222,6 +240,7 @@ xhttp.onreadystatechange = function() {
                 cardImage.src = jsonCommonCardImg;
                 cardImage.className = 'draftCards';
                 cardImage.name = packCount;
+                cardImage.alt = jsonCommonCardName;
 
                 // ---------- REFACTOR BELOW ----------
                 // Appending card images to respective boosterPackDivs
@@ -295,58 +314,82 @@ xhttp.onreadystatechange = function() {
                         // Pack(s) 1
                         if(cardImage.name == 0){
                             packDiv0.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 1) {
                             packDiv1.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 2) {
                             packDiv2.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 3) {
                             packDiv3.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 4) {
                             packDiv4.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 5) {
                             packDiv5.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 6) {
                             packDiv6.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 7) {
                             packDiv7.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         }
 
                         // Pack(s) 2
                         if(cardImage.name == 8){
                             packDiv8.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 9) {
                             packDiv9.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 10) {
                             packDiv10.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 11) {
                             packDiv11.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 12) {
                             packDiv12.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 13) {
                             packDiv13.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 14) {
                             packDiv14.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 15) {
                             packDiv15.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         }
 
                         // Pack(s) 3
                         if(cardImage.name == 16){
                             packDiv16.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 17) {
                             packDiv17.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 18) {
                             packDiv18.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 19) {
                             packDiv19.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 20) {
                             packDiv20.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 21) {
                             packDiv21.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 22) {
                             packDiv22.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         } else if (cardImage.name == 23) {
                             packDiv23.removeChild(cardImage);
+                            nameArray.push(cardImage.alt);
                         }
                         // ---------- REFACTOR ABOVE ----------
 
@@ -783,6 +826,8 @@ xhttp.onreadystatechange = function() {
                         } else if(pickCounter == 42){
                             pickAmount.innerHTML = 'Thanks for drafting!';
                         }
+                        // Returns array with drafted card names for download
+                        return nameArray;
                     }       
                 }
             }
@@ -791,11 +836,7 @@ xhttp.onreadystatechange = function() {
         function randomNum(count){
             return Math.floor(Math.random() * Math.floor(count));
         }
-        
-    } else; 
-    // Add error handling
+    }
 }
 xhttp.open("GET", SET, true);
 xhttp.send();
-
-// set draft title in app.js. if(draft title = draft){SET = that set's json} else if{etc}
