@@ -33,7 +33,7 @@
 
 - [x] Add all sets html
 
-- [ ] Media Queries for draft page
+- [x] Media Queries for draft page
 
 - [ ] Double check for accessibility(alt, etc.)
 

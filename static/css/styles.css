@@ -396,7 +396,7 @@ footer {
 .draftedCards {
     margin: 5px;
     width: 215px;
-    /* cursor: pointer; */
+    cursor: pointer;
 }
 
 .draftCards:hover {
@@ -429,7 +429,66 @@ footer {
     border-radius: 4%;
 }
 
-/* media queries for draft resize. When x amount of cards per row, and excess area in draft area, resize div */
+@media screen and (max-width: 1650px) {
+    #cardSelectArea {
+        width: 80%;
+    }
+
+    #selectedContainer {
+        width: 15%;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    #cardSelectArea {
+        width: 75%;
+    }
+
+    #selectedContainer {
+        width: 18%;   
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    #pick-amount {
+        margin-bottom: 10px;
+    }
+
+    #cardSelectArea {
+        width: 95%;
+        margin-left: 15px;
+        margin-bottom: 10px;
+    }
+
+    #selectedContainer {
+        width: 95%;
+        display: flex;   
+        flex-wrap: wrap;   
+    }
+
+    .selectedCards {
+        position: relative;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 775px) {
+    .draftCards,
+    .draftedCards {
+        margin: 5px;
+        width: 162px;
+    }
+    
+    .selectedCards {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        width: 162px;
+        margin: auto;
+        margin-top: -225px;
+    }
+}
 
 /* -------------------------------------------- Contact Page ------------------------------------------------------------ */
 
