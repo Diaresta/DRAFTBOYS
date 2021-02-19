@@ -45,7 +45,7 @@
 
 - [x] Error handling, specifically if no url route is found
 
-- [ ] Color variable css
+- [x] Color variable css + sass
 
 ___
 **Ideas** 
