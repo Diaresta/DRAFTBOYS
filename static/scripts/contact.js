@@ -7,6 +7,6 @@ var formTextArea = document.getElementsByTagName('textarea');
 
 submitButton.onclick = () => messageSent();
 
-function messageSent(){
-    submitButton.value = 'Message Sent!';
+function messageSent() {
+  submitButton.value = 'Message Sent!';
 }
