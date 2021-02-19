@@ -39,7 +39,7 @@
 
 - [x] Download ~~img~~ text of completed draft
 
-- [ ] Take views folder (outside of 'static') and replace the one in static with it (and fix express routing)
+- ~~[ ] Take views folder (outside of 'static') and replace the one in static with it (and fix express routing)~~
 
 - [x] Delete html files (will also stop localhost from loading index.html)
 
@@ -50,9 +50,9 @@
 ___
 **Ideas** 
 
- - ~~Have each pack create its own div within cardContainer. Currently creating packs within packsCards div, which is nested within cardContainer. When a card within its div is clicked, display it to none, and display next div to show to give the idea of passing card packs in a draft.~~
- - Create a Sealed Section?
- - sass for css?
+ - [x] ~~Have each pack create its own div within cardContainer. Currently creating packs within packsCards div, which is nested within cardContainer. When a card within its div is clicked, display it to none, and display next div to show to give the idea of passing card packs in a draft.~~
+ - [ ] Create a Sealed Section?
+ - [x] sass for css?
  __
 
  # TOREFACTOR
