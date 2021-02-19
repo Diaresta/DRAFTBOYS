@@ -25,7 +25,7 @@
 	- ~~[ ] Add draggable/repositional to selectedCards~~
 	- ~~[ ] Add sorting to selectedCards - Order picked/CMC/Color~~
 	- [x] Remove hard-coded card img tags 
-	- [ ] FIX DRAFT CONTAINER TO BE RESIZABLE FOR WINDOW, BUT NOT FOR CARD AMOUNT
+	- [x] FIX DRAFT CONTAINER TO BE RESIZABLE FOR WINDOW, BUT NOT FOR CARD AMOUNT
 
 - [x] Border Radius on Draft cards to remove non-transparent corners
 
@@ -35,7 +35,7 @@
 
 - [x] Media Queries for draft page
 
-- [ ] Double check for accessibility(alt, etc.)
+- [x] Double check for accessibility(alt, etc.)
 
 - [x] Download ~~img~~ text of completed draft
 
@@ -44,6 +44,8 @@
 - [x] Delete html files (will also stop localhost from loading index.html)
 
 - [x] Error handling, specifically if no url route is found
+
+- [ ] Color variable css
 
 ___
 **Ideas** 

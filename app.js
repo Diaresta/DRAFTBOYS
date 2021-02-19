@@ -80,11 +80,9 @@ app.listen(PORT, () => {
     console.log(`Listening on port ${PORT}`);
 });
 
-console.log('node working');
-
 module.exports = app;
 
-// ------------------------------------ backup set parsing -------------------------------------------------
+// ------------------------------------ Backup set parsing -------------------------------------------------
 // const eldData = fs.readFileSync('static/sets/eld.json');
 // const eldSet = JSON.parse(eldData);
 
