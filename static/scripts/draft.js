@@ -158,7 +158,7 @@ xhttp.onreadystatechange = function () {
 
         // Download draft cards
         downloadButton.onclick = () =>
-          download(downloadButton, 'hello.txt', nameArray);
+          download(downloadButton, 'draft.txt', nameArray);
       }
     }
 
