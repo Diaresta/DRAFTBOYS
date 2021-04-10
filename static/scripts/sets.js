@@ -1,4 +1,5 @@
 const SETS = {
+  khm: '/sets/khm.json',
   znr: '/sets/znr.json',
   m21: '/sets/m21.json',
   iko: '/sets/iko.json',
@@ -11,7 +12,9 @@ var SET;
 const setTitle = document.getElementById('selectSet');
 
 // Sets SET variable to import from JSON
-if (setTitle.innerHTML == 'Zendikar Rising') {
+if (setTitle.innerHTML == 'Kaldheim') {
+  SET = SETS.khm;
+} else if (setTitle.innerHTML == 'Zendikar Rising') {
   SET = SETS.znr;
 } else if (setTitle.innerHTML == 'Core Set 2021') {
   SET = SETS.m21;

@@ -34,6 +34,13 @@ app.get('/contact', (req, res) =>
   })
 );
 
+app.get('/draft/khm', (req, res) =>
+  res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Kaldheim',
+  })
+);
+
 app.get('/draft/znr', (req, res) =>
   res.render('draft', {
     title: 'DRAFTBOYS - Draft',
