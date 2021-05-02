@@ -529,6 +529,38 @@ footer {
   }
 }
 
+/* ---------- Testing query ---------- */
+@media screen and (max-height: 1400px) {
+  .draftCards,
+  .draftedCards {
+    margin: 25px 5px 15px 5px;
+    width: 134px;
+  }
+
+  .draftCards:hover {
+    transform: scale(1.5);
+    transition: all 0.2s ease;
+  }
+
+  .draftedCards:hover {
+    transform: scale(1.5);
+    transition: all 0.2s ease;
+  }
+
+  .selectedCards:hover {
+    transform: scale(1.15);
+  }
+
+  #selectedContainer {
+    height: 280px;
+  }
+
+  #cardSelectArea {
+    height: 488px;
+  }
+}
+/* ---------- Testing query ---------- */
+
 /* -------------------------------------------- Contact Page ------------------------------------------------------------ */
 
 form {
