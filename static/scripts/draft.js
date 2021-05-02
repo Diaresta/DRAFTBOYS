@@ -1134,7 +1134,10 @@ xhttp.onreadystatechange = function () {
             } else if (pickCounter == 27) {
               packCounter++;
             } else if (pickCounter == 42) {
-              pickAmount.innerHTML = 'Thanks for drafting!';
+              pickAmount.innerHTML = '';
+
+              // Fixes border height on different devices
+              cardSelectArea.style.height = '70%';
             }
             // Returns array with drafted card names for download
             return nameArray;
