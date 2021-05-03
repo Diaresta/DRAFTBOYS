@@ -561,7 +561,7 @@ footer {
 }
 
 /* Mac fullscreen */
-@media screen and (max-height: 1050px) {
+/* @media screen and (max-height: 1050px) {
   .draftCards,
   .draftedCards {
     margin: 25px 5px 15px 5px;
@@ -589,10 +589,10 @@ footer {
   #cardSelectArea {
     height: 550px;
   }
-}
+} */
 
 /* Mac 1080p */
-@media screen and (max-height: 1080px) {
+/* @media screen and (max-height: 1080px) {
   .draftCards,
   .draftedCards {
     margin: 10px 5px 15px 0px;
@@ -606,10 +606,10 @@ footer {
   #cardSelectArea {
     height: 805px;
   }
-}
+} */
 
 /* Mac Default Window */
-@media screen and (max-height: 1100px) {
+@media screen and (max-height: 900px) {
   .draftCards,
   .draftedCards {
     margin: 25px 5px 15px 5px;
