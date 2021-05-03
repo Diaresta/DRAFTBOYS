@@ -529,25 +529,9 @@ footer {
   }
 }
 
-/* ---------- Testing query ---------- */
-/* Mac 1080p */
-/* @media screen and (max-height: 1080px) {
-  .draftCards,
-  .draftedCards {
-    margin: 25px 5px 15px 5px;
-    width: 215px;
-  }
+/* ---------- Mac test queries ---------- */
 
-  #selectedContainer {
-    height: 600px;
-  }
-
-  #cardSelectArea {
-    height: 805px;
-  }
-} */
-
-/* Mac Windowed */
+/* Mac Windowed Backup*/
 @media screen and (max-height: 770px) {
   .draftCards,
   .draftedCards {
@@ -608,7 +592,55 @@ footer {
     height: 550px;
   }
 }
-/* ---------- Testing query ---------- */
+
+/* Mac 1080p */
+@media screen and (max-height: 1080px) {
+  .draftCards,
+  .draftedCards {
+    margin: 10px 5px 15px 0px;
+    width: 175px;
+  }
+
+  #selectedContainer {
+    height: 600px;
+  }
+
+  #cardSelectArea {
+    height: 805px;
+  }
+}
+
+/* Mac Default Window */
+@media screen and (max-height: 1100px) {
+  .draftCards,
+  .draftedCards {
+    margin: 25px 5px 15px 5px;
+    width: 134px;
+  }
+
+  .draftCards:hover {
+    transform: scale(1.5);
+    transition: all 0.2s ease;
+  }
+
+  .draftedCards:hover {
+    transform: scale(1.5);
+    transition: all 0.2s ease;
+  }
+
+  .selectedCards:hover {
+    transform: scale(1.15);
+  }
+
+  #selectedContainer {
+    height: 280px;
+  }
+
+  #cardSelectArea {
+    height: 488px;
+  }
+}
+/* ---------- Mac test queries ---------- */
 
 /* -------------------------------------------- Contact Page ------------------------------------------------------------ */
 
