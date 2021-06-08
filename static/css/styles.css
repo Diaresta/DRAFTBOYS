@@ -371,6 +371,7 @@ footer {
   height: 70%;
   padding: 10px 0 10px 0;
   margin-left: 28px;
+  background-color: #3e4045;
 }
 
 #cardContainer {
@@ -423,6 +424,10 @@ footer {
   transform: scale(1.03);
 }
 
+.draftCards {
+  box-shadow: 1px 1px 4px;
+}
+
 .draftCards,
 .draftedCards {
   margin: 5px;
@@ -433,6 +438,7 @@ footer {
 .draftCards:hover {
   transform: scale(1.05);
   transition: all 0.2s ease;
+  box-shadow: none;
 }
 
 .draftedCards:hover {
@@ -553,6 +559,7 @@ footer {
 
   #selectedContainer {
     height: 280px;
+    background-color: #3e4045;
   }
 
   #cardSelectArea {
