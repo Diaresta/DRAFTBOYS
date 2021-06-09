@@ -744,6 +744,22 @@ textarea:focus {
   }
 }
 
+@media screen and (max-height: 800px) {
+  #contact-description {
+    margin-bottom: 0px;
+  }
+
+  #contact-form label {
+    margin-bottom: 0px;
+  }
+}
+
+@media screen and (max-height: 650px) {
+  #form-message {
+    height: 100px;
+  }
+}
+
 /* -------------------------------------------- All Sets Page ------------------------------------------------------------ */
 #all-sets-ul {
   display: inline-block;
