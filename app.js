@@ -84,13 +84,13 @@ app.get('/draft/eld', (req, res) =>
 );
 
 // Error Handling
-app.use(function (req, res, next) {
+app.use((req, res, next) => {
   var err = new Error('Not Found');
   err.status = 404;
   next(err);
 });
 
-app.use(function (err, req, res, next) {
+app.use((err, req, res, next) => {
   if (res.status(404)) {
     res.render('404-page', {
       title: 'DRAFTBOYS - 404 Error',
