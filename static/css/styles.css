@@ -394,6 +394,7 @@ footer {
   overflow: scroll;
   scrollbar-width: none;
   padding-top: 235px;
+  background-color: #3e4045;
 }
 
 #download-button {
@@ -559,7 +560,6 @@ footer {
 
   #selectedContainer {
     height: 280px;
-    background-color: #3e4045;
   }
 
   #cardSelectArea {
