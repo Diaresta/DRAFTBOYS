@@ -34,6 +34,13 @@ app.get('/contact', (req, res) =>
   })
 );
 
+app.get('/draft/afr', (req, res) =>
+  res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Adventures in the Forgotten Realms',
+  })
+);
+
 app.get('/draft/stx', (req, res) =>
   res.render('draft', {
     title: 'DRAFTBOYS - Draft',
