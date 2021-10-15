@@ -1,4 +1,5 @@
 const SETS = {
+  mid: '/sets/mid.json',
   afr: '/sets/afr.json',
   stx: '/sets/stx.json',
   khm: '/sets/khm.json',
@@ -14,7 +15,9 @@ var SET;
 const setTitle = document.getElementById('selectSet');
 
 // Sets SET variable to import from JSON
-if (setTitle.innerHTML == 'Adventures in the Forgotten Realms') {
+if (setTitle.innerHTML == 'Innistrad: Midnight Hunt') {
+  SET = SETS.mid;
+} else if (setTitle.innerHTML == 'Adventures in the Forgotten Realms') {
   SET = SETS.afr;
 } else if (setTitle.innerHTML == 'Strixhaven') {
   SET = SETS.stx;

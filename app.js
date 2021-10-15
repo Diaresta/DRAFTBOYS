@@ -34,6 +34,13 @@ app.get('/contact', (req, res) =>
   })
 );
 
+app.get('/draft/mid', (req, res) =>
+  res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Innistrad: Midnight Hunt',
+  })
+);
+
 app.get('/draft/afr', (req, res) =>
   res.render('draft', {
     title: 'DRAFTBOYS - Draft',
