@@ -34,6 +34,13 @@ app.get('/contact', (req, res) =>
   })
 );
 
+app.get('/draft/vow', (req, res) =>
+  res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Innistrad: Crimson Vow',
+  })
+);
+
 app.get('/draft/mid', (req, res) =>
   res.render('draft', {
     title: 'DRAFTBOYS - Draft',
