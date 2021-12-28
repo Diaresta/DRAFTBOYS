@@ -132,19 +132,3 @@ app.listen(PORT, () => {
 });
 
 module.exports = app;
-
-// ------------------------------------ Backup set parsing -------------------------------------------------
-// const eldData = fs.readFileSync('static/sets/eld.json');
-// const eldSet = JSON.parse(eldData);
-
-// const ikoData = fs.readFileSync('static/sets/iko.json');
-// const ikoSet = JSON.parse(ikoData);
-
-// const m21Data = fs.readFileSync('static/sets/m21.json');
-// const m21Set = JSON.parse(m21Data);
-
-// const thbData = fs.readFileSync('static/sets/thb.json');
-// const thbSet = JSON.parse(thbData);
-
-// const znrData = fs.readFileSync('static/sets/znr.json');
-// const znrSet = JSON.parse(znrData);
