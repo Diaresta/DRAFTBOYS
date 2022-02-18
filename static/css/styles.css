@@ -764,7 +764,11 @@ textarea:focus {
 
 /* -------------------------------------------- All Sets Page ------------------------------------------------------------ */
 #all-sets-ul {
-  display: inline-block;
+  /* display: inline-block; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 #coming-soon {
