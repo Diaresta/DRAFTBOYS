@@ -34,6 +34,13 @@ app.get('/contact', (req, res) =>
   })
 );
 
+app.get('/draft/neo', (req, res) =>
+  res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Kamigawa: Neon Dynasty',
+  })
+);
+
 app.get('/draft/vow', (req, res) =>
   res.render('draft', {
     title: 'DRAFTBOYS - Draft',

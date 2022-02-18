@@ -1,4 +1,5 @@
 const SETS = {
+  neo: '/sets/neo.json',
   vow: '/sets/vow.json',
   mid: '/sets/mid.json',
   afr: '/sets/afr.json',
@@ -16,7 +17,9 @@ var SET;
 const setTitle = document.getElementById('selectSet');
 
 // Sets SET variable to import from JSON
-if (setTitle.innerHTML == 'Innistrad: Crimson Vow') {
+if (setTitle.innerHTML == 'Kamigawa: Neon Dynasty') {
+  SET = SETS.neo;
+} else if (setTitle.innerHTML == 'Innistrad: Crimson Vow') {
   SET = SETS.vow;
 } else if (setTitle.innerHTML == 'Innistrad: Midnight Hunt') {
   SET = SETS.mid;
