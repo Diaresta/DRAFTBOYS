@@ -1,12 +1,43 @@
-// ---------------------- testing ----------------------
-var submitButton = document.getElementById('contact-submit');
-var formLabels = document.getElementsByTagName('label');
-var formInputs = document.getElementsByTagName('input');
-var formTextArea = document.getElementsByTagName('textarea');
-// ---------------------- testing ----------------------
+const SUBMIT_BUTTON = document.getElementById('contact-submit');
+const FIRST_NAME = document.getElementById('first-name');
+const LAST_NAME = document.getElementById('last-name');
+const EMAIL = document.getElementById('form-email');
+const MESSAGE = document.getElementById('form-message');
 
-submitButton.onclick = () => messageSent();
+SUBMIT_BUTTON.addEventListener('click', (e) => {
+  e.preventDefault();
+  if (
+    FIRST_NAME.value !== '' &&
+    LAST_NAME.value !== '' &&
+    EMAIL.value !== '' &&
+    MESSAGE.value !== ''
+  ) {
+    messageSent();
+    sendMessage();
+  } else {
+    return;
+  }
+});
 
-function messageSent() {
-  submitButton.value = 'Message Sent!';
-}
+const sendMessage = () => {
+  axios
+    .post('http://localhost:8000/api/contact/create', {
+      firstName: FIRST_NAME,
+      lastName: LAST_NAME,
+      email: EMAIL,
+      message: MESSAGE,
+      contactDate: new Date().toLocaleDateString(),
+    })
+    .then((response) => {
+      // Add success alert
+      console.log('Message Submitted');
+    })
+    .catch((err) => {
+      // Add failure alert
+      console.error(err);
+    });
+};
+
+const messageSent = () => {
+  SUBMIT_BUTTON.value = 'Message Sent!';
+};
