@@ -681,6 +681,19 @@ textarea:focus {
   background: #ccc;
 }
 
+#contact-alert {
+  display: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 25%;
+  font-size: 1.25rem;
+  margin: auto;
+  padding: 5px;
+  border-radius: 15px;
+  font-weight: bold;
+}
+
 #form-wrapper {
   width: 100%;
   position: absolute;

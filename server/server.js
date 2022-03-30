@@ -52,7 +52,7 @@ app.post('/api/contact/create', async (req, res) => {
       error: 'Please enter a valid email',
     });
   }
-  if (dbContact.email.length < 2 || dbContact.email.length > 40) {
+  if (dbContact.email.length < 10 || dbContact.email.length > 40) {
     return res.status(400).json({
       status: 'Error',
       error: 'Email must be 10- 40 characters',
@@ -67,7 +67,7 @@ app.post('/api/contact/create', async (req, res) => {
   if (dbContact.message.length < 5) {
     return res.status(400).json({
       status: 'Error',
-      error: 'Mesage name must be at least 6 characters',
+      error: 'Mesage must be at least 6 characters',
     });
   }
   Contact.create(dbContact, (err, data) => {
