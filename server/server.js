@@ -67,7 +67,7 @@ app.post('/api/contact/create', async (req, res) => {
   if (dbContact.message.length < 5) {
     return res.status(400).json({
       status: 'Error',
-      error: 'Mesage must be at least 6 characters',
+      error: 'Message must be at least 6 characters',
     });
   }
   Contact.create(dbContact, (err, data) => {
