@@ -22,10 +22,10 @@ SUBMIT_BUTTON.addEventListener('click', (e) => {
 const sendMessage = () => {
   axios
     .post('http://localhost:8000/api/contact/create', {
-      firstName: FIRST_NAME,
-      lastName: LAST_NAME,
-      email: EMAIL,
-      message: MESSAGE,
+      firstName: FIRST_NAME.value,
+      lastName: LAST_NAME.value,
+      email: EMAIL.value,
+      message: MESSAGE.value,
       contactDate: new Date().toLocaleDateString(),
     })
     .then((response) => {
