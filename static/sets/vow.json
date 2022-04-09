@@ -7,15 +7,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/0/a0e47d11-cb21-402b-a39e-588a94cc57b4.png?1635791665"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact.",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -26,15 +23,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bd091f3e-5fcc-4d12-b0c3-3b6340ab01d8.png?1636110000"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -45,15 +39,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/1/1174e8e1-2e8e-4070-9871-7d5d93e0dd56.png?1636119052"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Choose one —\n• Exile target Zombie.\n• Target opponent exiles two cards from their hand.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -64,15 +55,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/8/a8fbf5d3-4677-4bf0-891f-57d6dcddaff7.png?1636014631"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Cleave {4}{U}{U}{R} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nTake an extra turn after this one. During that turn, damage can't be prevented. [At the beginning of that turn's end step, you lose the game.]\nExile Alchemist's Gambit.",
     "mana_cost": "{1}{R}{R}",
     "cmc": 3,
     "colors": ["R", "U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -83,15 +71,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/d/edbf9d4f-6027-40b8-81c1-7f001a9119dd.png?1636113921"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Cleave {1}{U} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nReturn target nonland permanent [you control] to its owner's hand.",
     "mana_cost": "{U}",
     "cmc": 1,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -104,15 +89,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/397ffd01-c090-4233-9f5a-5f765886d498.png?1635890914",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/3/9/397ffd01-c090-4233-9f5a-5f765886d498.png?1635890914"
     ],
-    "layout": "transform",
     "type_line": "Creature — Vampire // Creature — Vampire",
     "oracle_text": {},
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -123,15 +105,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/d/5dee47ab-d603-4346-97f4-a25dc3f47765.png?1636115944"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Target creature gains trample and gets +X/+0 until end of turn, where X is 1 plus the number of cards named Ancestral Anger in your graveyard.\nDraw a card.",
     "mana_cost": "{R}",
     "cmc": 1,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -142,15 +121,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/2/22264087-bac4-4746-b6ce-0d44cce163e6.png?1636208854"
     ],
-    "layout": "normal",
     "type_line": "Creature — Treefolk",
     "oracle_text": "Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.",
     "mana_cost": "{2}{B}{G}",
     "cmc": 4,
     "colors": ["B", "G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -161,15 +137,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/1/41d81b88-c19b-4148-89ba-ae8fb53843e1.png?1635927548"
     ],
-    "layout": "normal",
     "type_line": "Creature — Angel Soldier",
     "oracle_text": "Flying\nWhen Angelic Quartermaster enters the battlefield, put a +1/+1 counter on each of up to two other target creatures.",
     "mana_cost": "{3}{W}{W}",
     "cmc": 5,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -180,15 +153,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1bfac4ab-97f1-448c-8554-42ed03eb5656.png?1636208871"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Vampire",
     "oracle_text": "Whenever Anje, Maid of Dishonor and/or one or more other Vampires enter the battlefield under your control, create a Blood token. This ability triggers only once each turn. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\n{2}, Sacrifice another creature or a Blood token: Each opponent loses 2 life and you gain 2 life.",
     "mana_cost": "{2}{B}{R}",
     "cmc": 4,
     "colors": ["B", "R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -199,15 +169,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f03f0790-cdc9-4bb4-ae54-2c248435b0a4.png?1635454549"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Archer",
     "oracle_text": "Reach\nTraining (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -218,15 +185,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/c/0cf81c9d-ddb2-470e-8a4a-590049713e95.png?1635532299"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Cleric",
     "oracle_text": "Whenever Archghoul of Thraben or another Zombie you control dies, look at the top card of your library. If it's a Zombie card, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -237,15 +201,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/2004a20c-e434-4691-8ef2-740846ce6a51.png?1636208251"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Until end of turn, target creature gets +3/+3, up to one other target creature gets +2/+2, and up to one other target creature gets +1/+1. Those creatures gain vigilance until end of turn.",
     "mana_cost": "{1}{W}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -256,15 +217,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/4/142c5b67-5de9-41da-b57f-7ce771457a3e.png?1635793324"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf",
     "oracle_text": "Ascendant Packleader enters the battlefield with a +1/+1 counter on it if you control a permanent with mana value 4 or greater.\nWhenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on Ascendant Packleader.",
     "mana_cost": "{G}",
     "cmc": 1,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -277,15 +235,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c0c358b4-5af2-438f-8bd5-beb0ee6b518b.png?1636018207",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/c/0/c0c358b4-5af2-438f-8bd5-beb0ee6b518b.png?1636018207"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{4}{G}{G}",
     "cmc": 6,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4.5,
     "set": "vow"
   },
   {
@@ -298,15 +253,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/3/63d96c52-66ce-4b46-9a0b-7cd9a43f9253.png?1636017834",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/6/3/63d96c52-66ce-4b46-9a0b-7cd9a43f9253.png?1636017834"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Soldier Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{R}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -317,15 +269,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1bb844c4-f41c-4411-a80a-c19e1d97b272.png?1635890561"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Trample\nWhenever Belligerent Guest deals combat damage to a player, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -338,15 +287,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/3/730e4629-dc54-415d-9493-88885788ca19.png?1636118444",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/7/3/730e4629-dc54-415d-9493-88885788ca19.png?1636118444"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -359,15 +305,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/7/57039230-bf5a-4489-9dc1-37e27b17bd84.png?1636208442",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/5/7/57039230-bf5a-4489-9dc1-37e27b17bd84.png?1636208442"
     ],
-    "layout": "transform",
     "type_line": "Creature — Serpent Egg // Creature — Serpent",
     "oracle_text": {},
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -378,15 +321,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/d/3db65755-f104-4de9-bcc9-0a4a7bc66b51.png?1636114905"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Target creature gets -13/-13 until end of turn. If that creature would die this turn, exile it instead.",
     "mana_cost": "{2}{B}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -397,15 +337,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/b/8b12c378-1103-4a50-88fa-cf5a2deef463.png?1635992989"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Menace\nWhen Bloodcrazed Socialite enters the battlefield, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\nWhenever Bloodcrazed Socialite attacks, you may sacrifice a Blood token. If you do, it gets +2/+2 until end of turn.",
     "mana_cost": "{3}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -416,15 +353,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/d/dd03651e-ada0-41dc-8722-0eba476943e3.png?1636114954"
     ],
-    "layout": "normal",
     "type_line": "Artifact",
     "oracle_text": "When Blood Fountain enters the battlefield, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\n{3}{B}, {T}, Sacrifice Blood Fountain: Return up to two target creature cards from your graveyard to your hand.",
     "mana_cost": "{B}",
     "cmc": 1,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -435,15 +369,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d85e0477-9176-4a3e-badc-f1c1c734e59c.png?1635893093"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Blood Hypnotist can't block.\nWhenever you sacrifice one or more Blood tokens, target creature can't block this turn. This ability triggers only once each turn.",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -454,15 +385,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/c/0c3a4927-f06c-424d-92a9-b40cf8e3e209.png?1636116037"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Blood Petal Celebrant has first strike as long as it's attacking.\nWhen Blood Petal Celebrant dies, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -473,15 +401,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/7/87845cc2-bf5d-491d-bfa2-b33b034557a4.png?1636208894"
     ],
-    "layout": "normal",
     "type_line": "Artifact Creature — Construct",
     "oracle_text": "When Blood Servitor enters the battlefield, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{3}",
     "cmc": 3,
     "colors": [],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -494,15 +419,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a7cbdd54-7685-4921-ab60-dc36e647a4c5.png?1635787947",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/a/7/a7cbdd54-7685-4921-ab60-dc36e647a4c5.png?1635787947"
     ],
-    "layout": "transform",
     "type_line": "Creature — Vampire Soldier // Creature — Vampire Knight",
     "oracle_text": {},
     "mana_cost": "{3}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -513,15 +435,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f0192cf7-3391-4720-b9c8-72dec5dde01e.png?1636022649"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "When Bloodtithe Harvester enters the battlefield, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\n{T}, Sacrifice Bloodtithe Harvester: Target creature gets -X/-X until end of turn, where X is twice the number of Blood tokens you control. Activate only as a sorcery.",
     "mana_cost": "{B}{R}",
     "cmc": 2,
     "colors": ["B", "R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -532,15 +451,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/8/4889c58b-8b84-42af-a56c-e886655aa997.png?1635861996"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Flying, trample\nWhenever an opponent casts a spell, that player creates a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\nWhenever Bloodvial Purveyor attacks, it gets +1/+0 until end of turn for each Blood token defending player controls.",
     "mana_cost": "{2}{B}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -551,15 +467,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/9/8970a5d6-dcab-415a-851b-20e228ef7d16.png?1636116082"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -570,15 +483,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f02cf94c-94d3-4c4c-a7ae-b4d48ef5b14e.png?1636111046"
     ],
-    "layout": "normal",
     "type_line": "Artifact",
     "oracle_text": "Creatures attacking you get -1/-0.\nAt the beginning of each end step, if you were dealt 4 or more damage this turn, exile Boarded Window.",
     "mana_cost": "{3}",
     "cmc": 3,
     "colors": [],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -589,15 +499,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/3/f3017ae1-9744-493b-a1a2-fb2a60f7e7e4.png?1636116915"
     ],
-    "layout": "normal",
     "type_line": "Artifact — Equipment",
     "oracle_text": "When Bramble Armor enters the battlefield, attach it to target creature you control.\nEquipped creature gets +2/+1.\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",
     "mana_cost": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -608,15 +515,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/f/8f16f137-4ceb-469c-a381-e575d58f456b.png?1635891984"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wurm",
     "oracle_text": "Reach, trample\nWhen Bramble Wurm enters the battlefield, you gain 5 life.\n{2}{G}, Exile Bramble Wurm from your graveyard: You gain 5 life.",
     "mana_cost": "{6}{G}",
     "cmc": 7,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -627,15 +531,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/3/b3e5dbbe-ca99-41a5-901d-511b9f3ccea6.png?1636208262"
     ],
-    "layout": "normal",
     "type_line": "Artifact — Equipment",
     "oracle_text": "Equipped creature gets +2/+0. It gets an additional +0/+2 and has first strike as long as an Equipment named Groom's Finery is attached to a creature you control.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -648,15 +549,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8d233bc5-8a08-4d38-abd4-21a112141afd.png?1635706141",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/8/d/8d233bc5-8a08-4d38-abd4-21a112141afd.png?1635706141"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{1}{W}{U}",
     "cmc": 3,
     "colors": ["U", "W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -667,15 +565,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/46764e49-64da-4a94-b61c-75e006b2c5a9.png?1635454538"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Choose a number between 0 and 13. Each player sacrifices that many creatures.",
     "mana_cost": "{3}{W}{W}",
     "cmc": 5,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -686,15 +581,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/9/b9a41cfc-f329-4e69-a785-835f69c7d2ba.png?1635985477"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Look at the top seven cards of your library. Put up to two land cards from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.",
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -707,15 +599,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e61b3afa-66e0-4f7b-84bc-7ae2cc6d28d4.png?1636018409",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/e/6/e61b3afa-66e0-4f7b-84bc-7ae2cc6d28d4.png?1636018409"
     ],
-    "layout": "transform",
     "type_line": "Creature — Zombie // Creature — Zombie",
     "oracle_text": {},
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -726,15 +615,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/8/48da33b1-d59c-43f1-8e55-480096b674e5.png?1636110493"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "Menace\nWhen Cemetery Desecrator enters the battlefield or dies, exile another card from a graveyard. When you do, choose one —\n• Remove X counters from target permanent, where X is the mana value of the exiled card.\n• Target creature an opponent controls gets -X/-X until end of turn, where X is the mana value of the exiled card.",
     "mana_cost": "{4}{B}{B}",
     "cmc": 6,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4.5,
     "set": "vow"
   },
   {
@@ -745,15 +631,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/5/457086c4-1b4e-4f79-8f2a-10b16174c8bb.png?1636110593"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "First strike\nWhen Cemetery Gatekeeper enters the battlefield, exile a card from a graveyard.\nWhenever a player plays a land or casts a spell, if it shares a card type with the exiled card, Cemetery Gatekeeper deals 2 damage to that player.",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -764,15 +647,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/f/5f619464-dc3b-4265-b4e4-2578034bf5bf.png?1636038685"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit",
     "oracle_text": "Flying\nWhenever Cemetery Illuminator enters the battlefield or attacks, exile a card from a graveyard.\nYou may look at the top card of your library any time.\nOnce each turn, you may cast a spell from the top of your library if it shares a card type with a card exiled with Cemetery Illuminator.",
     "mana_cost": "{1}{U}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -783,15 +663,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c00731eb-69fe-42f3-9919-66a4cdec00f7.png?1635606744"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Flash\nWhen Cemetery Protector enters the battlefield, exile a card from a graveyard.\nWhenever you play a land or cast a spell, if it shares a card type with the exiled card, create a 1/1 white Human creature token.",
     "mana_cost": "{2}{W}{W}",
     "cmc": 4,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -802,15 +679,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/1/b124ccc4-76e3-41a4-92b2-8f1d06ea9cb8.png?1635789082"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf",
     "oracle_text": "Vigilance\nWhenever Cemetery Prowler enters the battlefield or attacks, exile a card from a graveyard.\nSpells you cast cost {1} less to cast for each card type they share with cards exiled with Cemetery Prowler.",
     "mana_cost": "{1}{G}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -821,15 +695,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/c/9ccb4b1e-ef8f-4c5f-8b5b-6148455442f7.png?1636118049"
     ],
-    "layout": "normal",
     "type_line": "Artifact — Equipment",
     "oracle_text": "Equipped creature gets +1/+0 and has \"Whenever this creature deals combat damage, create a Blood token.\" (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "mana_cost": "{1}",
     "cmc": 1,
     "colors": [],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -840,15 +711,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/8/681f7c73-92c6-47ba-af56-3ff032ac12da.png?1636110628"
     ],
-    "layout": "normal",
     "type_line": "Legendary Planeswalker — Chandra",
     "oracle_text": "+1: Add {R}. Chandra, Dressed to Kill deals 1 damage to up to one target player or planeswalker.\n+1: Exile the top card of your library. If it's red, you may cast it this turn.\n−7: Exile the top five cards of your library. You may cast red spells from among them this turn. You get an emblem with \"Whenever you cast a red spell, this emblem deals X damage to any target, where X is the amount of mana spent to cast that spell.\"",
     "mana_cost": "{1}{R}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -859,15 +727,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/3/63ca5ce5-94e7-43a1-8f2b-f0a4532f617a.png?1635530039"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Discard your hand, then draw a card for each card you've discarded this turn.",
     "mana_cost": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -880,15 +745,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/b/cb168e3c-2c78-4e70-a39b-06aa6a47998c.png?1635985380",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/c/b/cb168e3c-2c78-4e70-a39b-06aa6a47998c.png?1635985380"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{R}{G}",
     "cmc": 4,
     "colors": ["G", "R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -899,15 +761,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/0/60222e91-a688-4113-a8c2-ab08f52bb6e1.png?1636113988"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "This spell costs {1} less to cast if you control a Zombie.\nTap target creature. It doesn't untap during its controller's next untap step.\nDraw a card.",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -918,15 +777,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/3/13031fb6-9d5a-4add-9a86-28b2a9373fd2.png?1635942777"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "When Circle of Confinement enters the battlefield, exile target creature an opponent controls with mana value 3 or less until Circle of Confinement leaves the battlefield.\nWhenever an opponent casts a Vampire spell with the same name as a card exiled with Circle of Confinement, you gain 2 life.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -937,15 +793,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/6/06d86c79-d2c7-4900-9474-4d4bc4c74d44.png?1635704665"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Ranger",
     "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\nWhenever one or more +1/+1 counters are put on one or more Humans you control, draw a card. This ability triggers only once each turn.",
     "mana_cost": "{4}{G}",
     "cmc": 5,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -956,15 +809,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/a/4a2d3ba4-07c7-46bd-8241-0fa41105b771.png?1636018475"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Horse",
     "oracle_text": "As an additional cost to cast this spell, exile a creature card from your graveyard.\n{3}{U}, Exile Cobbled Lancer from your graveyard: Draw a card.",
     "mana_cost": "{U}",
     "cmc": 1,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -977,15 +827,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/1/612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1.png?1635931157",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/6/1/612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1.png?1635931157"
     ],
-    "layout": "transform",
     "type_line": "Creature — Wall // Creature — Eye Horror",
     "oracle_text": {},
     "mana_cost": "{B}",
     "cmc": 1,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -996,15 +843,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/5865f0f1-28a6-49ac-b61e-135845075d1f.png?1636114008"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Each player chooses a nonland permanent they control. Return all nonland permanents not chosen this way to their owners' hands. Then you draw a card for each opponent who has more cards in their hand than you.",
     "mana_cost": "{2}{U}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -1015,15 +859,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/d/4d9a8dc7-1ee9-4731-bd72-3d02f4e7c6c4.png?1635983315"
     ],
-    "layout": "normal",
     "type_line": "Creature — Bat",
     "oracle_text": "Flying\nWhen Courier Bat enters the battlefield, if you gained life this turn, return up to one target creature card from your graveyard to your hand.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1034,15 +875,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/2/42cbad81-152a-435f-9289-f4b6483a059b.png?1636129933"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura",
     "oracle_text": "Flash\nEnchant creature you control\nWhen Cradle of Safety enters the battlefield, enchanted creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)\nEnchanted creature gets +1/+1.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1053,15 +891,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/a/0ab55dae-5393-4356-9f81-66d6ea5d23c0.png?1636018542"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "At the beginning of your upkeep, you may mill two cards. (You may put the top two cards of your library into your graveyard.)\nWhenever one or more creature cards are put into your graveyard from anywhere during your turn, create a 1/1 green Insect creature token. This ability triggers only once each turn.",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -1072,15 +907,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/b/0bd17b9f-fd93-47d4-9cc4-cd333d0004f5.png?1636110661"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Rogue",
     "oracle_text": "Haste\nWhenever Creepy Puppeteer attacks, if you attacked with exactly one other creature this combat, you may have that creature's base power and toughness become 4/3 until end of turn.",
     "mana_cost": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -1091,15 +923,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/b/5bf2c686-efb0-46c7-b34e-c77987914b96.png?1636119134"
     ],
-    "layout": "normal",
     "type_line": "Creature — Bird Horror",
     "oracle_text": "Flying\nWhenever you cast a noncreature spell, look at the top card of your library. You may put that card into your graveyard.",
     "mana_cost": "{2}{U}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1110,15 +939,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/eae67d98-5167-442b-8586-0b2bcb0c56eb.png?1636117015"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Choose one —\n• Destroy target creature with flying.\n• Destroy target enchantment.",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1129,15 +955,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/62dffe04-c431-440d-a8da-33c74b4bb683.png?1635792398"
     ],
-    "layout": "normal",
     "type_line": "Creature — Plant Beast",
     "oracle_text": "Trample\nCultivator Colossus's power and toughness are each equal to the number of lands you control.\nWhen Cultivator Colossus enters the battlefield, you may put a land card from your hand onto the battlefield tapped. If you do, draw a card and repeat this process.",
     "mana_cost": "{4}{G}{G}{G}",
     "cmc": 7,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -1148,15 +971,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/5/45bcb839-4cff-4349-9892-0c76ae81929c.png?1635788112"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura Curse",
     "oracle_text": "Enchant player\nCreatures attacking enchanted player have trample.\nWhenever a creature deals combat damage to enchanted player, that player exiles the top card of their library. Until end of turn, that creature's controller may play that card and they may spend mana as though it were mana of any color to cast that spell.",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -1167,15 +987,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/4/c4bb669c-155e-4002-ba55-7e901760c0e8.png?1635983050"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Warlock",
     "oracle_text": "Whenever another Human enters the battlefield under your control, Dawnhart Disciple gets +1/+1 until end of turn.",
     "mana_cost": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -1186,15 +1003,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a1d27617-2d3d-44a1-b93f-0694253b6774.png?1635607087"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit Warlock",
     "oracle_text": "Whenever you cast an enchantment spell, you gain 2 life.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1205,15 +1019,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/6/8697a861-0f67-4ed3-bed8-f264fc78565e.png?1635983244"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Warrior",
     "oracle_text": "Haste\nWhen Daybreak Combatants enters the battlefield, target creature gets +2/+0 until end of turn.",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -1224,15 +1035,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d5523659-98a8-4ae2-9ec7-d77e7352c374.png?1635449738"
     ],
-    "layout": "normal",
     "type_line": "Land",
     "oracle_text": "Deathcap Glade enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {B} or {G}.",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["B", "G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -1243,15 +1051,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/0/80c3741e-cf04-4aa2-a6a9-ce19f043b22c.png?1635453303"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Exile the top thirteen cards of your library, then search your library for a card. Put that card into your hand, then shuffle.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -1264,15 +1069,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/467c566e-7f6a-40c9-8fd7-da6ae96df56c.png?1636120949",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/4/6/467c566e-7f6a-40c9-8fd7-da6ae96df56c.png?1636120949"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Peasant // Creature — Human Knight",
     "oracle_text": {},
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -1283,15 +1085,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/f/8f14c947-2452-4fd6-8f1a-391cf5898100.png?1636058147"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Cleave {1}{B}{B}{G} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nSearch your library for a [basic land] card, [reveal it,] put it into your hand, then shuffle.",
     "mana_cost": "{G}",
     "cmc": 1,
     "colors": ["B", "G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -1302,15 +1101,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f72eb127-3f4c-42ed-8ba6-b6d83ea18545.png?1636115020"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Bear",
     "oracle_text": "Deathtouch\nWhen Diregraf Scavenger enters the battlefield, exile up to one target card from a graveyard. If a creature card was exiled this way, each opponent loses 2 life and you gain 2 life.",
     "mana_cost": "{3}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -1323,15 +1119,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.png?1636208375",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/a/7/a7fc0939-6286-44de-a727-c83bfd3fa752.png?1636208375"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1342,15 +1135,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/8/38b5fdf4-3884-436f-8066-bc7593e72b02.png?1635842454"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Diver Skaab exploits a creature, target creature's owner puts it on the top or bottom of their library.",
     "mana_cost": "{3}{U}{U}",
     "cmc": 5,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1361,15 +1151,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/396abc9e-a738-430d-85cc-448ace2548f9.png?1636208975"
     ],
-    "layout": "normal",
     "type_line": "Artifact",
     "oracle_text": "{1}, {T}, Exile a creature card from your graveyard: Create a token that's a copy of the exiled card, except it's a 0/0 Construct artifact in addition to its other types and it has \"This creature gets +1/+1 for each Construct you control.\" It gains haste until end of turn. Activate only as a sorcery.",
     "mana_cost": "{5}",
     "cmc": 5,
     "colors": [],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1380,15 +1167,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4b11d234-c6e4-45b2-a3c2-dcacc77cc084.png?1635453196"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "When Dominating Vampire enters the battlefield, gain control of target creature with mana value less than or equal to the number of Vampires you control until end of turn. Untap that creature. It gains haste until end of turn.",
     "mana_cost": "{1}{R}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -1399,15 +1183,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7c0cf16-81ea-45e3-99cc-4424d59bb44b.png?1636115132"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human",
     "oracle_text": "When Doomed Dissenter dies, create a 2/2 black Zombie creature token.",
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -1420,15 +1201,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e7d3012e-1798-4f72-8d9a-b2d16f817502.png?1635931218",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/e/7/e7d3012e-1798-4f72-8d9a-b2d16f817502.png?1635931218"
     ],
-    "layout": "transform",
     "type_line": "Enchantment // Creature — Treefolk",
     "oracle_text": {},
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1441,15 +1219,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.png?1635454482",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.png?1635454482"
     ],
-    "layout": "transform",
     "type_line": "Legendary Creature — Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{W}{U}",
     "cmc": 2,
     "colors": ["U", "W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -1460,15 +1235,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/6/269199ea-2106-4299-ade0-10cce1320434.png?1635931586"
     ],
-    "layout": "normal",
     "type_line": "Creature — Demon",
     "oracle_text": "Flying\nAt the beginning of your end step, sacrifice a non-Demon creature. If you do, create a token that's a copy of Dreadfeast Demon.",
     "mana_cost": "{5}{B}{B}",
     "cmc": 7,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -1479,15 +1251,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/a/0ad4c472-b8ce-4ae0-a6f0-726ea74722c5.png?1636208534"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Cleave {2}{B} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nTarget player reveals their hand. You choose a nonland card from it [with mana value 2 or less]. That player discards that card.",
     "mana_cost": "{B}",
     "cmc": 1,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1498,15 +1267,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/6/16345278-7565-406b-a958-835081082bc8.png?1636114197"
     ],
-    "layout": "normal",
     "type_line": "Creature — Crab Horror",
     "oracle_text": "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\n{3}{U}{U}: Dreadlight Monstrosity can't be blocked this turn. Activate only if you own a card in exile.",
     "mana_cost": "{4}{U}{U}",
     "cmc": 6,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -1517,15 +1283,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/b/eb604455-c411-414d-a2ef-e7567ee86a4d.png?1635533452"
     ],
-    "layout": "normal",
     "type_line": "Land",
     "oracle_text": "Dreamroot Cascade enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {G} or {U}.",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["G", "U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -1536,15 +1299,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1b81d90b-708a-48c9-a478-e3b0a3d7e982.png?1636110182"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit",
     "oracle_text": "Flying\nAt the beginning of combat on your turn, choose up to one —\n• Tap target creature.\n• Target creature doesn't untap during its controller's next untap step.",
     "mana_cost": "{1}{U}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4.5,
     "set": "vow"
   },
   {
@@ -1557,15 +1317,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/8/f88e269e-ff3d-4775-8520-5b7a6dddf23d.png?1635454525",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/f/8/f88e269e-ff3d-4775-8520-5b7a6dddf23d.png?1635454525"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit Soldier // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1576,15 +1333,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c2ea16cd-801e-478a-b924-5431582b70d1.png?1636131885"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "Whenever you discard one or more cards, create a tapped 2/2 black Zombie creature token. This ability triggers only once each turn.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -1597,15 +1351,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.png?1636208884",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.png?1636208884"
     ],
-    "layout": "transform",
     "type_line": "Legendary Creature — Vampire Noble // Legendary Artifact",
     "oracle_text": {},
     "mana_cost": "{2}{W}{B}",
     "cmc": 4,
     "colors": ["B", "W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4.5,
     "set": "vow"
   },
   {
@@ -1616,15 +1367,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/6/96ff9de6-f9ae-4b1c-9fd1-4ba9663922af.png?1635929640"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Return target creature card from your graveyard to the battlefield.\nWhen you discard Edgar's Awakening, you may pay {B}. When you do, return target creature card from your graveyard to your hand.",
     "mana_cost": "{3}{B}{B}",
     "cmc": 5,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -1635,15 +1383,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/bec748e6-7245-4a71-aeee-cefed8346948.png?1636208598"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "End the Festivities deals 1 damage to each opponent and each creature and planeswalker they control.",
     "mana_cost": "{R}",
     "cmc": 1,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1654,15 +1399,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/f/9f764077-df2d-4ac7-b507-2c8e08386d49.png?1635939687"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Human Wizard",
     "oracle_text": "If you would draw a card, exile the top two cards of your library instead. You may play those cards this turn.",
     "mana_cost": "{1}{U}{R}",
     "cmc": 3,
     "colors": ["R", "U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1673,15 +1415,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/1/61c7d889-8cc0-4e80-b6d5-d41961820224.png?1636208241"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Whenever Estwald Shieldbasher attacks, you may pay {1}. If you do, it gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
     "mana_cost": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -1692,15 +1431,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/8/e80fe230-745d-42ae-a1f5-a8cc950783d0.png?1636118155"
     ],
-    "layout": "normal",
     "type_line": "Land",
     "oracle_text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
     "mana_cost": "",
     "cmc": 0,
     "colors": [],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -1713,15 +1449,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/db791fb6-b0ff-4ded-bd3d-9447cf398312.png?1635956709",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/d/b/db791fb6-b0ff-4ded-bd3d-9447cf398312.png?1635956709"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit Soldier // Enchantment — Aura Curse",
     "oracle_text": {},
     "mana_cost": "{1}{W}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4.5,
     "set": "vow"
   },
   {
@@ -1732,15 +1465,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/c/4c3c5778-4760-4a8c-8d8d-693e29a0a74b.png?1636116286"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen Falkenrath Celebrants enters the battlefield, create two Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{4}{R}",
     "cmc": 5,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -1751,15 +1481,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/5/451559d0-b62d-4757-8eb5-f6b0e240899c.png?1635791961"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Flying\nFalkenrath Forebear can't block.\nWhenever Falkenrath Forebear deals combat damage to a player, create a Blood token.\n{B}, Sacrifice two Blood tokens: Return Falkenrath Forebear from your graveyard to the battlefield.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -1772,15 +1499,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/e/5eb3a08e-1d31-4ab9-854f-a86b060696ec.png?1635705754",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/5/e/5eb3a08e-1d31-4ab9-854f-a86b060696ec.png?1635705754"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1791,15 +1515,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b81704d2-d555-4894-b36c-6b65d1ebe681.png?1636114252"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nWhen Fear of Death enters the battlefield, mill two cards. (Put the top two cards of your library into your graveyard.)\nEnchanted creature gets -X/-0, where X is the number of cards in your graveyard.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1810,15 +1531,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/7/27347849-6c07-42c0-bee4-74f93d7ad511.png?1635453241"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Scorpion",
     "oracle_text": "Deathtouch\nExploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Fell Stinger exploits a creature, target player draws two cards and loses 2 life.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -1829,15 +1547,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/5/9597b163-5c6b-4f64-b1f1-5f1fa2e23e5d.png?1636119083"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Cleave {5}{W} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nDestroy target [attacking] creature.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1848,15 +1563,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/1/b1771a8f-7bea-4bb0-9949-566ee6613b93.png?1636119238"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Flame-Blessed Bolt deals 2 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",
     "mana_cost": "{R}",
     "cmc": 1,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1867,15 +1579,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/db9d80f7-9742-4437-a9f4-6717a678f935.png?1635985539"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit",
     "oracle_text": "{W}, Exile three cards from your graveyard: Fleeting Spirit gains first strike until end of turn.\nDiscard a card: Exile Fleeting Spirit. Return it to the battlefield under its owner's control at the beginning of the next end step.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1886,15 +1595,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/a/2abc54df-773d-4f46-b241-e1f42af8ab95.png?1635982994"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf Spirit",
     "oracle_text": "When Flourishing Hunter enters the battlefield, you gain life equal to the greatest toughness among other creatures you control.",
     "mana_cost": "{4}{G}{G}",
     "cmc": 6,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -1907,15 +1613,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a27b9d82-f613-4789-9e8b-f37db5597027.png?1636208929",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/a/2/a27b9d82-f613-4789-9e8b-f37db5597027.png?1636208929"
     ],
-    "layout": "transform",
     "type_line": "Artifact Creature — Construct // Artifact Creature — Construct",
     "oracle_text": {},
     "mana_cost": "{3}",
     "cmc": 3,
     "colors": [],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -1926,15 +1629,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/a/7ae6380e-b1b6-4a5a-a8d9-7cdf8eab3557.png?1635451745"
     ],
-    "layout": "normal",
     "type_line": "Basic Land — Forest",
     "oracle_text": "({T}: Add {G}.)",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -1945,15 +1645,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/7/b7912206-6de3-4085-b5f6-a2e90ea55b90.png?1636208609"
     ],
-    "layout": "normal",
     "type_line": "Creature — Devil",
     "oracle_text": "Haste\nWhenever you cast a noncreature spell, Frenzied Devils gets +2/+2 until end of turn.",
     "mana_cost": "{4}{R}",
     "cmc": 5,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1964,15 +1661,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/3/7302b5da-cac5-4ce7-ad38-2ff4e410891b.png?1635454609"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "This spell costs {1} less to cast if you control a Spirit. It also costs {1} less to cast if you control an enchantment.\nCounter target spell unless its controller pays {3}.",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -1983,15 +1677,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/9/69890076-9cc4-434f-8618-63b00fdf4515.png?1635931518"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Human Wizard",
     "oracle_text": "Zombies you control have flying.\n{U}, {T}, Sacrifice another nontoken creature: Create an X/X blue Zombie creature token, where X is the sacrificed creature's toughness.",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2002,15 +1693,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/8/a864375f-99c3-4c68-9440-bc25ff6d0dc0.png?1636115286"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 as long as it's a Vampire. Otherwise, it gets -2/-2.",
     "mana_cost": "{B}",
     "cmc": 1,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2021,15 +1709,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a2caf73e-c3eb-4fa8-996a-d3d18b2ffaeb.png?1635863157"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "At the beginning of combat on your turn, choose one —\n• Creatures you control get +1/+1 and gain trample until end of turn.\n• Target land gains \"{T}: Add {G}{G}{G}\" until end of turn.\n• Draw a card if you control a creature with power 3 or greater.\n• You gain 3 life.",
     "mana_cost": "{3}{G}{G}",
     "cmc": 5,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2040,15 +1725,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/8/18c07288-1c71-4e71-bdf5-910eb583a1d8.png?1635452105"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "When Gluttonous Guest enters the battlefield, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\nWhenever you sacrifice a Blood token, you gain 1 life.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -2059,15 +1741,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/b/0bb2103b-3462-4439-a1e1-243a15c5f318.png?1635891783"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Warrior",
     "oracle_text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Graf Reaver exploits a creature, destroy target planeswalker.\nAt the beginning of your upkeep, Graf Reaver deals 1 damage to you.",
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2078,15 +1757,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/53cdf2ab-3acd-49bd-8273-84c1cfc92883.png?1636115356"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Destroy target creature or planeswalker. Create two Blood tokens. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{5}{B}",
     "cmc": 6,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -2097,15 +1773,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/a/7aaba76b-9cec-4c2b-b0eb-8f44201f6422.png?1635454593"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Frog",
     "oracle_text": "Whenever a Frog you control attacks, mill three cards.\nWhenever a permanent card is put into your graveyard from your library, exile it with a croak counter on it.\nYou may play lands and cast spells from among cards you own in exile with croak counters on them.",
     "mana_cost": "{2}{G}{U}",
     "cmc": 4,
     "colors": ["G", "U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2116,15 +1789,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/3/43bc65cf-4444-4db3-9bb3-a7d91e560470.png?1635787630"
     ],
-    "layout": "normal",
     "type_line": "Artifact — Equipment",
     "oracle_text": "Equipped creature gets +2/+0. It gets an additional +0/+2 and has deathtouch as long as an Equipment named Bride's Gown is attached to a creature you control.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -2135,15 +1805,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/5317077b-370e-41a9-9162-c713362fd7f4.png?1635454565"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Knight",
     "oracle_text": "Flying\nTraining (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)",
     "mana_cost": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2154,15 +1821,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/9/792d5b41-27f3-455b-890e-a1771944fc7d.png?1636020557"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Knight",
     "oracle_text": "Flying\nTraining (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\nWhenever Gryffwing Cavalry attacks, you may pay {1}{W}. If you do, target attacking creature without flying gains flying until end of turn.",
     "mana_cost": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2175,15 +1839,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/e/ceb84515-7b8f-444d-b6a9-61231621f9b7.png?1635935430",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/c/e/ceb84515-7b8f-444d-b6a9-61231621f9b7.png?1635935430"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2194,15 +1855,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/0/608fa232-f5fe-4c58-9efe-fb780f454b19.png?1635532390"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Human Ranger",
     "oracle_text": "First strike, reach\nAt the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is Halana and Alena's power. That creature gains haste until end of turn.",
     "mana_cost": "{2}{R}{G}",
     "cmc": 4,
     "colors": ["G", "R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -2213,15 +1871,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/7/674c0a50-9c37-4c29-84d8-eb3e34f34d37.png?1635671982"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "As long as you control seven or more enchantments, creatures you control have flying and vigilance.\nWhenever you cast an enchantment spell, create a white Spirit Cleric creature token with \"This creature's power and toughness are each equal to the number of Spirits you control.\"",
     "mana_cost": "{2}{W}{W}",
     "cmc": 4,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2232,15 +1887,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/3/f31e108b-8cb5-4f30-b68b-274aa7ac2a81.png?1635792924"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Warrior",
     "oracle_text": "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nHamlet Vanguard enters the battlefield with two +1/+1 counters on it for each other nontoken Human you control.",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2251,15 +1903,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c24018e8-b8f1-44a5-9355-8b79f363569d.png?1636131153"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "Whenever Headless Rider or another nontoken Zombie you control dies, create a 2/2 black Zombie creature token.",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2272,15 +1921,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/4/946ca338-5f43-4cff-bd93-1b28449c5fdc.png?1636208584",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/9/4/946ca338-5f43-4cff-bd93-1b28449c5fdc.png?1636208584"
     ],
-    "layout": "transform",
     "type_line": "Legendary Creature — Vampire // Legendary Creature — Vampire",
     "oracle_text": {},
     "mana_cost": "{2}{B}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4.5,
     "set": "vow"
   },
   {
@@ -2291,15 +1937,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/3/83bacf4a-4e99-4008-97e4-3a82dddd4e45.png?1636113398"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit",
     "oracle_text": "Flying\n{3}{W}, Exile Heron-Blessed Geist from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate only if you control an enchantment and only as a sorcery.",
     "mana_cost": "{4}{W}",
     "cmc": 5,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2310,15 +1953,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fa7e6933-5c64-4fcd-bb7f-740767a149cb.png?1635983587"
     ],
-    "layout": "normal",
     "type_line": "Creature — Bird",
     "oracle_text": "Flying\nIf you would gain life, you gain that much life plus 1 instead.\n{1}{W}: Heron of Hope gains lifelink until end of turn.",
     "mana_cost": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2329,15 +1969,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/1/c1b0751e-3a7e-4568-8c64-7429d6829687.png?1636110564"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Destroy target creature or planeswalker.",
     "mana_cost": "{1}{B}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2348,15 +1985,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/3/33efdb5a-7667-4475-9905-95f8fc9be2d3.png?1636208722"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Shaman",
     "oracle_text": "Whenever Hiveheart Shaman attacks, you may search your library for a basic land card that doesn't share a land type with a land you control, put that card onto the battlefield, then shuffle.\n{5}{G}: Create a 1/1 green Insect creature token. Put X +1/+1 counters on it, where X is the number of basic land types among lands you control. Activate only as a sorcery.",
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2367,15 +2001,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/4/04e491a1-b195-45bb-bf06-345eaee30b81.png?1636208674"
     ],
-    "layout": "normal",
     "type_line": "Artifact — Vehicle",
     "oracle_text": "Trample\nTap two untapped creatures you control: Honeymoon Hearse becomes an artifact creature until end of turn.",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2386,15 +2017,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/3/d3390e4d-9137-40ff-b998-bdb19c90b7d5.png?1636208994"
     ],
-    "layout": "normal",
     "type_line": "Artifact",
     "oracle_text": "{T}: Add one mana of any color.\n{2}, {T}: Exile target card from a graveyard.",
     "mana_cost": "{3}",
     "cmc": 3,
     "colors": [],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -2407,15 +2035,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.png?1636208735",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.png?1636208735"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2426,15 +2051,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/ec1b3fd1-952a-4bc6-9b31-bd9bd13072f5.png?1636113199"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Warlock",
     "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\n{2}{W}, Remove two +1/+1 counters from among creatures you control: Destroy target artifact or enchantment.",
     "mana_cost": "{W}",
     "cmc": 1,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2445,15 +2067,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/ca50b6a5-2e58-4de3-b0e1-0b33536f69a6.png?1636042228"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "At the beginning of combat on your turn, target Wolf or Werewolf you control gets +2/+2 until end of turn.\nWhenever an opponent casts their second spell each turn, create a 2/2 green Wolf creature token.",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2466,15 +2085,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/7/c7ceaf83-09c0-4492-a75d-4c47bd421858.png?1635939702",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/c/7/c7ceaf83-09c0-4492-a75d-4c47bd421858.png?1635939702"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2485,15 +2101,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4b546bcf-2e86-42af-bf32-81c7fd36ef8c.png?1636038968"
     ],
-    "layout": "normal",
     "type_line": "Creature — Kraken Horror",
     "oracle_text": "Flash\nThis spell can't be countered.\nWhenever you cast a spell, choose up to one —\n• Return target spell you don't control to its owner's hand.\n• Return target nonland permanent to its owner's hand.",
     "mana_cost": "{5}{U}{U}",
     "cmc": 7,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2504,15 +2117,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/0/804e0e1d-9c9c-46e6-8533-88e18a91ceff.png?1635983182"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf",
     "oracle_text": "As long as you control another Wolf or Werewolf, Hungry Ridgewolf gets +1/+0 and has trample.",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2525,15 +2135,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/3/f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c.png?1636110710",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/f/3/f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c.png?1636110710"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{R}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -2546,15 +2153,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/9/0936761c-7cdc-49ef-8a0d-ed79219f1056.png?1636208747",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/0/9/0936761c-7cdc-49ef-8a0d-ed79219f1056.png?1636208747"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{4}{G}",
     "cmc": 5,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2567,15 +2171,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/3/13a5e5fd-a67a-4c0e-97ae-923bdbc1be20.png?1635606507",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/1/3/13a5e5fd-a67a-4c0e-97ae-923bdbc1be20.png?1635606507"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human // Creature — Vampire",
     "oracle_text": {},
     "mana_cost": "{2}{B}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2586,15 +2187,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/f/2fe4ee8e-579d-4bfa-8c19-bfdb1c0b7177.png?1636114277"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Cleave {3}{U}{U} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nDraw three cards. [Your maximum hand size is reduced by three for the rest of the game.]",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2605,15 +2203,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/5/b5a96286-0dda-4761-a1c5-241288c36275.png?1636142461"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "It becomes night. Discard any number of cards, then draw that many cards plus one.",
     "mana_cost": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -2624,15 +2219,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/8/f8a606e5-7a90-4a89-b51a-7f4e68705f97.png?1635606125"
     ],
-    "layout": "normal",
     "type_line": "Artifact — Clue",
     "oracle_text": "Investigator's Journal enters the battlefield with a number of suspect counters on it equal to the greatest number of creatures a player controls.\n{2}, {T}, Remove a suspect counter from Investigator's Journal: Draw a card.\n{2}, Sacrifice Investigator's Journal: Draw a card.",
     "mana_cost": "{2}",
     "cmc": 2,
     "colors": [],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2643,15 +2235,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/8/f82b281f-d3c7-4eb8-9a10-b4808ca6cfcd.png?1635451748"
     ],
-    "layout": "normal",
     "type_line": "Basic Land — Island",
     "oracle_text": "({T}: Add {U}.)",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -2664,15 +2253,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.png?1636208387",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/0/e/0ef240aa-2a88-4ec4-888a-918466372adb.png?1636208387"
     ],
-    "layout": "transform",
     "type_line": "Legendary Creature — Spirit Warlock // Legendary Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{1}{W}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4.5,
     "set": "vow"
   },
   {
@@ -2683,15 +2269,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/9/a98a208c-ee2b-4672-a43b-f4a708585b1a.png?1636061422"
     ],
-    "layout": "normal",
     "type_line": "Legendary Planeswalker — Kaya",
     "oracle_text": "+1: Creatures you control gain deathtouch until end of turn. Put a +1/+1 counter on up to one target creature token you control.\n−2: Until end of turn, if one or more tokens would be created under your control, twice that many of those tokens are created instead.\n−6: Exile all cards from all graveyards, then create a 1/1 white Spirit creature token with flying for each card exiled this way.",
     "mana_cost": "{1}{W}{B}",
     "cmc": 3,
     "colors": ["B", "W"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2702,15 +2285,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/303ad78a-b02a-44dc-afe6-7f95781a5062.png?1635983121"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Shaman",
     "oracle_text": "Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent.",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -2721,15 +2301,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/8/180b1a4f-c071-4742-9c57-9d775be0ed4f.png?1635930139"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Knight",
     "oracle_text": "Menace\n{2}{R}, {T}, Exile three cards from your graveyard: Create a 3/2 red Wolf creature token.",
     "mana_cost": "{R}",
     "cmc": 1,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2742,15 +2319,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/5/25193485-7f41-4b05-9a69-4c112679f97c.png?1635605839",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/2/5/25193485-7f41-4b05-9a69-4c112679f97c.png?1635605839"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2761,15 +2335,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/7/c7e0c0dc-2d35-4e5a-81da-dd5f35b8e579.png?1636207804"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Lacerate Flesh deals 4 damage to target creature. Create a number of Blood tokens equal to the amount of excess damage dealt to that creature this way. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{4}{R}",
     "cmc": 5,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -2780,15 +2351,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/4/141f7948-3140-40f2-95dd-ab6c79f2a821.png?1635788887"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "Whenever a Human you control dies, draw a card.\nWhenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.",
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -2801,15 +2369,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/c/0cbee24c-9147-46cb-a5f9-8d919c021aa4.png?1635984062",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/0/c/0cbee24c-9147-46cb-a5f9-8d919c021aa4.png?1635984062"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -2822,15 +2387,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/4/a4d3652a-6774-4b16-aa8b-cb11d72ec7aa.png?1635842501",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/a/4/a4d3652a-6774-4b16-aa8b-cb11d72ec7aa.png?1635842501"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{U}",
     "cmc": 1,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2841,15 +2403,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/dfd59300-7b5c-4263-a7fd-775c9fcb05ad.png?1635975892"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Cleave {X}{R}{W} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nLantern Flare deals X damage to target creature or planeswalker and you gain X life. [X is the number of creatures you control.]",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["R", "W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -2860,15 +2419,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c2303f11-2c82-44d5-893a-8e71dece7746.png?1636124667"
     ],
-    "layout": "normal",
     "type_line": "Artifact",
     "oracle_text": "When Lantern of the Lost enters the battlefield, exile target card from a graveyard.\n{1}, {T}, Exile Lantern of the Lost: Exile all cards from all graveyards, then draw a card.",
     "mana_cost": "{1}",
     "cmc": 1,
     "colors": [],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -2879,15 +2435,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/7211e4c3-e940-41da-88e4-4630eab447a6.png?1636119271"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf",
     "oracle_text": "{1}{R}: Lightning Wolf gains first strike until end of turn. Activate only as a sorcery.",
     "mana_cost": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -2898,15 +2451,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/f/0f66511c-355f-4e8a-96fc-3afc7a315231.png?1635928937"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Cleave {3}{U} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nReturn target [Wolf or Werewolf] creature to its owner's hand.\nDraw a card.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2917,15 +2467,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/2/42f133d6-35c3-49b7-85f6-d6cfa6bac3d9.png?1635930181"
     ],
-    "layout": "normal",
     "type_line": "Creature — Elemental",
     "oracle_text": "Magma Pummeler enters the battlefield with X +1/+1 counters on it.\nIf damage would be dealt to Magma Pummeler while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it. When one or more counters are removed from Magma Pummeler this way, it deals that much damage to any target.",
     "mana_cost": "{X}{R}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -2936,15 +2483,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/52e59170-aa80-45e1-ad0d-ce4818e78d2a.png?1635530523"
     ],
-    "layout": "normal",
     "type_line": "Creature — Dragon",
     "oracle_text": "Flying\nWhenever you cast a noncreature spell, create an X/X red Dragon Illusion creature token with flying and haste, where X is the amount of mana spent to cast that spell. Exile that token at the beginning of the next end step.",
     "mana_cost": "{2}{R}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -2955,15 +2499,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/b/bb95d34a-0b13-4533-9efc-08381c81e6cd.png?1635892496"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire Cleric",
     "oracle_text": "Lifelink\nAt the beginning of your end step, if you gained life this turn, you may pay {2}. If you do, draw a card.",
     "mana_cost": "{1}{W}{B}",
     "cmc": 3,
     "colors": ["B", "W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -2974,15 +2515,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/8/48d3840c-db27-4512-bfe3-92249094e5b4.png?1635890962"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Choose one or both —\n• Creatures you control get +1/+0 until end of turn.\n• Target Vampire you control deals damage equal to its power to another target creature.",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -2993,15 +2531,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c2f45bc0-36ed-44ec-9bc8-31ea7c7fafdb.png?1636020493"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Flying, haste\nAt the beginning of combat on your turn, up to two target creatures you control each get +1/+0 until end of turn.",
     "mana_cost": "{2}{R}{W}",
     "cmc": 4,
     "colors": ["R", "W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3012,15 +2547,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/a/3a5cd50b-4825-4d85-b0f9-e2a51d2a7df1.png?1635453101"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Target creature gets +2/+2 and gains trample until end of turn.",
     "mana_cost": "{G}",
     "cmc": 1,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -3031,15 +2563,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/51b3ff40-3185-4369-985e-17613bb6ad22.png?1635992972"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Militia Rallier can't attack alone.\nWhenever Militia Rallier attacks, untap target creature.",
     "mana_cost": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3050,15 +2579,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/5/f5c4e00d-128a-4ddb-9e1b-3ee93121b262.png?1635567418"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Mindleech Ghoul exploits a creature, each opponent exiles a card from their hand.",
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -3071,15 +2597,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/2/823ad188-bd56-476d-9853-bed90bfad582.png?1635892271",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/8/2/823ad188-bd56-476d-9853-bed90bfad582.png?1635892271"
     ],
-    "layout": "transform",
     "type_line": "Creature — Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -3092,15 +2615,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.png?1636208485",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.png?1636208485"
     ],
-    "layout": "transform",
     "type_line": "Creature — Cat Spirit // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3111,15 +2631,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/5252ea27-63d1-4b80-beae-8e016373d004.png?1636017866"
     ],
-    "layout": "normal",
     "type_line": "Creature — Insect Horror",
     "oracle_text": "When Moldgraf Millipede enters the battlefield, mill three cards, then put a +1/+1 counter on Moldgraf Millipede for each creature card in your graveyard. (To mill a card, put the top card of your library into your graveyard.)",
     "mana_cost": "{4}{G}",
     "cmc": 5,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -3130,15 +2647,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b86fbf78-57ec-4a0f-9fb6-e4bf13861563.png?1635451751"
     ],
-    "layout": "normal",
     "type_line": "Basic Land — Mountain",
     "oracle_text": "({T}: Add {R}.)",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -3149,15 +2663,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/5/950dd57e-b2e1-4a27-a212-86fbfdbf914d.png?1636110867"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.",
     "mana_cost": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -3168,15 +2679,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/39d757af-86fd-4f99-a09a-0f3898ed95f6.png?1636119282"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature or land\nAs long as enchanted permanent is a creature, it gets +2/+2.\nAs long as enchanted permanent is a land, it has \"{T}: Add two mana of any one color.\"",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -3187,15 +2695,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/4/04c68dbd-e61b-49a7-aa17-da6b26c9fd29.png?1636113451"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit",
     "oracle_text": "{W}, {T}: Tap target creature.",
     "mana_cost": "{4}{W}",
     "cmc": 5,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -3206,15 +2711,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/b/9b674053-1f0f-436d-b106-f91f41cf3959.png?1635840963"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "Whenever a nontoken Zombie enters the battlefield under your control, create a token that's a copy of that creature.",
     "mana_cost": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3225,15 +2727,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/35e109ea-8b86-4432-b15e-5a6201caf2aa.png?1636128105"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nEnchanted creature has \"Whenever a creature enters the battlefield under your control, this creature gets +1/+1 until end of turn.\"\nWhen Nurturing Presence enters the battlefield, create a 1/1 white Spirit creature token with flying.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -3246,15 +2745,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/b/8bcaa944-4e45-457c-be9c-07377b6ed08b.png?1636208764",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/8/b/8bcaa944-4e45-457c-be9c-07377b6ed08b.png?1636208764"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Ranger Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3265,15 +2761,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/1/81a79f5f-a65a-4b43-b58c-cdfa09cc7855.png?1636060472"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Vampire Soldier",
     "oracle_text": "When Odric, Blood-Cursed enters the battlefield, create X Blood tokens, where X is the number of abilities from among flying, first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance found among creatures you control. (Count each ability only once.)",
     "mana_cost": "{1}{R}{W}",
     "cmc": 3,
     "colors": ["R", "W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3284,15 +2777,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/625b8023-2ef1-4b7b-9e48-4f774fee14e0.png?1635926724"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Human Peasant",
     "oracle_text": "When Old Rutstein enters the battlefield or at the beginning of your upkeep, mill a card. If a land card is milled this way, create a Treasure token. If a creature card is milled this way, create a 1/1 green Insect creature token. If a noncreature, nonland card is milled this way, create a Blood token.",
     "mana_cost": "{1}{B}{G}",
     "cmc": 3,
     "colors": ["B", "G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -3303,15 +2793,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/301dacc9-ef92-4515-b907-a70d6c3fd73e.png?1635454448"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Vampire Noble",
     "oracle_text": "Flying, haste\nWhenever Olivia, Crimson Bride attacks, return target creature card from your graveyard to the battlefield tapped and attacking. It gains \"When you don't control a legendary Vampire, exile this creature.\"",
     "mana_cost": "{4}{B}{R}",
     "cmc": 6,
     "colors": ["B", "R"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -3322,15 +2809,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d9702fa3-9323-4e2f-92c9-6c31df198af2.png?1636110773"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Menace\nWhenever Olivia's Attendants deals damage, create that many Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\n{2}{R}: Olivia's Attendants deals 1 damage to any target.",
     "mana_cost": "{4}{R}{R}",
     "cmc": 6,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3341,15 +2825,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7a659bf-9d85-4011-980e-c3a8dc4513e9.png?1635887295"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Cleric",
     "oracle_text": "Vigilance\nSacrifice Ollenbock Escort: Target creature you control with a +1/+1 counter on it gains lifelink and indestructible until end of turn.",
     "mana_cost": "{W}",
     "cmc": 1,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3360,15 +2841,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/dbbcd63d-6c25-47a6-a76c-ac53bf12949c.png?1635446176"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Horror",
     "oracle_text": "Flash\nFlying\nExploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Overcharged Amalgam exploits a creature, counter target spell, activated ability, or triggered ability.",
     "mana_cost": "{2}{U}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -3379,15 +2857,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/4/d43d9686-a5e4-413b-8a34-3430788dd1b9.png?1636117097"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf",
     "oracle_text": "At the beginning of combat on your turn, if you control another Wolf or Werewolf, put a +1/+1 counter on Packsong Pup.\nWhen Packsong Pup dies, you gain life equal to its power.",
     "mana_cost": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3400,15 +2875,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/3/031c5cff-e579-432a-bcee-864b12eb0558.png?1636208398",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/0/3/031c5cff-e579-432a-bcee-864b12eb0558.png?1636208398"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Peasant // Creature — Human Rogue",
     "oracle_text": {},
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["B", "W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3419,15 +2891,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.png?1635891611"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Cleave {1}{B}{B} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nParasitic Grasp deals 3 damage to target [Human] creature. You gain 3 life.",
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -3438,15 +2907,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/9845cdf2-e5ba-44a0-8136-72a1eb03a6a1.png?1636113576"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\nWhen Parish-Blade Trainee dies, put its counters on target creature you control.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3457,15 +2923,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/b/6bb86ebf-f145-43c1-8f05-f4b55ded59b6.png?1635928973"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Horror",
     "oracle_text": "{2}{U}: Exile target creature card from your graveyard and put a +1/+1 counter on Patchwork Crawler.\nPatchwork Crawler has all activated abilities of all creature cards exiled with it.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -3476,15 +2939,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.png?1635616590"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Cleave {4}{W}{B} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nDestroy all creatures [with mana value 2 or less].",
     "mana_cost": "{1}{B}{B}",
     "cmc": 3,
     "colors": ["B", "W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -3495,15 +2955,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7baf973-3202-4fea-8861-a4a5ec228640.png?1636115463"
     ],
-    "layout": "normal",
     "type_line": "Creature — Skeleton",
     "oracle_text": "{2}{B}: Return Persistent Specimen from your graveyard to the battlefield tapped.",
     "mana_cost": "{B}",
     "cmc": 1,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3514,15 +2971,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54cc4e2b-1497-4788-afb4-9e42b7683b5a.png?1636119099"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Piercing Light deals 2 damage to target attacking or blocking creature. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
     "mana_cost": "{W}",
     "cmc": 1,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -3533,15 +2987,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/20ddb0be-d62d-46fa-b753-36dfab935e8a.png?1635451754"
     ],
-    "layout": "normal",
     "type_line": "Basic Land — Plains",
     "oracle_text": "({T}: Add {W}.)",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -3552,15 +3003,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/7/076deb63-f7e2-498f-a66a-8a190370a3b3.png?1636115510"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "You draw two cards, lose 2 life, then create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -3571,15 +3019,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/0/80255777-de00-4ffa-a8a0-f522bf4198fb.png?1636116594"
     ],
-    "layout": "normal",
     "type_line": "Creature — Elemental",
     "oracle_text": "When Pyre Spawn dies, it deals 3 damage to any target.",
     "mana_cost": "{4}{R}{R}",
     "cmc": 6,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3592,15 +3037,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/a/4a708243-42a1-4fa7-8b0b-9d5163da84bb.png?1635787289",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/4/a/4a708243-42a1-4fa7-8b0b-9d5163da84bb.png?1635787289"
     ],
-    "layout": "transform",
     "type_line": "Enchantment — Aura // Enchantment — Aura Curse",
     "oracle_text": {},
     "mana_cost": "{W}",
     "cmc": 1,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3613,15 +3055,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/f/7fb728de-0d6e-4b32-b0c4-edd7382d1391.png?1636120973",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/7/f/7fb728de-0d6e-4b32-b0c4-edd7382d1391.png?1636120973"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Peasant // Creature — Human Warlock",
     "oracle_text": {},
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -3632,15 +3071,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/9/6943c07f-ab0d-4f5a-bbe9-c0a83dc98546.png?1635890512"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Exile the top two cards of your library. Until the end of your next turn, you may play those cards.",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -3651,15 +3087,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/0/10edf37a-ee35-491d-b83a-39035f7df65a.png?1636117118"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Druid",
     "oracle_text": "Reclusive Taxidermist gets +3/+2 as long as there are four or more creature cards in your graveyard.\n{T}: Add one mana of any color.",
     "mana_cost": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -3670,15 +3103,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/51332c31-41df-4379-aa63-6a734a4df618.png?1636208685"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Rending Flame deals 5 damage to target creature or planeswalker. If that permanent is a Spirit, Rending Flame also deals 2 damage to that permanent's controller.",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -3689,15 +3119,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/c/7cc22c2a-535a-46b5-817c-da5850abd669.png?1636114319"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Repository Skaab exploits a creature, return target instant or sorcery card from your graveyard to your hand.",
     "mana_cost": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -3708,15 +3135,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/9/093ae747-350f-4253-b903-8c6892d78c83.png?1635885418"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Soldier",
     "oracle_text": "When Resistance Squad enters the battlefield, if you control another Human, draw a card.",
     "mana_cost": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3729,15 +3153,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/71f67ac0-7901-4248-9cb7-2200fb8f893e.png?1635985652",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/7/1/71f67ac0-7901-4248-9cb7-2200fb8f893e.png?1635985652"
     ],
-    "layout": "transform",
     "type_line": "Creature — Vampire // Creature — Vampire",
     "oracle_text": {},
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3748,15 +3169,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/e/9e997f78-22a2-4b66-ac10-1adc9a72ce3b.png?1635789200"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Return up to one target creature card and up to one target noncreature permanent card from your graveyard to your hand. Exile Retrieve.",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3767,15 +3185,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/e/1eafefd0-3a9e-400e-8c75-0825aeb2ded1.png?1635451812"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Kraken",
     "oracle_text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Rot-Tide Gargantua exploits a creature, each opponent sacrifices a creature.",
     "mana_cost": "{3}{B}{B}",
     "cmc": 5,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -3786,15 +3201,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/f/6f9615f0-376f-4ac0-b269-5f497f2b5223.png?1635916652"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf",
     "oracle_text": "{3}{R}, {T}: Runebound Wolf deals damage equal to the number of Wolves and Werewolves you control to target opponent.",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3807,15 +3219,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f6c0fca5-b759-4543-95e2-8d712aae5281.png?1635567834",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/f/6/f6c0fca5-b759-4543-95e2-8d712aae5281.png?1635567834"
     ],
-    "layout": "transform",
     "type_line": "Legendary Creature — Vampire Cleric // Legendary Creature — Kraken Horror",
     "oracle_text": {},
     "mana_cost": "{1}{U}{B}",
     "cmc": 3,
     "colors": ["B", "U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -3826,15 +3235,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1bf35971-f1c4-4ccb-af5c-fd396391bb4b.png?1636208775"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Peasant",
     "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\nWhen Rural Recruit enters the battlefield, create a 3/1 green Boar creature token.",
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -3845,15 +3251,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/8/880e071a-6d6c-41c4-b2eb-c9e6626d0c7f.png?1635890678"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Destroy target artifact or enchantment. You gain 3 life.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -3864,15 +3267,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/0/706fafd4-443f-4e16-972e-86c16f22670a.png?1636022708"
     ],
-    "layout": "normal",
     "type_line": "Artifact",
     "oracle_text": "When Sanguine Statuette enters the battlefield, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")\nWhenever you sacrifice a Blood token, you may have Sanguine Statuette become a 3/3 Vampire artifact creature with haste until end of turn.",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -3883,15 +3283,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/ba77e83b-1846-4c42-bea0-2e304429fbe0.png?1636208428"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\nWhenever Savior of Ollenbock trains, exile up to one other target creature from the battlefield or creature card from a graveyard.\nWhen Savior of Ollenbock leaves the battlefield, put the exiled cards onto the battlefield under their owners' control.",
     "mana_cost": "{1}{W}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -3902,15 +3299,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/2/225773f9-1843-4ee0-8564-8e4a5dfef775.png?1635944239"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Archer",
     "oracle_text": "When Sawblade Slinger enters the battlefield, choose up to one —\n• Destroy target artifact an opponent controls.\n• Sawblade Slinger fights target Zombie an opponent controls.",
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -3921,15 +3315,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/c/dc5c6675-6e0f-427d-9399-a6e7fc6215f1.png?1635890613"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Look at the top four cards of your library. Put two of those cards into your hand and the rest into your graveyard.",
     "mana_cost": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -3940,15 +3331,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/c/3c9faf98-11bb-4407-aec9-d0d43dbaba34.png?1635891903"
     ],
-    "layout": "normal",
     "type_line": "Creature — Bird Horror",
     "oracle_text": "Flying\nWhenever you attack with one or more creatures, target player mills that many cards. (To mill a card, a player puts the top card of their library into their graveyard.)\n{2}{U}: Put Screaming Swarm from your graveyard into your library second from the top.",
     "mana_cost": "{5}{U}",
     "cmc": 6,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -3959,15 +3347,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/8/f8805db2-5a26-43cf-9b74-f882c283e5e4.png?1636114367"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "{T}, Discard a creature card: Draw a card.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -3978,15 +3363,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8214b1c-29f8-4986-89ac-2d7fc929edf3.png?1636114415"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Until end of turn, target creature becomes a blue Serpent with base power and toughness 5/5.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -3997,15 +3379,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/d/ad44c9aa-eb8f-4200-8dfe-2af728d80083.png?1635449783"
     ],
-    "layout": "normal",
     "type_line": "Land",
     "oracle_text": "Shattered Sanctum enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {W} or {B}.",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["B", "W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4016,15 +3395,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/915dd4c2-0e9f-440c-8e4c-80db351a5eba.png?1636117398"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nWhen Sheltering Boughs enters the battlefield, draw a card.\nEnchanted creature gets +1/+3.",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4035,15 +3411,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/1/118995a6-8471-47ac-9404-700ce7fc46f6.png?1636032448"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nEnchanted creature can't attack or block.\n{4}{W}: Exile enchanted creature. Create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4054,15 +3427,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a27f647a-d48e-4f53-ae5b-64c76f4fc745.png?1635453462"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "Creatures you control with +1/+1 counters on them have base power and toughness 4/4, have flying, and are Angels in addition to their other types.",
     "mana_cost": "{4}{W}{W}",
     "cmc": 6,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -4073,15 +3443,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/34228fdd-e466-488e-84b2-4c595e758688.png?1636102136"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Knight",
     "oracle_text": "As long as you've put one or more +1/+1 counters on a creature this turn, Sigardian Paladin has trample and lifelink.\n{1}{G}{W}: Target creature you control with a +1/+1 counter on it gains trample and lifelink until end of turn.",
     "mana_cost": "{2}{G}{W}",
     "cmc": 4,
     "colors": ["G", "W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4092,15 +3459,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/9/497b94b9-c5d7-4e94-87c2-ca1342588d79.png?1635931770"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire Assassin",
     "oracle_text": "When Skulking Killer enters the battlefield, target creature an opponent controls gets -2/-2 until end of turn if that opponent controls no other creatures.",
     "mana_cost": "{3}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -4111,15 +3475,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/6/268fd7e7-0105-4c39-a3ea-77ed32214ff3.png?1636111018"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhenever a creature you control exploits a nontoken creature, create a 2/2 black Zombie creature token.",
     "mana_cost": "{U}{B}",
     "cmc": 2,
     "colors": ["B", "U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4130,15 +3491,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/3/73168804-3c22-4fcb-907a-2f08999c0cea.png?1636119152"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Drake",
     "oracle_text": "Flying\nWhen Skywarp Skaab enters the battlefield, you may exile two creature cards from your graveyard. If you do, draw a card.",
     "mana_cost": "{3}{U}{U}",
     "cmc": 5,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -4149,15 +3507,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/ecd271d7-a3c8-4448-b8e2-bcef5d7e9118.png?1636117422"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf",
     "oracle_text": "{1}{G}: Snarling Wolf gets +2/+2 until end of turn. Activate only once each turn.",
     "mana_cost": "{G}",
     "cmc": 1,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -4168,15 +3523,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/c/cc7ff5f4-a7cc-41a1-a22b-8cf67ad18707.png?1635444852"
     ],
-    "layout": "normal",
     "type_line": "Legendary Planeswalker — Sorin",
     "oracle_text": "+1: Look at the top card of your library. You may reveal that card and put it into your hand. If you do, you lose life equal to its mana value.\n−2: Create a 2/3 black Vampire creature token with flying and lifelink.\n−7: Sorin the Mirthless deals 13 damage to any target. You gain 13 life.",
     "mana_cost": "{2}{B}{B}",
     "cmc": 4,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4.5,
     "set": "vow"
   },
   {
@@ -4189,15 +3541,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/c/3c0fae23-1278-499f-9df7-4a29691726b1.png?1636120995",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/3/c/3c0fae23-1278-499f-9df7-4a29691726b1.png?1636120995"
     ],
-    "layout": "transform",
     "type_line": "Artifact // Creature — Spirit",
     "oracle_text": {},
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -4208,15 +3557,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/4/241e95ec-b630-4492-be1d-f66aa19889e5.png?1635893258"
     ],
-    "layout": "normal",
     "type_line": "Artifact — Equipment",
     "oracle_text": "Equipped creature gets +3/+3.\nWhenever equipped creature attacks, you may sacrifice a Forest. If you do, that creature gains trample until end of turn.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -4227,15 +3573,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fad4ca85-4d2d-4d1e-86ca-aa25edfcda61.png?1636110900"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Return all land cards from your graveyard to the battlefield tapped.",
     "mana_cost": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -4246,15 +3589,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/f/3fb04879-9348-4d4f-9a23-c82fd99d04c6.png?1636208789"
     ],
-    "layout": "normal",
     "type_line": "Creature — Wolf",
     "oracle_text": "As long as it's your turn, Sporeback Wolf gets +0/+2.",
     "mana_cost": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -4265,15 +3605,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/628dbc4c-3640-44a9-8439-873103989409.png?1636119292"
     ],
-    "layout": "normal",
     "type_line": "Creature — Fungus",
     "oracle_text": "When Spore Crawler dies, draw a card.",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4284,15 +3621,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/5/55fb1426-5a6f-48dd-938b-c64b1a28ee59.png?1636208518"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit",
     "oracle_text": "Defender\nWhenever an enchantment enters the battlefield under your control, Steelclad Spirit can attack this turn as though it didn't have defender.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -4303,15 +3637,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/df71a8c1-25af-4e6a-9197-11b96b959b46.png?1635842538"
     ],
-    "layout": "normal",
     "type_line": "Enchantment",
     "oracle_text": "At the beginning of your end step, create a 1/1 red Human creature token. Then if you control exactly thirteen permanents, you may sacrifice Stensia Uprising. When you do, it deals 7 damage to any target.",
     "mana_cost": "{2}{R}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4322,15 +3653,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/1/c1debb8c-d5e0-49e5-ab27-2d50e6f9d8d2.png?1636114590"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Stitched Assistant exploits a creature, scry 1, then draw a card. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -4341,15 +3669,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/9/299f1dee-b3d7-472b-aa0b-2f9b46a96da5.png?1635533434"
     ],
-    "layout": "normal",
     "type_line": "Land",
     "oracle_text": "Stormcarved Coast enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {U} or {R}.",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["R", "U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4360,15 +3685,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/d/3dd5c860-9d27-40d9-af38-aaf40bd52423.png?1636110462"
     ],
-    "layout": "normal",
     "type_line": "Creature — Drake",
     "oracle_text": "Flying\nWhenever Stormchaser Drake becomes the target of a spell you control, draw a card.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -4379,15 +3701,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/f/8f3fddd7-ede4-41c7-a645-a6af298a3d35.png?1635449927"
     ],
-    "layout": "normal",
     "type_line": "Land",
     "oracle_text": "Sundown Pass enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {R} or {W}.",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["R", "W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4398,15 +3717,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/9/6/960ca69c-916d-4af3-82a4-5f6fb614d6a4.png?1636113696"
     ],
-    "layout": "normal",
     "type_line": "Enchantment — Aura",
     "oracle_text": "This spell has flash as long as you control a Spirit.\nWhen you cast this spell, tap up to two target creatures you don't control.\nEnchant creature you control\nEnchanted creature gets +1/+2.",
     "mana_cost": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -4417,15 +3733,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/d/1d872736-fafb-44e8-a809-48c5436c665a.png?1636116687"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4436,15 +3749,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/be87de91-aa10-4ed8-83a2-261b4f57e7db.png?1635451757"
     ],
-    "layout": "normal",
     "type_line": "Basic Land — Swamp",
     "oracle_text": "({T}: Add {B}.)",
     "mana_cost": "",
     "cmc": 0,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -4455,15 +3765,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/8/08375017-4432-4296-9799-966db145ed7c.png?1635929003"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
     "mana_cost": "{X}{U}",
     "cmc": 1,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -4474,15 +3781,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/3/435a2d31-ac2c-45aa-8369-6c2d6fbba4e4.png?1636114667"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Counter target creature or planeswalker spell. Create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -4493,15 +3797,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.png?1635444996"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Human Soldier",
     "oracle_text": "First strike\nNoncreature spells cost {1} more to cast.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -4512,15 +3813,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/e/1ea179e9-9c0d-46c1-9ee8-60be68e1f79c.png?1636114688"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Draw three cards. Then discard two cards unless you discard a basic land card.",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4531,15 +3829,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bd111dc9-b8de-4e92-a63d-75a961b2db3b.png?1635932920"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Human Cleric",
     "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\nWhenever you cast a creature spell, create a 1/1 green and white Human Soldier creature token with training.",
     "mana_cost": "{1}{G}{W}",
     "cmc": 3,
     "colors": ["G", "W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -4550,15 +3845,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/c/4cfca481-cf2d-435d-b4b6-07b1fe2a8e5d.png?1636208801"
     ],
-    "layout": "normal",
     "type_line": "Creature — Scorpion",
     "oracle_text": "Deathtouch\nWhen Toxic Scorpion enters the battlefield, another target creature you control gains deathtouch until end of turn.",
     "mana_cost": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -4569,15 +3861,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/4/84e64f38-b1f3-47cd-8cfb-a4861369aca3.png?1635929683"
     ],
-    "layout": "normal",
     "type_line": "Legendary Creature — Slug Horror",
     "oracle_text": "At the beginning of each end step, put a slime counter on each creature you don't control.\nCreatures you don't control get -1/-1 for each slime counter on them.\nWhenever a creature you don't control with a slime counter on it dies, create a 1/1 black Slug creature token.\n{U}{B}, Sacrifice a Slug: Draw a card.",
     "mana_cost": "{5}{B}{B}",
     "cmc": 7,
     "colors": ["B", "U"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -4588,15 +3877,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e672a05c-5f1a-4aa6-9398-e33df01c7c96.png?1636119115"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Cleric",
     "oracle_text": "{T}: Target creature gets +1/+0 until end of turn. You gain 1 life. Activate only as a sorcery.",
     "mana_cost": "{W}",
     "cmc": 1,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4609,15 +3895,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.png?1636208826",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.png?1636208826"
     ],
-    "layout": "transform",
     "type_line": "Creature — Beast // Creature — Beast Horror",
     "oracle_text": {},
     "mana_cost": "{2}{G}{G}",
     "cmc": 4,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 5,
     "set": "vow"
   },
   {
@@ -4628,15 +3911,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/c/2c9b8582-8887-4652-82e2-f9b11ee21545.png?1635929720"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie",
     "oracle_text": "When Undead Butler enters the battlefield, mill three cards. (Put the top three cards of your library into your graveyard.)\nWhen Undead Butler dies, you may exile it. When you do, return target creature card from your graveyard to your hand.",
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -4647,15 +3927,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/e/8eb38041-043a-4b18-9d9a-f1283684e8f1.png?1636131216"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Until end of turn, target creature gains \"When this creature dies, return it to the battlefield tapped under its owner's control with a +1/+1 counter on it.\"",
     "mana_cost": "{B}",
     "cmc": 1,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4666,15 +3943,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d5ec541b-1799-4c0e-a3fb-c008cf2eb911.png?1635943574"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Soldier",
     "oracle_text": "Unhallowed Phalanx enters the battlefield tapped.",
     "mana_cost": "{4}{B}",
     "cmc": 5,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4685,15 +3959,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/a/8a4c04a4-e68b-4d3d-89c8-29cdaaac36b2.png?1636130016"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire Cleric",
     "oracle_text": "Vigilance\n{4}{W}: Put a +1/+1 counter on Unholy Officiant.",
     "mana_cost": "{W}",
     "cmc": 1,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4704,15 +3975,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/e/0e6b9a3b-8a19-4094-8dbb-08a0a9ca04a0.png?1635606577"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Choose one —\n• Target creature gains indestructible until end of turn.\n• Destroy target creature with toughness 4 or greater.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -4723,15 +3991,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/8/a8f6f03b-5a4e-4532-9c9e-24c75df2769f.png?1636208362"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Whenever Vampire Slayer deals damage to a Vampire, destroy that creature.",
     "mana_cost": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -4742,15 +4007,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/20d2d886-13a2-44f1-966a-ec674622fd01.png?1635930712"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Vampires' Vengeance deals 2 damage to each non-Vampire creature. Create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -4761,15 +4023,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/6/a/6ad9ae64-6526-4747-9b0c-77d113f58c33.png?1635709505"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spider",
     "oracle_text": "Reach\nAt the beginning of your upkeep, mill a card. (Put the top card of your library into your graveyard.)\n{2}{G}{U}, {T}, Sacrifice Vilespawn Spider: Create a 1/1 green Insect creature token for each creature card in your graveyard. Activate only as a sorcery.",
     "mana_cost": "{G}{U}",
     "cmc": 2,
     "colors": ["G", "U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4780,15 +4039,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a16c0871-3f40-4d5a-9d21-e7f944b64a65.png?1635931481"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit Cleric",
     "oracle_text": "Whenever you gain life, put a +1/+1 counter on Voice of the Blessed.\nAs long as Voice of the Blessed has four or more +1/+1 counters on it, it has flying and vigilance.\nAs long as Voice of the Blessed has ten or more +1/+1 counters on it, it has indestructible.",
     "mana_cost": "{W}{W}",
     "cmc": 2,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4801,15 +4057,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/8/7/87a02ac1-c43a-43cc-9c2b-628cfdeb4cbf.png?1635454029",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/8/7/87a02ac1-c43a-43cc-9c2b-628cfdeb4cbf.png?1635454029"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{R}{R}",
     "cmc": 5,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "mythic",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -4822,15 +4075,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/ca5297a5-bcaa-41fd-a397-e44dc4e00ba3.png?1635445875",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/c/a/ca5297a5-bcaa-41fd-a397-e44dc4e00ba3.png?1635445875"
     ],
-    "layout": "transform",
     "type_line": "Creature — Vampire Wizard // Creature — Vampire Wizard",
     "oracle_text": {},
     "mana_cost": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -4841,15 +4091,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/e/ae154e64-f626-45fb-bd52-840c1c27b2d3.png?1636116745"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "When Voldaren Epicure enters the battlefield, it deals 1 damage to each opponent. Create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "{R}",
     "cmc": 1,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0,
     "set": "vow"
   },
   {
@@ -4860,15 +4107,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/5/2577e5fd-903a-44ce-989a-d53d56511ad3.png?1635449325"
     ],
-    "layout": "normal",
     "type_line": "Land",
     "oracle_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a Vampire spell.\n{5}, {T}: Create a Blood token. This ability costs {1} less to activate for each Vampire you control. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")",
     "mana_cost": "",
     "cmc": 0,
     "colors": [],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4881,15 +4125,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/a/8/a8b85386-462b-46f8-9412-fd47ed1dc1da.png?1636208706",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/a/8/a8b85386-462b-46f8-9412-fd47ed1dc1da.png?1636208706"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Wizard // Creature — Human Berserker",
     "oracle_text": {},
     "mana_cost": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -4900,15 +4141,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4b9a1096-6313-4245-be18-1588c219b842.png?1635891542"
     ],
-    "layout": "normal",
     "type_line": "Creature — Horror",
     "oracle_text": "Flying\nWhen Wandering Mind enters the battlefield, look at the top six cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
     "mana_cost": "{1}{U}{R}",
     "cmc": 3,
     "colors": ["R", "U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -4919,15 +4157,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/b/7bb3ce5d-330d-427e-a053-8cc4eeb2941b.png?1636114720"
     ],
-    "layout": "normal",
     "type_line": "Creature — Spirit",
     "oracle_text": "Flying\nWanderlight Spirit can block only creatures with flying.",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   },
   {
@@ -4938,15 +4173,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/4/3/43411ade-be80-4535-8baa-7055e78496df.png?1635992940"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Cleave {1}{U}{U} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nCounter target spell [that wasn't cast from its owner's hand].",
     "mana_cost": "{U}",
     "cmc": 1,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -4959,15 +4191,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e641467b-ac2e-4d29-aed7-5cc227c3b1ce.png?1635452023",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/e/6/e641467b-ac2e-4d29-aed7-5cc227c3b1ce.png?1635452023"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1,
     "set": "vow"
   },
   {
@@ -4980,15 +4209,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/3/73bf2a0a-b97d-4b90-abd6-d1755734ea15.png?1635862202",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/7/3/73bf2a0a-b97d-4b90-abd6-d1755734ea15.png?1635862202"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -5001,15 +4227,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/2/c/2c3ddb1f-a1de-4fea-9042-5e9caa16ceb2.png?1636127086",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/2/c/2c3ddb1f-a1de-4fea-9042-5e9caa16ceb2.png?1636127086"
     ],
-    "layout": "transform",
     "type_line": "Enchantment // Enchantment",
     "oracle_text": {},
     "mana_cost": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -5020,15 +4243,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/d/ddc22ff6-4081-47ce-bc8a-e063f5f4d044.png?1635452696"
     ],
-    "layout": "normal",
     "type_line": "Artifact",
     "oracle_text": "When Wedding Invitation enters the battlefield, draw a card.\n{T}, Sacrifice Wedding Invitation: Target creature can't be blocked this turn. If it's a Vampire, it also gains lifelink until end of turn.",
     "mana_cost": "{2}",
     "cmc": 2,
     "colors": [],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -5039,15 +4259,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/1/d/1ddfdd10-2a99-4376-abee-f868b0d5e7c1.png?1635791555"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire Soldier",
     "oracle_text": "Whenever Wedding Security attacks, you may sacrifice a Blood token. If you do, put a +1/+1 counter on Wedding Security and draw a card.",
     "mana_cost": "{3}{B}{B}",
     "cmc": 5,
     "colors": ["B"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -5058,15 +4275,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d8f69cea-823c-482b-a605-8138b3d950e6.png?1636049709"
     ],
-    "layout": "normal",
     "type_line": "Creature — Vampire",
     "oracle_text": "Flying\nWhenever one or more other creatures with power 2 or less enter the battlefield under your control, draw a card. This ability triggers only once each turn.",
     "mana_cost": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 4,
     "set": "vow"
   },
   {
@@ -5077,15 +4291,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54fb422d-71f2-44ed-9589-32630ab87050.png?1636076110"
     ],
-    "layout": "normal",
     "type_line": "Creature — Human Wizard",
     "oracle_text": "Whenever you cast a noncreature spell, create a 1/1 white Spirit creature token with flying. This ability triggers only once each turn.",
     "mana_cost": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3.5,
     "set": "vow"
   },
   {
@@ -5096,15 +4307,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/3494a4fc-37e5-4095-a3bb-5cd9280f4c77.png?1636114738"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Cleave {4}{G}{U} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nDraw a card for each creature [with flying] you control.",
     "mana_cost": "{1}{U}{U}",
     "cmc": 3,
     "colors": ["G", "U"],
-    "latent_color": "",
     "rarity": "rare",
-    "rating": 0.5,
     "set": "vow"
   },
   {
@@ -5115,15 +4323,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/d/0d021207-76be-4bc9-bb71-df991a04d8d8.png?1636117729"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Target creature gets +3/+3 and gains reach until end of turn. Untap it.",
     "mana_cost": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -5134,15 +4339,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/d/0/d0b3683f-a68b-458c-8f70-bba0f8779b8a.png?1636114764"
     ],
-    "layout": "normal",
     "type_line": "Sorcery",
     "oracle_text": "Target player shuffles up to four target cards from their graveyard into their library. You look at the top four cards of your library, then put one of those cards into your hand and the rest on the bottom of your library in a random order.",
     "mana_cost": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 1.5,
     "set": "vow"
   },
   {
@@ -5155,15 +4357,12 @@
       "https://c1.scryfall.com/file/scryfall-cards/png/front/7/a/7a743426-6333-4ca6-9207-163b325ba435.png?1636208844",
       "https://c1.scryfall.com/file/scryfall-cards/png/back/7/a/7a743426-6333-4ca6-9207-163b325ba435.png?1636208844"
     ],
-    "layout": "transform",
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{5}{G}",
     "cmc": 6,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "uncommon",
-    "rating": 3,
     "set": "vow"
   },
   {
@@ -5174,15 +4373,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/0/2/02e9cd00-7ffd-44e1-aa0f-c94489ff4a0f.png?1636117780"
     ],
-    "layout": "normal",
     "type_line": "Instant",
     "oracle_text": "Target creature you control gets +2/+0 until end of turn if it's night. Then it deals damage equal to its power to target creature you don't control.",
     "mana_cost": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2.5,
     "set": "vow"
   },
   {
@@ -5193,15 +4389,12 @@
     "highres_image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/png/front/e/b/eb3991f0-76b8-4f77-9d67-0e2b11fda750.png?1635983482"
     ],
-    "layout": "normal",
     "type_line": "Creature — Zombie Horror",
     "oracle_text": "When Wretched Throng dies, you may search your library for a card named Wretched Throng, reveal it, put it into your hand, then shuffle.",
     "mana_cost": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
-    "latent_color": "",
     "rarity": "common",
-    "rating": 2,
     "set": "vow"
   }
 ]
