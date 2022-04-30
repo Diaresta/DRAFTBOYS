@@ -34,6 +34,13 @@ app.get('/contact', (req, res) =>
   })
 );
 
+app.get('/draft/snc', (req, res) =>
+  res.render('draft', {
+    title: 'DRAFTBOYS - Draft',
+    setName: 'Streets of New Capenna',
+  })
+);
+
 app.get('/draft/neo', (req, res) =>
   res.render('draft', {
     title: 'DRAFTBOYS - Draft',
