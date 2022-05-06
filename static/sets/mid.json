@@ -4,9 +4,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/983da138-f0f5-46c4-90c2-d3c34cc37d1f.jpg?1631297982"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/983da138-f0f5-46c4-90c2-d3c34cc37d1f.png?1631297982"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Up to two target creatures can't block this turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{1}{R}",
@@ -19,9 +16,6 @@
     "name": "Adeline, Resplendent Cathar",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/8/18092f68-b96e-4084-9eba-b240d2195d81.jpg?1631285896"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/8/18092f68-b96e-4084-9eba-b240d2195d81.png?1631285896"
     ],
     "type_line": "Legendary Creature — Human Knight",
     "oracle_text": "Vigilance\nAdeline, Resplendent Cathar's power is equal to the number of creatures you control.\nWhenever you attack, for each opponent, create a 1/1 white Human creature token that's tapped and attacking that player or a planeswalker they control.",
@@ -37,10 +31,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/54d4e7c3-294d-4900-8b70-faafda17cc33.jpg?1632661098",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/5/4/54d4e7c3-294d-4900-8b70-faafda17cc33.jpg?1632661098"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54d4e7c3-294d-4900-8b70-faafda17cc33.png?1632661098",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/5/4/54d4e7c3-294d-4900-8b70-faafda17cc33.png?1632661098"
-    ],
     "type_line": "Creature — Human Peasant // Creature — Human Knight",
     "oracle_text": {},
     "mana_cost": "{1}{W}",
@@ -53,9 +43,6 @@
     "name": "Angelfire Ignition",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8ba4c7a2-6243-43ed-8c1c-e3edee43a583.jpg?1631300917"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/b/8ba4c7a2-6243-43ed-8c1c-e3edee43a583.png?1631300917"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Put two +1/+1 counters on target creature. It gains vigilance, trample, lifelink, indestructible, and haste until end of turn.\nFlashback {2}{R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -70,9 +57,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/a/9ab520b7-ad87-4c8e-a454-5c022e378564.jpg?1631058240"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/a/9ab520b7-ad87-4c8e-a454-5c022e378564.png?1631058240"
-    ],
     "type_line": "Instant",
     "oracle_text": "Look at the top four cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nFlashback {3}{U}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{U}{R}",
@@ -85,9 +69,6 @@
     "name": "Ardent Elementalist",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/5/f58592f7-1df5-428d-9dde-e6acd9a5d1d5.jpg?1631298072"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/5/f58592f7-1df5-428d-9dde-e6acd9a5d1d5.png?1631298072"
     ],
     "type_line": "Creature — Human Shaman",
     "oracle_text": "When Ardent Elementalist enters the battlefield, return target instant or sorcery card from your graveyard to your hand.",
@@ -103,10 +84,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1630658672",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1630658672"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.png?1630658672",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.png?1630658672"
-    ],
     "type_line": "Legendary Planeswalker — Arlinn // Legendary Planeswalker — Arlinn",
     "oracle_text": {},
     "mana_cost": "{2}{R}{G}",
@@ -120,9 +97,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/496a9d45-6197-44b6-b0fc-17aeae281b2f.jpg?1630609021"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/9/496a9d45-6197-44b6-b0fc-17aeae281b2f.png?1630609021"
-    ],
     "type_line": "Creature — Vampire Noble",
     "oracle_text": "When Arrogant Outlaw enters the battlefield, if an opponent lost life this turn, each opponent loses 2 life and you gain 2 life.",
     "mana_cost": "{2}{B}",
@@ -135,9 +109,6 @@
     "name": "Augur of Autumn",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6aa98767-ae27-4cf0-98ea-93e659f160f4.jpg?1630909630"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/a/6aa98767-ae27-4cf0-98ea-93e659f160f4.png?1630909630"
     ],
     "type_line": "Creature — Human Druid",
     "oracle_text": "You may look at the top card of your library any time.\nYou may play lands from the top of your library.\nCoven — As long as you control three or more creatures with different powers, you may cast creature spells from the top of your library.",
@@ -153,10 +124,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/6/36e71d16-0964-489d-bea2-9cec7991fc99.jpg?1630606806",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/6/36e71d16-0964-489d-bea2-9cec7991fc99.jpg?1630606806"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/36e71d16-0964-489d-bea2-9cec7991fc99.png?1630606806",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/3/6/36e71d16-0964-489d-bea2-9cec7991fc99.png?1630606806"
-    ],
     "type_line": "Creature — Human Peasant // Creature — Spirit",
     "oracle_text": {},
     "mana_cost": "{1}{U}",
@@ -171,10 +138,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/b/7b63f2ae-5bfd-452f-b1f5-8459bcecd3bb.jpg?1632660770",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/7/b/7b63f2ae-5bfd-452f-b1f5-8459bcecd3bb.jpg?1632660770"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/b/7b63f2ae-5bfd-452f-b1f5-8459bcecd3bb.png?1632660770",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/7/b/7b63f2ae-5bfd-452f-b1f5-8459bcecd3bb.png?1632660770"
-    ],
     "type_line": "Creature — Human Rogue Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{B}",
@@ -187,9 +150,6 @@
     "name": "Bat Whisperer",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/4/4412c901-0ec8-437a-9d1e-ce318bbe2b03.jpg?1632660785"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/4/4412c901-0ec8-437a-9d1e-ce318bbe2b03.png?1632660785"
     ],
     "type_line": "Creature — Vampire",
     "oracle_text": "When Bat Whisperer enters the battlefield, if an opponent lost life this turn, create a 1/1 black Bat creature token with flying.",
@@ -205,10 +165,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.jpg?1630610048",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.jpg?1630610048"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.png?1630610048",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.png?1630610048"
-    ],
     "type_line": "Creature — Human Peasant // Creature — Spirit",
     "oracle_text": {},
     "mana_cost": "{1}{W}",
@@ -222,10 +178,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1631314326",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1631314326"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.png?1631314326",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.png?1631314326"
     ],
     "type_line": "Creature — Human Peasant // Creature — Human Soldier",
     "oracle_text": {},
@@ -241,10 +193,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1631797629",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1631797629"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.png?1631797629",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.png?1631797629"
-    ],
     "type_line": "Creature — Human Archer Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{G}",
@@ -257,9 +205,6 @@
     "name": "Bladebrand",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/64d4713d-321a-447f-a318-88b552ec5d0c.jpg?1631132521"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/4/64d4713d-321a-447f-a318-88b552ec5d0c.png?1631132521"
     ],
     "type_line": "Instant",
     "oracle_text": "Target creature gains deathtouch until end of turn.\nDraw a card.",
@@ -274,9 +219,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b8a73f77-aab5-47e3-bfc1-97f6374f40fc.jpg?1631300939"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8a73f77-aab5-47e3-bfc1-97f6374f40fc.png?1631300939"
-    ],
     "type_line": "Creature — Zombie Soldier",
     "oracle_text": "Other Zombies you control get +1/+0.",
     "mana_cost": "{U}{B}",
@@ -289,9 +231,6 @@
     "name": "Blessed Defiance",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/1555cdcb-3471-4ee7-99c3-d05311bf433c.jpg?1631284968"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/5/1555cdcb-3471-4ee7-99c3-d05311bf433c.png?1631284968"
     ],
     "type_line": "Instant",
     "oracle_text": "Target creature you control gets +2/+0 and gains lifelink until end of turn. When that creature dies this turn, create a 1/1 white Spirit creature token with flying.",
@@ -306,9 +245,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/fac827f7-a587-4adf-8408-2d9ccd9c1343.jpg?1631296809"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fac827f7-a587-4adf-8408-2d9ccd9c1343.png?1631296809"
-    ],
     "type_line": "Instant",
     "oracle_text": "Choose one —\n• Target creature gets -5/-5 until end of turn.\n• Creature tokens get -2/-2 until end of turn.",
     "mana_cost": "{1}{B}{B}",
@@ -321,9 +257,6 @@
     "name": "Blood Pact",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/607b1066-1ca0-45e1-a55c-30aed77cc8dc.jpg?1631296765"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/0/607b1066-1ca0-45e1-a55c-30aed77cc8dc.png?1631296765"
     ],
     "type_line": "Instant",
     "oracle_text": "Target player draws two cards and loses 2 life.",
@@ -338,9 +271,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/ed557e51-32bd-476f-99f8-d7b1738495c5.jpg?1631499911"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/d/ed557e51-32bd-476f-99f8-d7b1738495c5.png?1631499911"
-    ],
     "type_line": "Creature — Vampire",
     "oracle_text": "Haste\nWhen Bloodthirsty Adversary enters the battlefield, you may pay {2}{R} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Bloodthirsty Adversary, then exile up to that many target instant and/or sorcery cards with mana value 3 or less from your graveyard and copy them. You may cast any number of the copies without paying their mana costs.",
     "mana_cost": "{1}{R}",
@@ -353,9 +283,6 @@
     "name": "Bloodtithe Collector",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/7/57d5e536-7774-4949-8127-727ae4d8fc80.jpg?1631223208"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/7/57d5e536-7774-4949-8127-727ae4d8fc80.png?1631223208"
     ],
     "type_line": "Creature — Vampire Noble",
     "oracle_text": "Flying\nWhen Bloodtithe Collector enters the battlefield, if an opponent lost life this turn, each opponent discards a card.",
@@ -370,9 +297,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/e/3eeef24b-b937-408e-a32e-1a546d3e7b0f.jpg?1631926163"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/e/3eeef24b-b937-408e-a32e-1a546d3e7b0f.png?1631926163"
-    ],
     "type_line": "Enchantment",
     "oracle_text": "When Borrowed Time enters the battlefield, exile target nonland permanent an opponent controls until Borrowed Time leaves the battlefield.",
     "mana_cost": "{2}{W}",
@@ -385,9 +309,6 @@
     "name": "Bounding Wolf",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/4/74e22ed6-9d39-4feb-8c64-64cdd8313816.jpg?1631300198"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/74e22ed6-9d39-4feb-8c64-64cdd8313816.png?1631300198"
     ],
     "type_line": "Creature — Wolf",
     "oracle_text": "Flash\nReach",
@@ -402,9 +323,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/621b58aa-c809-4baf-b2c8-3a46969598d7.jpg?1631300213"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/621b58aa-c809-4baf-b2c8-3a46969598d7.png?1631300213"
-    ],
     "type_line": "Artifact — Equipment",
     "oracle_text": "When Bramble Armor enters the battlefield, attach it to target creature you control.\nEquipped creature gets +2/+1.\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",
     "mana_cost": "{1}{G}",
@@ -417,9 +335,6 @@
     "name": "Briarbridge Tracker",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e215a7bd-112f-4228-a99e-5a8cb4be5cee.jpg?1630961103"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/2/e215a7bd-112f-4228-a99e-5a8cb4be5cee.png?1630961103"
     ],
     "type_line": "Creature — Human Scout",
     "oracle_text": "Vigilance\nWhen Briarbridge Tracker enters the battlefield, investigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")\nAs long as you control a token, Briarbridge Tracker gets +2/+0.",
@@ -434,9 +349,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10addf9a-daca-4b84-a9d3-f98f7b955af9.jpg?1630978987"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/0/10addf9a-daca-4b84-a9d3-f98f7b955af9.png?1630978987"
-    ],
     "type_line": "Creature — Devil",
     "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nIf it's neither day nor night, it becomes day as Brimstone Vandal enters the battlefield.\nWhenever day becomes night or night becomes day, Brimstone Vandal deals 1 damage to each opponent.",
     "mana_cost": "{2}{R}",
@@ -449,9 +361,6 @@
     "name": "Brood Weaver",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e24e2f49-70f9-445f-af03-2ef43798004a.jpg?1632660797"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/2/e24e2f49-70f9-445f-af03-2ef43798004a.png?1632660797"
     ],
     "type_line": "Creature — Spider",
     "oracle_text": "Reach\nWhen Brood Weaver dies, create a 1/2 green Spider creature token with reach.",
@@ -467,10 +376,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.jpg?1630658675",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.jpg?1630658675"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.png?1630658675",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.png?1630658675"
-    ],
     "type_line": "Creature — Human Soldier Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{W}",
@@ -485,10 +390,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/3849ad37-f80d-4ffc-9240-25a63326b3dd.jpg?1630958340",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/8/3849ad37-f80d-4ffc-9240-25a63326b3dd.jpg?1630958340"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/8/3849ad37-f80d-4ffc-9240-25a63326b3dd.png?1630958340",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/3/8/3849ad37-f80d-4ffc-9240-25a63326b3dd.png?1630958340"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{G}{G}",
@@ -501,9 +402,6 @@
     "name": "Burn Down the House",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/0/20ded7af-8086-465e-a980-3099217d324c.jpg?1631222132"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/20ded7af-8086-465e-a980-3099217d324c.png?1631222132"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Choose one —\n• Burn Down the House deals 5 damage to each creature and each planeswalker.\n• Create three 1/1 red Devil creature tokens with \"When this creature dies, it deals 1 damage to any target.\" They gain haste until end of turn.",
@@ -518,9 +416,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff4d4e6b-564d-46da-8e32-09ed08c8ddc5.jpg?1632661112"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/f/ff4d4e6b-564d-46da-8e32-09ed08c8ddc5.png?1632661112"
-    ],
     "type_line": "Instant",
     "oracle_text": "Burn the Accursed deals 5 damage to target creature and 2 damage to that creature's controller. If that creature would die this turn, exile it instead.",
     "mana_cost": "{4}{R}",
@@ -533,9 +428,6 @@
     "name": "Candlegrove Witch",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/e/dedfe6ea-cd43-4ec4-83a1-1f0f74e27f56.jpg?1630920927"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/e/dedfe6ea-cd43-4ec4-83a1-1f0f74e27f56.png?1630920927"
     ],
     "type_line": "Creature — Human Warlock",
     "oracle_text": "Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Candlegrove Witch gains flying until end of turn.",
@@ -550,9 +442,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/4/a4c3bd60-1ff6-4136-9188-d0620fd299a7.jpg?1630609595"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/4/a4c3bd60-1ff6-4136-9188-d0620fd299a7.png?1630609595"
-    ],
     "type_line": "Creature — Human Knight",
     "oracle_text": "Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Candlelit Cavalry gains trample until end of turn.",
     "mana_cost": "{4}{G}",
@@ -565,9 +454,6 @@
     "name": "Candletrap",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32869a36-f21e-4348-a787-871daa6151df.jpg?1630606980"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/2/32869a36-f21e-4348-a787-871daa6151df.png?1630606980"
     ],
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nEnchanted creature has defender.\nPrevent all combat damage that would be dealt by enchanted creature.\nCoven — {2}{W}, Sacrifice Candletrap: Exile enchanted creature. Activate only if you control three or more creatures with different powers.",
@@ -582,9 +468,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/c/3ccfebf1-add1-4f62-bffa-9023dea5b7c4.jpg?1631054340"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/c/3ccfebf1-add1-4f62-bffa-9023dea5b7c4.png?1631054340"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains \"If this creature would die, exile it instead.\"\nFlashback {3}{W}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{W}{B}",
@@ -597,9 +480,6 @@
     "name": "Cathar Commando",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/98cbc1c2-b76e-4da3-aa43-00e10b2ce532.jpg?1631286011"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/98cbc1c2-b76e-4da3-aa43-00e10b2ce532.png?1631286011"
     ],
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Flash\n{1}, Sacrifice Cathar Commando: Destroy target artifact or enchantment.",
@@ -614,9 +494,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10d044a9-0149-4302-86e5-90623e54e36b.jpg?1631286093"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/0/10d044a9-0149-4302-86e5-90623e54e36b.png?1631286093"
-    ],
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nEnchanted creature has vigilance and \"At the beginning of your end step, create a 1/1 white Human creature token.\"",
     "mana_cost": "{2}{W}",
@@ -629,9 +506,6 @@
     "name": "Cathartic Pyre",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/0/b045c28a-39f9-4cd9-8f3a-a626b697f409.jpg?1631221911"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/0/b045c28a-39f9-4cd9-8f3a-a626b697f409.png?1631221911"
     ],
     "type_line": "Instant",
     "oracle_text": "Choose one —\n• Cathartic Pyre deals 3 damage to target creature or planeswalker.\n• Discard up to two cards, then draw that many cards.",
@@ -646,9 +520,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/7/67547253-ab98-4d3a-bf95-3e109cf60a85.jpg?1630920842"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/7/67547253-ab98-4d3a-bf95-3e109cf60a85.png?1630920842"
-    ],
     "type_line": "Creature — Human Cleric",
     "oracle_text": "If it's neither day nor night, it becomes day as Celestus Sanctifier enters the battlefield.\nWhenever day becomes night or night becomes day, look at the top two cards of your library. Put one of them into your graveyard.",
     "mana_cost": "{2}{W}",
@@ -661,9 +532,6 @@
     "name": "Champion of the Perished",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8d8e6941-ad6e-4d2f-93c0-be79e75bdf06.jpg?1628197843"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8d8e6941-ad6e-4d2f-93c0-be79e75bdf06.png?1628197843"
     ],
     "type_line": "Creature — Zombie",
     "oracle_text": "Whenever another Zombie enters the battlefield under your control, put a +1/+1 counter on Champion of the Perished.",
@@ -679,10 +547,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/0/20e94e17-2e4c-41cd-8cc5-39ab41037287.jpg?1630994373",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/2/0/20e94e17-2e4c-41cd-8cc5-39ab41037287.jpg?1630994373"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/20e94e17-2e4c-41cd-8cc5-39ab41037287.png?1630994373",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/2/0/20e94e17-2e4c-41cd-8cc5-39ab41037287.png?1630994373"
-    ],
     "type_line": "Creature — Human Cleric // Creature — Spirit Cleric",
     "oracle_text": {},
     "mana_cost": "{W}",
@@ -695,9 +559,6 @@
     "name": "Clarion Cathars",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/89f8ea28-7de1-4908-8e2d-b1aeff651015.jpg?1631286159"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/9/89f8ea28-7de1-4908-8e2d-b1aeff651015.png?1631286159"
     ],
     "type_line": "Creature — Human Knight",
     "oracle_text": "When Clarion Cathars enters the battlefield, create a 1/1 white Human creature token.",
@@ -712,9 +573,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/7/27476d9c-006d-4227-a5f2-49c7234b84a1.jpg?1630666667"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/7/27476d9c-006d-4227-a5f2-49c7234b84a1.png?1630666667"
-    ],
     "type_line": "Instant",
     "oracle_text": "Target creature you control gets +1/+1 until end of turn. It deals damage equal to its power to target creature you don't control.",
     "mana_cost": "{2}{G}",
@@ -727,9 +585,6 @@
     "name": "Component Collector",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/5/956b74fc-1355-4668-838b-e8927794608c.jpg?1631303656"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/5/956b74fc-1355-4668-838b-e8927794608c.png?1631303656"
     ],
     "type_line": "Creature — Homunculus",
     "oracle_text": "If it's neither day nor night, it becomes day as Component Collector enters the battlefield.\nWhenever day becomes night or night becomes day, you may tap or untap target nonland permanent.",
@@ -744,9 +599,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1631293228"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.png?1631293228"
-    ],
     "type_line": "Instant",
     "oracle_text": "Look at the top card of your library. You may put that card into your graveyard.\nDraw a card.",
     "mana_cost": "{U}",
@@ -759,9 +611,6 @@
     "name": "Consuming Blob",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/4540fa4b-93e8-4749-a839-9a6e816c1145.jpg?1631300292"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/5/4540fa4b-93e8-4749-a839-9a6e816c1145.png?1631300292"
     ],
     "type_line": "Creature — Ooze",
     "oracle_text": "Consuming Blob's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.\nAt the beginning of your end step, create a green Ooze creature token with \"This creature's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.\"",
@@ -776,9 +625,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c81da535-04e4-4dc8-9e12-7b417aba2f39.jpg?1630695592"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/8/c81da535-04e4-4dc8-9e12-7b417aba2f39.png?1630695592"
-    ],
     "type_line": "Creature — Human",
     "oracle_text": "Contortionist Troupe enters the battlefield with X +1/+1 counters on it.\nCoven — At the beginning of your end step, if you control three or more creatures with different powers, put a +1/+1 counter on target creature you control.",
     "mana_cost": "{X}{G}",
@@ -791,9 +637,6 @@
     "name": "Corpse Cobble",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c.jpg?1631300960"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c.png?1631300960"
     ],
     "type_line": "Instant",
     "oracle_text": "As an additional cost to cast this spell, sacrifice any number of creatures.\nCreate an X/X blue and black Zombie creature token with menace, where X is the total power of the sacrificed creatures.\nFlashback {3}{U}{B} (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)",
@@ -809,10 +652,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.jpg?1631300153",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.jpg?1631300153"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.png?1631300153",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.png?1631300153"
-    ],
     "type_line": "Creature — Human Rogue // Creature — Spirit Rogue",
     "oracle_text": {},
     "mana_cost": "{2}{B}",
@@ -827,10 +666,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1632660815",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1632660815"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.png?1632660815",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.png?1632660815"
-    ],
     "type_line": "Creature — Human // Creature — Spirit",
     "oracle_text": {},
     "mana_cost": "{1}{U}",
@@ -843,9 +678,6 @@
     "name": "Crawl from the Cellar",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/ed6c8942-d43e-4456-ac98-3220cb954c65.jpg?1631296930"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/d/ed6c8942-d43e-4456-ac98-3220cb954c65.png?1631296930"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Return target creature card from your graveyard to your hand. Put a +1/+1 counter on up to one target Zombie you control.\nFlashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -860,9 +692,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/9847b22f-6660-4654-91a9-e0adb8606bab.jpg?1630753062"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/9847b22f-6660-4654-91a9-e0adb8606bab.png?1630753062"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Create a token that's a copy of target non-Frog creature, except it's a 1/1 green Frog.\nFlashback {3}{G}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{1}{G}{U}",
@@ -875,9 +704,6 @@
     "name": "Crossroads Candleguide",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5cad1524-9e75-47e0-b817-47110634802a.jpg?1631304870"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/c/5cad1524-9e75-47e0-b817-47110634802a.png?1631304870"
     ],
     "type_line": "Artifact Creature — Scarecrow",
     "oracle_text": "When Crossroads Candleguide enters the battlefield, exile up to one target card from a graveyard.\n{2}: Add one mana of any color.",
@@ -893,10 +719,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0a3c8532-92f5-41db-92b4-a871aa05e0c7.jpg?1631136026",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/0/a/0a3c8532-92f5-41db-92b4-a871aa05e0c7.jpg?1631136026"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/0/a/0a3c8532-92f5-41db-92b4-a871aa05e0c7.png?1631136026",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/0/a/0a3c8532-92f5-41db-92b4-a871aa05e0c7.png?1631136026"
-    ],
     "type_line": "Enchantment — Aura Curse // Creature — Leech Horror",
     "oracle_text": {},
     "mana_cost": "{2}{B}",
@@ -909,9 +731,6 @@
     "name": "Curse of Shaken Faith",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/371b7795-5cfc-4e2b-b26c-2def52c61dbf.jpg?1630666175"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/7/371b7795-5cfc-4e2b-b26c-2def52c61dbf.png?1630666175"
     ],
     "type_line": "Enchantment — Aura Curse",
     "oracle_text": "Enchant player\nWhenever enchanted player casts a spell other than the first spell they cast each turn or copies a spell, Curse of Shaken Faith deals 2 damage to them.",
@@ -926,9 +745,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9e7819d5-12a9-4719-91b2-8dd1ba6f3800.jpg?1631286276"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/e/9e7819d5-12a9-4719-91b2-8dd1ba6f3800.png?1631286276"
-    ],
     "type_line": "Enchantment — Aura Curse",
     "oracle_text": "Enchant player\nAs Curse of Silence enters the battlefield, choose a card name.\nSpells with the chosen name enchanted player casts cost {2} more to cast.\nWhenever enchanted player casts a spell with the chosen name, you may sacrifice Curse of Silence. If you do, draw a card.",
     "mana_cost": "{W}",
@@ -941,9 +757,6 @@
     "name": "Curse of Surveillance",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d6a5b3b2-4f27-4c97-9d87-d7bdcc06d36a.jpg?1631293849"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/6/d6a5b3b2-4f27-4c97-9d87-d7bdcc06d36a.png?1631293849"
     ],
     "type_line": "Enchantment — Aura Curse",
     "oracle_text": "Enchant player\nAt the beginning of enchanted player's upkeep, any number of target players other than that player each draw cards equal to the number of Curses attached to that player.",
@@ -958,9 +771,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/234a09dd-a202-4487-899f-348744143ba5.jpg?1631300313"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/3/234a09dd-a202-4487-899f-348744143ba5.png?1631300313"
-    ],
     "type_line": "Creature — Human Warlock",
     "oracle_text": "When Dawnhart Mentor enters the battlefield, create a 1/1 white Human creature token.\nCoven — {5}{G}: Target creature you control gets +3/+3 and gains trample until end of turn. Activate only if you control three or more creatures with different powers.",
     "mana_cost": "{2}{G}",
@@ -974,9 +784,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/f/cf4b5ad9-3de6-4d53-93a0-3b8d2e484687.jpg?1631300335"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/f/cf4b5ad9-3de6-4d53-93a0-3b8d2e484687.png?1631300335"
-    ],
     "type_line": "Creature — Human Warlock",
     "oracle_text": "When Dawnhart Rejuvenator enters the battlefield, you gain 3 life.\n{T}: Add one mana of any color.",
     "mana_cost": "{3}{G}",
@@ -989,9 +796,6 @@
     "name": "Dawnhart Wardens",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/e/7eb2f0a7-f3a6-4487-b847-4ef26ad5ecad.jpg?1631300981"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7eb2f0a7-f3a6-4487-b847-4ef26ad5ecad.png?1631300981"
     ],
     "type_line": "Creature — Human Warlock",
     "oracle_text": "Vigilance\nCoven — At the beginning of combat on your turn, if you control three or more creatures with different powers, creatures you control get +1/+0 until end of turn.",
@@ -1007,10 +811,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a2cda10b-7cd5-4cf5-87bd-c3b8c6aa2b47.jpg?1631376653",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/a/2/a2cda10b-7cd5-4cf5-87bd-c3b8c6aa2b47.jpg?1631376653"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a2cda10b-7cd5-4cf5-87bd-c3b8c6aa2b47.png?1631376653",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/a/2/a2cda10b-7cd5-4cf5-87bd-c3b8c6aa2b47.png?1631376653"
-    ],
     "type_line": "Creature — Fungus // Creature — Fungus Horror",
     "oracle_text": {},
     "mana_cost": "{G}",
@@ -1024,9 +824,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/1/c11e4420-06f3-48e2-91d1-a9199483add2.jpg?1630909380"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/1/c11e4420-06f3-48e2-91d1-a9199483add2.png?1630909380"
-    ],
     "type_line": "Instant",
     "oracle_text": "Distribute three +1/+1 counters among one, two, or three target creatures you control.",
     "mana_cost": "{2}{G}{G}",
@@ -1039,9 +836,6 @@
     "name": "Defenestrate",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/df3abdcc-83a8-45c3-9bfd-23f929705018.jpg?1631296825"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/df3abdcc-83a8-45c3-9bfd-23f929705018.png?1631296825"
     ],
     "type_line": "Instant",
     "oracle_text": "Destroy target creature without flying.",
@@ -1057,10 +851,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.jpg?1631043988",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.jpg?1631043988"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.png?1631043988",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.png?1631043988"
-    ],
     "type_line": "Creature — Human Wizard // Creature — Human Insect",
     "oracle_text": {},
     "mana_cost": "{U}",
@@ -1075,10 +865,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1631226297",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1631226297"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.png?1631226297",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.png?1631226297"
-    ],
     "type_line": "Legendary Creature — Human Soldier // Legendary Creature — Spirit Soldier",
     "oracle_text": {},
     "mana_cost": "{W}{U}",
@@ -1092,9 +878,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/38367ee5-154b-44cb-8974-422038d039df.jpg?1630695755"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/8/38367ee5-154b-44cb-8974-422038d039df.png?1630695755"
-    ],
     "type_line": "Land",
     "oracle_text": "Deserted Beach enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {W} or {U}.",
     "mana_cost": "",
@@ -1107,9 +890,6 @@
     "name": "Devious Cover-Up",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/648281fe-89fb-4d8d-b944-3af28fb044f6.jpg?1631293279"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/4/648281fe-89fb-4d8d-b944-3af28fb044f6.png?1631293279"
     ],
     "type_line": "Instant",
     "oracle_text": "Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may shuffle up to four target cards from your graveyard into your library.",
@@ -1125,10 +905,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1630828263",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1630828263"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.png?1630828263",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.png?1630828263"
-    ],
     "type_line": "Creature — Human Peasant // Creature — Spirit",
     "oracle_text": {},
     "mana_cost": "{W}{U}",
@@ -1141,9 +917,6 @@
     "name": "Diregraf Horde",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/153be768-ddad-44f2-bcdd-c40353c807d7.jpg?1631055619"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/5/153be768-ddad-44f2-bcdd-c40353c807d7.png?1631055619"
     ],
     "type_line": "Creature — Zombie",
     "oracle_text": "When Diregraf Horde enters the battlefield, create two 2/2 black Zombie creature tokens with decayed. When you do, exile up to two target cards from graveyards. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)",
@@ -1158,9 +931,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b51ed1ea-661e-49c6-9751-1eb7bb651bb1.jpg?1630778365"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/5/b51ed1ea-661e-49c6-9751-1eb7bb651bb1.png?1630778365"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "This spell costs {1} less to cast for each creature that died this turn.\nReturn target creature card from your graveyard to the battlefield.\nFlashback {5}{B}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{3}{B}{G}",
@@ -1173,9 +943,6 @@
     "name": "Dire-Strain Rampage",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0f4a7c01-95ca-43bf-bc53-875cfb4bffa1.jpg?1631058162"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/0/f/0f4a7c01-95ca-43bf-bc53-875cfb4bffa1.png?1631058162"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Destroy target artifact, enchantment, or land. If a land was destroyed this way, its controller may search their library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. Otherwise, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.\nFlashback {3}{R}{G}",
@@ -1190,9 +957,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/6/4689b3f2-e4b7-448e-b3d4-ab33194aafb2.jpg?1630691772"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/4689b3f2-e4b7-448e-b3d4-ab33194aafb2.png?1630691772"
-    ],
     "type_line": "Instant",
     "oracle_text": "Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
     "mana_cost": "{1}{U}{U}",
@@ -1205,9 +969,6 @@
     "name": "Dreadhound",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/7/27fd571b-8316-4c60-a042-8bcf4816b126.jpg?1631219976"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/7/27fd571b-8316-4c60-a042-8bcf4816b126.png?1631219976"
     ],
     "type_line": "Creature — Demon Dog",
     "oracle_text": "When Dreadhound enters the battlefield, mill three cards. (Put the top three cards of your library into your graveyard.)\nWhenever a creature dies or a creature card is put into a graveyard from a library, each opponent loses 1 life.",
@@ -1222,9 +983,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/1/71b05d44-d987-45e1-bbd9-842dbe58c2b5.jpg?1631293345"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/71b05d44-d987-45e1-bbd9-842dbe58c2b5.png?1631293345"
-    ],
     "type_line": "Creature — Zombie Horror",
     "oracle_text": "When Drownyard Amalgam enters the battlefield, target player mills three cards. (They put the top three cards of their library into their graveyard.)\n{2}{U}: Drownyard Amalgam can't be blocked this turn.",
     "mana_cost": "{4}{U}",
@@ -1237,9 +995,6 @@
     "name": "Dryad's Revival",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c0aa3eb-0aa8-42da-b437-a3f336df585d.jpg?1631300360"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/c/5c0aa3eb-0aa8-42da-b437-a3f336df585d.png?1631300360"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Return target card from your graveyard to your hand.\nFlashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -1254,9 +1009,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6b75855c-88dc-4491-8045-080debfeb7b5.jpg?1631303006"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/b/6b75855c-88dc-4491-8045-080debfeb7b5.png?1631303006"
-    ],
     "type_line": "Creature — Human Soldier",
     "oracle_text": "First strike\nCoven — At the beginning of combat on your turn, if you control three or more creatures with different powers, target creature you control gains double strike until end of turn.",
     "mana_cost": "{3}{W}",
@@ -1269,9 +1021,6 @@
     "name": "Duel for Dominance",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/b/9bb0a0c8-158e-4a6f-976e-3de9f57c3463.jpg?1631300381"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/b/9bb0a0c8-158e-4a6f-976e-3de9f57c3463.png?1631300381"
     ],
     "type_line": "Instant",
     "oracle_text": "Coven — Choose target creature you control and target creature you don't control. If you control three or more creatures with different powers, put a +1/+1 counter on the chosen creature you control. Then the chosen creatures fight each other. (They each deal damage equal to their power to the other.)",
@@ -1286,9 +1035,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.jpg?1631296975"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.png?1631296975"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
     "mana_cost": "{B}",
@@ -1302,9 +1048,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e7975a3c-570a-4bff-a60d-d274f758b93f.jpg?1631226201"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e7975a3c-570a-4bff-a60d-d274f758b93f.png?1631226201"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "As an additional cost to cast this spell, sacrifice a creature or pay {3}{B}.\nExile target creature or planeswalker.",
     "mana_cost": "{B}",
@@ -1317,9 +1060,6 @@
     "name": "Eccentric Farmer",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b5339f6e-9ed7-4734-91c9-c2ed59ca1052.jpg?1631300404"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/5/b5339f6e-9ed7-4734-91c9-c2ed59ca1052.png?1631300404"
     ],
     "type_line": "Creature — Human Peasant",
     "oracle_text": "When Eccentric Farmer enters the battlefield, mill three cards, then you may return a land card from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)",
@@ -1335,10 +1075,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1631304649",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1631304649"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.png?1631304649",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.png?1631304649"
-    ],
     "type_line": "Creature — Human Wizard // Creature — Demon",
     "oracle_text": {},
     "mana_cost": "{B}",
@@ -1351,9 +1087,6 @@
     "name": "Electric Revelation",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/0/20ff3289-00fb-4e91-b34f-6255e9de8e9e.jpg?1631298235"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/20ff3289-00fb-4e91-b34f-6255e9de8e9e.png?1631298235"
     ],
     "type_line": "Instant",
     "oracle_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)",
@@ -1369,10 +1102,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1630562155",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1630562155"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.png?1630562155",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.png?1630562155"
-    ],
     "type_line": "Creature — Angel // Creature — Angel",
     "oracle_text": {},
     "mana_cost": "{2}{W}{W}{W}",
@@ -1385,9 +1114,6 @@
     "name": "Evolving Wilds",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/b/cb471f90-46f2-4037-87fc-f523fc9d004f.jpg?1631301410"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/b/cb471f90-46f2-4037-87fc-f523fc9d004f.png?1631301410"
     ],
     "type_line": "Land",
     "oracle_text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
@@ -1402,9 +1128,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/2/c2fb1fff-12be-4bd5-8dba-c36e84d49651.jpg?1631221856"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c2fb1fff-12be-4bd5-8dba-c36e84d49651.png?1631221856"
-    ],
     "type_line": "Instant",
     "oracle_text": "Return target creature to its owner's hand. If its mana value was 3 or less, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
     "mana_cost": "{U}",
@@ -1417,9 +1140,6 @@
     "name": "Faithful Mending",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/0/50752ca9-ea85-4c4b-9bf5-4f8759a7dcec.jpg?1631301003"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/0/50752ca9-ea85-4c4b-9bf5-4f8759a7dcec.png?1631301003"
     ],
     "type_line": "Instant",
     "oracle_text": "You gain 2 life, draw two cards, then discard two cards.\nFlashback {1}{W}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -1434,9 +1154,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f0668413-859d-4ec4-a4d8-17ec7f5b1b8b.jpg?1631293436"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f0668413-859d-4ec4-a4d8-17ec7f5b1b8b.png?1631293436"
-    ],
     "type_line": "Creature — Zombie Bird",
     "oracle_text": "Flying\nWhen Falcon Abomination enters the battlefield, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",
     "mana_cost": "{2}{U}",
@@ -1449,9 +1166,6 @@
     "name": "Falkenrath Perforator",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/4/c40998e0-d7d0-4d79-a40a-9a381debd2cb.jpg?1631059133"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/4/c40998e0-d7d0-4d79-a40a-9a381debd2cb.png?1631059133"
     ],
     "type_line": "Creature — Vampire",
     "oracle_text": "Whenever Falkenrath Perforator attacks, it deals 1 damage to defending player.",
@@ -1466,9 +1180,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/7/a743a3b6-3278-4644-a2d5-acf495c273ed.jpg?1631298270"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a743a3b6-3278-4644-a2d5-acf495c273ed.png?1631298270"
-    ],
     "type_line": "Creature — Vampire Warrior",
     "oracle_text": "{1}{R}, Discard a card, Sacrifice a Vampire: Draw two cards. Activate only if an opponent lost life this turn.",
     "mana_cost": "{R}",
@@ -1481,9 +1192,6 @@
     "name": "Famished Foragers",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fdbe6937-ceda-4367-a101-562fd5e0e09d.jpg?1630695549"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/d/fdbe6937-ceda-4367-a101-562fd5e0e09d.png?1630695549"
     ],
     "type_line": "Creature — Vampire",
     "oracle_text": "When Famished Foragers enters the battlefield, if an opponent lost life this turn, add {R}{R}{R}.\n{2}{R}, Discard a card: Draw a card.",
@@ -1499,10 +1207,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d2feb859-bfae-4bc4-8181-5737dd5c3b08.jpg?1631352232",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/d/2/d2feb859-bfae-4bc4-8181-5737dd5c3b08.jpg?1631352232"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/2/d2feb859-bfae-4bc4-8181-5737dd5c3b08.png?1631352232",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/d/2/d2feb859-bfae-4bc4-8181-5737dd5c3b08.png?1631352232"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{R}",
@@ -1515,9 +1219,6 @@
     "name": "Fateful Absence",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/c/eca8d6f8-c6f1-437c-99e2-4281eae14a6f.jpg?1631228327"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/eca8d6f8-c6f1-437c-99e2-4281eae14a6f.png?1631228327"
     ],
     "type_line": "Instant",
     "oracle_text": "Destroy target creature or planeswalker. Its controller investigates. (They create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")",
@@ -1532,9 +1233,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/626b0477-6165-443a-8a75-dfeac26ac9f9.jpg?1630695724"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/626b0477-6165-443a-8a75-dfeac26ac9f9.png?1630695724"
-    ],
     "type_line": "Creature — Devil",
     "oracle_text": "Whenever you cast an instant or sorcery spell, Festival Crasher gets +2/+0 until end of turn.",
     "mana_cost": "{1}{R}",
@@ -1548,9 +1246,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d510eece-4f55-4198-83fe-5291a76ffdcc.jpg?1631134352"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d510eece-4f55-4198-83fe-5291a76ffdcc.png?1631134352"
-    ],
     "type_line": "Land",
     "oracle_text": "{T}: Add {C}.\n{2}, {T}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.",
     "mana_cost": "",
@@ -1563,9 +1258,6 @@
     "name": "Firmament Sage",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/d/9db186a1-3dc5-4ed2-8cd4-1e4f13094885.jpg?1632660825"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9db186a1-3dc5-4ed2-8cd4-1e4f13094885.png?1632660825"
     ],
     "type_line": "Creature — Human Wizard",
     "oracle_text": "If it's neither day nor night, it becomes day as Firmament Sage enters the battlefield.\nWhenever day becomes night or night becomes day, draw a card.",
@@ -1581,10 +1273,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be91fcba-4599-4ecb-824d-55112096c34a.jpg?1630693670",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/b/e/be91fcba-4599-4ecb-824d-55112096c34a.jpg?1630693670"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/be91fcba-4599-4ecb-824d-55112096c34a.png?1630693670",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/b/e/be91fcba-4599-4ecb-824d-55112096c34a.png?1630693670"
-    ],
     "type_line": "Creature — Human Wizard // Creature — Elemental Wizard",
     "oracle_text": {},
     "mana_cost": "{1}{R}",
@@ -1597,9 +1285,6 @@
     "name": "Flare of Faith",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/b/1b4354c6-ea21-46c0-93c4-744dbacbfcf4.jpg?1632661124"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1b4354c6-ea21-46c0-93c4-744dbacbfcf4.png?1632661124"
     ],
     "type_line": "Instant",
     "oracle_text": "Target creature gets +2/+2 until end of turn. If it's a Human, instead it gets +3/+3 and gains indestructible until end of turn.",
@@ -1614,9 +1299,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2ed8c0ef-2b53-49b5-bc2f-428628cb3975.jpg?1631301024"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/e/2ed8c0ef-2b53-49b5-bc2f-428628cb3975.png?1631301024"
-    ],
     "type_line": "Creature — Human Assassin",
     "oracle_text": "Whenever you sacrifice another creature, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{1}, Sacrifice another creature: Fleshtaker gets +2/+2 until end of turn.",
     "mana_cost": "{W}{B}",
@@ -1629,9 +1311,6 @@
     "name": "Flip the Switch",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5cdbe4e3-f030-46fa-ae84-edf261b61706.jpg?1631303696"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/c/5cdbe4e3-f030-46fa-ae84-edf261b61706.png?1631303696"
     ],
     "type_line": "Instant",
     "oracle_text": "Counter target spell unless its controller pays {4}. Create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",
@@ -1646,9 +1325,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/53289e69-74da-46d2-91c2-a11378ba76ef.jpg?1631169245"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/53289e69-74da-46d2-91c2-a11378ba76ef.png?1631169245"
-    ],
     "type_line": "Legendary Creature — Vampire Noble",
     "oracle_text": "First strike\nAt the beginning of your postcombat main phase, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn.",
     "mana_cost": "{1}{B}{R}",
@@ -1662,9 +1338,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1628197648"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.png?1628197648"
-    ],
     "type_line": "Basic Land — Forest",
     "oracle_text": "({T}: Add {G}.)",
     "mana_cost": "",
@@ -1677,9 +1350,6 @@
     "name": "Foul Play",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/87e4b75c-e993-4983-8933-977be314bba6.jpg?1631296992"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/7/87e4b75c-e993-4983-8933-977be314bba6.png?1631296992"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Destroy target creature with power 2 or less. Investigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")",
@@ -1695,10 +1365,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/b/eb34c472-c6ff-4d83-ac8b-a8f279593f98.jpg?1631304637",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/e/b/eb34c472-c6ff-4d83-ac8b-a8f279593f98.jpg?1631304637"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/b/eb34c472-c6ff-4d83-ac8b-a8f279593f98.png?1631304637",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/e/b/eb34c472-c6ff-4d83-ac8b-a8f279593f98.png?1631304637"
-    ],
     "type_line": "Creature — Hippogriff // Creature — Hippogriff Spirit",
     "oracle_text": {},
     "mana_cost": "{3}{U}",
@@ -1711,9 +1377,6 @@
     "name": "Galvanic Iteration",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/5/a5f8ee5b-e1f5-4bc8-8ca3-d8308d71f2b9.jpg?1631301047"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/5/a5f8ee5b-e1f5-4bc8-8ca3-d8308d71f2b9.png?1631301047"
     ],
     "type_line": "Instant",
     "oracle_text": "When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.\nFlashback {1}{U}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -1728,9 +1391,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/58891dae-1c59-4f53-82ec-5b4c47133182.jpg?1630694302"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/58891dae-1c59-4f53-82ec-5b4c47133182.png?1630694302"
-    ],
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Ward {1}\nIf it's neither day nor night, it becomes day as Gavony Dawnguard enters the battlefield.\nWhenever day becomes night or night becomes day, look at the top four cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
     "mana_cost": "{1}{W}{W}",
@@ -1743,9 +1403,6 @@
     "name": "Gavony Silversmith",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/c/2c53b007-96aa-4db6-8c3e-529d1e845b19.jpg?1631286480"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/c/2c53b007-96aa-4db6-8c3e-529d1e845b19.png?1631286480"
     ],
     "type_line": "Creature — Human Soldier",
     "oracle_text": "When Gavony Silversmith enters the battlefield, put a +1/+1 counter on each of up to two target creatures.",
@@ -1760,9 +1417,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5a1309ea-4411-4116-841f-5aef8611400c.jpg?1631286612"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/a/5a1309ea-4411-4116-841f-5aef8611400c.png?1631286612"
-    ],
     "type_line": "Creature — Human Soldier",
     "oracle_text": "{2}, {T}: Tap target creature.",
     "mana_cost": "{W}",
@@ -1775,9 +1429,6 @@
     "name": "Geistflame Reservoir",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/b/4b247ce7-9c58-404f-bed1-84abb37575ab.jpg?1630693515"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4b247ce7-9c58-404f-bed1-84abb37575ab.png?1630693515"
     ],
     "type_line": "Artifact",
     "oracle_text": "Whenever you cast an instant or sorcery spell, put a charge counter on Geistflame Reservoir.\n{1}{R}, {T}, Remove any number of charge counters from Geistflame Reservoir: It deals that much damage to any target.\n{1}{R}, {T}: Exile the top card of your library. You may play that card this turn.",
@@ -1792,9 +1443,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f0e3d1ac-bec2-4bba-a6cf-a823996dde2d.jpg?1631303739"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f0e3d1ac-bec2-4bba-a6cf-a823996dde2d.png?1631303739"
-    ],
     "type_line": "Instant",
     "oracle_text": "Return target nonland permanent to its owner's hand. If you controlled that permanent, draw a card.",
     "mana_cost": "{1}{U}",
@@ -1807,9 +1455,6 @@
     "name": "Ghoulcaller's Harvest",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6a507ea6-d818-4443-b468-cf65c3e7031c.jpg?1630856551"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/a/6a507ea6-d818-4443-b468-cf65c3e7031c.png?1630856551"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Create X 2/2 black Zombie creature tokens with decayed, where X is half the number of creature cards in your graveyard, rounded up. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)\nFlashback {3}{B}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -1824,9 +1469,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/6/363bd6a6-e8e4-4626-a43c-0b77339dd28b.jpg?1631296507"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/363bd6a6-e8e4-4626-a43c-0b77339dd28b.png?1631296507"
-    ],
     "type_line": "Enchantment",
     "oracle_text": "Whenever one or more nontoken creatures die, create a 2/2 black Zombie creature token with decayed. This ability triggers only once each turn. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)",
     "mana_cost": "{1}{B}",
@@ -1840,9 +1482,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/63461076-a13d-488d-bd82-ceac441341c8.jpg?1630666996"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/3/63461076-a13d-488d-bd82-ceac441341c8.png?1630666996"
-    ],
     "type_line": "Legendary Creature — Human Wizard",
     "oracle_text": "If a creature an opponent controls would die, exile it instead.\nAt the beginning of your upkeep, put all creature cards exiled with Gisa, Glorious Resurrector onto the battlefield under your control. They gain decayed. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)",
     "mana_cost": "{2}{B}{B}",
@@ -1855,9 +1494,6 @@
     "name": "Grafted Identity",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/5/2559846b-03d6-4a2c-97e1-c71f107e9f24.jpg?1630959033"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/5/2559846b-03d6-4a2c-97e1-c71f107e9f24.png?1630959033"
     ],
     "type_line": "Enchantment — Aura",
     "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nEnchant creature\nYou control enchanted creature.\nEnchanted creature gets +1/+1.",
@@ -1873,10 +1509,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1630695958",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1630695958"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/a/daa2a273-488f-4285-a069-ad159ad2d393.png?1630695958",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/d/a/daa2a273-488f-4285-a069-ad159ad2d393.png?1630695958"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{B}",
@@ -1890,9 +1522,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/eec421f1-4ee8-4816-ab5c-372e87aae231.jpg?1631230272"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/e/eec421f1-4ee8-4816-ab5c-372e87aae231.png?1631230272"
-    ],
     "type_line": "Creature — Zombie Bear",
     "oracle_text": "Trample\nGrizzly Ghoul enters the battlefield with a +1/+1 counter on it for each creature that died this turn.",
     "mana_cost": "{2}{B}{G}",
@@ -1905,9 +1534,6 @@
     "name": "Hallowed Respite",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f2877523-6321-47e6-8be4-755ec21676c6.jpg?1631227529"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/2/f2877523-6321-47e6-8be4-755ec21676c6.png?1631227529"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Exile target nonlegendary creature, then return it to the battlefield under its owner's control. If it entered under your control, put a +1/+1 counter on it. Otherwise, tap it.\nFlashback {1}{W}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -1923,10 +1549,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1631300535",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1631300535"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.png?1631300535",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.png?1631300535"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{R}",
@@ -1939,9 +1561,6 @@
     "name": "Harvesttide Sentry",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/5/9543cf53-8cf5-49d0-9c60-8b11e21da953.jpg?1631304662"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/5/9543cf53-8cf5-49d0-9c60-8b11e21da953.png?1631304662"
     ],
     "type_line": "Creature — Human Warrior",
     "oracle_text": "Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Harvesttide Sentry can't be blocked by creatures with power 2 or less this turn.",
@@ -1956,9 +1575,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.jpg?1630695839"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.png?1630695839"
-    ],
     "type_line": "Land",
     "oracle_text": "Haunted Ridge enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {B} or {R}.",
     "mana_cost": "",
@@ -1971,9 +1587,6 @@
     "name": "Hedgewitch's Mask",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/97321072-1f7f-413b-9246-e6b3ec7a8c30.jpg?1630921205"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/97321072-1f7f-413b-9246-e6b3ec7a8c30.png?1630921205"
     ],
     "type_line": "Artifact — Equipment",
     "oracle_text": "Equipped creature gets +1/+1.\nEquipped creature can't be blocked by creatures with power 4 or greater.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
@@ -1989,10 +1602,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/6/e6dd05f0-a3c0-4bd6-a1d1-a74540623093.jpg?1632660837",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/e/6/e6dd05f0-a3c0-4bd6-a1d1-a74540623093.jpg?1632660837"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e6dd05f0-a3c0-4bd6-a1d1-a74540623093.png?1632660837",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/e/6/e6dd05f0-a3c0-4bd6-a1d1-a74540623093.png?1632660837"
-    ],
     "type_line": "Artifact // Creature — Demon",
     "oracle_text": {},
     "mana_cost": "{1}{B}",
@@ -2006,9 +1615,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/8/68284193-a38e-40d2-8d15-92d223756751.jpg?1631558327"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/8/68284193-a38e-40d2-8d15-92d223756751.png?1631558327"
-    ],
     "type_line": "Creature — Zombie",
     "oracle_text": "Deathtouch\nWhen Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",
     "mana_cost": "{2}{B}",
@@ -2021,9 +1627,6 @@
     "name": "Homestead Courage",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/73a9c49f-fcd3-4572-bac7-6eb06fdc0815.jpg?1631286737"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/3/73a9c49f-fcd3-4572-bac7-6eb06fdc0815.png?1631286737"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -2039,10 +1642,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1631342331",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1631342331"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.png?1631342331",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.png?1631342331"
-    ],
     "type_line": "Land // Artifact Creature — Horror Construct",
     "oracle_text": {},
     "mana_cost": "",
@@ -2057,10 +1656,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.jpg?1631134932",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.jpg?1631134932"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.png?1631134932",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.png?1631134932"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{G}",
@@ -2073,9 +1668,6 @@
     "name": "Howl of the Hunt",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/a/7a48a42e-5cc5-4f9a-8745-99936f4cae5f.jpg?1630695571"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/a/7a48a42e-5cc5-4f9a-8745-99936f4cae5f.png?1630695571"
     ],
     "type_line": "Enchantment — Aura",
     "oracle_text": "Flash\nEnchant creature\nWhen Howl of the Hunt enters the battlefield, if enchanted creature is a Wolf or Werewolf, untap that creature.\nEnchanted creature gets +2/+2 and has vigilance.",
@@ -2090,9 +1682,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce09c0df-d022-4ebf-8f7f-8a913249e75f.jpg?1631039942"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/e/ce09c0df-d022-4ebf-8f7f-8a913249e75f.png?1631039942"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Create a 3/1 black and red Vampire creature token with trample, lifelink, and haste. Sacrifice it at the beginning of the next end step.\nFlashback {1}{B}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{B}{R}",
@@ -2105,9 +1694,6 @@
     "name": "Immolation",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/606b1148-4aa6-4d78-bedd-e31573282921.jpg?1631298307"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/0/606b1148-4aa6-4d78-bedd-e31573282921.png?1631298307"
     ],
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nEnchanted creature gets +2/-2.",
@@ -2122,9 +1708,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/7/17824929-f131-4b8d-addb-66c25323155e.jpg?1628195744"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/7/17824929-f131-4b8d-addb-66c25323155e.png?1628195744"
-    ],
     "type_line": "Instant",
     "oracle_text": "Destroy target creature. You lose 2 life.",
     "mana_cost": "{1}{B}",
@@ -2137,9 +1720,6 @@
     "name": "Intrepid Adversary",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/7/773199f9-c83b-4a77-8342-9f1552ecf595.jpg?1631286752"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/7/773199f9-c83b-4a77-8342-9f1552ecf595.png?1631286752"
     ],
     "type_line": "Creature — Human Scout",
     "oracle_text": "Lifelink\nWhen Intrepid Adversary enters the battlefield, you may pay {1}{W} any number of times. When you pay this cost one or more times, put that many valor counters on Intrepid Adversary.\nCreatures you control get +1/+1 for each valor counter on Intrepid Adversary.",
@@ -2154,9 +1734,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1628197498"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.png?1628197498"
-    ],
     "type_line": "Basic Land — Island",
     "oracle_text": "({T}: Add {U}.)",
     "mana_cost": "",
@@ -2170,9 +1747,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/1/21b589ab-45a0-480a-a891-581c34f8a9bf.jpg?1631134107"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/1/21b589ab-45a0-480a-a891-581c34f8a9bf.png?1631134107"
-    ],
     "type_line": "Artifact",
     "oracle_text": "{1}, {T}, Sacrifice Jack-o'-Lantern: Exile up to one target card from a graveyard. Draw a card.\n{1}, Exile Jack-o'-Lantern from your graveyard: Add one mana of any color.",
     "mana_cost": "{1}",
@@ -2185,9 +1759,6 @@
     "name": "Jadar, Ghoulcaller of Nephalia",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff971ba7-68b8-482a-9cb1-741f6893550c.jpg?1630606305"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/f/ff971ba7-68b8-482a-9cb1-741f6893550c.png?1630606305"
     ],
     "type_line": "Legendary Creature — Human Wizard",
     "oracle_text": "At the beginning of your end step, if you control no creatures with decayed, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",
@@ -2203,10 +1774,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0f6e668d-2502-4e82-b4c2-ef34c9afa27e.jpg?1631226866",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/0/f/0f6e668d-2502-4e82-b4c2-ef34c9afa27e.jpg?1631226866"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/0/f/0f6e668d-2502-4e82-b4c2-ef34c9afa27e.png?1631226866",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/0/f/0f6e668d-2502-4e82-b4c2-ef34c9afa27e.png?1631226866"
-    ],
     "type_line": "Legendary Creature — Human Cleric // Legendary Creature — Demon",
     "oracle_text": {},
     "mana_cost": "{2}{B}",
@@ -2220,9 +1787,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.jpg?1628195546"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.png?1628195546"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Create two 1/1 white Human creature tokens.\nFlashback {3}{G}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{G}{W}",
@@ -2235,9 +1799,6 @@
     "name": "Katilda, Dawnhart Prime",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/7/673cd775-d417-4652-a91d-825ad5c89e8a.jpg?1631301068"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/7/673cd775-d417-4652-a91d-825ad5c89e8a.png?1631301068"
     ],
     "type_line": "Legendary Creature — Human Warlock",
     "oracle_text": "Protection from Werewolves\nHuman creatures you control have \"{T}: Add one mana of any of this creature's colors.\"\n{4}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.",
@@ -2253,10 +1814,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1631331050",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1631331050"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.png?1631331050",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.png?1631331050"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{R}{G}",
@@ -2269,9 +1826,6 @@
     "name": "Lambholt Harrier",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e2a732ca-cd68-465f-8e44-783e1fe34e44.jpg?1631302285"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/2/e2a732ca-cd68-465f-8e44-783e1fe34e44.png?1631302285"
     ],
     "type_line": "Creature — Wolf",
     "oracle_text": "{3}{R}: Target creature can't block this turn.",
@@ -2286,9 +1840,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/7/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f.jpg?1631293695"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f.png?1631293695"
-    ],
     "type_line": "Creature — Zombie",
     "oracle_text": "Defender\nTap three untapped creatures you control: Look at the top card of your library. You may put it into your graveyard.",
     "mana_cost": "{U}",
@@ -2301,9 +1852,6 @@
     "name": "Lier, Disciple of the Drowned",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/8/78fb8900-d28d-4e33-96a7-66fcbc117adf.jpg?1631293735"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/8/78fb8900-d28d-4e33-96a7-66fcbc117adf.png?1631293735"
     ],
     "type_line": "Legendary Creature — Human Wizard",
     "oracle_text": "Spells can't be countered.\nEach instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.",
@@ -2318,9 +1866,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/532fca6b-f788-43f8-b29f-7273e7a48449.jpg?1630860360"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/532fca6b-f788-43f8-b29f-7273e7a48449.png?1630860360"
-    ],
     "type_line": "Legendary Creature — Angel",
     "oracle_text": "Flying, lifelink\nWhenever another nontoken creature you control dies, return that card to its owner's hand at the beginning of the next end step.\nIf a creature an opponent controls would die, exile it instead.",
     "mana_cost": "{2}{W}{W}{B}",
@@ -2333,9 +1878,6 @@
     "name": "Light Up the Night",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7de68154-3b82-4a94-98a6-cfc49d359e4e.jpg?1630592663"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/d/7de68154-3b82-4a94-98a6-cfc49d359e4e.png?1630592663"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Light Up the Night deals X damage to any target. It deals X plus 1 damage instead if that target is a creature or planeswalker.\nFlashback—{3}{R}, Remove X loyalty counters from among planeswalkers you control. If you cast this spell this way, X can't be 0. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -2350,9 +1892,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/8/68593c6d-8d1b-4c36-84a1-f1144669825e.jpg?1632660887"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/8/68593c6d-8d1b-4c36-84a1-f1144669825e.png?1632660887"
-    ],
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nWhen Locked in the Cemetery enters the battlefield, if there are five or more cards in your graveyard, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
     "mana_cost": "{1}{U}",
@@ -2366,9 +1905,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d5a8846c-3950-4588-97e8-3aa70bcd2403.jpg?1631225993"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d5a8846c-3950-4588-97e8-3aa70bcd2403.png?1631225993"
-    ],
     "type_line": "Creature — Demon",
     "oracle_text": "Flying, trample\n{B}, Sacrifice another creature: Target player mills three cards.\nPay 1 life: Add {C}. Spend this mana only to cast a spell from your graveyard.",
     "mana_cost": "{4}{B}{B}",
@@ -2381,9 +1917,6 @@
     "name": "Loyal Gryff",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/4/b4d41ac4-3273-4722-aaa6-ceeba66cf591.jpg?1631299491"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/4/b4d41ac4-3273-4722-aaa6-ceeba66cf591.png?1631299491"
     ],
     "type_line": "Creature — Hippogriff",
     "oracle_text": "Flash\nFlying\nWhen Loyal Gryff enters the battlefield, you may return another creature you control to its owner's hand.",
@@ -2399,10 +1932,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1631607468",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1631607468"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.png?1631607468",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.png?1631607468"
-    ],
     "type_line": "Legendary Creature — Human Wizard // Legendary Creature — Zombie",
     "oracle_text": {},
     "mana_cost": "{U}{B}",
@@ -2417,10 +1946,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d2704743-2e23-40b9-a367-c73d2db45afc.jpg?1631299609",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/d/2/d2704743-2e23-40b9-a367-c73d2db45afc.jpg?1631299609"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/2/d2704743-2e23-40b9-a367-c73d2db45afc.png?1631299609",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/d/2/d2704743-2e23-40b9-a367-c73d2db45afc.png?1631299609"
-    ],
     "type_line": "Creature — Human Cleric // Creature — Spirit Cleric",
     "oracle_text": {},
     "mana_cost": "{W}",
@@ -2433,9 +1958,6 @@
     "name": "Lunar Frenzy",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b5fb18c4-1386-4ea0-97c1-4bdd1e7eb5a6.jpg?1630693909"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/5/b5fb18c4-1386-4ea0-97c1-4bdd1e7eb5a6.png?1630693909"
     ],
     "type_line": "Instant",
     "oracle_text": "Target creature you control gets +X/+0 and gains first strike and trample until end of turn.",
@@ -2451,10 +1973,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.jpg?1631225854",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.jpg?1631225854"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.png?1631225854",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.png?1631225854"
-    ],
     "type_line": "Creature — Human Wizard // Creature — Spirit Wizard",
     "oracle_text": {},
     "mana_cost": "{1}{U}",
@@ -2467,9 +1985,6 @@
     "name": "Mask of Griselbrand",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/2/829786e2-260b-4bc6-935b-1868b37e2d33.jpg?1632666311"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/2/829786e2-260b-4bc6-935b-1868b37e2d33.png?1632666311"
     ],
     "type_line": "Legendary Artifact — Equipment",
     "oracle_text": "Equipped creature has flying and lifelink.\nWhenever equipped creature dies, you may pay X life, where X is its power. If you do, draw X cards.\nEquip {3}",
@@ -2484,9 +1999,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/c/dc00fd1b-3dd9-492a-9ed4-0b6743074730.jpg?1631221971"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/c/dc00fd1b-3dd9-492a-9ed4-0b6743074730.png?1631221971"
-    ],
     "type_line": "Instant",
     "oracle_text": "Look at the top X cards of your library, where X is the amount of mana spent to cast this spell. Put two of them into your hand and the rest on the bottom of your library in a random order.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{2}{U}{U}",
@@ -2499,9 +2011,6 @@
     "name": "Might of the Old Ways",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6a853679-e9dd-4c05-8688-248de8f12760.jpg?1630607954"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/a/6a853679-e9dd-4c05-8688-248de8f12760.png?1630607954"
     ],
     "type_line": "Instant",
     "oracle_text": "Target creature gets +2/+2 until end of turn.\nCoven — Then if you control three or more creatures with different powers, draw a card.",
@@ -2516,9 +2025,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/b/eb4f266b-c41c-4047-ae6f-b2226c7459e8.jpg?1631304154"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/b/eb4f266b-c41c-4047-ae6f-b2226c7459e8.png?1631304154"
-    ],
     "type_line": "Instant",
     "oracle_text": "This spell costs {2} less to cast if it's night.\nMoonrager's Slash deals 3 damage to any target.",
     "mana_cost": "{2}{R}",
@@ -2531,9 +2037,6 @@
     "name": "Moonsilver Key",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1631856056"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.png?1631856056"
     ],
     "type_line": "Artifact",
     "oracle_text": "{1}, {T}, Sacrifice Moonsilver Key: Search your library for an artifact card with a mana ability or a basic land card, reveal it, put it into your hand, then shuffle.",
@@ -2548,9 +2051,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/9/f9fc55fd-161a-4d77-82f0-27075210e7e7.jpg?1630959214"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/9/f9fc55fd-161a-4d77-82f0-27075210e7e7.png?1630959214"
-    ],
     "type_line": "Creature — Dragon",
     "oracle_text": "Flying\nWhenever you cast a spell, you may discard your hand. If you do, draw a card for each of that spell's colors.\nWhen Moonveil Regent dies, it deals X damage to any target, where X is the number of colors among permanents you control.",
     "mana_cost": "{3}{R}",
@@ -2563,9 +2063,6 @@
     "name": "Morbid Opportunist",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5a53982e-3d66-4808-bcb5-46ff40567872.jpg?1631134827"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/a/5a53982e-3d66-4808-bcb5-46ff40567872.png?1631134827"
     ],
     "type_line": "Creature — Human Rogue",
     "oracle_text": "Whenever one or more other creatures die, draw a card. This ability triggers only once each turn.",
@@ -2580,9 +2077,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/318fe8a2-a68a-4c7e-9581-ae6800826164.jpg?1631303875"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/1/318fe8a2-a68a-4c7e-9581-ae6800826164.png?1631303875"
-    ],
     "type_line": "Creature — Zombie Giant",
     "oracle_text": "As an additional cost to cast this spell, sacrifice a creature or pay {1}{B}.\nMenace (This creature can't be blocked except by two or more creatures.)",
     "mana_cost": "{4}{B}",
@@ -2596,9 +2090,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1628198041"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.png?1628198041"
-    ],
     "type_line": "Basic Land — Mountain",
     "oracle_text": "({T}: Add {R}.)",
     "mana_cost": "",
@@ -2611,9 +2102,6 @@
     "name": "Mounted Dreadknight",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/1/d1814fc8-011f-4cd4-825b-f00ae6ec0fe0.jpg?1631298536"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/1/d1814fc8-011f-4cd4-825b-f00ae6ec0fe0.png?1631298536"
     ],
     "type_line": "Creature — Vampire Knight",
     "oracle_text": "Trample\nMounted Dreadknight enters the battlefield with a +1/+1 counter on it if an opponent lost life this turn.",
@@ -2629,10 +2117,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/d/2d3687e2-09e0-4753-aa02-88a19bde3330.jpg?1631299761",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/2/d/2d3687e2-09e0-4753-aa02-88a19bde3330.jpg?1631299761"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/2/d/2d3687e2-09e0-4753-aa02-88a19bde3330.png?1631299761",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/2/d/2d3687e2-09e0-4753-aa02-88a19bde3330.png?1631299761"
-    ],
     "type_line": "Creature — Human Soldier // Creature — Spirit Soldier",
     "oracle_text": {},
     "mana_cost": "{2}{W}",
@@ -2646,10 +2130,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1631303677",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1631303677"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.png?1631303677",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.png?1631303677"
     ],
     "type_line": "Artifact // Artifact",
     "oracle_text": {},
@@ -2665,10 +2145,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1631055774",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1631055774"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.png?1631055774",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.png?1631055774"
-    ],
     "type_line": "Artifact // Artifact Creature — Construct",
     "oracle_text": {},
     "mana_cost": "{2}",
@@ -2681,9 +2157,6 @@
     "name": "Nebelgast Intruder",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/c/6c801346-0052-4f4b-a497-1567a34679fb.jpg?1632649672"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/c/6c801346-0052-4f4b-a497-1567a34679fb.png?1632649672"
     ],
     "type_line": "Creature — Spirit",
     "oracle_text": "Flash\nFlying\nWhen Nebelgast Intruder enters the battlefield, up to one target creature an opponent controls gets -2/-0 until end of turn.",
@@ -2698,9 +2171,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/7/b75b89f1-e032-4d8c-b2b6-1b76e8644801.jpg?1631039699"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/7/b75b89f1-e032-4d8c-b2b6-1b76e8644801.png?1631039699"
-    ],
     "type_line": "Enchantment — Aura",
     "oracle_text": "Enchant creature\nEnchanted creature has \"Whenever another creature dies, put a +1/+1 counter on this creature.\"\nWhen enchanted creature dies, look at the top X cards of your library, where X is its power. Put one of those cards into your hand and the rest on the bottom of your library in a random order.",
     "mana_cost": "{1}{B}",
@@ -2713,9 +2183,6 @@
     "name": "Neonate's Rush",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/e/dee17e12-e08f-4449-9f49-05f20e0d1670.jpg?1631298618"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/e/dee17e12-e08f-4449-9f49-05f20e0d1670.png?1631298618"
     ],
     "type_line": "Instant",
     "oracle_text": "This spell costs {1} less to cast if you control a Vampire.\nNeonate's Rush deals 1 damage to target creature and 1 damage to its controller. Draw a card.",
@@ -2730,9 +2197,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/5/a541ac79-a969-42b4-b989-f6e37572ec90.jpg?1631297411"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/5/a541ac79-a969-42b4-b989-f6e37572ec90.png?1631297411"
-    ],
     "type_line": "Creature — Human Wizard",
     "oracle_text": "When Novice Occultist dies, you draw a card and you lose 1 life.",
     "mana_cost": "{1}{B}",
@@ -2745,9 +2209,6 @@
     "name": "No Way Out",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/9/d9ef6a68-60a4-4a20-8b57-8b7a7c5ed0c6.jpg?1631303886"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d9ef6a68-60a4-4a20-8b57-8b7a7c5ed0c6.png?1631303886"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Target opponent discards two cards. You create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",
@@ -2762,9 +2223,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/f/4f6e0cb6-283b-448e-89c6-8b6e8e21e38b.jpg?1631225899"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/f/4f6e0cb6-283b-448e-89c6-8b6e8e21e38b.png?1631225899"
-    ],
     "type_line": "Creature — Human Wizard",
     "oracle_text": "If it's neither day nor night, it becomes day as Obsessive Astronomer enters the battlefield.\nWhenever day becomes night or night becomes day, discard up to two cards, then draw that many cards.",
     "mana_cost": "{1}{R}",
@@ -2777,9 +2235,6 @@
     "name": "Odric's Outrider",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/9016f837-cc19-43f1-adb9-96bdd3195407.jpg?1631056846"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/0/9016f837-cc19-43f1-adb9-96bdd3195407.png?1631056846"
     ],
     "type_line": "Creature — Human Knight",
     "oracle_text": "Whenever Odric's Outrider or another creature you control dies, put a +1/+1 counter on target creature you control.",
@@ -2794,9 +2249,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/2/b203be6f-c565-4d8f-b200-b537569a0292.jpg?1631501130"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/2/b203be6f-c565-4d8f-b200-b537569a0292.png?1631501130"
-    ],
     "type_line": "Legendary Creature — Horror",
     "oracle_text": "When you cast this spell, reveal cards from the top of your library until you reveal X creature cards. Put all creature cards revealed this way into your graveyard, then put the rest on the bottom of your library in a random order.\nOld Stickfingers's power and toughness are each equal to the number of creature cards in your graveyard.",
     "mana_cost": "{X}{B}{G}",
@@ -2809,9 +2261,6 @@
     "name": "Olivia's Midnight Ambush",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9c1adede-22ad-4c1c-9501-ad731fbe1742.jpg?1632660995"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/c/9c1adede-22ad-4c1c-9501-ad731fbe1742.png?1632660995"
     ],
     "type_line": "Instant",
     "oracle_text": "Target creature gets -2/-2 until end of turn. If it's night, that creature gets -13/-13 until end of turn instead.",
@@ -2826,9 +2275,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/daf2b49a-56f9-4093-960f-9ec7af8983b5.jpg?1631294126"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/a/daf2b49a-56f9-4093-960f-9ec7af8983b5.png?1631294126"
-    ],
     "type_line": "Enchantment",
     "oracle_text": "When Ominous Roost enters the battlefield or whenever you cast a spell from your graveyard, create a 1/1 blue Bird creature token with flying and \"This creature can block only creatures with flying.\"",
     "mana_cost": "{2}{U}",
@@ -2842,9 +2288,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/9716d384-88d1-415e-882f-7fed9be1adc6.jpg?1631132452"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/9716d384-88d1-415e-882f-7fed9be1adc6.png?1631132452"
-    ],
     "type_line": "Creature — Zombie",
     "oracle_text": "When Organ Hoarder enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest into your graveyard.",
     "mana_cost": "{3}{U}",
@@ -2857,9 +2300,6 @@
     "name": "Otherworldly Gaze",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.jpg?1631294190"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.png?1631294190"
     ],
     "type_line": "Instant",
     "oracle_text": "Look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -2875,10 +2315,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/60e53d61-fcc3-4def-8206-052b46f62deb.jpg?1632661609",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/6/0/60e53d61-fcc3-4def-8206-052b46f62deb.jpg?1632661609"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/0/60e53d61-fcc3-4def-8206-052b46f62deb.png?1632661609",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/6/0/60e53d61-fcc3-4def-8206-052b46f62deb.png?1632661609"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{1}{G}",
@@ -2891,9 +2327,6 @@
     "name": "Overgrown Farmland",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/4/84a76e0f-49fc-4087-8859-98f4a4deacdf.jpg?1630695775"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/4/84a76e0f-49fc-4087-8859-98f4a4deacdf.png?1630695775"
     ],
     "type_line": "Land",
     "oracle_text": "Overgrown Farmland enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {G} or {W}.",
@@ -2909,10 +2342,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.jpg?1631331363",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.jpg?1631331363"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.png?1631331363",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.png?1631331363"
-    ],
     "type_line": "Creature — Human Wizard // Creature — Spirit Wizard",
     "oracle_text": {},
     "mana_cost": "{2}{U}",
@@ -2925,9 +2354,6 @@
     "name": "Pack's Betrayal",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/e/7ebadb1e-32cd-41d6-b26e-49134973d05c.jpg?1631304224"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7ebadb1e-32cd-41d6-b26e-49134973d05c.png?1631304224"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If you control a Wolf or Werewolf, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
@@ -2942,9 +2368,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/153f545d-bdbf-42c7-837a-a7076bbe5027.jpg?1632661006"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/5/153f545d-bdbf-42c7-837a-a7076bbe5027.png?1632661006"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Then if there are three or more basic land types among lands you control, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\nFlashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{2}{G}",
@@ -2957,9 +2380,6 @@
     "name": "Patrician Geist",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/e/de2b0c63-c929-42ec-aada-dddb2a26550c.jpg?1632666276"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/e/de2b0c63-c929-42ec-aada-dddb2a26550c.png?1632666276"
     ],
     "type_line": "Creature — Spirit Knight",
     "oracle_text": "Flying\nOther Spirits you control get +1/+1.\nSpells you cast from your graveyard cost {1} less to cast.",
@@ -2974,9 +2394,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e2686431-8d9c-4b9c-998f-38b5ae113d4a.jpg?1631300474"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/2/e2686431-8d9c-4b9c-998f-38b5ae113d4a.png?1631300474"
-    ],
     "type_line": "Creature — Wolf",
     "oracle_text": "{2}{G}: Pestilent Wolf gains deathtouch until end of turn.",
     "mana_cost": "{1}{G}",
@@ -2989,9 +2406,6 @@
     "name": "Phantom Carriage",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/1990ed41-3739-40f6-8797-359f88af05f9.jpg?1631302905"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/9/1990ed41-3739-40f6-8797-359f88af05f9.png?1631302905"
     ],
     "type_line": "Creature — Spirit",
     "oracle_text": "Flying\nWhen Phantom Carriage enters the battlefield, you may search your library for a card with flashback or disturb, put it into your graveyard, then shuffle.",
@@ -3006,9 +2420,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/556ec6ab-a19f-4caa-8bfa-145555402caf.jpg?1630692697"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/5/556ec6ab-a19f-4caa-8bfa-145555402caf.png?1630692697"
-    ],
     "type_line": "Artifact",
     "oracle_text": "As Pithing Needle enters the battlefield, choose a card name.\nActivated abilities of sources with the chosen name can't be activated unless they're mana abilities.",
     "mana_cost": "{1}",
@@ -3021,9 +2432,6 @@
     "name": "Plains",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1628277332"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.png?1628277332"
     ],
     "type_line": "Basic Land — Plains",
     "oracle_text": "({T}: Add {W}.)",
@@ -3038,9 +2446,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.jpg?1628195671"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.png?1628195671"
-    ],
     "type_line": "Instant",
     "oracle_text": "Play with Fire deals 2 damage to any target. If a player is dealt damage this way, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
     "mana_cost": "{R}",
@@ -3053,9 +2458,6 @@
     "name": "Plummet",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/5469e696-bbf1-43e3-9c25-fe089b36caed.jpg?1631302387"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/5469e696-bbf1-43e3-9c25-fe089b36caed.png?1631302387"
     ],
     "type_line": "Instant",
     "oracle_text": "Destroy target creature with flying.",
@@ -3071,10 +2473,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1630746254",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1630746254"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.png?1630746254",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.png?1630746254"
-    ],
     "type_line": "Creature — Human Wizard // Artifact",
     "oracle_text": {},
     "mana_cost": "{2}{U}",
@@ -3087,9 +2485,6 @@
     "name": "Primal Adversary",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bf3ce5c5-ea31-4f6d-84dd-430f52c49c4e.jpg?1631223458"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bf3ce5c5-ea31-4f6d-84dd-430f52c49c4e.png?1631223458"
     ],
     "type_line": "Creature — Wolf",
     "oracle_text": "Trample\nWhen Primal Adversary enters the battlefield, you may pay {1}{G} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Primal Adversary, then up to that many target lands you control become 3/3 Wolf creatures with haste that are still lands.",
@@ -3104,9 +2499,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/9/f9db384e-9555-4ccc-a305-ee448252e685.jpg?1632661508"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/9/f9db384e-9555-4ccc-a305-ee448252e685.png?1632661508"
-    ],
     "type_line": "Creature — Dragon",
     "oracle_text": "Flying\nWhenever Purifying Dragon attacks, it deals 1 damage to target creature defending player controls. If that creature is a Zombie, Purifying Dragon deals 2 damage to it instead.",
     "mana_cost": "{3}{R}{R}",
@@ -3119,9 +2511,6 @@
     "name": "Raze the Effigy",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/0/e0dd378c-5050-48c9-9a16-6d91afa62d21.jpg?1632661027"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/0/e0dd378c-5050-48c9-9a16-6d91afa62d21.png?1632661027"
     ],
     "type_line": "Instant",
     "oracle_text": "Choose one —\n• Destroy target artifact.\n• Target attacking creature gets +2/+2 until end of turn.",
@@ -3137,10 +2526,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/3/a33af331-0746-4adf-935a-bf61ff9d8d4b.jpg?1631134153",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/a/3/a33af331-0746-4adf-935a-bf61ff9d8d4b.jpg?1631134153"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/3/a33af331-0746-4adf-935a-bf61ff9d8d4b.png?1631134153",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/a/3/a33af331-0746-4adf-935a-bf61ff9d8d4b.png?1631134153"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{R}",
@@ -3153,9 +2538,6 @@
     "name": "Rem Karolus, Stalwart Slayer",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b31e307a-9689-4e11-8c5f-96b7a4b50bed.jpg?1631226307"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/3/b31e307a-9689-4e11-8c5f-96b7a4b50bed.png?1631226307"
     ],
     "type_line": "Legendary Creature — Human Knight",
     "oracle_text": "Flying, haste\nIf a spell would deal damage to you or another permanent you control, prevent that damage.\nIf a spell would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.",
@@ -3170,9 +2552,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/e/6e25c252-4177-4193-914c-b6933d9c0d7d.jpg?1631300517"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/e/6e25c252-4177-4193-914c-b6933d9c0d7d.png?1631300517"
-    ],
     "type_line": "Instant",
     "oracle_text": "Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard.",
     "mana_cost": "{1}{G}",
@@ -3185,9 +2564,6 @@
     "name": "Revenge of the Drowned",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/3/93be7d72-927a-40ce-8de4-04a3f21c134b.jpg?1631294261"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/3/93be7d72-927a-40ce-8de4-04a3f21c134b.png?1631294261"
     ],
     "type_line": "Instant",
     "oracle_text": "Target creature's owner puts it on the top or bottom of their library. You create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",
@@ -3202,9 +2578,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/3143fadd-0162-4e0c-89fc-89dc3501d13c.jpg?1631300495"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/1/3143fadd-0162-4e0c-89fc-89dc3501d13c.png?1631300495"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Create two 3/3 green Insect creature tokens. You gain 2 life.\nFlashback {6}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{4}{G}{G}",
@@ -3217,9 +2590,6 @@
     "name": "Rite of Harmony",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/b/eb1a16f9-13d4-4188-8e1e-0f2394349c7a.jpg?1631054389"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/b/eb1a16f9-13d4-4188-8e1e-0f2394349c7a.png?1631054389"
     ],
     "type_line": "Instant",
     "oracle_text": "Whenever a creature or enchantment enters the battlefield under your control this turn, draw a card.\nFlashback {2}{G}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -3234,9 +2604,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/e/fe1f8d52-565e-4900-8357-fd29f2022dc1.jpg?1632661395"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/e/fe1f8d52-565e-4900-8357-fd29f2022dc1.png?1632661395"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "As an additional cost to cast this spell, sacrifice a nonland permanent.\nExile target nonland permanent.\nFlashback {2}{W}{B} (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)",
     "mana_cost": "{W}{B}",
@@ -3249,9 +2616,6 @@
     "name": "Ritual Guardian",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f077f07e-4660-4483-b6ea-16cca0956892.jpg?1630921044"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f077f07e-4660-4483-b6ea-16cca0956892.png?1630921044"
     ],
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Ritual Guardian gains lifelink until end of turn.",
@@ -3266,9 +2630,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d8293903-4604-4516-866e-27a306b6fd7c.jpg?1631058149"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d8293903-4604-4516-866e-27a306b6fd7c.png?1631058149"
-    ],
     "type_line": "Instant",
     "oracle_text": "Creatures you control get +1/+1 until end of turn.\nCoven — If you control three or more creatures with different powers, creatures you control get +2/+1 until end of turn instead.",
     "mana_cost": "{1}{W}",
@@ -3281,9 +2642,6 @@
     "name": "Rockfall Vale",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/a/eaff0a1e-b65a-422f-8f9f-65fac037047d.jpg?1631301627"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/eaff0a1e-b65a-422f-8f9f-65fac037047d.png?1631301627"
     ],
     "type_line": "Land",
     "oracle_text": "Rockfall Vale enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {R} or {G}.",
@@ -3298,9 +2656,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.jpg?1631715296"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.png?1631715296"
-    ],
     "type_line": "Creature — Plant Horror",
     "oracle_text": "{T}: Add one mana of any color.\n{T}: Add two mana of any one color. Spend this mana only to cast spells from your graveyard.\n{G}{U}, {T}, Exile Rootcoil Creeper: Return target card with flashback you own from exile to your hand.",
     "mana_cost": "{G}{U}",
@@ -3313,9 +2668,6 @@
     "name": "Rotten Reunion",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/97398ad2-675b-4a34-aab7-935dd6714f1c.jpg?1631303996"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/97398ad2-675b-4a34-aab7-935dd6714f1c.png?1631303996"
     ],
     "type_line": "Instant",
     "oracle_text": "Exile up to one target card from a graveyard. Create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -3330,9 +2682,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c0b1dcd7-6dd9-4134-bc6c-9dc7754006a2.jpg?1631301151"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c0b1dcd7-6dd9-4134-bc6c-9dc7754006a2.png?1631301151"
-    ],
     "type_line": "Instant",
     "oracle_text": "Sacred Fire deals 2 damage to any target and you gain 2 life.\nFlashback {4}{R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{R}{W}",
@@ -3345,9 +2694,6 @@
     "name": "Saryth, the Viper's Fang",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bc8b3a09-75e8-428c-91f7-8fac62fadc98.jpg?1630694312"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/c/bc8b3a09-75e8-428c-91f7-8fac62fadc98.png?1630694312"
     ],
     "type_line": "Legendary Creature — Human Warlock",
     "oracle_text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control.",
@@ -3362,9 +2708,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/b/cb9006c1-2e6f-4bca-a1c4-3cf2a8b6e964.jpg?1631286817"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/b/cb9006c1-2e6f-4bca-a1c4-3cf2a8b6e964.png?1631286817"
-    ],
     "type_line": "Creature — Human Soldier",
     "oracle_text": "This spell costs {1} less to cast for each creature you attacked with this turn.\nWhen Search Party Captain enters the battlefield, draw a card.",
     "mana_cost": "{3}{W}",
@@ -3377,9 +2720,6 @@
     "name": "Secrets of the Key",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/b/9b022ba8-07b6-4993-99c8-89c6dcb19e60.jpg?1631331314"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/b/9b022ba8-07b6-4993-99c8-89c6dcb19e60.png?1631331314"
     ],
     "type_line": "Instant",
     "oracle_text": "Investigate. If this spell was cast from a graveyard, investigate twice instead. (To investigate, create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")\nFlashback {3}{U}",
@@ -3394,9 +2734,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/532e079f-55b7-4b92-b489-aed4d3becae7.jpg?1631298813"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/532e079f-55b7-4b92-b489-aed4d3becae7.png?1631298813"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Create a red Elemental creature token with trample and \"This creature's power and toughness are each equal to the number of instant and sorcery cards in your graveyard plus the number of cards with flashback you own in exile.\"\nFlashback {6}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{4}{R}",
@@ -3409,9 +2746,6 @@
     "name": "Shadowbeast Sighting",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/b/1b12e978-4deb-4ccc-8ae6-462bc4598c90.jpg?1631304855"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1b12e978-4deb-4ccc-8ae6-462bc4598c90.png?1631304855"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Create a 4/4 green Beast creature token.\nFlashback {6}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -3427,10 +2761,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/55f0666a-5c3e-492b-b4ea-42fa7f24661b.jpg?1631300425",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/5/5/55f0666a-5c3e-492b-b4ea-42fa7f24661b.jpg?1631300425"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/5/55f0666a-5c3e-492b-b4ea-42fa7f24661b.png?1631300425",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/5/5/55f0666a-5c3e-492b-b4ea-42fa7f24661b.png?1631300425"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{B}",
@@ -3443,9 +2773,6 @@
     "name": "Shipwreck Marsh",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/7579824a-6e46-442b-95ff-03fea4adbba6.jpg?1630695819"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/5/7579824a-6e46-442b-95ff-03fea4adbba6.png?1630695819"
     ],
     "type_line": "Land",
     "oracle_text": "Shipwreck Marsh enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {U} or {B}.",
@@ -3460,9 +2787,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/f/8f295833-a83e-4b18-8007-c7f5d78e5624.jpg?1631294343"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/f/8f295833-a83e-4b18-8007-c7f5d78e5624.png?1631294343"
-    ],
     "type_line": "Creature — Spirit",
     "oracle_text": "When Shipwreck Sifters enters the battlefield, draw a card, then discard a card.\nWhenever you discard a Spirit card or a card with disturb, put a +1/+1 counter on Shipwreck Sifters.",
     "mana_cost": "{1}{U}",
@@ -3475,9 +2799,6 @@
     "name": "Siege Zombie",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/9/d94b5270-840b-4905-815a-057029d7352f.jpg?1631296569"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d94b5270-840b-4905-815a-057029d7352f.png?1631296569"
     ],
     "type_line": "Creature — Zombie",
     "oracle_text": "Tap three untapped creatures you control: Each opponent loses 1 life.",
@@ -3492,9 +2813,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c6cf357-c231-4512-aa9a-ab4a60007136.jpg?1630979037"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/c/5c6cf357-c231-4512-aa9a-ab4a60007136.png?1630979037"
-    ],
     "type_line": "Legendary Creature — Angel",
     "oracle_text": "Flying, trample\nHumans you control get +1/+1.\nCoven — Whenever Sigarda attacks, if you control three or more creatures with different powers, look at the top five cards of your library. You may reveal a Human creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
     "mana_cost": "{1}{G}{W}{W}",
@@ -3507,9 +2825,6 @@
     "name": "Sigarda's Splendor",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb22626d-84ef-40d1-a4f2-771b45198eaa.jpg?1631286886"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/b/bb22626d-84ef-40d1-a4f2-771b45198eaa.png?1631286886"
     ],
     "type_line": "Enchantment",
     "oracle_text": "As Sigarda's Splendor enters the battlefield, note your life total.\nAt the beginning of your upkeep, draw a card if your life total is greater than or equal to the last noted life total for Sigarda's Splendor. Then note your life total.\nWhenever you cast a white spell, you gain 1 life.",
@@ -3524,9 +2839,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/1/b1a2b41a-34b0-428e-80ec-3ffd601093a2.jpg?1631132235"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/1/b1a2b41a-34b0-428e-80ec-3ffd601093a2.png?1631132235"
-    ],
     "type_line": "Creature — Angel",
     "oracle_text": "Flying\nWhen Sigardian Savior enters the battlefield, if you cast it, return up to two target creature cards with mana value 2 or less from your graveyard to the battlefield.",
     "mana_cost": "{3}{W}{W}",
@@ -3539,9 +2851,6 @@
     "name": "Silver Bolt",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/b/eb2c05a8-db56-4397-9b6c-5accb2d3f81f.jpg?1631301323"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/b/eb2c05a8-db56-4397-9b6c-5accb2d3f81f.png?1631301323"
     ],
     "type_line": "Artifact",
     "oracle_text": "{3}, {T}, Sacrifice Silver Bolt: It deals 3 damage to target creature. If a Werewolf is dealt damage this way, destroy it.",
@@ -3556,9 +2865,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d329e2d4-e483-4981-8a0b-6a9a717d50cd.jpg?1631134122"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/3/d329e2d4-e483-4981-8a0b-6a9a717d50cd.png?1631134122"
-    ],
     "type_line": "Instant",
     "oracle_text": "Look at the top two cards of target opponent's library. Exile one of them face down and put the other on the bottom of that library. You may look at and play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.\nFlashback {1}{U}{B}",
     "mana_cost": "{U}{B}",
@@ -3571,9 +2877,6 @@
     "name": "Skaab Wrangler",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/9771d9e8-97d5-44af-8612-dc5c44d65ceb.jpg?1632661046"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/9771d9e8-97d5-44af-8612-dc5c44d65ceb.png?1632661046"
     ],
     "type_line": "Creature — Human Wizard",
     "oracle_text": "Tap three untapped creatures you control: Tap target creature.",
@@ -3588,9 +2891,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/b/cb83e33c-810e-4de3-800d-2038f38a1eda.jpg?1631135032"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/b/cb83e33c-810e-4de3-800d-2038f38a1eda.png?1631135032"
-    ],
     "type_line": "Creature — Vampire Warrior",
     "oracle_text": "When Slaughter Specialist enters the battlefield, each opponent creates a 1/1 white Human creature token.\nWhenever a creature an opponent controls dies, put a +1/+1 counter on Slaughter Specialist.",
     "mana_cost": "{1}{B}",
@@ -3604,9 +2904,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/9/f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3.jpg?1631136009"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/9/f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3.png?1631136009"
-    ],
     "type_line": "Legendary Creature — Ooze",
     "oracle_text": "Trample\nWhenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Slogurk, the Overslime.\nRemove three +1/+1 counters from Slogurk: Return it to its owner's hand.\nWhen Slogurk leaves the battlefield, return up to three target land cards from your graveyard to your hand.",
     "mana_cost": "{1}{G}{U}",
@@ -3619,9 +2916,6 @@
     "name": "Sludge Monster",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/7/57fa9aa8-86d2-4f1e-ac65-ace7e73a853c.jpg?1630787787"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/7/57fa9aa8-86d2-4f1e-ac65-ace7e73a853c.png?1630787787"
     ],
     "type_line": "Creature — Horror",
     "oracle_text": "Whenever Sludge Monster enters the battlefield or attacks, put a slime counter on up to one other target creature.\nNon-Horror creatures with slime counters on them lose all abilities and have base power and toughness 2/2.",
@@ -3637,10 +2931,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.jpg?1631222417",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.jpg?1631222417"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.png?1631222417",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.png?1631222417"
-    ],
     "type_line": "Creature — Dragon Egg // Creature — Dragon",
     "oracle_text": {},
     "mana_cost": "{1}{R}",
@@ -3653,9 +2943,6 @@
     "name": "Snarling Wolf",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/b/4b614b21-69ed-4788-97d7-ad502b634abb.jpg?1630695614"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4b614b21-69ed-4788-97d7-ad502b634abb.png?1630695614"
     ],
     "type_line": "Creature — Wolf",
     "oracle_text": "{1}{G}: Snarling Wolf gets +2/+2 until end of turn. Activate only once each turn.",
@@ -3670,9 +2957,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be1031bb-af9f-4446-8b36-b0bb9aa5997a.jpg?1631286953"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/be1031bb-af9f-4446-8b36-b0bb9aa5997a.png?1631286953"
-    ],
     "type_line": "Creature — Hippogriff Spirit",
     "oracle_text": "Flying\nWhen Soul-Guide Gryff enters the battlefield, exile up to one target card from a graveyard.",
     "mana_cost": "{4}{W}",
@@ -3685,9 +2969,6 @@
     "name": "Spectral Adversary",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7c67fe04-814f-4051-bd13-7c8ee40a6c08.jpg?1630960490"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/c/7c67fe04-814f-4051-bd13-7c8ee40a6c08.png?1630960490"
     ],
     "type_line": "Creature — Spirit",
     "oracle_text": "Flash\nFlying\nWhen Spectral Adversary enters the battlefield, you may pay {1}{U} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Spectral Adversary, then up to that many other target artifacts, creatures, and/or enchantments phase out.",
@@ -3703,10 +2984,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d2a5b43d-e21b-4294-9ea2-5bd0264e71d3.jpg?1631134183",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/d/2/d2a5b43d-e21b-4294-9ea2-5bd0264e71d3.jpg?1631134183"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/2/d2a5b43d-e21b-4294-9ea2-5bd0264e71d3.png?1631134183",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/d/2/d2a5b43d-e21b-4294-9ea2-5bd0264e71d3.png?1631134183"
-    ],
     "type_line": "Creature — Human Shaman Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{2}{R}",
@@ -3719,9 +2996,6 @@
     "name": "Startle",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/5/35f68eb3-9b40-4967-a52e-f95aec6e3fbf.jpg?1630985284"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/35f68eb3-9b40-4967-a52e-f95aec6e3fbf.png?1630985284"
     ],
     "type_line": "Instant",
     "oracle_text": "Target creature gets -2/-0 until end of turn. Create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)\nDraw a card.",
@@ -3736,9 +3010,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d50df2dd-8d14-4d92-ab4e-bf9f9f147e91.jpg?1631298880"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d50df2dd-8d14-4d92-ab4e-bf9f9f147e91.png?1631298880"
-    ],
     "type_line": "Instant",
     "oracle_text": "Target creature gets +3/+1 until end of turn. If it's your turn, that creature gains trample until end of turn. Otherwise, it gains first strike until end of turn.",
     "mana_cost": "{1}{R}",
@@ -3751,9 +3022,6 @@
     "name": "Stormrider Spirit",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/1/81a95edb-9f5b-4e42-8b27-0b3d978dcefe.jpg?1631296237"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/1/81a95edb-9f5b-4e42-8b27-0b3d978dcefe.png?1631296237"
     ],
     "type_line": "Creature — Spirit",
     "oracle_text": "Flash\nFlying",
@@ -3768,9 +3036,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/c/6c49618f-2e9e-4674-9953-153ccc76cce2.jpg?1631302439"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/c/6c49618f-2e9e-4674-9953-153ccc76cce2.png?1631302439"
-    ],
     "type_line": "Creature — Drake Horror",
     "oracle_text": "Flying\nInstant and sorcery spells you cast cost {1} less to cast.\nWhenever you cast an instant or sorcery spell, Storm Skreelix gets +2/+0 until end of turn.",
     "mana_cost": "{3}{U}{R}",
@@ -3783,9 +3048,6 @@
     "name": "Storm the Festival",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/4/b4f1f69c-122d-472a-b82d-fed7c253a4cd.jpg?1631474556"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/4/b4f1f69c-122d-472a-b82d-fed7c253a4cd.png?1631474556"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Look at the top five cards of your library. You may put up to two permanent cards with mana value 5 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\nFlashback {7}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -3800,9 +3062,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/fa819123-bf13-44ea-9a6e-06c8ab023e44.jpg?1631297542"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fa819123-bf13-44ea-9a6e-06c8ab023e44.png?1631297542"
-    ],
     "type_line": "Creature — Vampire Rogue",
     "oracle_text": "At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on target Vampire you control.",
     "mana_cost": "{2}{B}",
@@ -3815,9 +3074,6 @@
     "name": "Stuffed Bear",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4cd40276-016b-475f-906f-74d31dceaf70.jpg?1631061121"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/c/4cd40276-016b-475f-906f-74d31dceaf70.png?1631061121"
     ],
     "type_line": "Artifact",
     "oracle_text": "{2}: Stuffed Bear becomes a 4/4 green Bear artifact creature until end of turn.",
@@ -3832,9 +3088,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/ee507688-9890-47c4-bb04-43c51eb48e22.jpg?1630920979"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/e/ee507688-9890-47c4-bb04-43c51eb48e22.png?1630920979"
-    ],
     "type_line": "Instant",
     "oracle_text": "Destroy target creature with toughness 4 or greater.",
     "mana_cost": "{2}{W}",
@@ -3847,9 +3100,6 @@
     "name": "Sungold Sentinel",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e7e1afd0-49d4-4657-ab75-98b0bfbfb245.jpg?1631135985"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e7e1afd0-49d4-4657-ab75-98b0bfbfb245.png?1631135985"
     ],
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Whenever Sungold Sentinel enters the battlefield or attacks, exile up to one target card from a graveyard.\nCoven — {1}{W}: Choose a color. Sungold Sentinel gains hexproof from that color until end of turn and can't be blocked by creatures of that color this turn. Activate only if you control three or more creatures with different powers.",
@@ -3864,9 +3114,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/d/3d0081b1-40fd-44ad-b154-efe2f27fed6b.jpg?1631301173"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/d/3d0081b1-40fd-44ad-b154-efe2f27fed6b.png?1631301173"
-    ],
     "type_line": "Creature — Human Knight",
     "oracle_text": "Trample, haste\nIf it's neither day nor night, it becomes day as Sunrise Cavalier enters the battlefield.\nWhenever day becomes night or night becomes day, put a +1/+1 counter on target creature you control.",
     "mana_cost": "{1}{R}{W}",
@@ -3880,9 +3127,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/1/61b39ef1-29d4-4c8d-aece-a3f1ce008e2d.jpg?1631286969"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/1/61b39ef1-29d4-4c8d-aece-a3f1ce008e2d.png?1631286969"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "If an opponent has more life than you, you gain 4 life.\nIf an opponent controls more creatures than you, create two 1/1 white Human creature tokens.\nIf an opponent has more cards in hand than you, draw a card.",
     "mana_cost": "{1}{W}",
@@ -3895,9 +3139,6 @@
     "name": "Sunstreak Phoenix",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/97de6e92-e0e8-444e-baba-09c97510b1ab.jpg?1632000020"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/97de6e92-e0e8-444e-baba-09c97510b1ab.png?1632000020"
     ],
     "type_line": "Creature — Phoenix",
     "oracle_text": "Flying\nIf it's neither day nor night, it becomes day as Sunstreak Phoenix enters the battlefield.\nWhenever day becomes night or night becomes day, you may pay {1}{R}. If you do, return Sunstreak Phoenix from your graveyard to the battlefield tapped.",
@@ -3913,10 +3154,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/ab17c8fa-4c06-4542-848a-e3f2f9f47c27.jpg?1631331448",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/a/b/ab17c8fa-4c06-4542-848a-e3f2f9f47c27.jpg?1631331448"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/b/ab17c8fa-4c06-4542-848a-e3f2f9f47c27.png?1631331448",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/a/b/ab17c8fa-4c06-4542-848a-e3f2f9f47c27.png?1631331448"
-    ],
     "type_line": "Creature — Human Rogue Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{1}{U}",
@@ -3929,9 +3166,6 @@
     "name": "Swamp",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1628197523"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.png?1628197523"
     ],
     "type_line": "Basic Land — Swamp",
     "oracle_text": "({T}: Add {B}.)",
@@ -3946,9 +3180,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/6/e6b9b8fc-c30d-49e7-bb6c-219380d73a82.jpg?1630958224"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e6b9b8fc-c30d-49e7-bb6c-219380d73a82.png?1630958224"
-    ],
     "type_line": "Creature — Zombie",
     "oracle_text": "Deathtouch\nWhen Tainted Adversary enters the battlefield, you may pay {2}{B} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Tainted Adversary, then create twice that many 2/2 black Zombie creature tokens with decayed. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)",
     "mana_cost": "{1}{B}",
@@ -3961,9 +3192,6 @@
     "name": "Tapping at the Window",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/ba75dc52-7ab2-43ec-afac-0a9bcf24cde9.jpg?1631300724"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/ba75dc52-7ab2-43ec-afac-0a9bcf24cde9.png?1631300724"
     ],
     "type_line": "Sorcery",
     "oracle_text": "Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest into your graveyard.\nFlashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -3979,10 +3207,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1630658686",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1630658686"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.png?1630658686",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.png?1630658686"
-    ],
     "type_line": "Creature — Human Warrior Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{3}{R}",
@@ -3995,9 +3219,6 @@
     "name": "Teferi, Who Slows the Sunset",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/d/ad2e18d4-986c-4a44-8f26-1b8689339cfb.jpg?1631134302"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/d/ad2e18d4-986c-4a44-8f26-1b8689339cfb.png?1631134302"
     ],
     "type_line": "Legendary Planeswalker — Teferi",
     "oracle_text": "+1: Choose up to one target artifact, up to one target creature, and up to one target land. Untap the chosen permanents you control. Tap the chosen permanents you don't control. You gain 2 life.\n−2: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.\n−7: You get an emblem with \"Untap all permanents you control during each opponent's untap step\" and \"You draw a card during each opponent's draw step.\"",
@@ -4012,9 +3233,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/9/39226a07-d44e-41a6-b9f1-685ef505d015.jpg?1630692453"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/39226a07-d44e-41a6-b9f1-685ef505d015.png?1630692453"
-    ],
     "type_line": "Legendary Artifact",
     "oracle_text": "If it's neither day nor night, it becomes day as The Celestus enters the battlefield.\n{T}: Add one mana of any color.\n{3}, {T}: If it's night, it becomes day. Otherwise, it becomes night. Activate only as a sorcery.\nWhenever day becomes night or night becomes day, you gain 1 life. You may draw a card. If you do, discard a card.",
     "mana_cost": "{3}",
@@ -4027,9 +3245,6 @@
     "name": "The Meathook Massacre",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1631222035"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.png?1631222035"
     ],
     "type_line": "Legendary Enchantment",
     "oracle_text": "When The Meathook Massacre enters the battlefield, each creature gets -X/-X until end of turn.\nWhenever a creature you control dies, each opponent loses 1 life.\nWhenever a creature an opponent controls dies, you gain 1 life.",
@@ -4044,9 +3259,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/4/b4c68bad-c7ee-4dbc-ad06-8c4d9446884e.jpg?1630657397"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/4/b4c68bad-c7ee-4dbc-ad06-8c4d9446884e.png?1630657397"
-    ],
     "type_line": "Creature — Human Shaman",
     "oracle_text": "Defender\n{T}: Thermo-Alchemist deals 1 damage to each opponent.\nWhenever you cast an instant or sorcery spell, untap Thermo-Alchemist.",
     "mana_cost": "{1}{R}",
@@ -4060,9 +3272,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/0/a0700298-30d2-45a6-bd64-4fd7fa4d7d30.jpg?1631206654"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/0/a0700298-30d2-45a6-bd64-4fd7fa4d7d30.png?1631206654"
-    ],
     "type_line": "Instant",
     "oracle_text": "Exile target Spirit, creature with disturb, or enchantment.",
     "mana_cost": "{1}{W}",
@@ -4075,9 +3284,6 @@
     "name": "Timberland Guide",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6b215b6a-82e3-4ce8-b288-d7341761cad0.jpg?1631300779"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/b/6b215b6a-82e3-4ce8-b288-d7341761cad0.png?1631300779"
     ],
     "type_line": "Creature — Human Scout",
     "oracle_text": "When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.",
@@ -4093,10 +3299,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/e/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7.jpg?1632661071",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/e/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7.jpg?1632661071"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/e/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7.png?1632661071",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/3/e/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7.png?1632661071"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{4}{G}",
@@ -4110,10 +3312,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1631607223",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1631607223"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.png?1631607223",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.png?1631607223"
     ],
     "type_line": "Legendary Creature — Human Werewolf // Legendary Creature — Werewolf",
     "oracle_text": {},
@@ -4129,10 +3327,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.jpg?1631300854",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.jpg?1631300854"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.png?1631300854",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.png?1631300854"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{4}{G}{G}",
@@ -4145,9 +3339,6 @@
     "name": "Triskaidekaphile",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1628195931"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.png?1628195931"
     ],
     "type_line": "Creature — Human Wizard",
     "oracle_text": "You have no maximum hand size.\nAt the beginning of your upkeep, if you have exactly thirteen cards in your hand, you win the game.\n{3}{U}: Draw a card.",
@@ -4162,9 +3353,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/34076a93-9e8f-45d4-a1d7-31f40210a5b6.jpg?1630909445"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/34076a93-9e8f-45d4-a1d7-31f40210a5b6.png?1630909445"
-    ],
     "type_line": "Instant",
     "oracle_text": "Choose up to three target cards in graveyards. The owners of those cards shuffle them into their libraries. You gain 2 life.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{G}",
@@ -4177,9 +3365,6 @@
     "name": "Unblinking Observer",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/1/8148063c-a509-43ac-a291-c9410c30c2f2.jpg?1631296301"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/8/1/8148063c-a509-43ac-a291-c9410c30c2f2.png?1631296301"
     ],
     "type_line": "Creature — Homunculus",
     "oracle_text": "{T}: Add {U}. Spend this mana only to pay a disturb cost or cast an instant or sorcery spell.",
@@ -4194,9 +3379,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/7/6748a844-e185-4e3b-ac1d-8a735666d8ae.jpg?1630776264"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/6/7/6748a844-e185-4e3b-ac1d-8a735666d8ae.png?1630776264"
-    ],
     "type_line": "Enchantment",
     "oracle_text": "At the beginning of each combat, double the power and toughness of each creature you control until end of turn.",
     "mana_cost": "{1}{G}{G}{G}{G}",
@@ -4209,9 +3391,6 @@
     "name": "Unnatural Moonrise",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bfdd9df1-6a3b-4f03-8eca-00ed22c02566.jpg?1632668718"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bfdd9df1-6a3b-4f03-8eca-00ed22c02566.png?1632668718"
     ],
     "type_line": "Sorcery",
     "oracle_text": "It becomes night. Until end of turn, target creature gets +1/+0 and gains trample and \"Whenever this creature deals combat damage to a player, draw a card.\"\nFlashback {2}{R}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -4226,9 +3405,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/f/5f48622a-abf3-407f-921f-77c29d59ba8e.jpg?1630593187"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/5/f/5f48622a-abf3-407f-921f-77c29d59ba8e.png?1630593187"
-    ],
     "type_line": "Creature — Human",
     "oracle_text": "Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.",
     "mana_cost": "{1}{W}",
@@ -4241,9 +3417,6 @@
     "name": "Vadrik, Astral Archmage",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/454666bb-f81d-4845-84aa-d6f8f80ce86a.jpg?1632156188"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/4/5/454666bb-f81d-4845-84aa-d6f8f80ce86a.png?1632156188"
     ],
     "type_line": "Legendary Creature — Human Wizard",
     "oracle_text": "If it's neither day nor night, it becomes day as Vadrik, Astral Archmage enters the battlefield.\nInstant and sorcery spells you cast cost {X} less to cast, where X is Vadrik's power.\nWhenever day becomes night or night becomes day, put a +1/+1 counter on Vadrik.",
@@ -4258,9 +3431,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3e2ea59-36f1-4e95-bfe8-7008b085194f.jpg?1631297589"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c3e2ea59-36f1-4e95-bfe8-7008b085194f.png?1631297589"
-    ],
     "type_line": "Creature — Vampire Scout",
     "oracle_text": "Flying\nVampire Interloper can't block.",
     "mana_cost": "{1}{B}",
@@ -4274,9 +3444,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f07cbf04-2864-4407-800e-4d55c10d3426.jpg?1630695644"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f07cbf04-2864-4407-800e-4d55c10d3426.png?1630695644"
-    ],
     "type_line": "Creature — Vampire Noble",
     "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen Vampire Socialite enters the battlefield, if an opponent lost life this turn, put a +1/+1 counter on each other Vampire you control.\nAs long as an opponent lost life this turn, each other Vampire you control enters the battlefield with an additional +1/+1 counter on it.",
     "mana_cost": "{B}{R}",
@@ -4289,9 +3456,6 @@
     "name": "Vanquish the Horde",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e264615c-eb99-4cb3-844a-2b4a94ba5203.jpg?1631287012"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/e/2/e264615c-eb99-4cb3-844a-2b4a94ba5203.png?1631287012"
     ],
     "type_line": "Sorcery",
     "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nDestroy all creatures.",
@@ -4307,10 +3471,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.jpg?1631223080",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.jpg?1631223080"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.png?1631223080",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.png?1631223080"
-    ],
     "type_line": "Creature — Human Rogue // Enchantment — Aura",
     "oracle_text": {},
     "mana_cost": "{1}{B}",
@@ -4325,10 +3485,6 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/b/1bf48d2b-eb68-4f47-a80a-4751a4fa20a7.jpg?1630658693",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/1/b/1bf48d2b-eb68-4f47-a80a-4751a4fa20a7.jpg?1630658693"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1bf48d2b-eb68-4f47-a80a-4751a4fa20a7.png?1630658693",
-      "https://c1.scryfall.com/file/scryfall-cards/png/back/1/b/1bf48d2b-eb68-4f47-a80a-4751a4fa20a7.png?1630658693"
-    ],
     "type_line": "Creature — Human Werewolf // Creature — Werewolf",
     "oracle_text": {},
     "mana_cost": "{4}{R}",
@@ -4341,9 +3497,6 @@
     "name": "Vivisection",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/1/91be6a06-9c36-45a3-a591-183cb5c0f800.jpg?1631226408"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/91be6a06-9c36-45a3-a591-183cb5c0f800.png?1631226408"
     ],
     "type_line": "Sorcery",
     "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nDraw three cards.",
@@ -4358,9 +3511,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/cceb4303-5d02-45f2-86f8-7e8deb774d58.jpg?1630912411"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/c/c/cceb4303-5d02-45f2-86f8-7e8deb774d58.png?1630912411"
-    ],
     "type_line": "Creature — Vampire Archer",
     "oracle_text": "When Voldaren Ambusher enters the battlefield, if an opponent lost life this turn, it deals X damage to up to one target creature or planeswalker, where X is the number of Vampires you control.",
     "mana_cost": "{2}{R}",
@@ -4373,9 +3523,6 @@
     "name": "Voldaren Stinger",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f27a7c78-3a64-42fc-8808-15b1f41976a1.jpg?1631298943"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/2/f27a7c78-3a64-42fc-8808-15b1f41976a1.png?1631298943"
     ],
     "type_line": "Creature — Vampire Warrior",
     "oracle_text": "Voldaren Stinger has first strike as long as it's attacking.\n{2}{R}: Voldaren Stinger gets +2/+0 until end of turn.",
@@ -4390,9 +3537,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f02a544-716c-4f09-8ae9-dbfe7ef136d7.jpg?1631057305"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/7/f/7f02a544-716c-4f09-8ae9-dbfe7ef136d7.png?1631057305"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Choose up to two target creature cards in your graveyard. An opponent chooses one of them. Return that card to your hand. Return the other to the battlefield under your control. It gains haste. Exile it at the beginning of the next end step.\nFlashback {4}{B}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{3}{B}{R}",
@@ -4405,9 +3549,6 @@
     "name": "Willow Geist",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/c/1c40c71c-4cdc-4a28-8ea3-4636c936f8aa.jpg?1631300896"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/1/c/1c40c71c-4cdc-4a28-8ea3-4636c936f8aa.png?1631300896"
     ],
     "type_line": "Creature — Treefolk Spirit",
     "oracle_text": "Trample\nWhenever one or more cards leave your graveyard, put a +1/+1 counter on Willow Geist.\nWhen Willow Geist dies, you gain life equal to its power.",
@@ -4422,9 +3563,6 @@
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/1/f1e9edd3-151d-4bf6-b491-03db9db32234.jpg?1631228184"
     ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/f/1/f1e9edd3-151d-4bf6-b491-03db9db32234.png?1631228184"
-    ],
     "type_line": "Sorcery",
     "oracle_text": "Put a +1/+1 counter on up to one target creature you control. Tap up to one target creature you don't control, and that creature doesn't untap during its controller's next untap step.\nFlashback {1}{G}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "mana_cost": "{G}{U}",
@@ -4437,9 +3575,6 @@
     "name": "Wrenn and Seven",
     "image_uris": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/7/a7757e99-8d51-4b92-b346-6961845def24.jpg?1628196510"
-    ],
-    "highres_image_uris": [
-      "https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a7757e99-8d51-4b92-b346-6961845def24.png?1628196510"
     ],
     "type_line": "Legendary Planeswalker — Wrenn",
     "oracle_text": "+1: Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.\n0: Put any number of land cards from your hand onto the battlefield tapped.\n−3: Create a green Treefolk creature token with reach and \"This creature's power and toughness are each equal to the number of lands you control.\"\n−8: Return all permanent cards from your graveyard to your hand. You get an emblem with \"You have no maximum hand size.\"",
