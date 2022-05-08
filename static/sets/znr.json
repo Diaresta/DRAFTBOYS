@@ -4,9 +4,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/281336c7-ca7c-4c91-bdfb-d253a965cb7c.jpg?1604195180"
     ],
-    "type_line": "Creature — Human Rogue",
-    "oracle_text": "When Acquisitions Expert enters the battlefield, target opponent reveals a number of cards from their hand equal to the number of creatures in your party. You choose one of those cards. That player discards that card. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{1}{B}",
+    "type": "Creature — Human Rogue",
+    "text": "When Acquisitions Expert enters the battlefield, target opponent reveals a number of cards from their hand equal to the number of creatures in your party. You choose one of those cards. That player discards that card. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -17,9 +17,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/db50f988-da46-4b9b-9cc5-78497df2df8b.jpg?1604198469"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, draw a card.",
-    "mana_cost": "{1}{G}",
+    "type": "Sorcery",
+    "text": "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, draw a card.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "common",
@@ -31,9 +31,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1604195226",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/6/7/67f4c93b-080c-4196-b095-6a120a221988.jpg?1604195226"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{X}{B}{B}{B}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{X}{B}{B}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "mythic",
@@ -44,9 +44,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69e42511-f653-4a6f-a5d4-50e21dfc8077.jpg?1604199975"
     ],
-    "type_line": "Legendary Creature — Kor Warrior",
-    "oracle_text": "Whenever you attack a player with one or more equipped creatures, draw a card.\n{W}: You may unattach an Equipment from a creature you control. If you do, tap that creature and it gains indestructible until end of turn.",
-    "mana_cost": "{1}{R}{W}",
+    "type": "Legendary Creature — Kor Warrior",
+    "text": "Whenever you attack a player with one or more equipped creatures, draw a card.\n{W}: You may unattach an Equipment from a creature you control. If you do, tap that creature and it gains indestructible until end of turn.",
+    "mana": "{1}{R}{W}",
     "cmc": 3,
     "colors": ["R", "W"],
     "rarity": "rare",
@@ -57,9 +57,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/a/3a5ad1c8-3d70-43ed-9539-2aa6289c5c4a.jpg?1604196803"
     ],
-    "type_line": "Creature — Elemental Dog",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, Akoum Hellhound gets +2/+2 until end of turn.",
-    "mana_cost": "{R}",
+    "type": "Creature — Elemental Dog",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, Akoum Hellhound gets +2/+2 until end of turn.",
+    "mana": "{R}",
     "cmc": 1,
     "colors": ["R"],
     "rarity": "common",
@@ -71,9 +71,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d8ed0335-daa6-4dbe-a94d-4d56c8cfd093.jpg?1604196854",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/d/8/d8ed0335-daa6-4dbe-a94d-4d56c8cfd093.jpg?1604196854"
     ],
-    "type_line": "Creature — Minotaur Warrior // Land",
-    "oracle_text": {},
-    "mana_cost": "{5}{R}",
+    "type": "Creature — Minotaur Warrior // Land",
+    "text": {},
+    "mana": "{5}{R}",
     "cmc": 6,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -84,9 +84,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/340df0d4-9848-4372-9f45-a73a8e94058a.jpg?1604195342"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Up to two target creatures each get +X/+X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{2}{W}",
+    "type": "Instant",
+    "text": "Up to two target creatures each get +X/+X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -97,9 +97,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/dfe08e59-fdc4-436f-b05c-6ad386c46310.jpg?1604198488"
     ],
-    "type_line": "Creature — Elemental",
-    "oracle_text": "Reach\nYou may play lands from your graveyard.\nIf a land entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
-    "mana_cost": "{4}{G}{G}",
+    "type": "Creature — Elemental",
+    "text": "Reach\nYou may play lands from your graveyard.\nIf a land entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+    "mana": "{4}{G}{G}",
     "cmc": 6,
     "colors": ["G"],
     "rarity": "mythic",
@@ -110,9 +110,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c06cc03f-da73-4ba5-96c9-618b497a7ea3.jpg?1604195388"
     ],
-    "type_line": "Creature — Human Cleric",
-    "oracle_text": "When Angelheart Protector enters the battlefield, target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
-    "mana_cost": "{2}{W}",
+    "type": "Creature — Human Cleric",
+    "text": "When Angelheart Protector enters the battlefield, target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "common",
@@ -123,9 +123,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/9897074a-0ac4-4d1a-9aac-e77830cc5c78.jpg?1604195368"
     ],
-    "type_line": "Creature — Angel Cleric",
-    "oracle_text": "Flying, double strike\nWhenever a creature you control deals combat damage to a player, you and that player each gain that much life.\nAt the beginning of your end step, if you have at least 15 life more than your starting life total, each player Angel of Destiny attacked this turn loses the game.",
-    "mana_cost": "{3}{W}{W}",
+    "type": "Creature — Angel Cleric",
+    "text": "Flying, double strike\nWhenever a creature you control deals combat damage to a player, you and that player each gain that much life.\nAt the beginning of your end step, if you have at least 15 life more than your starting life total, each player Angel of Destiny attacked this turn loses the game.",
+    "mana": "{3}{W}{W}",
     "cmc": 5,
     "colors": ["W"],
     "rarity": "mythic",
@@ -136,9 +136,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/db99b872-77c7-4471-9c44-a36d4ff5d33f.jpg?1604193539"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Counter target creature or planeswalker spell unless its controller pays {2}. If an opponent has eight or more cards in their graveyard, instead counter that spell, then scry 2.",
-    "mana_cost": "{1}{U}",
+    "type": "Instant",
+    "text": "Counter target creature or planeswalker spell unless its controller pays {2}. If an opponent has eight or more cards in their graveyard, instead counter that spell, then scry 2.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "common",
@@ -149,9 +149,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/228c1650-da3c-4099-91b6-18e3873c9cdb.jpg?1604195419"
     ],
-    "type_line": "Creature — Archon",
-    "oracle_text": "Flying\nEach player can't cast more than one spell each turn.\nNonbasic lands your opponents control enter the battlefield tapped.",
-    "mana_cost": "{2}{W}",
+    "type": "Creature — Archon",
+    "text": "Flying\nEach player can't cast more than one spell each turn.\nNonbasic lands your opponents control enter the battlefield tapped.",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "rare",
@@ -162,9 +162,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7dc61e4-46e3-473b-90f8-27e71e1088e8.jpg?1604195451"
     ],
-    "type_line": "Creature — Human Cleric",
-    "oracle_text": "Archpriest of Iona's power is equal to the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nAt the beginning of combat on your turn, if you have a full party, target creature gets +1/+1 and gains flying until end of turn.",
-    "mana_cost": "{W}",
+    "type": "Creature — Human Cleric",
+    "text": "Archpriest of Iona's power is equal to the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nAt the beginning of combat on your turn, if you have a full party, target creature gets +1/+1 and gains flying until end of turn.",
+    "mana": "{W}",
     "cmc": 1,
     "colors": ["W"],
     "rarity": "rare",
@@ -175,9 +175,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/8/e8685c8e-935f-49f2-acf2-8e3c41c5b330.jpg?1604196868"
     ],
-    "type_line": "Creature — Human Wizard",
-    "oracle_text": "When Ardent Electromancer enters the battlefield, add {R} for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{2}{R}",
+    "type": "Creature — Human Wizard",
+    "text": "When Ardent Electromancer enters the battlefield, add {R} for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "common",
@@ -188,9 +188,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/4/74943390-d25f-47cb-90bb-cbf70c87f4a2.jpg?1604198513"
     ],
-    "type_line": "Legendary Creature — Elemental",
-    "oracle_text": "Ashaya, Soul of the Wild's power and toughness are each equal to the number of lands you control.\nNontoken creatures you control are Forest lands in addition to their other types. (They're still affected by summoning sickness.)",
-    "mana_cost": "{3}{G}{G}",
+    "type": "Legendary Creature — Elemental",
+    "text": "Ashaya, Soul of the Wild's power and toughness are each equal to the number of lands you control.\nNontoken creatures you control are Forest lands in addition to their other types. (They're still affected by summoning sickness.)",
+    "mana": "{3}{G}{G}",
     "cmc": 5,
     "colors": ["G"],
     "rarity": "mythic",
@@ -201,9 +201,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/c/6ca80b5a-3943-41ca-8cd1-8e3db1b2a1c8.jpg?1604195482"
     ],
-    "type_line": "Creature — Kor Cleric",
-    "oracle_text": "Whenever you gain life for the first time each turn, create a 1/1 white Cat creature token.\n{2}{W}: Another target Cleric gains lifelink until end of turn.",
-    "mana_cost": "{3}{W}",
+    "type": "Creature — Kor Cleric",
+    "text": "Whenever you gain life for the first time each turn, create a 1/1 white Cat creature token.\n{2}{W}: Another target Cleric gains lifelink until end of turn.",
+    "mana": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -215,9 +215,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/5/c5cb3052-358d-44a7-8cfd-cd31b236494a.jpg?1604263635",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/c/5/c5cb3052-358d-44a7-8cfd-cd31b236494a.jpg?1604263635"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{G}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -228,9 +228,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/c/dc85412e-333d-4e7d-8c85-40618cf1b6c2.jpg?1604201149"
     ],
-    "type_line": "Land",
-    "oracle_text": "Base Camp enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.",
-    "mana_cost": "",
+    "type": "Land",
+    "text": "Base Camp enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.",
+    "mana": "",
     "cmc": 0,
     "colors": [],
     "rarity": "uncommon",
@@ -242,9 +242,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/f/5f411f08-45dd-4d73-8894-daf51c175150.jpg?1604193600",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/5/f/5f411f08-45dd-4d73-8894-daf51c175150.jpg?1604193600"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{1}{U}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -256,9 +256,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32779721-b021-4bd4-95d1-4a19b78d9faa.jpg?1604195281",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/2/32779721-b021-4bd4-95d1-4a19b78d9faa.jpg?1604195281"
     ],
-    "type_line": "Creature — Human Rogue // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{B}",
+    "type": "Creature — Human Rogue // Land",
+    "text": {},
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -269,9 +269,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0cb88075-14f8-4ac9-b947-5ca1d30938f1.jpg?1604195307"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nReturn target creature card from your graveyard to your hand. If this spell was kicked, instead return two target creature cards from your graveyard to your hand.",
-    "mana_cost": "{B}",
+    "type": "Sorcery",
+    "text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nReturn target creature card from your graveyard to your hand. If this spell was kicked, instead return two target creature cards from your graveyard to your hand.",
+    "mana": "{B}",
     "cmc": 1,
     "colors": ["B"],
     "rarity": "common",
@@ -282,9 +282,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/5/059e8447-6b1c-4651-a734-a8fea2cbf7b2.jpg?1604195360"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)\nDestroy target creature or planeswalker with converted mana cost 2 or less. If this spell was kicked, instead destroy target creature or planeswalker.",
-    "mana_cost": "{B}",
+    "type": "Sorcery",
+    "text": "Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)\nDestroy target creature or planeswalker with converted mana cost 2 or less. If this spell was kicked, instead destroy target creature or planeswalker.",
+    "mana": "{B}",
     "cmc": 1,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -295,9 +295,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/df14d32d-fe53-4370-8298-fab528ff12db.jpg?1604195324"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Look at the top four cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order. You lose 2 life.",
-    "mana_cost": "{3}{B}",
+    "type": "Sorcery",
+    "text": "Look at the top four cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order. You lose 2 life.",
+    "mana": "{3}{B}",
     "cmc": 4,
     "colors": ["B"],
     "rarity": "common",
@@ -309,9 +309,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1604264312",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1604264312"
     ],
-    "type_line": "Land // Land",
-    "oracle_text": {},
-    "mana_cost": "",
+    "type": "Land // Land",
+    "text": {},
+    "mana": "",
     "cmc": 0,
     "colors": ["G", "W"],
     "rarity": "rare",
@@ -323,9 +323,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1604264326",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1604264326"
     ],
-    "type_line": "Land // Land",
-    "oracle_text": {},
-    "mana_cost": "",
+    "type": "Land // Land",
+    "text": {},
+    "mana": "",
     "cmc": 0,
     "colors": ["B", "W"],
     "rarity": "rare",
@@ -336,9 +336,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c0fc2dfd-85b0-4add-be18-b39549235921.jpg?1604198611"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Destroy target artifact, enchantment, or creature with flying.",
-    "mana_cost": "{2}{G}",
+    "type": "Instant",
+    "text": "Destroy target artifact, enchantment, or creature with flying.",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "common",
@@ -349,9 +349,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/f/8fc448f6-a7fe-47c4-ac7c-385a77326469.jpg?1604199996"
     ],
-    "type_line": "Creature — Elemental",
-    "oracle_text": "Haste\nBrushfire Elemental can't be blocked by creatures with power 2 or less.\nLandfall — Whenever a land enters the battlefield under your control, Brushfire Elemental gets +2/+2 until end of turn.",
-    "mana_cost": "{R}{G}",
+    "type": "Creature — Elemental",
+    "text": "Haste\nBrushfire Elemental can't be blocked by creatures with power 2 or less.\nLandfall — Whenever a land enters the battlefield under your control, Brushfire Elemental gets +2/+2 until end of turn.",
+    "mana": "{R}{G}",
     "cmc": 2,
     "colors": ["G", "R"],
     "rarity": "uncommon",
@@ -362,9 +362,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/b/1bfba7a0-d5ca-4197-9e58-21f28345f1a6.jpg?1604193650"
     ],
-    "type_line": "Enchantment — Aura",
-    "oracle_text": "Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nEnchant creature\nWhen Bubble Snare enters the battlefield, if it was kicked, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
-    "mana_cost": "{U}",
+    "type": "Enchantment — Aura",
+    "text": "Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nEnchant creature\nWhen Bubble Snare enters the battlefield, if it was kicked, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+    "mana": "{U}",
     "cmc": 1,
     "colors": ["U"],
     "rarity": "common",
@@ -375,9 +375,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6b04160c-89a7-4dcd-b05d-5dc846824d64.jpg?1604198638"
     ],
-    "type_line": "Creature — Beast",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, Canopy Baloth gets +2/+2 until end of turn.",
-    "mana_cost": "{3}{G}",
+    "type": "Creature — Beast",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, Canopy Baloth gets +2/+2 until end of turn.",
+    "mana": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
     "rarity": "common",
@@ -388,9 +388,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/6/26b3938e-ebd7-4668-be3a-422c02ff5b08.jpg?1604195520"
     ],
-    "type_line": "Creature — Mouse",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, creatures you control get +1/+1 until end of turn.",
-    "mana_cost": "{2}{W}",
+    "type": "Creature — Mouse",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, creatures you control get +1/+1 until end of turn.",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -401,9 +401,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/3/13105c88-2926-40ad-bc7a-09d515aa36c6.jpg?1604193685"
     ],
-    "type_line": "Creature — Merfolk Wizard",
-    "oracle_text": "When Cascade Seer enters the battlefield, scry X, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{3}{U}",
+    "type": "Creature — Merfolk Wizard",
+    "text": "When Cascade Seer enters the battlefield, scry X, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
     "rarity": "common",
@@ -414,9 +414,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/8/e83a6804-1e3c-428c-af5e-1d56ba11c108.jpg?1604193709"
     ],
-    "type_line": "Legendary Creature — Leviathan Crab",
-    "oracle_text": "Spells your opponents cast that target Charix, the Raging Isle cost {2} more to cast.\n{3}: Charix gets +X/-X until end of turn, where X is the number of Islands you control.",
-    "mana_cost": "{2}{U}{U}",
+    "type": "Legendary Creature — Leviathan Crab",
+    "text": "Spells your opponents cast that target Charix, the Raging Isle cost {2} more to cast.\n{3}: Charix gets +X/-X until end of turn, where X is the number of Islands you control.",
+    "mana": "{2}{U}{U}",
     "cmc": 4,
     "colors": ["U"],
     "rarity": "rare",
@@ -427,9 +427,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/60f9adfd-a940-4d62-894b-84f17c693a10.jpg?1604193730"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.",
-    "mana_cost": "{U}",
+    "type": "Instant",
+    "text": "Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.",
+    "mana": "{U}",
     "cmc": 1,
     "colors": ["U"],
     "rarity": "common",
@@ -440,9 +440,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/5516cf97-805f-4a21-a4c6-2d6e55865336.jpg?1604196918"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nCinderclasm deals 1 damage to each creature. If it was kicked, it deals 2 damage to each creature instead.",
-    "mana_cost": "{1}{R}",
+    "type": "Instant",
+    "text": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nCinderclasm deals 1 damage to each creature. If it was kicked, it deals 2 damage to each creature instead.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -453,9 +453,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/492d77e5-acc6-41b8-8930-f39d69234919.jpg?1604196948"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.\nDraw a card.",
-    "mana_cost": "{1}{R}",
+    "type": "Sorcery",
+    "text": "Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.\nDraw a card.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -467,9 +467,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1604264337",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1604264337"
     ],
-    "type_line": "Land // Land",
-    "oracle_text": {},
-    "mana_cost": "",
+    "type": "Land // Land",
+    "text": {},
+    "mana": "",
     "cmc": 0,
     "colors": ["B", "U"],
     "rarity": "rare",
@@ -480,9 +480,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/4/b4ea262c-ea32-4aca-b96b-58f556a8dffc.jpg?1604193763"
     ],
-    "type_line": "Creature — Merfolk Cleric",
-    "oracle_text": "Whenever Cleric of Chill Depths blocks a creature, that creature doesn't untap during its controller's next untap step.",
-    "mana_cost": "{1}{U}",
+    "type": "Creature — Merfolk Cleric",
+    "text": "Whenever Cleric of Chill Depths blocks a creature, that creature doesn't untap during its controller's next untap step.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "common",
@@ -493,9 +493,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/5/953db280-6999-4b91-bc40-c6e7f7dd13ef.jpg?1604200022"
     ],
-    "type_line": "Creature — Vampire Cleric",
-    "oracle_text": "Whenever another Cleric enters the battlefield under your control, you gain 1 life.\nWhenever you gain life for the first time each turn, put a +1/+1 counter on Cleric of Life's Bond.",
-    "mana_cost": "{W}{B}",
+    "type": "Creature — Vampire Cleric",
+    "text": "Whenever another Cleric enters the battlefield under your control, you gain 1 life.\nWhenever you gain life for the first time each turn, put a +1/+1 counter on Cleric of Life's Bond.",
+    "mana": "{W}{B}",
     "cmc": 2,
     "colors": ["B", "W"],
     "rarity": "uncommon",
@@ -506,9 +506,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/eebf8f67-49d0-42de-a5cc-ad13d19d2c55.jpg?1604200689"
     ],
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "When Cliffhaven Kitesail enters the battlefield, attach it to target creature you control.\nEquipped creature has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
-    "mana_cost": "{1}",
+    "type": "Artifact — Equipment",
+    "text": "When Cliffhaven Kitesail enters the battlefield, attach it to target creature you control.\nEquipped creature has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "mana": "{1}",
     "cmc": 1,
     "colors": [],
     "rarity": "common",
@@ -519,9 +519,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f334767-4353-4379-a934-fa67075db439.jpg?1604195546"
     ],
-    "type_line": "Creature — Kor Warrior",
-    "oracle_text": "",
-    "mana_cost": "{1}{W}",
+    "type": "Creature — Kor Warrior",
+    "text": "",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "common",
@@ -532,9 +532,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/235c108d-3902-4c2e-919c-a5449cd2dc3c.jpg?1604193820"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Counter target noncreature spell unless its controller pays {1} plus an additional {1} for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{U}",
+    "type": "Instant",
+    "text": "Counter target noncreature spell unless its controller pays {1} plus an additional {1} for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{U}",
     "cmc": 1,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -545,9 +545,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/5/95e37936-913e-4b16-a5a8-8aed733d702d.jpg?1604193855"
     ],
-    "type_line": "Enchantment",
-    "oracle_text": "When Confounding Conundrum enters the battlefield, draw a card.\nWhenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under their control this turn, they return a land they control to its owner's hand.",
-    "mana_cost": "{1}{U}",
+    "type": "Enchantment",
+    "text": "When Confounding Conundrum enters the battlefield, draw a card.\nWhenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under their control this turn, they return a land they control to its owner's hand.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "rare",
@@ -558,9 +558,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/0/50b54524-8345-4b47-913f-d883a1cbe3a1.jpg?1604193917"
     ],
-    "type_line": "Creature — Merfolk Wizard",
-    "oracle_text": "Whenever you cast a kicked spell, draw a card, then discard a card.\nWhen Coralhelm Chronicler enters the battlefield, look at the top five cards of your library. You may reveal a card with a kicker ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
-    "mana_cost": "{2}{U}",
+    "type": "Creature — Merfolk Wizard",
+    "text": "Whenever you cast a kicked spell, draw a card, then discard a card.\nWhen Coralhelm Chronicler enters the battlefield, look at the top five cards of your library. You may reveal a card with a kicker ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "rare",
@@ -571,9 +571,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5afbc5d3-318f-4545-88d6-fc81e5466238.jpg?1604195385"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nSearch your library for a card, put it into your hand, then shuffle your library. If you have a full party, you may cast a spell with converted mana cost 4 or less from your hand without paying its mana cost.",
-    "mana_cost": "{4}{B}",
+    "type": "Sorcery",
+    "text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nSearch your library for a card, put it into your hand, then shuffle your library. If you have a full party, you may cast a spell with converted mana cost 4 or less from your hand without paying its mana cost.",
+    "mana": "{4}{B}",
     "cmc": 5,
     "colors": ["B"],
     "rarity": "rare",
@@ -585,9 +585,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1604264349",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1604264349"
     ],
-    "type_line": "Land // Land",
-    "oracle_text": {},
-    "mana_cost": "",
+    "type": "Land // Land",
+    "text": {},
+    "mana": "",
     "cmc": 0,
     "colors": ["G", "R"],
     "rarity": "rare",
@@ -598,9 +598,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/ab62382d-2dc9-4a60-b031-c845ebad0357.jpg?1604198667"
     ],
-    "type_line": "Creature — Beast",
-    "oracle_text": "Kicker {2}{G}\nThis spell can't be countered.\nHexproof, haste\nIf Cragplate Baloth was kicked, it enters the battlefield with four +1/+1 counters on it.",
-    "mana_cost": "{5}{G}{G}",
+    "type": "Creature — Beast",
+    "text": "Kicker {2}{G}\nThis spell can't be countered.\nHexproof, haste\nIf Cragplate Baloth was kicked, it enters the battlefield with four +1/+1 counters on it.",
+    "mana": "{5}{G}{G}",
     "cmc": 7,
     "colors": ["G"],
     "rarity": "rare",
@@ -611,9 +611,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/b/7bd0e025-7a75-4641-a51a-27df9dcde05f.jpg?1604264359"
     ],
-    "type_line": "Land",
-    "oracle_text": "{T}: Add {C}.\n{4}: Put two +1/+1 counters on Crawling Barrens. Then you may have it become a 0/0 Elemental creature until end of turn. It's still a land.",
-    "mana_cost": "",
+    "type": "Land",
+    "text": "{T}: Add {C}.\n{4}: Put two +1/+1 counters on Crawling Barrens. Then you may have it become a 0/0 Elemental creature until end of turn. It's still a land.",
+    "mana": "",
     "cmc": 0,
     "colors": [],
     "rarity": "rare",
@@ -624,9 +624,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/2217f0a9-5af5-45cc-8cf7-8878d4f66dd8.jpg?1604193977"
     ],
-    "type_line": "Creature — Human Wizard",
-    "oracle_text": "Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nWhen Cunning Geysermage enters the battlefield, if it was kicked, return up to one other target creature to its owner's hand.",
-    "mana_cost": "{2}{U}",
+    "type": "Creature — Human Wizard",
+    "text": "Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nWhen Cunning Geysermage enters the battlefield, if it was kicked, return up to one other target creature to its owner's hand.",
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "common",
@@ -637,9 +637,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52b1b4a2-52a7-4fcd-aa96-f7d9e459657b.jpg?1604198710"
     ],
-    "type_line": "Creature — Human Warrior",
-    "oracle_text": "When Dauntless Survivor enters the battlefield, put a +1/+1 counter on target creature.",
-    "mana_cost": "{1}{G}",
+    "type": "Creature — Human Warrior",
+    "text": "When Dauntless Survivor enters the battlefield, put a +1/+1 counter on target creature.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "common",
@@ -650,9 +650,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/1/b12a4d17-68e6-4133-99fd-e501e24e6c6b.jpg?1604195576"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)\nCreatures you control get +1/+1 until end of turn. If this spell was kicked, those creatures get +2/+1 until end of turn instead.",
-    "mana_cost": "{1}{W}",
+    "type": "Instant",
+    "text": "Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)\nCreatures you control get +1/+1 until end of turn. If this spell was kicked, those creatures get +2/+1 until end of turn instead.",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "common",
@@ -663,9 +663,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/0/007a5c8c-ed0b-4844-9393-a3d25d4ffa1d.jpg?1604195436"
     ],
-    "type_line": "Instant",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nDestroy target creature or planeswalker.",
-    "mana_cost": "{4}{B}",
+    "type": "Instant",
+    "text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nDestroy target creature or planeswalker.",
+    "mana": "{4}{B}",
     "cmc": 5,
     "colors": ["B"],
     "rarity": "common",
@@ -676,9 +676,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/4/c41c0dd0-fef2-4f3c-8f3c-9c9c521b5442.jpg?1604194005"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Scry 2, then draw a card.",
-    "mana_cost": "{1}{U}",
+    "type": "Instant",
+    "text": "Scry 2, then draw a card.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "common",
@@ -689,9 +689,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/3/836f5197-e42b-45e0-8170-1b0a8a5beebd.jpg?1604231452"
     ],
-    "type_line": "Creature — Human Cleric",
-    "oracle_text": "When Demon's Disciple enters the battlefield, each player sacrifices a creature or planeswalker.",
-    "mana_cost": "{2}{B}",
+    "type": "Creature — Human Cleric",
+    "text": "When Demon's Disciple enters the battlefield, each player sacrifices a creature or planeswalker.",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -702,9 +702,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c37ba56-e22c-4b10-821a-2827c5cd81ad.jpg?1604195611"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Destroy target artifact or enchantment.",
-    "mana_cost": "{1}{W}",
+    "type": "Instant",
+    "text": "Destroy target artifact or enchantment.",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "common",
@@ -715,9 +715,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59224f9a-deb2-4dd4-b2d4-967232c14254.jpg?1604195538"
     ],
-    "type_line": "Creature — Vampire Rogue",
-    "oracle_text": "When Drana's Silencer enters the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{5}{B}",
+    "type": "Creature — Vampire Rogue",
+    "text": "When Drana's Silencer enters the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{5}{B}",
     "cmc": 6,
     "colors": ["B"],
     "rarity": "common",
@@ -728,9 +728,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5cd4154e-7681-444b-a0f2-33e887791ba7.jpg?1604195501"
     ],
-    "type_line": "Legendary Creature — Vampire Cleric",
-    "oracle_text": "Flying\nWhenever Drana, the Last Bloodchief attacks, defending player chooses a nonlegendary creature card in your graveyard. You return that card to the battlefield with a +1/+1 counter on it. The creature is a Vampire in addition to its other types.",
-    "mana_cost": "{3}{B}{B}",
+    "type": "Legendary Creature — Vampire Cleric",
+    "text": "Flying\nWhenever Drana, the Last Bloodchief attacks, defending player chooses a nonlegendary creature card in your graveyard. You return that card to the battlefield with a +1/+1 counter on it. The creature is a Vampire in addition to its other types.",
+    "mana": "{3}{B}{B}",
     "cmc": 5,
     "colors": ["B"],
     "rarity": "mythic",
@@ -741,9 +741,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/339736a8-a00f-4e21-8d92-38486f73dba9.jpg?1604195570"
     ],
-    "type_line": "Creature — Wurm Horror",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, Dreadwurm gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
-    "mana_cost": "{4}{B}",
+    "type": "Creature — Wurm Horror",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, Dreadwurm gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "mana": "{4}{B}",
     "cmc": 5,
     "colors": ["B"],
     "rarity": "common",
@@ -754,9 +754,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/6490370e-fff5-4f17-b715-74ff8df5bc7c.jpg?1604195642"
     ],
-    "type_line": "Creature — Angel Warrior",
-    "oracle_text": "Flying, vigilance\nWhen Emeria Captain enters the battlefield, put a +1/+1 counter on it for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{3}{W}",
+    "type": "Creature — Angel Warrior",
+    "text": "Flying, vigilance\nWhen Emeria Captain enters the battlefield, put a +1/+1 counter on it for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -768,9 +768,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/4/c470539a-9cc7-4175-8f7c-c982b6072b6d.jpg?1604195709",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/c/4/c470539a-9cc7-4175-8f7c-c982b6072b6d.jpg?1604195709"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{4}{W}{W}{W}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{4}{W}{W}{W}",
     "cmc": 7,
     "colors": ["W"],
     "rarity": "mythic",
@@ -781,9 +781,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/0/30084dc1-f501-4b7c-972d-1a3b9137083a.jpg?1604196963"
     ],
-    "type_line": "Creature — Human Warrior",
-    "oracle_text": "Expedition Champion gets +2/+0 as long as you control another Warrior.",
-    "mana_cost": "{2}{R}",
+    "type": "Creature — Human Warrior",
+    "text": "Expedition Champion gets +2/+0 as long as you control another Warrior.",
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "common",
@@ -794,9 +794,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/9/090f6e94-fb5f-4861-a465-f11766303676.jpg?1604194021"
     ],
-    "type_line": "Creature — Merfolk Wizard",
-    "oracle_text": "Flying\nAs long as you control another Wizard, Expedition Diviner has \"When this creature dies, draw a card.\"",
-    "mana_cost": "{3}{U}",
+    "type": "Creature — Merfolk Wizard",
+    "text": "Flying\nAs long as you control another Wizard, Expedition Diviner has \"When this creature dies, draw a card.\"",
+    "mana": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
     "rarity": "common",
@@ -807,9 +807,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/11a00a88-de0e-4012-9ad8-ccb187dff7df.jpg?1604195734"
     ],
-    "type_line": "Creature — Kor Cleric",
-    "oracle_text": "Vigilance\nExpedition Healer has lifelink as long as you control another Cleric.",
-    "mana_cost": "{1}{W}",
+    "type": "Creature — Kor Cleric",
+    "text": "Vigilance\nExpedition Healer has lifelink as long as you control another Cleric.",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "common",
@@ -820,9 +820,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/9/2966b1f0-3d30-4d92-87e5-f39ceacefbd2.jpg?1604195598"
     ],
-    "type_line": "Creature — Vampire Rogue",
-    "oracle_text": "Expedition Skulker has deathtouch as long as you control another Rogue.",
-    "mana_cost": "{1}{B}",
+    "type": "Creature — Vampire Rogue",
+    "text": "Expedition Skulker has deathtouch as long as you control another Rogue.",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "common",
@@ -833,9 +833,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/5949bb9a-b4e8-4992-a12d-8e31953aff0d.jpg?1604195753"
     ],
-    "type_line": "Creature — Kor Wizard",
-    "oracle_text": "When Farsight Adept enters the battlefield, you and target opponent each draw a card.",
-    "mana_cost": "{2}{W}",
+    "type": "Creature — Kor Wizard",
+    "text": "When Farsight Adept enters the battlefield, you and target opponent each draw a card.",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "common",
@@ -846,9 +846,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/2/02d73eb7-4e76-48d4-90fa-fa972dc0fccb.jpg?1604195796"
     ],
-    "type_line": "Creature — Griffin",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Fearless Fledgling. It gains flying until end of turn.",
-    "mana_cost": "{1}{W}",
+    "type": "Creature — Griffin",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Fearless Fledgling. It gains flying until end of turn.",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -859,9 +859,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f6b2eba7-862a-4efd-9f65-065fb2070855.jpg?1604195649"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's converted mana cost.",
-    "mana_cost": "{1}{B}",
+    "type": "Sorcery",
+    "text": "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's converted mana cost.",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "common",
@@ -872,9 +872,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/45340647-4d3e-4be1-b0e6-e40cc56a438b.jpg?1604195832"
     ],
-    "type_line": "Enchantment",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Create a 2/2 white Cat Beast creature token.\n• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.",
-    "mana_cost": "{3}{W}",
+    "type": "Enchantment",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Create a 2/2 white Cat Beast creature token.\n• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.",
+    "mana": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
     "rarity": "rare",
@@ -885,9 +885,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/4/a48c3a2f-678b-4e70-a53f-258457d88d29.jpg?1604194056"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nDraw two cards. If this spell was kicked, draw three cards instead.",
-    "mana_cost": "{2}{U}",
+    "type": "Sorcery",
+    "text": "Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nDraw two cards. If this spell was kicked, draw three cards instead.",
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "common",
@@ -898,9 +898,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/ca657846-f352-4ac4-b2b3-d0ced6607163.jpg?1604259130"
     ],
-    "type_line": "Creature — Goblin Warrior",
-    "oracle_text": "As long as Fireblade Charger is equipped, it has haste.\nWhen Fireblade Charger dies, it deals damage equal to its power to any target.",
-    "mana_cost": "{R}",
+    "type": "Creature — Goblin Warrior",
+    "text": "As long as Fireblade Charger is equipped, it has haste.\nWhen Fireblade Charger dies, it deals damage equal to its power to any target.",
+    "mana": "{R}",
     "cmc": 1,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -911,9 +911,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/f/9fa10a18-5059-46ab-9983-0ea78b507331.jpg?1604197025"
     ],
-    "type_line": "Creature — Goblin Wizard",
-    "oracle_text": "When Fissure Wizard enters the battlefield, you may discard a card. If you do, draw a card.",
-    "mana_cost": "{1}{R}",
+    "type": "Creature — Goblin Wizard",
+    "text": "When Fissure Wizard enters the battlefield, you may discard a card. If you do, draw a card.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -924,9 +924,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b90e88b-60a3-4d1d-bb8c-14633e5005a5.jpg?1604203120"
     ],
-    "type_line": "Basic Land — Forest",
-    "oracle_text": "({T}: Add {G}.)",
-    "mana_cost": "",
+    "type": "Basic Land — Forest",
+    "text": "({T}: Add {G}.)",
+    "mana": "",
     "cmc": 0,
     "colors": ["G"],
     "rarity": "common",
@@ -937,9 +937,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/33568871-dab0-4c09-b9f0-0ae78a46a06d.jpg?1604200741"
     ],
-    "type_line": "Legendary Artifact",
-    "oracle_text": "Colorless creatures you control get +2/+2.\nWhenever you tap a permanent for {C}, add an additional {C}.\nWhenever you cast a colorless spell, you gain 2 life.",
-    "mana_cost": "{5}",
+    "type": "Legendary Artifact",
+    "text": "Colorless creatures you control get +2/+2.\nWhenever you tap a permanent for {C}, add an additional {C}.\nWhenever you cast a colorless spell, you gain 2 life.",
+    "mana": "{5}",
     "cmc": 5,
     "colors": [],
     "rarity": "mythic",
@@ -950,9 +950,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f272ac54-fea8-4044-83e2-f8fdc10f467d.jpg?1604195684"
     ],
-    "type_line": "Creature — Zombie Bat",
-    "oracle_text": "Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.)\nFlying, lifelink\nIf Ghastly Gloomhunter was kicked, it enters the battlefield with two +1/+1 counters on it.",
-    "mana_cost": "{1}{B}",
+    "type": "Creature — Zombie Bat",
+    "text": "Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.)\nFlying, lifelink\nIf Ghastly Gloomhunter was kicked, it enters the battlefield with two +1/+1 counters on it.",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "common",
@@ -963,9 +963,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/381d84d6-7b34-44cb-a697-54b835ba1281.jpg?1604194085"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Tap target creature. Its controller mills two cards. That creature doesn't untap during its controller's next untap step. (They put the top two cards of their library into their graveyard.)\nDraw a card.",
-    "mana_cost": "{2}{U}",
+    "type": "Instant",
+    "text": "Tap target creature. Its controller mills two cards. That creature doesn't untap during its controller's next untap step. (They put the top two cards of their library into their graveyard.)\nDraw a card.",
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "common",
@@ -977,9 +977,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976"
     ],
-    "type_line": "Creature — Shapeshifter Rogue // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{U}",
+    "type": "Creature — Shapeshifter Rogue // Land",
+    "text": {},
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "rare",
@@ -990,9 +990,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/7327289d-eed8-44b1-8495-7172e2b49d5f.jpg?1604198764"
     ],
-    "type_line": "Creature — Beast",
-    "oracle_text": "Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)\nIf Gnarlid Colony was kicked, it enters the battlefield with two +1/+1 counters on it.\nEach creature you control with a +1/+1 counter on it has trample.",
-    "mana_cost": "{1}{G}",
+    "type": "Creature — Beast",
+    "text": "Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)\nIf Gnarlid Colony was kicked, it enters the battlefield with two +1/+1 counters on it.\nEach creature you control with a +1/+1 counter on it has trample.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "common",
@@ -1003,9 +1003,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce83962b-445a-4b44-ad8a-fada2c0a15b8.jpg?1604337802"
     ],
-    "type_line": "Creature — Human Warrior",
-    "oracle_text": "Whenever Goma Fada Vanguard attacks, target creature an opponent controls with power less than or equal to the number of Warriors you control can't block this turn.",
-    "mana_cost": "{1}{R}",
+    "type": "Creature — Human Warrior",
+    "text": "Whenever Goma Fada Vanguard attacks, target creature an opponent controls with power less than or equal to the number of Warriors you control can't block this turn.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -1016,9 +1016,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/d/bd227384-e0e3-40ce-98bb-8b7cf1900ad7.jpg?1604200053"
     ],
-    "type_line": "Legendary Creature — Hydra Horror",
-    "oracle_text": "Grakmaw, Skyclave Ravager enters the battlefield with three +1/+1 counters on it.\nWhenever another creature you control dies, if it had a +1/+1 counter on it, put a +1/+1 counter on Grakmaw.\nWhen Grakmaw dies, create an X/X black and green Hydra creature token, where X is the number of +1/+1 counters on Grakmaw.",
-    "mana_cost": "{1}{B}{G}",
+    "type": "Legendary Creature — Hydra Horror",
+    "text": "Grakmaw, Skyclave Ravager enters the battlefield with three +1/+1 counters on it.\nWhenever another creature you control dies, if it had a +1/+1 counter on it, put a +1/+1 counter on Grakmaw.\nWhen Grakmaw dies, create an X/X black and green Hydra creature token, where X is the number of +1/+1 counters on Grakmaw.",
+    "mana": "{1}{B}{G}",
     "cmc": 3,
     "colors": ["B", "G"],
     "rarity": "rare",
@@ -1029,9 +1029,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/b/5b310b01-f9cb-48ce-8af3-5957d3abf098.jpg?1604197094"
     ],
-    "type_line": "Creature — Goblin Warrior",
-    "oracle_text": "Trample\nWhenever Grotag Bug-Catcher attacks, it gets +1/+0 until end of turn for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{1}{R}",
+    "type": "Creature — Goblin Warrior",
+    "text": "Trample\nWhenever Grotag Bug-Catcher attacks, it gets +1/+0 until end of turn for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -1042,9 +1042,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/5/0568341b-f972-407f-92ce-1b7c9ef742f6.jpg?1604197135"
     ],
-    "type_line": "Creature — Goblin Rogue",
-    "oracle_text": "Whenever Grotag Night-Runner deals combat damage to a player, exile the top card of your library. You may play that card this turn.",
-    "mana_cost": "{2}{R}",
+    "type": "Creature — Goblin Rogue",
+    "text": "Whenever Grotag Night-Runner deals combat damage to a player, exile the top card of your library. You may play that card this turn.",
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -1055,9 +1055,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/9/b996743e-7f48-49d8-948b-ceb75bddf215.jpg?1604195708"
     ],
-    "type_line": "Creature — Crocodile",
-    "oracle_text": "When Guul Draz Mucklord dies, put a +1/+1 counter on target creature you control.",
-    "mana_cost": "{2}{B}",
+    "type": "Creature — Crocodile",
+    "text": "When Guul Draz Mucklord dies, put a +1/+1 counter on target creature you control.",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "common",
@@ -1068,9 +1068,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/9/f971b71a-af69-43a7-b06c-e80eaaaf4a5f.jpg?1604195731"
     ],
-    "type_line": "Creature — Snake",
-    "oracle_text": "Hagra Constrictor enters the battlefield with two +1/+1 counters on it.\nEach creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)",
-    "mana_cost": "{2}{B}",
+    "type": "Creature — Snake",
+    "text": "Hagra Constrictor enters the battlefield with two +1/+1 counters on it.\nEach creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "common",
@@ -1082,9 +1082,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7c04c734-354d-4925-8161-7052110951df.jpg?1604195798",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/7/c/7c04c734-354d-4925-8161-7052110951df.jpg?1604195798"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{B}{B}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{2}{B}{B}",
     "cmc": 4,
     "colors": ["B"],
     "rarity": "rare",
@@ -1095,9 +1095,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/4/24c40082-516e-4381-a4cc-e61c5a9a6cac.jpg?1604231440"
     ],
-    "type_line": "Creature — Vampire Warrior",
-    "oracle_text": "",
-    "mana_cost": "{3}{B}",
+    "type": "Creature — Vampire Warrior",
+    "text": "",
+    "mana": "{3}{B}",
     "cmc": 4,
     "colors": ["B"],
     "rarity": "common",
@@ -1108,9 +1108,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/0/d0f62bdc-50a0-41a0-ac37-9b0eeb21b6aa.jpg?1604197186"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Target creature gets +3/+2 until end of turn. Scry 1.",
-    "mana_cost": "{1}{R}",
+    "type": "Instant",
+    "text": "Target creature gets +3/+2 until end of turn. Scry 1.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -1121,9 +1121,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/c/fcd2e01e-a143-4b62-8b01-d253fb35c590.jpg?1604198784"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Kicker {2}{G}\nChoose one. If this spell was kicked, choose any number instead.\n• Put two +1/+1 counters on target creature.\n• Target player gains X life, where X is the greatest power among creatures they control.\n• Target creature you control fights target creature you don't control.",
-    "mana_cost": "{1}{G}",
+    "type": "Instant",
+    "text": "Kicker {2}{G}\nChoose one. If this spell was kicked, choose any number instead.\n• Put two +1/+1 counters on target creature.\n• Target player gains X life, where X is the greatest power among creatures they control.\n• Target creature you control fights target creature you don't control.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "rare",
@@ -1134,9 +1134,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/281cdb1c-21ae-4430-8e0f-c993f52ba891.jpg?1604194137"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {2}{U}{U}\nChoose one. If this spell was kicked, choose any number instead.\n• Return up to two target creatures to their owners' hands.\n• Scry 2, then draw two cards.\n• Target player creates an X/X blue Illusion creature token, where X is the number of cards in their hand.",
-    "mana_cost": "{3}{U}",
+    "type": "Sorcery",
+    "text": "Kicker {2}{U}{U}\nChoose one. If this spell was kicked, choose any number instead.\n• Return up to two target creatures to their owners' hands.\n• Scry 2, then draw two cards.\n• Target player creates an X/X blue Illusion creature token, where X is the number of cards in their hand.",
+    "mana": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
     "rarity": "rare",
@@ -1147,9 +1147,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/3/93612079-0b8d-489d-9ae1-3593414a8cee.jpg?1604195857"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {2}{B}{B}\nChoose one. If this spell was kicked, choose any number instead.\n• Target opponent discards two cards.\n• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.\n• Destroy target creature with converted mana cost 3 or less.",
-    "mana_cost": "{2}{B}",
+    "type": "Sorcery",
+    "text": "Kicker {2}{B}{B}\nChoose one. If this spell was kicked, choose any number instead.\n• Target opponent discards two cards.\n• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.\n• Destroy target creature with converted mana cost 3 or less.",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "rare",
@@ -1160,9 +1160,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/899540b0-c17a-4a73-912c-9b8925203de1.jpg?1604194172"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nReturn target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",
-    "mana_cost": "{1}{U}",
+    "type": "Instant",
+    "text": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nReturn target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "common",
@@ -1173,9 +1173,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/1/214ef641-b08c-42d0-94a5-3054fa7fcebc.jpg?1604263662"
     ],
-    "type_line": "Creature — Insect",
-    "oracle_text": "At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.",
-    "mana_cost": "{4}{G}",
+    "type": "Creature — Insect",
+    "text": "At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.",
+    "mana": "{4}{G}",
     "cmc": 5,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -1186,9 +1186,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/589a324f-4466-4d4a-8cfb-806a041d7c1f.jpg?1604203046"
     ],
-    "type_line": "Basic Land — Island",
-    "oracle_text": "({T}: Add {U}.)",
-    "mana_cost": "",
+    "type": "Basic Land — Island",
+    "text": "({T}: Add {U}.)",
+    "mana": "",
     "cmc": 0,
     "colors": ["U"],
     "rarity": "common",
@@ -1199,9 +1199,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/e/fe0ed348-e4ed-4b6a-b9d9-03539a6fb42a.jpg?1604194202"
     ],
-    "type_line": "Legendary Planeswalker — Jace",
-    "oracle_text": "Kicker {2}\nWhen Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a token that's a copy of Jace, Mirror Mage except it's not legendary and its starting loyalty is 1.\n+1: Scry 2.\n0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's converted mana cost from Jace, Mirror Mage.",
-    "mana_cost": "{1}{U}{U}",
+    "type": "Legendary Planeswalker — Jace",
+    "text": "Kicker {2}\nWhen Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a token that's a copy of Jace, Mirror Mage except it's not legendary and its starting loyalty is 1.\n+1: Scry 2.\n0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's converted mana cost from Jace, Mirror Mage.",
+    "mana": "{1}{U}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "mythic",
@@ -1212,9 +1212,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/1/a1ea2c17-382a-45e4-ac34-88bf8ba47169.jpg?1604198895"
     ],
-    "type_line": "Creature — Elf Wizard",
-    "oracle_text": "When Joraga Visionary enters the battlefield, draw a card.",
-    "mana_cost": "{3}{G}",
+    "type": "Creature — Elf Wizard",
+    "text": "When Joraga Visionary enters the battlefield, draw a card.",
+    "mana": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
     "rarity": "common",
@@ -1225,9 +1225,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/7/47120e3c-73aa-468d-96b7-47aead342e31.jpg?1604195865"
     ],
-    "type_line": "Enchantment",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nWhen Journey to Oblivion enters the battlefield, exile target nonland permanent an opponent controls until Journey to Oblivion leaves the battlefield.",
-    "mana_cost": "{4}{W}",
+    "type": "Enchantment",
+    "text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nWhen Journey to Oblivion enters the battlefield, exile target nonland permanent an opponent controls until Journey to Oblivion leaves the battlefield.",
+    "mana": "{4}{W}",
     "cmc": 5,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -1239,9 +1239,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{1}{U}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -1252,9 +1252,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/53c81719-f820-4674-9cfb-cd5eaf0c1f0d.jpg?1604195914"
     ],
-    "type_line": "Creature — Human Warrior",
-    "oracle_text": "When Kabira Outrider enters the battlefield, target creature gets +1/+1 until end of turn for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{3}{W}",
+    "type": "Creature — Human Warrior",
+    "text": "When Kabira Outrider enters the battlefield, target creature gets +1/+1 until end of turn for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
     "rarity": "common",
@@ -1266,9 +1266,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/6/366e9845-019d-47cc-adb8-8fbbaad35b6d.jpg?1604195985",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/6/366e9845-019d-47cc-adb8-8fbbaad35b6d.jpg?1604195985"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{1}{W}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -1279,9 +1279,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/0885acdc-9b4c-4e28-8785-9e721a27e81e.jpg?1604197242"
     ],
-    "type_line": "Creature — Human Warrior",
-    "oracle_text": "Cowards can't block Warriors.\n{1}: Choose one that hasn't been chosen this turn —\n• Kargan Intimidator gets +1/+1 until end of turn.\n• Target creature becomes a Coward until end of turn.\n• Target Warrior gains trample until end of turn.",
-    "mana_cost": "{1}{R}",
+    "type": "Creature — Human Warrior",
+    "text": "Cowards can't block Warriors.\n{1}: Choose one that hasn't been chosen this turn —\n• Kargan Intimidator gets +1/+1 until end of turn.\n• Target creature becomes a Coward until end of turn.\n• Target Warrior gains trample until end of turn.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "rare",
@@ -1292,9 +1292,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/f/6f921dca-ce93-42d1-87b1-149973558467.jpg?1604200083"
     ],
-    "type_line": "Creature — Human Warrior",
-    "oracle_text": "Other Warriors you control get +1/+1.",
-    "mana_cost": "{1}{R}{W}",
+    "type": "Creature — Human Warrior",
+    "text": "Other Warriors you control get +1/+1.",
+    "mana": "{1}{R}{W}",
     "cmc": 3,
     "colors": ["R", "W"],
     "rarity": "uncommon",
@@ -1306,9 +1306,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/f/2f632537-63bf-4490-86e6-e6067b9c1a3b.jpg?1604198971",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/2/f/2f632537-63bf-4490-86e6-e6067b9c1a3b.jpg?1604198971"
     ],
-    "type_line": "Creature — Elephant // Land",
-    "oracle_text": {},
-    "mana_cost": "{1}{G}{G}",
+    "type": "Creature — Elephant // Land",
+    "text": {},
+    "mana": "{1}{G}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "rare",
@@ -1319,9 +1319,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7c9d3f4a-ef83-454e-b8a1-1fc5d5f44be8.jpg?1604198994"
     ],
-    "type_line": "Creature — Insect",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.",
-    "mana_cost": "{1}{G}",
+    "type": "Creature — Insect",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "common",
@@ -1332,9 +1332,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/f/afdfe5aa-8b15-4a89-a22a-03baf6afa4e7.jpg?1604199049"
     ],
-    "type_line": "Creature — Beast",
-    "oracle_text": "Trample\nWhen Kazandu Stomper enters the battlefield, return up to two lands you control to their owner's hand.",
-    "mana_cost": "{5}{G}",
+    "type": "Creature — Beast",
+    "text": "Trample\nWhen Kazandu Stomper enters the battlefield, return up to two lands you control to their owner's hand.",
+    "mana": "{5}{G}",
     "cmc": 6,
     "colors": ["G"],
     "rarity": "common",
@@ -1345,9 +1345,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/f/af6bc333-79c0-4de8-9874-80f2254f9ad2.jpg?1604200147"
     ],
-    "type_line": "Legendary Creature — Human Wizard",
-    "oracle_text": "Flying, haste\n{T}: The next instant or sorcery spell you cast this turn costs {X} less to cast, where X is the number of Wizards you control as this ability resolves.",
-    "mana_cost": "{U}{R}",
+    "type": "Legendary Creature — Human Wizard",
+    "text": "Flying, haste\n{T}: The next instant or sorcery spell you cast this turn costs {X} less to cast, where X is the number of Wizards you control as this ability resolves.",
+    "mana": "{U}{R}",
     "cmc": 2,
     "colors": ["R", "U"],
     "rarity": "rare",
@@ -1359,9 +1359,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75240bbc-adc7-48ff-9523-c79776d710d3.jpg?1604337792",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/7/5/75240bbc-adc7-48ff-9523-c79776d710d3.jpg?1604337792"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{R}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -1373,9 +1373,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/99535539-aa73-41ed-86ab-21c97b92620d.jpg?1604337759",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/9/9/99535539-aa73-41ed-86ab-21c97b92620d.jpg?1604337759"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{G}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -1386,9 +1386,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/6/16626f84-00d3-4ec9-b62c-19fff380cd3a.jpg?1604195997"
     ],
-    "type_line": "Creature — Kor Cleric",
-    "oracle_text": "Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nFlying\nWhen Kitesail Cleric enters the battlefield, if it was kicked, tap up to two target creatures.",
-    "mana_cost": "{W}",
+    "type": "Creature — Kor Cleric",
+    "text": "Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nFlying\nWhen Kitesail Cleric enters the battlefield, if it was kicked, tap up to two target creatures.",
+    "mana": "{W}",
     "cmc": 1,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -1399,9 +1399,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/c/fc6d6049-5599-47eb-ae58-a8eb96927ece.jpg?1604192436"
     ],
-    "type_line": "Creature — Kor Warrior",
-    "oracle_text": "Double strike\nEquipped Warriors you control have double strike.",
-    "mana_cost": "{1}{W}",
+    "type": "Creature — Kor Warrior",
+    "text": "Double strike\nEquipped Warriors you control have double strike.",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -1412,9 +1412,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/87c37e46-a961-4739-8893-f783013e2be6.jpg?1604192472"
     ],
-    "type_line": "Creature — Kor Cleric",
-    "oracle_text": "Whenever Kor Celebrant or another creature enters the battlefield under your control, you gain 1 life.",
-    "mana_cost": "{2}{W}",
+    "type": "Creature — Kor Cleric",
+    "text": "Whenever Kor Celebrant or another creature enters the battlefield under your control, you gain 1 life.",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "common",
@@ -1425,9 +1425,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/d/bda5609a-ab22-4f03-988b-8056c97fdc9e.jpg?1604192509"
     ],
-    "type_line": "Creature — Angel Warrior",
-    "oracle_text": "Flying\nWhen Legion Angel enters the battlefield, you may reveal a card you own named Legion Angel from outside the game and put it into your hand.",
-    "mana_cost": "{2}{W}{W}",
+    "type": "Creature — Angel Warrior",
+    "text": "Flying\nWhen Legion Angel enters the battlefield, you may reveal a card you own named Legion Angel from outside the game and put it into your hand.",
+    "mana": "{2}{W}{W}",
     "cmc": 4,
     "colors": ["W"],
     "rarity": "rare",
@@ -1438,9 +1438,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/4/847ae75b-1c0f-4d0a-9933-9a302c88dc27.jpg?1604197374"
     ],
-    "type_line": "Creature — Dragon",
-    "oracle_text": "Flying\nYou don't lose unspent red mana as steps and phases end.\nWhen Leyline Tyrant dies, you may pay any amount of {R}. When you do, it deals that much damage to any target.",
-    "mana_cost": "{2}{R}{R}",
+    "type": "Creature — Dragon",
+    "text": "Flying\nYou don't lose unspent red mana as steps and phases end.\nWhen Leyline Tyrant dies, you may pay any amount of {R}. When you do, it deals that much damage to any target.",
+    "mana": "{2}{R}{R}",
     "cmc": 4,
     "colors": ["R"],
     "rarity": "mythic",
@@ -1451,9 +1451,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/49b66956-82e1-402f-9088-2201bdc0d4b8.jpg?1604200172"
     ],
-    "type_line": "Legendary Creature — Angel Wizard",
-    "oracle_text": "Flying\nAt the beginning of combat on your turn, if you have a full party, choose target nonland permanent an opponent controls. Until your next turn, it can't attack or block, and its activated abilities can't be activated.\nSacrifice Linvala: Choose hexproof or indestructible. Creatures you control gain that ability until end of turn.",
-    "mana_cost": "{1}{W}{U}",
+    "type": "Legendary Creature — Angel Wizard",
+    "text": "Flying\nAt the beginning of combat on your turn, if you have a full party, choose target nonland permanent an opponent controls. Until your next turn, it can't attack or block, and its activated abilities can't be activated.\nSacrifice Linvala: Choose hexproof or indestructible. Creatures you control gain that ability until end of turn.",
+    "mana": "{1}{W}{U}",
     "cmc": 3,
     "colors": ["U", "W"],
     "rarity": "rare",
@@ -1464,9 +1464,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/b/5b36d12e-9a68-4d3d-92e8-9840cd5320bc.jpg?1604195880"
     ],
-    "type_line": "Enchantment — Aura",
-    "oracle_text": "Enchant land\nWhen Lithoform Blight enters the battlefield, draw a card.\nEnchanted land loses all land types and abilities and has \"{T}: Add {C}\" and \"{T}, Pay 1 life: Add one mana of any color.\"",
-    "mana_cost": "{1}{B}",
+    "type": "Enchantment — Aura",
+    "text": "Enchant land\nWhen Lithoform Blight enters the battlefield, draw a card.\nEnchanted land loses all land types and abilities and has \"{T}: Add {C}\" and \"{T}, Pay 1 life: Add one mana of any color.\"",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -1477,9 +1477,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/6/6683416a-5820-4cd0-b28a-60a53239e9ef.jpg?1604200767"
     ],
-    "type_line": "Legendary Artifact",
-    "oracle_text": "{2}, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.\n{3}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.\n{4}, {T}: Copy target permanent spell you control. (The copy becomes a token.)",
-    "mana_cost": "{4}",
+    "type": "Legendary Artifact",
+    "text": "{2}, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.\n{3}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.\n{4}, {T}: Copy target permanent spell you control. (The copy becomes a token.)",
+    "mana": "{4}",
     "cmc": 4,
     "colors": [],
     "rarity": "mythic",
@@ -1490,9 +1490,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/0/a05ed233-9b53-4c67-ab1c-0217386c9fe4.jpg?1604194351"
     ],
-    "type_line": "Creature — Elemental",
-    "oracle_text": "Flash\nFlying",
-    "mana_cost": "{4}{U}",
+    "type": "Creature — Elemental",
+    "text": "Flash\nFlying",
+    "mana": "{4}{U}",
     "cmc": 5,
     "colors": ["U"],
     "rarity": "common",
@@ -1503,9 +1503,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/4/a4b759f0-901f-4be3-93fa-224609b08d48.jpg?1604199124"
     ],
-    "type_line": "Creature — Snake",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, add one mana of any color.",
-    "mana_cost": "{1}{G}",
+    "type": "Creature — Snake",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, add one mana of any color.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "rare",
@@ -1516,9 +1516,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/9/c9944393-348f-4f0e-a0c7-9adcc5a30749.jpg?1604194383"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "This spell costs {3} less to cast if it targets a creature whose controller has eight or more cards in their graveyard.\nGain control of target creature with converted mana cost X.",
-    "mana_cost": "{X}{U}{U}{U}",
+    "type": "Sorcery",
+    "text": "This spell costs {3} less to cast if it targets a creature whose controller has eight or more cards in their graveyard.\nGain control of target creature with converted mana cost X.",
+    "mana": "{X}{U}{U}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -1529,9 +1529,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b31a81e8-df0e-4540-93c1-c30c31ea9be9.jpg?1604200204"
     ],
-    "type_line": "Creature — Beast",
-    "oracle_text": "{T}: Add {G} or {U}.\nWhenever you cast a kicked spell, you gain 2 life.",
-    "mana_cost": "{1}{G}{U}",
+    "type": "Creature — Beast",
+    "text": "{T}: Add {G} or {U}.\nWhenever you cast a kicked spell, you gain 2 life.",
+    "mana": "{1}{G}{U}",
     "cmc": 3,
     "colors": ["G", "U"],
     "rarity": "uncommon",
@@ -1542,9 +1542,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/e/fe964e7e-e2c5-4263-889d-0a531eb51442.jpg?1604192525"
     ],
-    "type_line": "Creature — Human Cleric",
-    "oracle_text": "At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.",
-    "mana_cost": "{1}{W}",
+    "type": "Creature — Human Cleric",
+    "text": "At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "rare",
@@ -1555,9 +1555,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10a79733-702c-4611-b073-71db7f1158b2.jpg?1604194415"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {3}{U}\nEach opponent mills eight cards. If this spell was kicked, instead each opponent mills half their library, rounded up.",
-    "mana_cost": "{1}{U}",
+    "type": "Sorcery",
+    "text": "Kicker {3}{U}\nEach opponent mills eight cards. If this spell was kicked, instead each opponent mills half their library, rounded up.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "rare",
@@ -1568,9 +1568,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d8be6570-5b5f-4ffc-a5e5-67d7c41c8caa.jpg?1604197412"
     ],
-    "type_line": "Creature — Human Wizard",
-    "oracle_text": "As long as there are four or more instant and/or sorcery cards in your graveyard, Magmatic Channeler gets +3/+1.\n{T}, Discard a card: Exile the top two cards of your library, then choose one of them. You may play that card this turn.",
-    "mana_cost": "{1}{R}",
+    "type": "Creature — Human Wizard",
+    "text": "As long as there are four or more instant and/or sorcery cards in your graveyard, Magmatic Channeler gets +3/+1.\n{T}, Discard a card: Exile the top two cards of your library, then choose one of them. You may play that card this turn.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "rare",
@@ -1581,9 +1581,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fd0d164a-bce2-4474-abe0-b735eb6c9442.jpg?1604192569"
     ],
-    "type_line": "Creature — Ox",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls.",
-    "mana_cost": "{4}{W}",
+    "type": "Creature — Ox",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls.",
+    "mana": "{4}{W}",
     "cmc": 5,
     "colors": ["W"],
     "rarity": "common",
@@ -1595,9 +1595,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/d/ada9a974-8f1f-4148-bd61-200fc14714b2.jpg?1604192616",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/a/d/ada9a974-8f1f-4148-bd61-200fc14714b2.jpg?1604192616"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{3}{W}{W}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{3}{W}{W}",
     "cmc": 5,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -1608,9 +1608,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/d/3d14ea81-d303-47db-90b4-7d10588f7ea6.jpg?1604195930"
     ],
-    "type_line": "Creature — Vampire Cleric",
-    "oracle_text": "When Malakir Blood-Priest enters the battlefield, each opponent loses X life and you gain X life, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{1}{B}",
+    "type": "Creature — Vampire Cleric",
+    "text": "When Malakir Blood-Priest enters the battlefield, each opponent loses X life and you gain X life, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "common",
@@ -1622,9 +1622,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1604195984",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1604195984"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{B}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{B}",
     "cmc": 1,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -1635,9 +1635,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/730ddbcd-0814-4e22-85e9-78b0878324b6.jpg?1604195999"
     ],
-    "type_line": "Creature — Vampire Cleric",
-    "oracle_text": "Whenever you gain life, each opponent loses 1 life.",
-    "mana_cost": "{2}{B}",
+    "type": "Creature — Vampire Cleric",
+    "text": "Whenever you gain life, each opponent loses 1 life.",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "common",
@@ -1648,9 +1648,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0caaf92a-3d9d-4c52-acff-cf960ec55e47.jpg?1604194468"
     ],
-    "type_line": "Creature — Sphinx Wizard",
-    "oracle_text": "Flying\nWhen Master of Winds enters the battlefield, draw two cards, then discard a card.\nWhenever you cast an instant, sorcery, or Wizard spell, you may have Master of Winds's base power and toughness become 4/1 or 1/4 until end of turn.",
-    "mana_cost": "{2}{U}{U}",
+    "type": "Creature — Sphinx Wizard",
+    "text": "Flying\nWhen Master of Winds enters the battlefield, draw two cards, then discard a card.\nWhenever you cast an instant, sorcery, or Wizard spell, you may have Master of Winds's base power and toughness become 4/1 or 1/4 until end of turn.",
+    "mana": "{2}{U}{U}",
     "cmc": 4,
     "colors": ["U"],
     "rarity": "rare",
@@ -1661,9 +1661,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/1/f18f2608-0d44-442c-97a1-12ac94b7abac.jpg?1604192639"
     ],
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "When Maul of the Skyclaves enters the battlefield, attach it to target creature you control.\nEquipped creature gets +2/+2 and has flying and first strike.\nEquip {2}{W}{W}",
-    "mana_cost": "{2}{W}",
+    "type": "Artifact — Equipment",
+    "text": "When Maul of the Skyclaves enters the battlefield, attach it to target creature you control.\nEquipped creature gets +2/+2 and has flying and first strike.\nEquip {2}{W}{W}",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "rare",
@@ -1674,9 +1674,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/c/acb0d55a-9d6a-443d-aa82-5cea93188fd2.jpg?1604194490"
     ],
-    "type_line": "Creature — Merfolk Wizard",
-    "oracle_text": "Flying\nWhenever you cast a kicked spell, scry 2.",
-    "mana_cost": "{3}{U}{U}",
+    "type": "Creature — Merfolk Wizard",
+    "text": "Flying\nWhenever you cast a kicked spell, scry 2.",
+    "mana": "{3}{U}{U}",
     "cmc": 5,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -1687,9 +1687,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/112077b8-1514-4320-a70f-b23f3c7ce18a.jpg?1604194520"
     ],
-    "type_line": "Creature — Merfolk Rogue",
-    "oracle_text": "Flying\nWhenever Merfolk Windrobber deals combat damage to a player, that player mills a card. (They put the top card of their library into their graveyard.)\nSacrifice Merfolk Windrobber: Draw a card. Activate this ability only if an opponent has eight or more cards in their graveyard.",
-    "mana_cost": "{U}",
+    "type": "Creature — Merfolk Rogue",
+    "text": "Flying\nWhenever Merfolk Windrobber deals combat damage to a player, that player mills a card. (They put the top card of their library into their graveyard.)\nSacrifice Merfolk Windrobber: Draw a card. Activate this ability only if an opponent has eight or more cards in their graveyard.",
+    "mana": "{U}",
     "cmc": 1,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -1700,9 +1700,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f65af09b-656f-4d81-b95d-b4f902e56bb7.jpg?1604192681"
     ],
-    "type_line": "Creature — Cat",
-    "oracle_text": "As long as it's not your turn, Mesa Lynx gets +0/+2.",
-    "mana_cost": "{1}{W}",
+    "type": "Creature — Cat",
+    "text": "As long as it's not your turn, Mesa Lynx gets +0/+2.",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "common",
@@ -1713,9 +1713,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/2/42914fd9-e56e-4c3e-a445-fdfa45a45178.jpg?1604199153"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)\nTarget creature gets +3/+3 until end of turn. If this spell was kicked, that creature gets +5/+5 until end of turn instead.",
-    "mana_cost": "{1}{G}",
+    "type": "Instant",
+    "text": "Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)\nTarget creature gets +3/+3 until end of turn. If this spell was kicked, that creature gets +5/+5 until end of turn instead.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "common",
@@ -1726,9 +1726,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/105b6e18-bcd8-43b7-870d-6c7e5c06f99b.jpg?1604196057"
     ],
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "When Mind Carver enters the battlefield, attach it to target creature you control.\nEquipped creature gets +1/+0. It gets +3/+1 instead as long as an opponent has eight or more cards in their graveyard.\nEquip {2}{B}",
-    "mana_cost": "{B}",
+    "type": "Artifact — Equipment",
+    "text": "When Mind Carver enters the battlefield, attach it to target creature you control.\nEquipped creature gets +1/+0. It gets +3/+1 instead as long as an opponent has eight or more cards in their graveyard.\nEquip {2}{B}",
+    "mana": "{B}",
     "cmc": 1,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -1739,9 +1739,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/6/0683d586-a54b-425a-a24d-2efb2342f150.jpg?1604231429"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Target opponent discards two cards, mills a card, and loses 1 life. You gain 1 life. (To mill a card, a player puts the top card of their library into their graveyard.)",
-    "mana_cost": "{2}{B}",
+    "type": "Sorcery",
+    "text": "Target opponent discards two cards, mills a card, and loses 1 life. You gain 1 life. (To mill a card, a player puts the top card of their library into their graveyard.)",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "common",
@@ -1752,9 +1752,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb1beef2-788b-469b-883b-cf1cca04eeff.jpg?1604197442"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Choose one —\n• Molten Blast deals 2 damage to target creature or planeswalker.\n• Destroy target artifact.",
-    "mana_cost": "{2}{R}",
+    "type": "Instant",
+    "text": "Choose one —\n• Molten Blast deals 2 damage to target creature or planeswalker.\n• Destroy target artifact.",
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "common",
@@ -1765,9 +1765,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/cc5eacd7-aaa7-4720-9794-52e7b098c82c.jpg?1604197464"
     ],
-    "type_line": "Legendary Creature — Minotaur Warrior",
-    "oracle_text": "Each creature you control gets +1/+0 for each time it has attacked this turn.\nLandfall — Whenever a land enters the battlefield under your control, if it's your main phase, there's an additional combat phase after this phase. At the beginning of that combat, untap all creatures you control.",
-    "mana_cost": "{4}{R}{R}",
+    "type": "Legendary Creature — Minotaur Warrior",
+    "text": "Each creature you control gets +1/+0 for each time it has attacked this turn.\nLandfall — Whenever a land enters the battlefield under your control, if it's your main phase, there's an additional combat phase after this phase. At the beginning of that combat, untap all creatures you control.",
+    "mana": "{4}{R}{R}",
     "cmc": 6,
     "colors": ["R"],
     "rarity": "mythic",
@@ -1778,9 +1778,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/5/95a445dc-3aea-4281-a145-0ab3a28ec6c6.jpg?1604200221"
     ],
-    "type_line": "Creature — Plant Skeleton",
-    "oracle_text": "Kicker {3} (You may pay an additional {3} as you cast this spell)\nIf Moss-Pit Skeleton was kicked, it enters the battlefield with three +1/+1 counters on it.\nWhenever one or more +1/+1 counters are put on a creature you control, if Moss-Pit Skeleton is in your graveyard, you may put Moss-Pit Skeleton on top of your library.",
-    "mana_cost": "{B}{G}",
+    "type": "Creature — Plant Skeleton",
+    "text": "Kicker {3} (You may pay an additional {3} as you cast this spell)\nIf Moss-Pit Skeleton was kicked, it enters the battlefield with three +1/+1 counters on it.\nWhenever one or more +1/+1 counters are put on a creature you control, if Moss-Pit Skeleton is in your graveyard, you may put Moss-Pit Skeleton on top of your library.",
+    "mana": "{B}{G}",
     "cmc": 2,
     "colors": ["B", "G"],
     "rarity": "uncommon",
@@ -1791,9 +1791,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/c/3c6a38dd-e8f5-420f-9576-66937c71286b.jpg?1604203097"
     ],
-    "type_line": "Basic Land — Mountain",
-    "oracle_text": "({T}: Add {R}.)",
-    "mana_cost": "",
+    "type": "Basic Land — Mountain",
+    "text": "({T}: Add {R}.)",
+    "mana": "",
     "cmc": 0,
     "colors": ["R"],
     "rarity": "common",
@@ -1804,9 +1804,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/f/efe1c5b2-4356-41ae-ab7e-ad9fc835a911.jpg?1604199177"
     ],
-    "type_line": "Creature — Troll Warrior",
-    "oracle_text": "",
-    "mana_cost": "{2}{G}",
+    "type": "Creature — Troll Warrior",
+    "text": "",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "common",
@@ -1817,9 +1817,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e70b3b78-9bdc-449b-82a9-c2fc3dd7f120.jpg?1604200243"
     ],
-    "type_line": "Creature — Beast",
-    "oracle_text": "Vigilance\n{T}: You may put a basic land card from your hand onto the battlefield.\n{T}: Return target basic land you control to its owner's hand.",
-    "mana_cost": "{G}{W}",
+    "type": "Creature — Beast",
+    "text": "Vigilance\n{T}: You may put a basic land card from your hand onto the battlefield.\n{T}: Return target basic land you control to its owner's hand.",
+    "mana": "{G}{W}",
     "cmc": 2,
     "colors": ["G", "W"],
     "rarity": "uncommon",
@@ -1830,9 +1830,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/5/f53472b7-53da-4833-b7f9-204706dfb721.jpg?1604199192"
     ],
-    "type_line": "Creature — Plant Elemental",
-    "oracle_text": "Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)\nWhen Murasa Sproutling enters the battlefield, if it was kicked, return target card with a kicker ability from your graveyard to your hand.",
-    "mana_cost": "{2}{G}",
+    "type": "Creature — Plant Elemental",
+    "text": "Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)\nWhen Murasa Sproutling enters the battlefield, if it was kicked, return target card with a kicker ability from your graveyard to your hand.",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -1843,9 +1843,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/db9b1de4-9aba-4145-804d-2072f258af3b.jpg?1604200790"
     ],
-    "type_line": "Artifact Creature — Construct",
-    "oracle_text": "Kicker {3}\nIf Myriad Construct was kicked, it enters the battlefield with a +1/+1 counter on it for each nonbasic land your opponents control.\nWhen Myriad Construct becomes the target of a spell, sacrifice it and create a number of 1/1 colorless Construct artifact creature tokens equal to its power.",
-    "mana_cost": "{4}",
+    "type": "Artifact Creature — Construct",
+    "text": "Kicker {3}\nIf Myriad Construct was kicked, it enters the battlefield with a +1/+1 counter on it for each nonbasic land your opponents control.\nWhen Myriad Construct becomes the target of a spell, sacrifice it and create a number of 1/1 colorless Construct artifact creature tokens equal to its power.",
+    "mana": "{4}",
     "cmc": 4,
     "colors": [],
     "rarity": "rare",
@@ -1856,9 +1856,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/408be425-b8a6-4c03-b2a6-7ff7bd6555e0.jpg?1604200270"
     ],
-    "type_line": "Legendary Planeswalker — Nahiri",
-    "oracle_text": "+1: Create a 1/1 white Kor Warrior creature token. You may attach an Equipment you control to it.\n−2: Look at the top six cards of your library. You may reveal a Warrior or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n−3: Nahiri, Heir of the Ancients deals damage to target creature or planeswalker equal to twice the number of Equipment you control.",
-    "mana_cost": "{2}{R}{W}",
+    "type": "Legendary Planeswalker — Nahiri",
+    "text": "+1: Create a 1/1 white Kor Warrior creature token. You may attach an Equipment you control to it.\n−2: Look at the top six cards of your library. You may reveal a Warrior or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n−3: Nahiri, Heir of the Ancients deals damage to target creature or planeswalker equal to twice the number of Equipment you control.",
+    "mana": "{2}{R}{W}",
     "cmc": 4,
     "colors": ["R", "W"],
     "rarity": "mythic",
@@ -1869,9 +1869,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/2/421eac28-d6f2-44f2-b7ca-eb73fbf23887.jpg?1604192763"
     ],
-    "type_line": "Enchantment — Aura",
-    "oracle_text": "Enchant creature or planeswalker\nEnchanted permanent can't attack or block, and its activated abilities can't be activated.",
-    "mana_cost": "{1}{W}{W}",
+    "type": "Enchantment — Aura",
+    "text": "Enchant creature or planeswalker\nEnchanted permanent can't attack or block, and its activated abilities can't be activated.",
+    "mana": "{1}{W}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "common",
@@ -1882,9 +1882,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/6/06bb4bc1-6ef9-4015-9f5f-36f51dbac87e.jpg?1604197501"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Sacrifice X lands. For each land sacrificed this way, draw a card. You may play X additional lands this turn. Lands you control enter the battlefield tapped this turn.",
-    "mana_cost": "{X}{R}{R}",
+    "type": "Sorcery",
+    "text": "Sacrifice X lands. For each land sacrificed this way, draw a card. You may play X additional lands this turn. Lands you control enter the battlefield tapped this turn.",
+    "mana": "{X}{R}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "rare",
@@ -1896,9 +1896,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1604264370",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1604264370"
     ],
-    "type_line": "Land // Land",
-    "oracle_text": {},
-    "mana_cost": "",
+    "type": "Land // Land",
+    "text": {},
+    "mana": "",
     "cmc": 0,
     "colors": ["R", "W"],
     "rarity": "rare",
@@ -1909,9 +1909,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/9/e92c7477-d453-4fa4-acf4-3835ab9eb55a.jpg?1604194548"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Counter target noncreature spell.",
-    "mana_cost": "{1}{U}",
+    "type": "Instant",
+    "text": "Counter target noncreature spell.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "common",
@@ -1922,9 +1922,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/b/eb348f07-1d48-4877-8a56-60655d64a3f7.jpg?1604231416"
     ],
-    "type_line": "Creature — Vampire Rogue",
-    "oracle_text": "Flying, deathtouch, lifelink\nNighthawk Scavenger's power is equal to 1 plus the number of card types among cards in your opponents' graveyards. (Cards in graveyards have only the characteristics of their front face.)",
-    "mana_cost": "{1}{B}{B}",
+    "type": "Creature — Vampire Rogue",
+    "text": "Flying, deathtouch, lifelink\nNighthawk Scavenger's power is equal to 1 plus the number of card types among cards in your opponents' graveyards. (Cards in graveyards have only the characteristics of their front face.)",
+    "mana": "{1}{B}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "rare",
@@ -1935,9 +1935,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/a/ea080141-6262-4595-8058-b2969b3f016b.jpg?1604196156"
     ],
-    "type_line": "Creature — Human Rogue",
-    "oracle_text": "As long as an opponent has eight or more cards in their graveyard, Nimana Skitter-Sneak gets +1/+0 and has menace. (It can't be blocked except by two or more creatures.)",
-    "mana_cost": "{3}{B}",
+    "type": "Creature — Human Rogue",
+    "text": "As long as an opponent has eight or more cards in their graveyard, Nimana Skitter-Sneak gets +1/+0 and has menace. (It can't be blocked except by two or more creatures.)",
+    "mana": "{3}{B}",
     "cmc": 4,
     "colors": ["B"],
     "rarity": "common",
@@ -1948,9 +1948,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e72eaa0f-cbec-45a1-b390-cbbedf5a02f2.jpg?1604196242"
     ],
-    "type_line": "Creature — Human Rogue",
-    "oracle_text": "Flash\nFlying\nWhen Nimana Skydancer enters the battlefield, target opponent mills two cards. (They put the top two cards of their library into their graveyard.)",
-    "mana_cost": "{2}{B}",
+    "type": "Creature — Human Rogue",
+    "text": "Flash\nFlying\nWhen Nimana Skydancer enters the battlefield, target opponent mills two cards. (They put the top two cards of their library into their graveyard.)",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "common",
@@ -1961,9 +1961,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1ee1a550-b7e7-48e0-bd96-a41986dbd879.jpg?1604194598"
     ],
-    "type_line": "Creature — Human Rogue",
-    "oracle_text": "Nimble Trapfinder can't be blocked if you had another Cleric, Rogue, Warrior, or Wizard enter the battlefield under your control this turn.\nAt the beginning of combat on your turn, if you have a full party, creatures you control gain \"Whenever this creature deals combat damage to a player, draw a card\" until end of turn.",
-    "mana_cost": "{1}{U}",
+    "type": "Creature — Human Rogue",
+    "text": "Nimble Trapfinder can't be blocked if you had another Cleric, Rogue, Warrior, or Wizard enter the battlefield under your control this turn.\nAt the beginning of combat on your turn, if you have a full party, creatures you control gain \"Whenever this creature deals combat damage to a player, draw a card\" until end of turn.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "rare",
@@ -1974,9 +1974,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6d69f943-d474-47c0-bc6b-1b247a5dd6f3.jpg?1604200305"
     ],
-    "type_line": "Legendary Planeswalker — Nissa",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, put a loyalty counter on Nissa of Shadowed Boughs.\n+1: Untap target land you control. You may have it become a 3/3 Elemental creature with haste and menace until end of turn. It's still a land.\n−5: You may put a creature card with converted mana cost less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it.",
-    "mana_cost": "{2}{B}{G}",
+    "type": "Legendary Planeswalker — Nissa",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, put a loyalty counter on Nissa of Shadowed Boughs.\n+1: Untap target land you control. You may have it become a 3/3 Elemental creature with haste and menace until end of turn. It's still a land.\n−5: You may put a creature card with converted mana cost less than or equal to the number of lands you control onto the battlefield from your hand or graveyard with two +1/+1 counters on it.",
+    "mana": "{2}{B}{G}",
     "cmc": 4,
     "colors": ["B", "G"],
     "rarity": "mythic",
@@ -1987,9 +1987,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fd37ea0e-ff72-4522-aa5b-d46bff832a34.jpg?1604199233"
     ],
-    "type_line": "Enchantment — Aura",
-    "oracle_text": "Enchant land\nEnchanted land is a 4/4 Elemental creature with reach and haste. It's still a land.\nWhen enchanted land dies, return that card to its owner's hand.",
-    "mana_cost": "{3}{G}",
+    "type": "Enchantment — Aura",
+    "text": "Enchant land\nEnchanted land is a 4/4 Elemental creature with reach and haste. It's still a land.\nWhen enchanted land dies, return that card to its owner's hand.",
+    "mana": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
     "rarity": "common",
@@ -2000,9 +2000,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/086fc7fb-efcf-4676-8455-39b63edaec6a.jpg?1604196265"
     ],
-    "type_line": "Creature — Vampire Cleric",
-    "oracle_text": "Kicker {3}{B}\nMenace, lifelink\nWhen Nullpriest of Oblivion enters the battlefield, if it was kicked, return target creature card from your graveyard to the battlefield.",
-    "mana_cost": "{1}{B}",
+    "type": "Creature — Vampire Cleric",
+    "text": "Kicker {3}{B}\nMenace, lifelink\nWhen Nullpriest of Oblivion enters the battlefield, if it was kicked, return target creature card from your graveyard to the battlefield.",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "rare",
@@ -2013,9 +2013,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/faf65512-8228-48f4-ba7b-d861b66d28c9.jpg?1604196298"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say \"destroy\" don't destroy that creature.)",
-    "mana_cost": "{1}{B}",
+    "type": "Instant",
+    "text": "Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say \"destroy\" don't destroy that creature.)",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "common",
@@ -2026,9 +2026,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1604264252"
     ],
-    "type_line": "Legendary Creature — Elemental",
-    "oracle_text": "When Omnath, Locus of Creation enters the battlefield, draw a card.\nLandfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add {R}{G}{W}{U}. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.",
-    "mana_cost": "{R}{G}{W}{U}",
+    "type": "Legendary Creature — Elemental",
+    "text": "When Omnath, Locus of Creation enters the battlefield, draw a card.\nLandfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add {R}{G}{W}{U}. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.",
+    "mana": "{R}{G}{W}{U}",
     "cmc": 4,
     "colors": ["G", "R", "U", "W"],
     "rarity": "mythic",
@@ -2040,9 +2040,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b6e6be8c-41c3-4348-a8dd-b40ceb24e9b4.jpg?1604243286",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/b/6/b6e6be8c-41c3-4348-a8dd-b40ceb24e9b4.jpg?1604243286"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{6}{W}{W}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{6}{W}{W}",
     "cmc": 8,
     "colors": ["W"],
     "rarity": "rare",
@@ -2053,9 +2053,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/2336c8bf-fcad-41f9-9041-80b8aa3cd79a.jpg?1604200370"
     ],
-    "type_line": "Legendary Creature — Kor Cleric",
-    "oracle_text": "Lifelink\nWhenever Orah, Skyclave Hierophant or another Cleric you control dies, return target Cleric card with lesser converted mana cost from your graveyard to the battlefield.",
-    "mana_cost": "{2}{W}{B}",
+    "type": "Legendary Creature — Kor Cleric",
+    "text": "Lifelink\nWhenever Orah, Skyclave Hierophant or another Cleric you control dies, return target Cleric card with lesser converted mana cost from your graveyard to the battlefield.",
+    "mana": "{2}{W}{B}",
     "cmc": 4,
     "colors": ["B", "W"],
     "rarity": "rare",
@@ -2066,9 +2066,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fd2ad967-dd77-4c3a-b53c-2929ecf7750f.jpg?1604199256"
     ],
-    "type_line": "Creature — Ooze",
-    "oracle_text": "When Oran-Rief Ooze enters the battlefield, put a +1/+1 counter on target creature you control.\nWhenever Oran-Rief Ooze attacks, put a +1/+1 counter on each attacking creature with a +1/+1 counter on it.",
-    "mana_cost": "{2}{G}",
+    "type": "Creature — Ooze",
+    "text": "When Oran-Rief Ooze enters the battlefield, put a +1/+1 counter on target creature you control.\nWhenever Oran-Rief Ooze attacks, put a +1/+1 counter on each attacking creature with a +1/+1 counter on it.",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "rare",
@@ -2079,9 +2079,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/7/67930e10-4de8-4d40-af27-4a38d35ab16f.jpg?1604192873"
     ],
-    "type_line": "Creature — Human Warrior",
-    "oracle_text": "Whenever Paired Tactician and at least one other Warrior attack, put a +1/+1 counter on Paired Tactician.",
-    "mana_cost": "{2}{W}",
+    "type": "Creature — Human Warrior",
+    "text": "Whenever Paired Tactician and at least one other Warrior attack, put a +1/+1 counter on Paired Tactician.",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -2093,9 +2093,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/e/6/e63f8b20-f45b-4293-9aac-cdc021939be6.jpg?1604231397"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{B}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -2106,9 +2106,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e7af88c9-70ca-484c-bddf-b705e0ea7bc7.jpg?1604200396"
     ],
-    "type_line": "Legendary Creature — Elemental",
-    "oracle_text": "When Phylath, World Sculptor enters the battlefield, create a 0/1 green Plant creature token for each basic land you control.\nLandfall — Whenever a land enters the battlefield under your control, put four +1/+1 counters on target Plant you control.",
-    "mana_cost": "{4}{R}{G}",
+    "type": "Legendary Creature — Elemental",
+    "text": "When Phylath, World Sculptor enters the battlefield, create a 0/1 green Plant creature token for each basic land you control.\nLandfall — Whenever a land enters the battlefield under your control, put four +1/+1 counters on target Plant you control.",
+    "mana": "{4}{R}{G}",
     "cmc": 6,
     "colors": ["G", "R"],
     "rarity": "rare",
@@ -2119,9 +2119,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/ae92e656-6c9d-48c3-a238-5a11c2c62ec8.jpg?1604203024"
     ],
-    "type_line": "Basic Land — Plains",
-    "oracle_text": "({T}: Add {W}.)",
-    "mana_cost": "",
+    "type": "Basic Land — Plains",
+    "text": "({T}: Add {W}.)",
+    "mana": "",
     "cmc": 0,
     "colors": ["W"],
     "rarity": "common",
@@ -2132,9 +2132,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/1/91b448f4-aa0c-42c7-a771-e8dd20e0520c.jpg?1604192922"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Choose target attacking or blocking creature. Practiced Tactics deals damage to that creature equal to twice the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{W}",
+    "type": "Instant",
+    "text": "Choose target attacking or blocking creature. Practiced Tactics deals damage to that creature equal to twice the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{W}",
     "cmc": 1,
     "colors": ["W"],
     "rarity": "common",
@@ -2145,9 +2145,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/f/2fe82bbf-9b92-4684-a42d-fbc50c4c5903.jpg?1604192958"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Tap target creature.\nDraw a card.",
-    "mana_cost": "{1}{W}",
+    "type": "Instant",
+    "text": "Tap target creature.\nDraw a card.",
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "common",
@@ -2158,9 +2158,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/9/b9d1c11a-a32c-449c-95c6-450dce6c26d2.jpg?1604193011"
     ],
-    "type_line": "Creature — Cat Beast",
-    "oracle_text": "Vigilance\nLandfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Prowling Felidar.",
-    "mana_cost": "{3}{W}",
+    "type": "Creature — Cat Beast",
+    "text": "Vigilance\nLandfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Prowling Felidar.",
+    "mana": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
     "rarity": "common",
@@ -2171,9 +2171,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/5929c89b-8c61-47f5-a8ec-b64bf41e9d5b.jpg?1604263001"
     ],
-    "type_line": "Creature — Hellion",
-    "oracle_text": "When Pyroclastic Hellion enters the battlefield, you may return a land you control to its owner's hand. When you do, Pyroclastic Hellion deals 2 damage to each opponent.",
-    "mana_cost": "{4}{R}",
+    "type": "Creature — Hellion",
+    "text": "When Pyroclastic Hellion enters the battlefield, you may return a land you control to its owner's hand. When you do, Pyroclastic Hellion deals 2 damage to each opponent.",
+    "mana": "{4}{R}",
     "cmc": 5,
     "colors": ["R"],
     "rarity": "common",
@@ -2184,9 +2184,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/f/effe3fab-6d13-4603-8a21-8a3c2a0d9e08.jpg?1604199283"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Target creature you control deals damage equal to its power to target creature you don't control.",
-    "mana_cost": "{1}{G}",
+    "type": "Sorcery",
+    "text": "Target creature you control deals damage equal to its power to target creature you don't control.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "common",
@@ -2197,9 +2197,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/f/af484140-57d6-4505-9960-5e7b0306cc9b.jpg?1604200419"
     ],
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "When Ravager's Mace enters the battlefield, attach it to target creature you control.\nEquipped creature gets +1/+0 for each creature in your party and has menace. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nEquip {2}{B}{R}",
-    "mana_cost": "{1}{B}{R}",
+    "type": "Artifact — Equipment",
+    "text": "When Ravager's Mace enters the battlefield, attach it to target creature you control.\nEquipped creature gets +1/+0 for each creature in your party and has menace. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nEquip {2}{B}{R}",
+    "mana": "{1}{B}{R}",
     "cmc": 3,
     "colors": ["B", "R"],
     "rarity": "uncommon",
@@ -2210,9 +2210,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/0/805faf2e-97dc-4b77-bc02-a4cae980f041.jpg?1604199307"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle your library. If this spell was kicked, search your library for two basic land cards instead of one.",
-    "mana_cost": "{G}",
+    "type": "Sorcery",
+    "text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle your library. If this spell was kicked, search your library for two basic land cards instead of one.",
+    "mana": "{G}",
     "cmc": 1,
     "colors": ["G"],
     "rarity": "common",
@@ -2223,9 +2223,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0ab97a84-fe8c-4986-afd8-3abdcc029f7f.jpg?1604200828"
     ],
-    "type_line": "Artifact",
-    "oracle_text": "Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on Relic Amulet.\n{2}, {T}, Remove all charge counters from Relic Amulet: It deals that much damage to target creature.",
-    "mana_cost": "{2}",
+    "type": "Artifact",
+    "text": "Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on Relic Amulet.\n{2}, {T}, Remove all charge counters from Relic Amulet: It deals that much damage to target creature.",
+    "mana": "{2}",
     "cmc": 2,
     "colors": [],
     "rarity": "uncommon",
@@ -2236,9 +2236,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/ca8705e3-0e44-45c9-bcdf-c24507b038fe.jpg?1604200848"
     ],
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "When Relic Axe enters the battlefield, attach it to target creature you control.\nEquipped creature gets +1/+1. If it's a Warrior, it gets +2/+1 instead.\nEquip {2}",
-    "mana_cost": "{2}",
+    "type": "Artifact — Equipment",
+    "text": "When Relic Axe enters the battlefield, attach it to target creature you control.\nEquipped creature gets +1/+1. If it's a Warrior, it gets +2/+1 instead.\nEquip {2}",
+    "mana": "{2}",
     "cmc": 2,
     "colors": [],
     "rarity": "uncommon",
@@ -2249,9 +2249,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/b/0b59c75b-d8f8-4f95-9030-ed73c67d988e.jpg?1604200875"
     ],
-    "type_line": "Artifact Creature — Golem",
-    "oracle_text": "Relic Golem can't attack or block unless an opponent has eight or more cards in their graveyard.\n{2}, {T}: Target player mills two cards. (They put the top two cards of their library into their graveyard.)",
-    "mana_cost": "{3}",
+    "type": "Artifact Creature — Golem",
+    "text": "Relic Golem can't attack or block unless an opponent has eight or more cards in their graveyard.\n{2}, {T}: Target player mills two cards. (They put the top two cards of their library into their graveyard.)",
+    "mana": "{3}",
     "cmc": 3,
     "colors": [],
     "rarity": "uncommon",
@@ -2262,9 +2262,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/4540205c-eee8-4db3-8757-710de874b313.jpg?1604197560"
     ],
-    "type_line": "Creature — Goblin Rogue",
-    "oracle_text": "Haste\nWhenever Relic Robber deals combat damage to a player, that player creates a 0/1 colorless Goblin Construct artifact creature token with \"This creature can't block\" and \"At the beginning of your upkeep, this creature deals 1 damage to you.\"",
-    "mana_cost": "{2}{R}",
+    "type": "Creature — Goblin Rogue",
+    "text": "Haste\nWhenever Relic Robber deals combat damage to a player, that player creates a 0/1 colorless Goblin Construct artifact creature token with \"This creature can't block\" and \"At the beginning of your upkeep, this creature deals 1 damage to you.\"",
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "rare",
@@ -2275,9 +2275,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/b/4b9ae607-e0bc-4415-ad58-65944848bbe9.jpg?1604200900"
     ],
-    "type_line": "Artifact",
-    "oracle_text": "{2}, {T}, Sacrifice a creature: Draw a card.\nAs long as you control a Cleric, Relic Vial has \"Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.\"",
-    "mana_cost": "{3}",
+    "type": "Artifact",
+    "text": "{2}, {T}, Sacrifice a creature: Draw a card.\nAs long as you control a Cleric, Relic Vial has \"Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.\"",
+    "mana": "{3}",
     "cmc": 3,
     "colors": [],
     "rarity": "uncommon",
@@ -2288,9 +2288,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/8/78b82476-4320-4719-9785-af8d68503234.jpg?1604193042"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Target creature gets +2/+2 until end of turn. If it's a Warrior, you may attach an Equipment you control to it.",
-    "mana_cost": "{W}",
+    "type": "Instant",
+    "text": "Target creature gets +2/+2 until end of turn. If it's a Warrior, you may attach an Equipment you control to it.",
+    "mana": "{W}",
     "cmc": 1,
     "colors": ["W"],
     "rarity": "common",
@@ -2301,9 +2301,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f6455009-030c-4a33-a60b-80863d8f8aaf.jpg?1604194618"
     ],
-    "type_line": "Creature — Elemental",
-    "oracle_text": "Whenever you cast a kicked spell, Risen Riptide has base power and toughness 5/5 until end of turn.",
-    "mana_cost": "{2}{U}",
+    "type": "Creature — Elemental",
+    "text": "Whenever you cast a kicked spell, Risen Riptide has base power and toughness 5/5 until end of turn.",
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "common",
@@ -2315,9 +2315,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1604867502",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1604867502"
     ],
-    "type_line": "Land // Land",
-    "oracle_text": {},
-    "mana_cost": "",
+    "type": "Land // Land",
+    "text": {},
+    "mana": "",
     "cmc": 0,
     "colors": ["R", "U"],
     "rarity": "rare",
@@ -2328,9 +2328,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/1/e105c546-ce4f-49c7-97ba-ea5fbe70df82.jpg?1604197586"
     ],
-    "type_line": "Creature — Human Wizard",
-    "oracle_text": "Whenever you cast an instant, sorcery, or Wizard spell, Rockslide Sorcerer deals 1 damage to any target.",
-    "mana_cost": "{3}{R}",
+    "type": "Creature — Human Wizard",
+    "text": "Whenever you cast an instant, sorcery, or Wizard spell, Rockslide Sorcerer deals 1 damage to any target.",
+    "mana": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -2341,9 +2341,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/86572747-8faa-4242-b059-07d11e6be1cd.jpg?1604197631"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {5} (You may pay an additional {5} as you cast this spell.)\nRoil Eruption deals 3 damage to any target. If this spell was kicked, it deals 5 damage instead.",
-    "mana_cost": "{1}{R}",
+    "type": "Sorcery",
+    "text": "Kicker {5} (You may pay an additional {5} as you cast this spell.)\nRoil Eruption deals 3 damage to any target. If this spell was kicked, it deals 5 damage instead.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -2354,9 +2354,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/fa259096-b24f-414c-af59-301bed4b4627.jpg?1604263848"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.",
-    "mana_cost": "{2}{G}",
+    "type": "Instant",
+    "text": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -2367,9 +2367,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/b/0b057eb7-8439-4d26-89df-c345ab2773e1.jpg?1604197684"
     ],
-    "type_line": "Enchantment",
-    "oracle_text": "At the beginning of each player's upkeep, Roiling Vortex deals 1 damage to them.\nWhenever a player casts a spell, if no mana was spent to cast that spell, Roiling Vortex deals 5 damage to that player.\n{R}: Your opponents can't gain life this turn.",
-    "mana_cost": "{1}{R}",
+    "type": "Enchantment",
+    "text": "At the beginning of each player's upkeep, Roiling Vortex deals 1 damage to them.\nWhenever a player casts a spell, if no mana was spent to cast that spell, Roiling Vortex deals 5 damage to that player.\n{R}: Your opponents can't gain life this turn.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "rare",
@@ -2380,9 +2380,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/ba1240d4-dbd0-483b-934a-5f7c505fad42.jpg?1604194640"
     ],
-    "type_line": "Enchantment",
-    "oracle_text": "Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nWhen Roost of Drakes enters the battlefield, if it was kicked, create a 2/2 blue Drake creature token with flying.\nWhenever you cast a kicked spell, create a 2/2 blue Drake creature token with flying.",
-    "mana_cost": "{U}",
+    "type": "Enchantment",
+    "text": "Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nWhen Roost of Drakes enters the battlefield, if it was kicked, create a 2/2 blue Drake creature token with flying.\nWhenever you cast a kicked spell, create a 2/2 blue Drake creature token with flying.",
+    "mana": "{U}",
     "cmc": 1,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -2393,9 +2393,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/738ce273-c938-42d2-83b2-c4f5f4000b0b.jpg?1604194671"
     ],
-    "type_line": "Creature — Crab",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, each opponent mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)",
-    "mana_cost": "{U}",
+    "type": "Creature — Crab",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, each opponent mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)",
+    "mana": "{U}",
     "cmc": 1,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -2406,9 +2406,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e781d6ad-950e-49bf-9645-e2354086ae49.jpg?1604199378"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Put a +1/+1 counter on up to one target creature. You gain 2 life. You may play an additional land this turn.\nDraw a card.",
-    "mana_cost": "{2}{G}",
+    "type": "Sorcery",
+    "text": "Put a +1/+1 counter on up to one target creature. You gain 2 life. You may play an additional land this turn.\nDraw a card.",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "common",
@@ -2419,9 +2419,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/3280f0d0-de0d-4f87-a6ef-c941cb7c9784.jpg?1604197699"
     ],
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "When Scavenged Blade enters the battlefield, attach it to target creature you control.\nEquipped creature gets +2/+0.\nEquip {2}{R} ({2}{R}: Attach to target creature you control. Equip only as a sorcery.)",
-    "mana_cost": "{1}{R}",
+    "type": "Artifact — Equipment",
+    "text": "When Scavenged Blade enters the battlefield, attach it to target creature you control.\nEquipped creature gets +2/+0.\nEquip {2}{R} ({2}{R}: Attach to target creature you control. Equip only as a sorcery.)",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -2432,9 +2432,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/4/043926fe-d25f-40b4-b556-181503434e68.jpg?1604196403"
     ],
-    "type_line": "Creature — Vampire Cleric",
-    "oracle_text": "Flying\nWhenever you gain life, put a +1/+1 counter on Scion of the Swarm.",
-    "mana_cost": "{3}{B}{B}",
+    "type": "Creature — Vampire Cleric",
+    "text": "Flying\nWhenever you gain life, put a +1/+1 counter on Scion of the Swarm.",
+    "mana": "{3}{B}{B}",
     "cmc": 5,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -2445,9 +2445,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9ec9d3eb-4729-49a9-8146-7388ff2629df.jpg?1604197733"
     ],
-    "type_line": "Creature — Human Warrior",
-    "oracle_text": "Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nWhen Scorch Rider enters the battlefield, if it was kicked, it gains haste until end of turn.",
-    "mana_cost": "{3}{R}",
+    "type": "Creature — Human Warrior",
+    "text": "Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nWhen Scorch Rider enters the battlefield, if it was kicked, it gains haste until end of turn.",
+    "mana": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
     "rarity": "common",
@@ -2458,9 +2458,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/d/4dea7bcc-3ff8-40b0-8264-0cd678d6ff31.jpg?1604196425"
     ],
-    "type_line": "Creature — Demon",
-    "oracle_text": "Kicker {4}{B}\nWhen you cast this spell, if it was kicked, each player loses half their life, rounded up.\nScourge of the Skyclaves's power and toughness are each equal to 20 minus the highest life total among players.",
-    "mana_cost": "{1}{B}",
+    "type": "Creature — Demon",
+    "text": "Kicker {4}{B}\nWhen you cast this spell, if it was kicked, each player loses half their life, rounded up.\nScourge of the Skyclaves's power and toughness are each equal to 20 minus the highest life total among players.",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "mythic",
@@ -2471,9 +2471,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/1/61f42823-8a48-4b81-a037-664ba1c69f29.jpg?1604199402"
     ],
-    "type_line": "Creature — Insect",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, create a 1/1 green Insect creature token. If you control six or more lands, create a token that's a copy of Scute Swarm instead.",
-    "mana_cost": "{2}{G}",
+    "type": "Creature — Insect",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, create a 1/1 green Insect creature token. If you control six or more lands, create a token that's a copy of Scute Swarm instead.",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "rare",
@@ -2484,9 +2484,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/985e9696-6c76-4241-97fc-f166fe2420ce.jpg?1604231466"
     ],
-    "type_line": "Creature — Merfolk Rogue",
-    "oracle_text": "{4}{U}: Seafloor Stalker gets +1/+0 until end of turn and can't be blocked this turn. This ability costs {1} less to activate for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{2}{U}",
+    "type": "Creature — Merfolk Rogue",
+    "text": "{4}{U}: Seafloor Stalker gets +1/+0 until end of turn and can't be blocked this turn. This ability costs {1} less to activate for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "common",
@@ -2497,9 +2497,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6ae4634e-1487-4b66-8f70-bcb4b1fa6e77.jpg?1604193084"
     ],
-    "type_line": "Creature — Kor Warrior",
-    "oracle_text": "{4}{W}: Creatures you control get +1/+1 until end of turn.",
-    "mana_cost": "{W}",
+    "type": "Creature — Kor Warrior",
+    "text": "{4}{W}: Creatures you control get +1/+1 until end of turn.",
+    "mana": "{W}",
     "cmc": 1,
     "colors": ["W"],
     "rarity": "common",
@@ -2510,9 +2510,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/0/b04fd8e8-ee8d-4cb7-87ab-955303c46ece.jpg?1604346390"
     ],
-    "type_line": "Artifact Creature — Golem Warrior",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{7}",
+    "type": "Artifact Creature — Golem Warrior",
+    "text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{7}",
     "cmc": 7,
     "colors": [],
     "rarity": "common",
@@ -2524,9 +2524,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/193071fe-180b-4d35-ba78-9c16675c29fc.jpg?1604250788",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/1/9/193071fe-180b-4d35-ba78-9c16675c29fc.jpg?1604250788"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{4}{U}{U}{U}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{4}{U}{U}{U}",
     "cmc": 7,
     "colors": ["U"],
     "rarity": "mythic",
@@ -2537,9 +2537,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1e14e677-9bfa-4bcc-9772-8e7758d7538a.jpg?1604194815"
     ],
-    "type_line": "Creature — Human Wizard",
-    "oracle_text": "Kicker {4}{U}\nWhen Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with converted mana cost 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies.",
-    "mana_cost": "{1}{U}",
+    "type": "Creature — Human Wizard",
+    "text": "Kicker {4}{U}\nWhen Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with converted mana cost 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "mythic",
@@ -2551,9 +2551,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f25d56f9-aa54-4657-9ac9-e93fbba3e715.jpg?1604193214",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/f/2/f25d56f9-aa54-4657-9ac9-e93fbba3e715.jpg?1604193214"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{1}{W}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -2564,9 +2564,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/9/093e0b1e-2cd9-4743-9c0e-b8f3fbc41798.jpg?1604196460"
     ],
-    "type_line": "Creature — Vampire Rogue",
-    "oracle_text": "Tap another untapped Rogue you control: Shadow Stinger gains deathtouch until end of turn.\nWhenever Shadow Stinger deals combat damage to a player, that player mills three cards. (They put the top three cards of their library into their graveyard.)",
-    "mana_cost": "{2}{B}",
+    "type": "Creature — Vampire Rogue",
+    "text": "Tap another untapped Rogue you control: Shadow Stinger gains deathtouch until end of turn.\nWhenever Shadow Stinger deals combat damage to a player, that player mills three cards. (They put the top three cards of their library into their graveyard.)",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -2577,9 +2577,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52470883-b44d-415b-9324-8074e66f79ae.jpg?1604196514"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Exile all creatures and all planeswalkers with converted mana cost 3 or less from the battlefield and all creature and planeswalker cards with converted mana cost 3 or less from all graveyards.",
-    "mana_cost": "{3}{B}{B}",
+    "type": "Sorcery",
+    "text": "Exile all creatures and all planeswalkers with converted mana cost 3 or less from the battlefield and all creature and planeswalker cards with converted mana cost 3 or less from all graveyards.",
+    "mana": "{3}{B}{B}",
     "cmc": 5,
     "colors": ["B"],
     "rarity": "rare",
@@ -2590,9 +2590,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/c/6c6d6bc3-2162-4c2b-a5de-25103e706e37.jpg?1604197751"
     ],
-    "type_line": "Creature — Giant Warrior",
-    "oracle_text": "Kicker {2}\nTrample, haste\nIf Shatterskull Charger was kicked, it enters the battlefield with a +1/+1 counter on it.\nAt the beginning of your end step, if Shatterskull Charger doesn't have a +1/+1 counter on it, return it to its owner's hand.",
-    "mana_cost": "{1}{R}{R}",
+    "type": "Creature — Giant Warrior",
+    "text": "Kicker {2}\nTrample, haste\nIf Shatterskull Charger was kicked, it enters the battlefield with a +1/+1 counter on it.\nAt the beginning of your end step, if Shatterskull Charger doesn't have a +1/+1 counter on it, return it to its owner's hand.",
+    "mana": "{1}{R}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "rare",
@@ -2603,9 +2603,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/d/9d311f5f-ad68-48d4-aa5d-66916034ddb9.jpg?1604197791"
     ],
-    "type_line": "Creature — Minotaur Warrior",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nHaste",
-    "mana_cost": "{4}{R}{R}",
+    "type": "Creature — Minotaur Warrior",
+    "text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nHaste",
+    "mana": "{4}{R}{R}",
     "cmc": 6,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -2617,9 +2617,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bc7239ea-f8aa-4a6f-87bd-c35359635673.jpg?1604197844",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/b/c/bc7239ea-f8aa-4a6f-87bd-c35359635673.jpg?1604197844"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{X}{R}{R}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{X}{R}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "mythic",
@@ -2630,9 +2630,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/d/3daede39-8eef-4272-a483-312dbd2dd30f.jpg?1604194867"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Kicker {1} (You may pay an additional {1} as you cast this spell.)\nTarget creature you control gets +0/+3 until end of turn. If this spell was kicked, that creature also gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
-    "mana_cost": "{U}",
+    "type": "Instant",
+    "text": "Kicker {1} (You may pay an additional {1} as you cast this spell.)\nTarget creature you control gets +0/+3 until end of turn. If this spell was kicked, that creature also gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
+    "mana": "{U}",
     "cmc": 1,
     "colors": ["U"],
     "rarity": "common",
@@ -2643,9 +2643,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/f/1f70baa3-5232-4e10-80b4-a9ead6ed6ec3.jpg?1604235790"
     ],
-    "type_line": "Creature — Angel Cleric",
-    "oracle_text": "Flying\nWhen Shepherd of Heroes enters the battlefield, you gain 2 life for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{4}{W}",
+    "type": "Creature — Angel Cleric",
+    "text": "Flying\nWhen Shepherd of Heroes enters the battlefield, you gain 2 life for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{4}{W}",
     "cmc": 5,
     "colors": ["W"],
     "rarity": "common",
@@ -2657,9 +2657,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/11568cdf-6148-494c-8b98-f5ca5797d775.jpg?1604194924",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/1/1/11568cdf-6148-494c-8b98-f5ca5797d775.jpg?1604194924"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{U}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -2670,9 +2670,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/b/1bf5843a-a01f-4d1c-b8fe-c586d5160f6e.jpg?1604197870"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Sizzling Barrage deals 4 damage to target creature that blocked this turn.",
-    "mana_cost": "{1}{R}",
+    "type": "Instant",
+    "text": "Sizzling Barrage deals 4 damage to target creature that blocked this turn.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -2683,9 +2683,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b83cfbaa-7890-4f6f-878b-4edb45677371.jpg?1604193295"
     ],
-    "type_line": "Creature — Kor Spirit",
-    "oracle_text": "When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with converted mana cost 4 or less.\nWhen Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the converted mana cost of the exiled card.",
-    "mana_cost": "{1}{W}{W}",
+    "type": "Creature — Kor Spirit",
+    "text": "When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with converted mana cost 4 or less.\nWhen Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the converted mana cost of the exiled card.",
+    "mana": "{1}{W}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "rare",
@@ -2697,9 +2697,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/014027c4-7f9d-4096-b308-ea4be574c0d4.jpg?1604243887",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/0/1/014027c4-7f9d-4096-b308-ea4be574c0d4.jpg?1604243887"
     ],
-    "type_line": "Creature — Kor Cleric // Land",
-    "oracle_text": {},
-    "mana_cost": "{1}{W}",
+    "type": "Creature — Kor Cleric // Land",
+    "text": {},
+    "mana": "{1}{W}",
     "cmc": 2,
     "colors": ["W"],
     "rarity": "uncommon",
@@ -2710,9 +2710,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/db9103c9-084f-4ad2-8b7b-ca52be97619d.jpg?1604197899"
     ],
-    "type_line": "Creature — Insect",
-    "oracle_text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, Skyclave Geopede gets +2/+2 until end of turn.",
-    "mana_cost": "{2}{R}",
+    "type": "Creature — Insect",
+    "text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, Skyclave Geopede gets +2/+2 until end of turn.",
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -2723,9 +2723,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/9965a54b-8b22-418c-9a0d-bf154932f2e2.jpg?1604199440"
     ],
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "When Skyclave Pick-Axe enters the battlefield, attach it to target creature you control.\nLandfall — Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.\nEquip {2}{G}",
-    "mana_cost": "{G}",
+    "type": "Artifact — Equipment",
+    "text": "When Skyclave Pick-Axe enters the battlefield, attach it to target creature you control.\nLandfall — Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.\nEquip {2}{G}",
+    "mana": "{G}",
     "cmc": 1,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -2736,9 +2736,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3ff05312-787e-4e5e-a0d5-8f3fb576fc49.jpg?1604194953"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Look at the top X cards of your library, where X is three plus the number of creatures in your party. Put three of those cards into your hand and the rest on the bottom of your library in a random order. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{4}{U}",
+    "type": "Sorcery",
+    "text": "Look at the top X cards of your library, where X is three plus the number of creatures in your party. Put three of those cards into your hand and the rest on the bottom of your library in a random order. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{4}{U}",
     "cmc": 5,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -2749,9 +2749,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/0/20259dff-4984-4d0b-aa49-34f3aaf31e3a.jpg?1604200970"
     ],
-    "type_line": "Artifact",
-    "oracle_text": "Kicker {3}\nIndestructible\nWhen Skyclave Relic enters the battlefield, if it was kicked, create two tapped tokens that are copies of Skyclave Relic.\n{T}: Add one mana of any color.",
-    "mana_cost": "{3}",
+    "type": "Artifact",
+    "text": "Kicker {3}\nIndestructible\nWhen Skyclave Relic enters the battlefield, if it was kicked, create two tapped tokens that are copies of Skyclave Relic.\n{T}: Add one mana of any color.",
+    "mana": "{3}",
     "cmc": 3,
     "colors": [],
     "rarity": "rare",
@@ -2762,9 +2762,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/fac8809a-77cd-4090-8a89-12121a8da676.jpg?1604201000"
     ],
-    "type_line": "Artifact Creature — Gargoyle",
-    "oracle_text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nFlying, defender\nIf Skyclave Sentinel was kicked, it enters the battlefield with two +1/+1 counters on it.\nAs long as Skyclave Sentinel has a +1/+1 counter on it, it can attack as though it didn't have defender.",
-    "mana_cost": "{3}",
+    "type": "Artifact Creature — Gargoyle",
+    "text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nFlying, defender\nIf Skyclave Sentinel was kicked, it enters the battlefield with two +1/+1 counters on it.\nAs long as Skyclave Sentinel has a +1/+1 counter on it, it can attack as though it didn't have defender.",
+    "mana": "{3}",
     "cmc": 3,
     "colors": [],
     "rarity": "common",
@@ -2775,9 +2775,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/0/50bbc0e7-48ce-41e2-a014-1f2eb0427550.jpg?1604196541"
     ],
-    "type_line": "Creature — Shade",
-    "oracle_text": "Kicker {2}{B}\nSkyclave Shade can't block.\nIf Skyclave Shade was kicked, it enters the battlefield with two +1/+1 counters on it.\nLandfall — Whenever a land enters the battlefield under your control, if Skyclave Shade is in your graveyard and it's your turn, you may cast it from your graveyard this turn.",
-    "mana_cost": "{1}{B}",
+    "type": "Creature — Shade",
+    "text": "Kicker {2}{B}\nSkyclave Shade can't block.\nIf Skyclave Shade was kicked, it enters the battlefield with two +1/+1 counters on it.\nLandfall — Whenever a land enters the battlefield under your control, if Skyclave Shade is in your graveyard and it's your turn, you may cast it from your graveyard this turn.",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "rare",
@@ -2788,9 +2788,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/2/b27fcfc5-a1a9-4b21-8240-2ed6346c64e1.jpg?1604196571"
     ],
-    "type_line": "Creature — Cat Horror",
-    "oracle_text": "{1}{B}, Sacrifice another creature: Put a +1/+1 counter on Skyclave Shadowcat.\nWhenever a creature you control with a +1/+1 counter on it dies, draw a card.",
-    "mana_cost": "{3}{B}",
+    "type": "Creature — Cat Horror",
+    "text": "{1}{B}, Sacrifice another creature: Put a +1/+1 counter on Skyclave Shadowcat.\nWhenever a creature you control with a +1/+1 counter on it dies, draw a card.",
+    "mana": "{3}{B}",
     "cmc": 4,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -2801,9 +2801,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/581ed049-7b5b-47d9-96af-f737631a221f.jpg?1604194987"
     ],
-    "type_line": "Creature — Squid",
-    "oracle_text": "Defender\nLandfall — Whenever a land enters the battlefield under your control, Skyclave Squid can attack this turn as though it didn't have defender.",
-    "mana_cost": "{1}{U}",
+    "type": "Creature — Squid",
+    "text": "Defender\nLandfall — Whenever a land enters the battlefield under your control, Skyclave Squid can attack this turn as though it didn't have defender.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "common",
@@ -2814,9 +2814,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9c103163-31b7-4d25-aa2c-02ca082ee1bf.jpg?1604193448"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Destroy target creature with power 4 or greater.",
-    "mana_cost": "{3}{W}",
+    "type": "Instant",
+    "text": "Destroy target creature with power 4 or greater.",
+    "mana": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
     "rarity": "common",
@@ -2827,9 +2827,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/6/569c9e8c-7808-49d0-82c1-72d5b835f51c.jpg?1604263538"
     ],
-    "type_line": "Creature — Goblin Rogue",
-    "oracle_text": "{2}, {T}: Target creature with power 2 or less can't be blocked this turn.",
-    "mana_cost": "{R}",
+    "type": "Creature — Goblin Rogue",
+    "text": "{2}, {T}: Target creature with power 2 or less can't be blocked this turn.",
+    "mana": "{R}",
     "cmc": 1,
     "colors": ["R"],
     "rarity": "common",
@@ -2840,9 +2840,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0d73c9c4-8955-499f-8f87-6500b35b4977.jpg?1604200453"
     ],
-    "type_line": "Creature — Human Rogue",
-    "oracle_text": "Flash\nFlying\nAs long as an opponent has eight or more cards in their graveyard, Rogues you control get +1/+0.\nWhenever one or more Rogues you control attack, each opponent mills two cards.",
-    "mana_cost": "{U}{B}",
+    "type": "Creature — Human Rogue",
+    "text": "Flash\nFlying\nAs long as an opponent has eight or more cards in their graveyard, Rogues you control get +1/+0.\nWhenever one or more Rogues you control attack, each opponent mills two cards.",
+    "mana": "{U}{B}",
     "cmc": 2,
     "colors": ["B", "U"],
     "rarity": "uncommon",
@@ -2854,9 +2854,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/8/782ca27f-9f18-476c-b582-89c06fb2e322.jpg?1604198011",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/7/8/782ca27f-9f18-476c-b582-89c06fb2e322.jpg?1604198011"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{3}{R}{R}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{3}{R}{R}",
     "cmc": 5,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -2867,9 +2867,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/c/2c2fb07b-0f70-403b-be8b-b5217f12e671.jpg?1604196615"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Each opponent sacrifices a creature or planeswalker with the highest converted mana cost among creatures and planeswalkers they control.",
-    "mana_cost": "{2}{B}",
+    "type": "Instant",
+    "text": "Each opponent sacrifices a creature or planeswalker with the highest converted mana cost among creatures and planeswalkers they control.",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "rare",
@@ -2880,9 +2880,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/5/a53baf25-1782-427b-a9dd-fc9b8dc6444f.jpg?1604201030"
     ],
-    "type_line": "Artifact",
-    "oracle_text": "Spare Supplies enters the battlefield tapped.\nWhen Spare Supplies enters the battlefield, draw a card.\n{2}, {T}, Sacrifice Spare Supplies: Draw a card.",
-    "mana_cost": "{2}",
+    "type": "Artifact",
+    "text": "Spare Supplies enters the battlefield tapped.\nWhen Spare Supplies enters the battlefield, draw a card.\n{2}, {T}, Sacrifice Spare Supplies: Draw a card.",
+    "mana": "{2}",
     "cmc": 2,
     "colors": [],
     "rarity": "common",
@@ -2894,9 +2894,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/6/a69541db-3f4e-412f-aa8e-dec1e74f74dc.jpg?1604198070",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/a/6/a69541db-3f4e-412f-aa8e-dec1e74f74dc.jpg?1604198070"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{R}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{R}",
     "cmc": 1,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -2907,9 +2907,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/7/47f26493-812f-4c14-91c4-d2ab549a7b8a.jpg?1604198100"
     ],
-    "type_line": "Creature — Lizard",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, Spitfire Lagac deals 1 damage to each opponent.",
-    "mana_cost": "{3}{R}",
+    "type": "Creature — Lizard",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, Spitfire Lagac deals 1 damage to each opponent.",
+    "mana": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
     "rarity": "common",
@@ -2920,9 +2920,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/b/9b3b1ef0-a653-4adb-8112-82d4822446b4.jpg?1604200493"
     ],
-    "type_line": "Instant",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nYou gain 3 life and draw three cards.",
-    "mana_cost": "{4}{W}{U}",
+    "type": "Instant",
+    "text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nYou gain 3 life and draw three cards.",
+    "mana": "{4}{W}{U}",
     "cmc": 6,
     "colors": ["U", "W"],
     "rarity": "uncommon",
@@ -2933,9 +2933,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8d822730-6d81-4dbc-a3c3-ce96d29a1078.jpg?1604199462"
     ],
-    "type_line": "Creature — Elf Cleric",
-    "oracle_text": "Springmantle Cleric enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.",
-    "mana_cost": "{4}{G}",
+    "type": "Creature — Elf Cleric",
+    "text": "Springmantle Cleric enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.",
+    "mana": "{4}{G}",
     "cmc": 5,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -2946,9 +2946,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/2/c2ce186d-c9cd-41e9-bac2-ad9d36c4939f.jpg?1604193386"
     ],
-    "type_line": "Creature — Kor Warrior",
-    "oracle_text": "When Squad Commander enters the battlefield, create a 1/1 white Kor Warrior creature token for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nAt the beginning of combat on your turn, if you have a full party, creatures you control get +1/+0 and gain indestructible until end of turn.",
-    "mana_cost": "{3}{W}",
+    "type": "Creature — Kor Warrior",
+    "text": "When Squad Commander enters the battlefield, create a 1/1 white Kor Warrior creature token for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nAt the beginning of combat on your turn, if you have a full party, creatures you control get +1/+0 and gain indestructible until end of turn.",
+    "mana": "{3}{W}",
     "cmc": 4,
     "colors": ["W"],
     "rarity": "rare",
@@ -2959,9 +2959,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a29e17ba-d584-4296-9f43-17467edaa25f.jpg?1604201060"
     ],
-    "type_line": "Artifact Creature — Beast",
-    "oracle_text": "Stonework Packbeast is also a Cleric, Rogue, Warrior, and Wizard.\n{2}: Add one mana of any color.",
-    "mana_cost": "{2}",
+    "type": "Artifact Creature — Beast",
+    "text": "Stonework Packbeast is also a Cleric, Rogue, Warrior, and Wizard.\n{2}: Add one mana of any color.",
+    "mana": "{2}",
     "cmc": 2,
     "colors": [],
     "rarity": "common",
@@ -2972,9 +2972,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/9/090b3da4-c942-480e-9997-bb9c20e8d62d.jpg?1604199496"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Choose target creature you control. Put a +1/+1 counter on it for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{G}",
+    "type": "Sorcery",
+    "text": "Choose target creature you control. Put a +1/+1 counter on it for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{G}",
     "cmc": 1,
     "colors": ["G"],
     "rarity": "common",
@@ -2985,9 +2985,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0d3f531a-ce45-4cba-be24-6db749e38abd.jpg?1604196642"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Choose one or both —\n• Target creature gets -1/-1 until end of turn.\n• Put a +1/+1 counter on target creature.",
-    "mana_cost": "{1}{B}",
+    "type": "Instant",
+    "text": "Choose one or both —\n• Target creature gets -1/-1 until end of turn.\n• Put a +1/+1 counter on target creature.",
+    "mana": "{1}{B}",
     "cmc": 2,
     "colors": ["B"],
     "rarity": "common",
@@ -2998,9 +2998,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/5/0505053c-8a9c-43ed-b44a-b52c56ba4f77.jpg?1604195009"
     ],
-    "type_line": "Creature — Merfolk Rogue",
-    "oracle_text": "Tap another untapped Rogue you control: Sure-Footed Infiltrator can't be blocked this turn.\nWhenever Sure-Footed Infiltrator deals combat damage to a player, draw a card.",
-    "mana_cost": "{3}{U}",
+    "type": "Creature — Merfolk Rogue",
+    "text": "Tap another untapped Rogue you control: Sure-Footed Infiltrator can't be blocked this turn.\nWhenever Sure-Footed Infiltrator deals combat damage to a player, draw a card.",
+    "mana": "{3}{U}",
     "cmc": 4,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -3011,9 +3011,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/1967d4a8-6cc4-4a4d-9d24-93257de35e6d.jpg?1604203076"
     ],
-    "type_line": "Basic Land — Swamp",
-    "oracle_text": "({T}: Add {B}.)",
-    "mana_cost": "",
+    "type": "Basic Land — Swamp",
+    "text": "({T}: Add {B}.)",
+    "mana": "",
     "cmc": 0,
     "colors": ["B"],
     "rarity": "common",
@@ -3024,9 +3024,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/a/7a7e4f99-ece4-473e-b712-40e4c53558e8.jpg?1604199508"
     ],
-    "type_line": "Creature — Fungus Beast",
-    "oracle_text": "Swarm Shambler enters the battlefield with a +1/+1 counter on it.\nWhenever a creature you control with a +1/+1 counter on it becomes the target of a spell an opponent controls, create a 1/1 green Insect creature token.\n{1}, {T}: Put a +1/+1 counter on Swarm Shambler.",
-    "mana_cost": "{G}",
+    "type": "Creature — Fungus Beast",
+    "text": "Swarm Shambler enters the battlefield with a +1/+1 counter on it.\nWhenever a creature you control with a +1/+1 counter on it becomes the target of a spell an opponent controls, create a 1/1 green Insect creature token.\n{1}, {T}: Put a +1/+1 counter on Swarm Shambler.",
+    "mana": "{G}",
     "cmc": 1,
     "colors": ["G"],
     "rarity": "rare",
@@ -3037,9 +3037,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d87f4637-1ad3-4d61-98ff-98c0b0be46a1.jpg?1604198129"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Synchronized Spellcraft deals 4 damage to target creature and X damage to that creature's controller, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{4}{R}",
+    "type": "Instant",
+    "text": "Synchronized Spellcraft deals 4 damage to target creature and X damage to that creature's controller, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{4}{R}",
     "cmc": 5,
     "colors": ["R"],
     "rarity": "common",
@@ -3050,9 +3050,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/331bf97d-f447-4c68-bfc7-2bb593106d66.jpg?1604196668"
     ],
-    "type_line": "Legendary Creature — Demon Cleric",
-    "oracle_text": "Flying\nTaborax, Hope's Demise has lifelink as long as it has five or more +1/+1 counters on it.\nWhenever another nontoken creature you control dies, put a +1/+1 counter on Taborax. If that creature was a Cleric, you may draw a card. If you do, you lose 1 life.",
-    "mana_cost": "{2}{B}",
+    "type": "Legendary Creature — Demon Cleric",
+    "text": "Flying\nTaborax, Hope's Demise has lifelink as long as it has five or more +1/+1 counters on it.\nWhenever another nontoken creature you control dies, put a +1/+1 counter on Taborax. If that creature was a Cleric, you may draw a card. If you do, you lose 1 life.",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "rare",
@@ -3063,9 +3063,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f3d6020-6767-406c-bf28-6b3e9ae72f50.jpg?1604199530"
     ],
-    "type_line": "Creature — Elf Rogue",
-    "oracle_text": "Deathtouch",
-    "mana_cost": "{G}",
+    "type": "Creature — Elf Rogue",
+    "text": "Deathtouch",
+    "mana": "{G}",
     "cmc": 1,
     "colors": ["G"],
     "rarity": "common",
@@ -3076,9 +3076,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/0/a045dd0f-953a-4022-8f29-0758f2b6ccaa.jpg?1604199581"
     ],
-    "type_line": "Creature — Elf",
-    "oracle_text": "Tajuru Paragon is also a Cleric, Rogue, Warrior, and Wizard.\nKicker {3}\nWhen Tajuru Paragon enters the battlefield, if it was kicked, reveal the top six cards of your library. You may put a card that shares a creature type with it from among them into your hand. Put the rest on the bottom of your library in a random order.",
-    "mana_cost": "{1}{G}",
+    "type": "Creature — Elf",
+    "text": "Tajuru Paragon is also a Cleric, Rogue, Warrior, and Wizard.\nKicker {3}\nWhen Tajuru Paragon enters the battlefield, if it was kicked, reveal the top six cards of your library. You may put a card that shares a creature type with it from among them into your hand. Put the rest on the bottom of your library in a random order.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "rare",
@@ -3089,9 +3089,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/1/e1894cf9-7d53-4b7e-aaae-8db42bdd8e49.jpg?1604199611"
     ],
-    "type_line": "Creature — Elf Rogue",
-    "oracle_text": "Reach",
-    "mana_cost": "{2}{G}",
+    "type": "Creature — Elf Rogue",
+    "text": "Reach",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "common",
@@ -3103,9 +3103,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/235d1ffc-72aa-40a2-95dc-3f6a8d495061.jpg?1604199647",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/2/3/235d1ffc-72aa-40a2-95dc-3f6a8d495061.jpg?1604199647"
     ],
-    "type_line": "Creature — Elemental // Land",
-    "oracle_text": {},
-    "mana_cost": "{1}{G}",
+    "type": "Creature — Elemental // Land",
+    "text": {},
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -3116,9 +3116,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/ca6f8996-bf72-4e55-944f-5b8202b6068c.jpg?1604199668"
     ],
-    "type_line": "Creature — Elf Wizard",
-    "oracle_text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nWhen Taunting Arbormage enters the battlefield, if it was kicked, all creatures able to block target creature this turn do so.",
-    "mana_cost": "{2}{G}",
+    "type": "Creature — Elf Wizard",
+    "text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nWhen Taunting Arbormage enters the battlefield, if it was kicked, all creatures able to block target creature this turn do so.",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -3129,9 +3129,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/9/299d60b9-0ba7-40ee-b9d0-ee8f1ea288c9.jpg?1604589296"
     ],
-    "type_line": "Creature — Bird",
-    "oracle_text": "Flying\nWhen Tazeem Raptor enters the battlefield, you may return a land you control to its owner's hand.",
-    "mana_cost": "{2}{W}",
+    "type": "Creature — Bird",
+    "text": "Flying\nWhen Tazeem Raptor enters the battlefield, you may return a land you control to its owner's hand.",
+    "mana": "{2}{W}",
     "cmc": 3,
     "colors": ["W"],
     "rarity": "common",
@@ -3142,9 +3142,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/f/6f222fb7-375d-4ee2-9ff6-bd71f63ab31a.jpg?1604195025"
     ],
-    "type_line": "Creature — Merfolk Wizard",
-    "oracle_text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nWhen Tazeem Roilmage enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand.",
-    "mana_cost": "{1}{U}",
+    "type": "Creature — Merfolk Wizard",
+    "text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nWhen Tazeem Roilmage enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "common",
@@ -3155,9 +3155,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4b79138-5728-4541-9ea5-dce1a5ae7e6a.jpg?1604193517"
     ],
-    "type_line": "Legendary Creature — Human Warrior",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party.\n{2/U}{2/B}{2/R}{2/G}: Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, Wizard, and/or Ally cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.",
-    "mana_cost": "{4}{W}",
+    "type": "Legendary Creature — Human Warrior",
+    "text": "This spell costs {1} less to cast for each creature in your party.\n{2/U}{2/B}{2/R}{2/G}: Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, Wizard, and/or Ally cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.",
+    "mana": "{4}{W}",
     "cmc": 5,
     "colors": ["B", "G", "R", "U", "W"],
     "rarity": "mythic",
@@ -3168,9 +3168,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/d/ad57c2f3-d9cb-4165-bb39-897b5b12689e.jpg?1604198176"
     ],
-    "type_line": "Creature — Goblin Warrior",
-    "oracle_text": "{2}{R}: Teeterpeak Ambusher gets +2/+0 until end of turn.",
-    "mana_cost": "{1}{R}",
+    "type": "Creature — Goblin Warrior",
+    "text": "{2}{R}: Teeterpeak Ambusher gets +2/+0 until end of turn.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -3181,9 +3181,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5e0f725c-8d1f-47ff-ad81-a5007199a5e2.jpg?1604199693"
     ],
-    "type_line": "Creature — Cat",
-    "oracle_text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Territorial Scythecat.",
-    "mana_cost": "{2}{G}",
+    "type": "Creature — Cat",
+    "text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Territorial Scythecat.",
+    "mana": "{2}{G}",
     "cmc": 3,
     "colors": ["G"],
     "rarity": "common",
@@ -3194,9 +3194,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff84ea71-e477-44f7-a3f8-77fef708efeb.jpg?1604195053"
     ],
-    "type_line": "Creature — Merfolk Rogue",
-    "oracle_text": "Kicker {X}. X can't be 0. (You may pay an additional {X} as you cast this spell.)\nFlying\nWhen Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with converted mana cost X or less. If that artifact is an Equipment, attach it to Thieving Skydiver.",
-    "mana_cost": "{1}{U}",
+    "type": "Creature — Merfolk Rogue",
+    "text": "Kicker {X}. X can't be 0. (You may pay an additional {X} as you cast this spell.)\nFlying\nWhen Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with converted mana cost X or less. If that artifact is an Equipment, attach it to Thieving Skydiver.",
+    "mana": "{1}{U}",
     "cmc": 2,
     "colors": ["U"],
     "rarity": "rare",
@@ -3207,9 +3207,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d5a0563e-c83b-40df-abf6-51c83bf6792d.jpg?1604201723"
     ],
-    "type_line": "Land",
-    "oracle_text": "{T}: Add {C}.\n{1}, {T}: Put a charge counter on Throne of Makindi.\n{T}, Remove a charge counter from Throne of Makindi: Add two mana of any one color. Spend this mana only to cast kicked spells.",
-    "mana_cost": "",
+    "type": "Land",
+    "text": "{T}: Add {C}.\n{1}, {T}: Put a charge counter on Throne of Makindi.\n{T}, Remove a charge counter from Throne of Makindi: Add two mana of any one color. Spend this mana only to cast kicked spells.",
+    "mana": "",
     "cmc": 0,
     "colors": [],
     "rarity": "rare",
@@ -3220,9 +3220,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/c/dc671707-4708-44d8-8ec8-d5332599adf9.jpg?1604198187"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Thundering Rebuke deals 4 damage to target creature or planeswalker.",
-    "mana_cost": "{1}{R}",
+    "type": "Sorcery",
+    "text": "Thundering Rebuke deals 4 damage to target creature or planeswalker.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -3233,9 +3233,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/9/a9e6de80-3516-426b-8a1b-bda45f8c0cac.jpg?1604198226"
     ],
-    "type_line": "Creature — Human Wizard",
-    "oracle_text": "When Thundering Sparkmage enters the battlefield, it deals X damage to target creature or planeswalker, where X is the number of creatures in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)",
-    "mana_cost": "{3}{R}",
+    "type": "Creature — Human Wizard",
+    "text": "When Thundering Sparkmage enters the battlefield, it deals X damage to target creature or planeswalker, where X is the number of creatures in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)",
+    "mana": "{3}{R}",
     "cmc": 4,
     "colors": ["R"],
     "rarity": "uncommon",
@@ -3246,9 +3246,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/d/bd037e51-9088-4145-8289-00a86fb72ca1.jpg?1604252055"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nReturn target creature card and up to one target Cleric, Rogue, Warrior, or Wizard creature card from your graveyard to the battlefield.",
-    "mana_cost": "{4}{B}{B}",
+    "type": "Sorcery",
+    "text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nReturn target creature card and up to one target Cleric, Rogue, Warrior, or Wizard creature card from your graveyard to the battlefield.",
+    "mana": "{4}{B}{B}",
     "cmc": 6,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -3259,9 +3259,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
-    "mana_cost": "{1}{R}",
+    "type": "Sorcery",
+    "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
+    "mana": "{1}{R}",
     "cmc": 2,
     "colors": ["R"],
     "rarity": "common",
@@ -3272,9 +3272,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/2/02eedf9d-e26c-405c-aee5-1b3493dc5e9b.jpg?1604198284"
     ],
-    "type_line": "Creature — Wall",
-    "oracle_text": "Defender, reach\nCreatures you control have haste.",
-    "mana_cost": "{2}{R}",
+    "type": "Creature — Wall",
+    "text": "Defender, reach\nCreatures you control have haste.",
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "common",
@@ -3285,9 +3285,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b33b6922-2584-43e1-98d4-e722e7c9393c.jpg?1604199713"
     ],
-    "type_line": "Creature — Giant Cleric",
-    "oracle_text": "When Turntimber Ascetic enters the battlefield, you gain 3 life.",
-    "mana_cost": "{4}{G}",
+    "type": "Creature — Giant Cleric",
+    "text": "When Turntimber Ascetic enters the battlefield, you gain 3 life.",
+    "mana": "{4}{G}",
     "cmc": 5,
     "colors": ["G"],
     "rarity": "common",
@@ -3299,9 +3299,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg?1604199791",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/6/1/61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6.jpg?1604199791"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{4}{G}{G}{G}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{4}{G}{G}{G}",
     "cmc": 7,
     "colors": ["G"],
     "rarity": "mythic",
@@ -3312,9 +3312,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/b/fb979cfc-3e5b-42c9-b78d-584c274ed912.jpg?1604200545"
     ],
-    "type_line": "Creature — Merfolk Wizard",
-    "oracle_text": "Flying\nWhenever you cast an instant, sorcery, or Wizard spell, Umara Mystic gets +2/+0 until end of turn.",
-    "mana_cost": "{1}{U}{R}",
+    "type": "Creature — Merfolk Wizard",
+    "text": "Flying\nWhenever you cast an instant, sorcery, or Wizard spell, Umara Mystic gets +2/+0 until end of turn.",
+    "mana": "{1}{U}{R}",
     "cmc": 3,
     "colors": ["R", "U"],
     "rarity": "uncommon",
@@ -3326,9 +3326,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/890eee8d-a339-4143-adfa-1b17ec10c099.jpg?1604195112",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/8/9/890eee8d-a339-4143-adfa-1b17ec10c099.jpg?1604195112"
     ],
-    "type_line": "Creature — Merfolk Wizard // Land",
-    "oracle_text": {},
-    "mana_cost": "{4}{U}",
+    "type": "Creature — Merfolk Wizard // Land",
+    "text": {},
+    "mana": "{4}{U}",
     "cmc": 5,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -3339,9 +3339,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1e5c781d-cd89-4671-8fbe-fae82c33357b.jpg?1604201108"
     ],
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "When Utility Knife enters the battlefield, attach it to target creature you control.\nEquipped creature gets +1/+1.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
-    "mana_cost": "{1}",
+    "type": "Artifact — Equipment",
+    "text": "When Utility Knife enters the battlefield, attach it to target creature you control.\nEquipped creature gets +1/+1.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "mana": "{1}",
     "cmc": 1,
     "colors": [],
     "rarity": "common",
@@ -3353,9 +3353,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/228e551e-023a-4c9a-8f32-58dae6ffdf7f.jpg?1604198379",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/2/2/228e551e-023a-4c9a-8f32-58dae6ffdf7f.jpg?1604198379"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{2}{R}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "rare",
@@ -3366,9 +3366,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/8/18cb7bf6-9c7c-4e62-a678-7b75862e2f64.jpg?1604263135"
     ],
-    "type_line": "Enchantment",
-    "oracle_text": "Landfall — Whenever a land enters the battlefield under your control, exile the top card of your library. You may play that card for as long as it remains exiled.\nAt the beginning of your end step, if there are cards exiled with Valakut Exploration, put them into their owner's graveyard, then Valakut Exploration deals that much damage to each opponent.",
-    "mana_cost": "{2}{R}",
+    "type": "Enchantment",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, exile the top card of your library. You may play that card for as long as it remains exiled.\nAt the beginning of your end step, if there are cards exiled with Valakut Exploration, put them into their owner's graveyard, then Valakut Exploration deals that much damage to each opponent.",
+    "mana": "{2}{R}",
     "cmc": 3,
     "colors": ["R"],
     "rarity": "rare",
@@ -3379,9 +3379,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/1/c15852d4-2c79-4841-bb65-6661d88fdfab.jpg?1604196688"
     ],
-    "type_line": "Instant",
-    "oracle_text": "Destroy target creature with power 3 or less.",
-    "mana_cost": "{2}{B}",
+    "type": "Instant",
+    "text": "Destroy target creature with power 3 or less.",
+    "mana": "{2}{B}",
     "cmc": 3,
     "colors": ["B"],
     "rarity": "common",
@@ -3393,9 +3393,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/a/3a7fd24e-84d8-405d-86e4-0571a9e23cc2.jpg?1604199835",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/3/a/3a7fd24e-84d8-405d-86e4-0571a9e23cc2.jpg?1604199835"
     ],
-    "type_line": "Instant // Land",
-    "oracle_text": {},
-    "mana_cost": "{G}",
+    "type": "Instant // Land",
+    "text": {},
+    "mana": "{G}",
     "cmc": 1,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -3406,9 +3406,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/6974363c-0d0d-4270-a25e-ab84b0c03f4e.jpg?1604199881"
     ],
-    "type_line": "Sorcery",
-    "oracle_text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nSearch your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library. If this spell was kicked, put two +1/+1 counters on each creature you control.",
-    "mana_cost": "{3}{G}",
+    "type": "Sorcery",
+    "text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nSearch your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library. If this spell was kicked, put two +1/+1 counters on each creature you control.",
+    "mana": "{3}{G}",
     "cmc": 4,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -3419,9 +3419,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/752a2aa9-40ed-4c64-b945-bc6fec606b7b.jpg?1604200567"
     ],
-    "type_line": "Legendary Creature — Serpent",
-    "oracle_text": "Verazol, the Split Current enters the battlefield with a +1/+1 counter on it for each mana spent to cast it.\nWhenever you cast a kicked spell, you may remove two +1/+1 counters from Verazol, the Split Current. If you do, copy that spell. You may choose new targets for that copy. (A copy of a permanent spell becomes a token.)",
-    "mana_cost": "{X}{G}{U}",
+    "type": "Legendary Creature — Serpent",
+    "text": "Verazol, the Split Current enters the battlefield with a +1/+1 counter on it for each mana spent to cast it.\nWhenever you cast a kicked spell, you may remove two +1/+1 counters from Verazol, the Split Current. If you do, copy that spell. You may choose new targets for that copy. (A copy of a permanent spell becomes a token.)",
+    "mana": "{X}{G}{U}",
     "cmc": 2,
     "colors": ["G", "U"],
     "rarity": "rare",
@@ -3432,9 +3432,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/5/e524ddf0-9a2f-4c1c-ae72-4b5b48f55645.jpg?1604199897"
     ],
-    "type_line": "Creature — Human",
-    "oracle_text": "Veteran Adventurer is also a Cleric, Rogue, Warrior, and Wizard.\nThis spell costs {1} less to cast for each creature in your party.\nVigilance",
-    "mana_cost": "{5}{G}",
+    "type": "Creature — Human",
+    "text": "Veteran Adventurer is also a Cleric, Rogue, Warrior, and Wizard.\nThis spell costs {1} less to cast for each creature in your party.\nVigilance",
+    "mana": "{5}{G}",
     "cmc": 6,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -3445,9 +3445,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/a/7a6f9984-dec7-4a1f-91d6-1e85b5df5e4c.jpg?1604199944"
     ],
-    "type_line": "Creature — Elemental Lizard",
-    "oracle_text": "The first kicked spell you cast each turn costs {1} less to cast.\nWhenever you cast a kicked spell, put a +1/+1 counter on Vine Gecko.",
-    "mana_cost": "{1}{G}",
+    "type": "Creature — Elemental Lizard",
+    "text": "The first kicked spell you cast each turn costs {1} less to cast.\nWhenever you cast a kicked spell, put a +1/+1 counter on Vine Gecko.",
+    "mana": "{1}{G}",
     "cmc": 2,
     "colors": ["G"],
     "rarity": "uncommon",
@@ -3458,9 +3458,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/0/d00f8ab0-61cd-4721-b974-a2516da77d39.jpg?1604198443"
     ],
-    "type_line": "Creature — Beast",
-    "oracle_text": "Trample, haste\nWhenever Wayward Guide-Beast deals combat damage to a player, return a land you control to its owner's hand.",
-    "mana_cost": "{R}",
+    "type": "Creature — Beast",
+    "text": "Trample, haste\nWhenever Wayward Guide-Beast deals combat damage to a player, return a land you control to its owner's hand.",
+    "mana": "{R}",
     "cmc": 1,
     "colors": ["R"],
     "rarity": "rare",
@@ -3471,9 +3471,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/7/c790a86d-db91-4a87-aa3a-3f9fc4d4b662.jpg?1604195132"
     ],
-    "type_line": "Creature — Human Wizard",
-    "oracle_text": "Flying\nWhenever you cast an instant, sorcery, or Wizard spell, you may draw a card. If you do, discard a card.",
-    "mana_cost": "{2}{U}",
+    "type": "Creature — Human Wizard",
+    "text": "Flying\nWhenever you cast an instant, sorcery, or Wizard spell, you may draw a card. If you do, discard a card.",
+    "mana": "{2}{U}",
     "cmc": 3,
     "colors": ["U"],
     "rarity": "uncommon",
@@ -3484,9 +3484,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/2/12878fbd-dbe5-44bc-9f34-38fd374ec10a.jpg?1604200584"
     ],
-    "type_line": "Legendary Creature — Elemental Boar",
-    "oracle_text": "When Yasharn, Implacable Earth enters the battlefield, search your library for a basic Forest card and a basic Plains card, reveal those cards, put them into your hand, then shuffle your library.\nPlayers can't pay life or sacrifice nonland permanents to cast spells or activate abilities.",
-    "mana_cost": "{2}{G}{W}",
+    "type": "Legendary Creature — Elemental Boar",
+    "text": "When Yasharn, Implacable Earth enters the battlefield, search your library for a basic Forest card and a basic Plains card, reveal those cards, put them into your hand, then shuffle your library.\nPlayers can't pay life or sacrifice nonland permanents to cast spells or activate abilities.",
+    "mana": "{2}{G}{W}",
     "cmc": 4,
     "colors": ["G", "W"],
     "rarity": "rare",
@@ -3497,9 +3497,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/c/ac81448c-f87b-4ca1-b951-b359216ab1d0.jpg?1604200613"
     ],
-    "type_line": "Legendary Creature — Vampire Rogue",
-    "oracle_text": "This spell costs {1} less to cast for each creature in your party.\nFlying, deathtouch, haste\nOther creatures you control have deathtouch.\nWhenever a creature you control deals combat damage to a planeswalker, destroy that planeswalker.",
-    "mana_cost": "{4}{B}{R}",
+    "type": "Legendary Creature — Vampire Rogue",
+    "text": "This spell costs {1} less to cast for each creature in your party.\nFlying, deathtouch, haste\nOther creatures you control have deathtouch.\nWhenever a creature you control deals combat damage to a planeswalker, destroy that planeswalker.",
+    "mana": "{4}{B}{R}",
     "cmc": 6,
     "colors": ["B", "R"],
     "rarity": "rare",
@@ -3510,9 +3510,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9cfe4fbe-277f-410c-9eee-f7617f4cb850.jpg?1604200662"
     ],
-    "type_line": "Legendary Creature — Merfolk Rogue",
-    "oracle_text": "Flash\n{2}{U}{B}, Return an unblocked attacking Rogue you control to its owner's hand: Put Zareth San, the Trickster from your hand onto the battlefield tapped and attacking.\nWhenever Zareth San deals combat damage to a player, you may put target permanent card from that player's graveyard onto the battlefield under your control.",
-    "mana_cost": "{3}{U}{B}",
+    "type": "Legendary Creature — Merfolk Rogue",
+    "text": "Flash\n{2}{U}{B}, Return an unblocked attacking Rogue you control to its owner's hand: Put Zareth San, the Trickster from your hand onto the battlefield tapped and attacking.\nWhenever Zareth San deals combat damage to a player, you may put target permanent card from that player's graveyard onto the battlefield under your control.",
+    "mana": "{3}{U}{B}",
     "cmc": 5,
     "colors": ["B", "U"],
     "rarity": "rare",
@@ -3524,9 +3524,9 @@
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/98496d5b-1519-4f0c-8b46-0a43be643dfb.jpg?1604196785",
       "https://c1.scryfall.com/file/scryfall-cards/normal/back/9/8/98496d5b-1519-4f0c-8b46-0a43be643dfb.jpg?1604196785"
     ],
-    "type_line": "Sorcery // Land",
-    "oracle_text": {},
-    "mana_cost": "{4}{B}{B}",
+    "type": "Sorcery // Land",
+    "text": {},
+    "mana": "{4}{B}{B}",
     "cmc": 6,
     "colors": ["B"],
     "rarity": "uncommon",
@@ -3537,9 +3537,9 @@
     "card_image": [
       "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/b/0b4c7268-60c6-4038-8ce9-d9d51bed4577.jpg?1604195154"
     ],
-    "type_line": "Creature — Human Rogue",
-    "oracle_text": "Flash\nWhen Zulaport Duelist enters the battlefield, up to one target creature gets -2/-0 until end of turn. Its controller mills two cards. (They put the top two cards of their library into their graveyard.)",
-    "mana_cost": "{U}",
+    "type": "Creature — Human Rogue",
+    "text": "Flash\nWhen Zulaport Duelist enters the battlefield, up to one target creature gets -2/-0 until end of turn. Its controller mills two cards. (They put the top two cards of their library into their graveyard.)",
+    "mana": "{U}",
     "cmc": 1,
     "colors": ["U"],
     "rarity": "common",
