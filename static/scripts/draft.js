@@ -234,7 +234,7 @@ xhttp.onreadystatechange = function () {
         // Card values
         var jsonCommonCardName = jsonCards.name;
         var jsonCommonCardRarity = jsonCards.rarity;
-        var jsonCommonCardImg = jsonCards.image_uris[0];
+        var jsonCommonCardImg = jsonCards.card_image[0];
 
         // Appending card images to webpage
         const cardImage = document.createElement('img');

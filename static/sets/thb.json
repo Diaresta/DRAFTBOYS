@@ -1,7 +1,7 @@
 [
   {
     "name": "Acolyte of Affliction",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/1/a14afed6-ca42-442d-ba86-621179e6957c.jpg?1581480955"
     ],
     "type_line": "Creature — Human Cleric",
@@ -14,7 +14,7 @@
   },
   {
     "name": "Agonizing Remorse",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/9/09270c65-546e-4737-a6b7-402cbb87917a.jpg?1581479676"
     ],
     "type_line": "Sorcery",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Alirios, Enraptured",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/6/26f9ebbe-3791-4d19-88d2-d5de95faff48.jpg?1581479280"
     ],
     "type_line": "Legendary Creature — Human",
@@ -40,7 +40,7 @@
   },
   {
     "name": "Allure of the Unknown",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/7/f77e09c3-917c-4bbb-bb94-60f4e9417832.jpg?1581480965"
     ],
     "type_line": "Sorcery",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Alseid of Life's Bounty",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926"
     ],
     "type_line": "Enchantment Creature — Nymph",
@@ -66,7 +66,7 @@
   },
   {
     "name": "Altar of the Pantheon",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/1/e1f2a587-443d-4626-a6f6-9a26838a42b1.jpg?1581481176"
     ],
     "type_line": "Artifact",
@@ -79,7 +79,7 @@
   },
   {
     "name": "Anax, Hardened in the Forge",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/0/a07285b4-77c5-4a38-8810-20d7e49593ec.jpg?1581480059"
     ],
     "type_line": "Legendary Enchantment Creature — Demigod",
@@ -92,7 +92,7 @@
   },
   {
     "name": "Aphemia, the Cacophony",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/b/5b359607-d699-4ba9-a438-48f0dd8f1bf5.jpg?1581479686"
     ],
     "type_line": "Legendary Enchantment Creature — Harpy",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Arasta of the Endless Web",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/c/7c38833a-96c5-48b5-8dd8-23f10e798537.jpg?1581480541"
     ],
     "type_line": "Legendary Enchantment Creature — Spider",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Archon of Falling Stars",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/0/d0dd1e40-a514-42df-8cc1-364998c7700c.jpg?1581478933"
     ],
     "type_line": "Creature — Archon",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Archon of Sun's Grace",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/3/235e5999-e8e5-4093-adff-9d47aec70d10.jpg?1581478942"
     ],
     "type_line": "Creature — Archon",
@@ -144,7 +144,7 @@
   },
   {
     "name": "Arena Trickster",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/0/e096049d-9f02-4abb-bb5a-97b14fd17099.jpg?1581480067"
     ],
     "type_line": "Creature — Human Shaman",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Ashiok, Nightmare Muse",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/1/112eb5ce-4fe5-45b3-b810-79fef74b07f9.jpg?1581480976"
     ],
     "type_line": "Legendary Planeswalker — Ashiok",
@@ -170,7 +170,7 @@
   },
   {
     "name": "Ashiok's Erasure",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/5/d568c679-8421-4184-a73c-b18c4164fea5.jpg?1581479289"
     ],
     "type_line": "Enchantment",
@@ -183,7 +183,7 @@
   },
   {
     "name": "Aspect of Lamprey",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/7/27157f01-8aed-4485-9f0f-9e7486492e6e.jpg?1581479695"
     ],
     "type_line": "Enchantment — Aura",
@@ -196,7 +196,7 @@
   },
   {
     "name": "Aspect of Manticore",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/6/f67d0091-1925-44a5-89f3-21c2afd5665c.jpg?1581480076"
     ],
     "type_line": "Enchantment — Aura",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Atris, Oracle of Half-Truths",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/b/db6c91ec-df14-460f-967c-f182562fe7d8.jpg?1581480984"
     ],
     "type_line": "Legendary Creature — Human Advisor",
@@ -222,7 +222,7 @@
   },
   {
     "name": "Banishing Light",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/1/a1ddd113-140f-49c9-b45c-cf1b0d1dffd8.jpg?1581478950"
     ],
     "type_line": "Enchantment",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Blight-Breath Catoblepas",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/8/7865c079-1d91-48d4-852d-d104b6e0c157.jpg?1581479705"
     ],
     "type_line": "Creature — Beast",
@@ -248,7 +248,7 @@
   },
   {
     "name": "Blood Aspirant",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/d/8d4f3fa3-ba1f-48dc-a56b-738936f1bf86.jpg?1581480083"
     ],
     "type_line": "Creature — Satyr Berserker",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Brine Giant",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/8/6811a9dc-e521-4c9e-accb-1efb8346c1db.jpg?1581479299"
     ],
     "type_line": "Creature — Giant",
@@ -274,7 +274,7 @@
   },
   {
     "name": "Bronzehide Lion",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/f/8fdafadb-fa04-4282-b576-b85e79c242c9.jpg?1581480993"
     ],
     "type_line": "Creature — Cat",
@@ -287,7 +287,7 @@
   },
   {
     "name": "Bronze Sword",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/b/0b33162d-8d8f-4312-b31e-04ce86e3b914.jpg?1581481182"
     ],
     "type_line": "Artifact — Equipment",
@@ -300,7 +300,7 @@
   },
   {
     "name": "Calix, Destiny's Hand",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/6/86458929-ea21-4de8-84d8-a07398ed3bc0.jpg?1581481000"
     ],
     "type_line": "Legendary Planeswalker — Calix",
@@ -313,7 +313,7 @@
   },
   {
     "name": "Callaphe, Beloved of the Sea",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/5/c5d433f2-0a3b-4f45-83a3-ed600a6d10b1.jpg?1581479308"
     ],
     "type_line": "Legendary Enchantment Creature — Demigod",
@@ -326,7 +326,7 @@
   },
   {
     "name": "Captivating Unicorn",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/3/13893599-0b87-4fc0-863d-f3e0ae51cc31.jpg?1581478965"
     ],
     "type_line": "Creature — Unicorn",
@@ -339,7 +339,7 @@
   },
   {
     "name": "Careless Celebrant",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/a/bac6bdd4-b25b-41f6-835d-7d1570cdb951.jpg?1581480091"
     ],
     "type_line": "Creature — Satyr Shaman",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Chain to Memory",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/a/fa0e1a22-8f27-4c5b-a65c-c35abd2ff05b.jpg?1581479320"
     ],
     "type_line": "Instant",
@@ -365,7 +365,7 @@
   },
   {
     "name": "Chainweb Aracnir",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/7/874afaad-546a-4cb2-ad01-2b4a4862b219.jpg?1581480570"
     ],
     "type_line": "Creature — Spider",
@@ -378,7 +378,7 @@
   },
   {
     "name": "Cling to Dust",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/2/52c2de5f-e486-4cfe-9fb6-be0078ce5f93.jpg?1581479717"
     ],
     "type_line": "Instant",
@@ -391,7 +391,7 @@
   },
   {
     "name": "Commanding Presence",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/4/24e2f681-918e-4f1f-afb1-0f9587c0d7bf.jpg?1581479893"
     ],
     "type_line": "Enchantment — Aura",
@@ -404,7 +404,7 @@
   },
   {
     "name": "Dalakos, Crafter of Wonders",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/7/57ea0ba2-3ccf-4313-ad1d-161272c48851.jpg?1581481011"
     ],
     "type_line": "Legendary Creature — Merfolk Artificer",
@@ -417,7 +417,7 @@
   },
   {
     "name": "Dawn Evangel",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/7/f7e152ae-43ec-4b9d-a43f-786c2f6c7366.jpg?1581478985"
     ],
     "type_line": "Enchantment Creature — Human Cleric",
@@ -430,7 +430,7 @@
   },
   {
     "name": "Daxos, Blessed by the Sun",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/f/0fd2adb3-a6f4-448e-af2a-15ca92b1de63.jpg?1581478995"
     ],
     "type_line": "Legendary Enchantment Creature — Demigod",
@@ -443,7 +443,7 @@
   },
   {
     "name": "Daybreak Chimera",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/9/f9c1de31-73d4-4c32-9f99-e15df48638e9.jpg?1581479004"
     ],
     "type_line": "Creature — Chimera",
@@ -456,7 +456,7 @@
   },
   {
     "name": "Deny the Divine",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/2/1200f68a-a8ea-4777-b6b0-de48b2203fd1.jpg?1581479329"
     ],
     "type_line": "Instant",
@@ -469,7 +469,7 @@
   },
   {
     "name": "Destiny Spinner",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/a/ba264166-948b-47d4-b302-64476acc1a55.jpg?1581480578"
     ],
     "type_line": "Enchantment Creature — Human",
@@ -482,7 +482,7 @@
   },
   {
     "name": "Devourer of Memory",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/1/514a6206-c2e5-4a0f-8a20-7efd6628dd0a.jpg?1581481019"
     ],
     "type_line": "Creature — Nightmare",
@@ -495,7 +495,7 @@
   },
   {
     "name": "Discordant Piper",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/8/a8cce294-f6ee-4b18-8b65-7d01d0317b00.jpg?1581479725"
     ],
     "type_line": "Creature — Zombie Satyr",
@@ -508,7 +508,7 @@
   },
   {
     "name": "Drag to the Underworld",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/1/91852444-9361-4588-a44f-fb90ba1b30e5.jpg?1581479732"
     ],
     "type_line": "Instant",
@@ -521,7 +521,7 @@
   },
   {
     "name": "Dreadful Apathy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/2/e20c2369-db77-465e-9f0e-bb009225345a.jpg?1581479013"
     ],
     "type_line": "Enchantment — Aura",
@@ -534,7 +534,7 @@
   },
   {
     "name": "Dreamshaper Shaman",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/6/f6b04ec8-68c9-468c-b137-707db994af68.jpg?1581480098"
     ],
     "type_line": "Enchantment Creature — Minotaur Shaman",
@@ -547,7 +547,7 @@
   },
   {
     "name": "Dreamstalker Manticore",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/e/ee10eaa0-dbe0-45ee-9a7d-395ec5d27e08.jpg?1581480105"
     ],
     "type_line": "Enchantment Creature — Manticore",
@@ -560,7 +560,7 @@
   },
   {
     "name": "Dream Trawler",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/d/7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f.jpg?1581481029"
     ],
     "type_line": "Creature — Sphinx",
@@ -573,7 +573,7 @@
   },
   {
     "name": "Dryad of the Ilysian Grove",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/d/6d964876-194b-49f1-8e74-cfe9269f2c62.jpg?1584114361"
     ],
     "type_line": "Enchantment Creature — Nymph",
@@ -586,7 +586,7 @@
   },
   {
     "name": "Eat to Extinction",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/0/a0fae55a-6edd-42ea-b909-ccc39a64a0ed.jpg?1581479739"
     ],
     "type_line": "Instant",
@@ -599,7 +599,7 @@
   },
   {
     "name": "Eidolon of Obstruction",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/f/2f48f802-df9d-45b2-afea-98699bcdf0d6.jpg?1581479022"
     ],
     "type_line": "Enchantment Creature — Spirit",
@@ -612,7 +612,7 @@
   },
   {
     "name": "Eidolon of Philosophy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/2/d2897635-b387-485d-932f-5655244a381f.jpg?1581479342"
     ],
     "type_line": "Enchantment Creature — Spirit",
@@ -625,7 +625,7 @@
   },
   {
     "name": "Elite Instructor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/2/821cd2dd-aa03-4c55-b9e4-98e0284889d3.jpg?1581479351"
     ],
     "type_line": "Creature — Human Wizard",
@@ -638,7 +638,7 @@
   },
   {
     "name": "Elspeth Conquers Death",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/a/ea20208b-1939-4c69-8cfd-c0a42f9dc427.jpg?1583938237"
     ],
     "type_line": "Enchantment — Saga",
@@ -651,7 +651,7 @@
   },
   {
     "name": "Elspeth's Nightmare",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/7/37ccd974-d2bc-4fcf-94a7-0a868a04cb98.jpg?1583742391"
     ],
     "type_line": "Enchantment — Saga",
@@ -664,7 +664,7 @@
   },
   {
     "name": "Elspeth, Sun's Nemesis",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/1/81aec42f-abb7-42f9-96f5-f1ee2f94db52.jpg?1581479955"
     ],
     "type_line": "Legendary Planeswalker — Elspeth",
@@ -677,7 +677,7 @@
   },
   {
     "name": "Enemy of Enlightenment",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/8/28bf15e0-f61b-43b9-9113-39bd341a0163.jpg?1581479754"
     ],
     "type_line": "Enchantment Creature — Demon",
@@ -690,7 +690,7 @@
   },
   {
     "name": "Enigmatic Incarnation",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/d/dd116c0b-0404-42ba-978f-7044b1a03d90.jpg?1581481041"
     ],
     "type_line": "Enchantment",
@@ -703,7 +703,7 @@
   },
   {
     "name": "Entrancing Lyre",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/6/064abee6-7394-4b75-946f-4ad9840034ac.jpg?1581481188"
     ],
     "type_line": "Artifact",
@@ -716,7 +716,7 @@
   },
   {
     "name": "Erebos, Bleak-Hearted",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/3/e340df19-b89a-403f-9736-4bd30b65de74.jpg?1581479761"
     ],
     "type_line": "Legendary Enchantment Creature — God",
@@ -729,7 +729,7 @@
   },
   {
     "name": "Erebos's Intervention",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/8/88e35c80-6cfe-49fc-8138-562233ccf987.jpg?1581479768"
     ],
     "type_line": "Instant",
@@ -742,7 +742,7 @@
   },
   {
     "name": "Escape Velocity",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/0/90c2a3da-2458-4921-8574-9eb9d5925ae8.jpg?1581480116"
     ],
     "type_line": "Enchantment — Aura",
@@ -755,7 +755,7 @@
   },
   {
     "name": "Eutropia the Twice-Favored",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/2/c2159949-3d21-448d-bc34-a3dbaf219476.jpg?1581481050"
     ],
     "type_line": "Legendary Creature — Human Wizard",
@@ -768,7 +768,7 @@
   },
   {
     "name": "Fateful End",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/6/56455067-92c0-45b5-ac2e-525c35b41215.jpg?1581480134"
     ],
     "type_line": "Instant",
@@ -781,7 +781,7 @@
   },
   {
     "name": "Favored of Iroas",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/0/f09e7aff-d873-4420-b0d5-1c63d686dd73.jpg?1583234022"
     ],
     "type_line": "Creature — Human Soldier",
@@ -794,7 +794,7 @@
   },
   {
     "name": "Field of Ruin",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.jpg?1581481243"
     ],
     "type_line": "Land",
@@ -807,7 +807,7 @@
   },
   {
     "name": "Final Death",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/e/8e5b8580-9198-4735-83c1-289400c1d814.jpg?1581479774"
     ],
     "type_line": "Instant",
@@ -820,7 +820,7 @@
   },
   {
     "name": "Final Flare",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/0/f0c95dee-a480-4878-a967-9e46be9ee372.jpg?1581480144"
     ],
     "type_line": "Instant",
@@ -833,7 +833,7 @@
   },
   {
     "name": "Flicker of Fate",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1581479067"
     ],
     "type_line": "Instant",
@@ -846,7 +846,7 @@
   },
   {
     "name": "Flummoxed Cyclops",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/f/1f70bcef-7ab6-4547-aca4-dd3ba68fd26b.jpg?1581480152"
     ],
     "type_line": "Creature — Cyclops",
@@ -859,7 +859,7 @@
   },
   {
     "name": "Fruit of Tizerus",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/6/66e577a0-e5d7-4e6a-919c-d85c2ae819ce.jpg?1581479782"
     ],
     "type_line": "Sorcery",
@@ -872,7 +872,7 @@
   },
   {
     "name": "Funeral Rites",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/0/30aa6796-0cb6-426b-9e3f-4d7e4959a6a4.jpg?1581479790"
     ],
     "type_line": "Sorcery",
@@ -885,7 +885,7 @@
   },
   {
     "name": "Furious Rise",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/5/2531fb76-038b-49ab-b4d6-31b291faa7ca.jpg?1581480160"
     ],
     "type_line": "Enchantment",
@@ -898,7 +898,7 @@
   },
   {
     "name": "Gallia of the Endless Dance",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/7/0744f08e-a588-4efe-ad56-5e9ed91dda40.jpg?1581481059"
     ],
     "type_line": "Legendary Creature — Satyr",
@@ -911,7 +911,7 @@
   },
   {
     "name": "Gift of Strength",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/5/75f5e144-4dd6-441f-b3e2-433aa82bdf7b.jpg?1581480614"
     ],
     "type_line": "Instant",
@@ -924,7 +924,7 @@
   },
   {
     "name": "Glimpse of Freedom",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/1/c1e9c025-1cdb-4da8-8d28-14ad5efb512d.jpg?1581479361"
     ],
     "type_line": "Instant",
@@ -937,7 +937,7 @@
   },
   {
     "name": "Glory Bearers",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/a/8a70e1be-f04a-43c1-8fca-205a24e3db38.jpg?1581479077"
     ],
     "type_line": "Enchantment Creature — Human Cleric",
@@ -950,7 +950,7 @@
   },
   {
     "name": "Gravebreaker Lamia",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/0/408a2073-d068-44bc-b596-5a3a3a446ee1.jpg?1581479797"
     ],
     "type_line": "Enchantment Creature — Snake Lamia",
@@ -963,7 +963,7 @@
   },
   {
     "name": "Gray Merchant of Asphodel",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807"
     ],
     "type_line": "Creature — Zombie",
@@ -976,7 +976,7 @@
   },
   {
     "name": "Grim Physician",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/7/b7e92c82-840f-4c75-b617-7b58a07be5b4.jpg?1581479817"
     ],
     "type_line": "Creature — Zombie",
@@ -989,7 +989,7 @@
   },
   {
     "name": "Haktos the Unscarred",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/f/6fe5cbef-0f4e-4d05-9a94-4739e09d7a9c.jpg?1581481070"
     ],
     "type_line": "Legendary Creature — Human Warrior",
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "Hateful Eidolon",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/1/812d0f15-f738-4644-9d29-2589d7e66915.jpg?1581479828"
     ],
     "type_line": "Enchantment Creature — Spirit",
@@ -1015,7 +1015,7 @@
   },
   {
     "name": "Heliod's Intervention",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/f/8f1c16dd-38e9-4974-b570-8678c114a549.jpg?1581479093"
     ],
     "type_line": "Instant",
@@ -1028,7 +1028,7 @@
   },
   {
     "name": "Heliod's Pilgrim",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/a/cafce2f5-f4f4-465b-96dc-bcdd29d4e4bb.jpg?1581479102"
     ],
     "type_line": "Creature — Human Cleric",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "Heliod's Punishment",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/b/3b8e6878-06aa-4505-b3a5-172083b7d258.jpg?1581479112"
     ],
     "type_line": "Enchantment — Aura",
@@ -1054,7 +1054,7 @@
   },
   {
     "name": "Heliod, Sun-Crowned",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/1/01a8576e-cadc-4521-aadd-3a05f0bc4d20.jpg?1581479085"
     ],
     "type_line": "Legendary Enchantment Creature — God",
@@ -1067,7 +1067,7 @@
   },
   {
     "name": "Heroes of the Revel",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/f/dfdfb481-3446-42f4-a1c3-a88b69f2189a.jpg?1581480183"
     ],
     "type_line": "Creature — Satyr Soldier",
@@ -1080,7 +1080,7 @@
   },
   {
     "name": "Hero of the Games",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/d/cdb7c7a6-4e9b-4300-a776-b7e7916950c8.jpg?1581480168"
     ],
     "type_line": "Creature — Human Soldier",
@@ -1093,7 +1093,7 @@
   },
   {
     "name": "Hero of the Nyxborn",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/8/9854e673-1816-4a76-b9db-bb399ac7489f.jpg?1581481079"
     ],
     "type_line": "Enchantment Creature — Human Soldier",
@@ -1106,7 +1106,7 @@
   },
   {
     "name": "Hero of the Pride",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/1/81b56863-a52a-4559-a662-f6d9145d5804.jpg?1581479124"
     ],
     "type_line": "Creature — Cat Soldier",
@@ -1119,7 +1119,7 @@
   },
   {
     "name": "Hero of the Winds",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/d/7da95097-dbe7-416a-8571-6ab6d88a531a.jpg?1581479132"
     ],
     "type_line": "Creature — Human Soldier",
@@ -1132,7 +1132,7 @@
   },
   {
     "name": "Hydra's Growth",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/1/5112ee2a-a6f3-4280-a915-000a97a9cdef.jpg?1581480627"
     ],
     "type_line": "Enchantment — Aura",
@@ -1145,7 +1145,7 @@
   },
   {
     "name": "Hyrax Tower Scout",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/b/bb7f2638-d757-4df6-90b0-b616534dd3a0.jpg?1581480637"
     ],
     "type_line": "Creature — Human Scout",
@@ -1158,7 +1158,7 @@
   },
   {
     "name": "Ichthyomorphosis",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/4/e4763b6c-6471-41bd-b3e4-785564bcf06f.jpg?1581479371"
     ],
     "type_line": "Enchantment — Aura",
@@ -1171,7 +1171,7 @@
   },
   {
     "name": "Idyllic Tutor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/0/f06edd53-f3ac-44b0-a087-5670ba8f0fa5.jpg?1582021156"
     ],
     "type_line": "Sorcery",
@@ -1184,7 +1184,7 @@
   },
   {
     "name": "Ilysian Caryatid",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/c/7cdf8ab8-f221-4f7b-9af9-3849cad1f596.jpg?1581480645"
     ],
     "type_line": "Creature — Plant",
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "Impending Doom",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/6/5681db91-5dab-41e6-96f2-275ec9495e5b.jpg?1581480201"
     ],
     "type_line": "Enchantment — Aura",
@@ -1210,7 +1210,7 @@
   },
   {
     "name": "Incendiary Oracle",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/b/eb6b9b5c-35ff-47ac-9b04-71257314b686.jpg?1581480217"
     ],
     "type_line": "Creature — Human Shaman",
@@ -1223,7 +1223,7 @@
   },
   {
     "name": "Indomitable Will",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/7/47772a34-c72f-44e8-b272-4ef2d2af5c82.jpg?1581479150"
     ],
     "type_line": "Enchantment — Aura",
@@ -1236,7 +1236,7 @@
   },
   {
     "name": "Inevitable End",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/6/a6522f01-ae7a-467e-9a05-530a5ccd304d.jpg?1581479841"
     ],
     "type_line": "Enchantment — Aura",
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "Infuriate",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/5/85a74392-4056-428c-a807-b062957e838e.jpg?1581480233"
     ],
     "type_line": "Instant",
@@ -1262,7 +1262,7 @@
   },
   {
     "name": "Inspire Awe",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/2/b23c8b5a-2e18-4dd8-b236-5b1fd356f867.jpg?1581480652"
     ],
     "type_line": "Instant",
@@ -1275,7 +1275,7 @@
   },
   {
     "name": "Iroas's Blessing",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/b/ab6e99a5-b105-489e-aff6-7d2ca50d8ba9.jpg?1581480260"
     ],
     "type_line": "Enchantment — Aura",
@@ -1288,7 +1288,7 @@
   },
   {
     "name": "Irreverent Revelers",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/5/55405dca-3555-45ff-be1c-e276fe1a0c2e.jpg?1581480287"
     ],
     "type_line": "Creature — Satyr",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Karametra's Blessing",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/8/88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36.jpg?1581479156"
     ],
     "type_line": "Instant",
@@ -1314,7 +1314,7 @@
   },
   {
     "name": "Kiora Bests the Sea God",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/b/2b604451-4f6c-4cfa-8d3a-01f18d01d88f.jpg?1581479381"
     ],
     "type_line": "Enchantment — Saga",
@@ -1327,7 +1327,7 @@
   },
   {
     "name": "Klothys, God of Destiny",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/b/5b3c393c-3596-4bd9-a553-e0b03c2eb950.jpg?1581481087"
     ],
     "type_line": "Legendary Enchantment Creature — God",
@@ -1340,7 +1340,7 @@
   },
   {
     "name": "Klothys's Design",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/1/b1b6b7a7-0ac8-470a-949b-4779ded95359.jpg?1581480664"
     ],
     "type_line": "Sorcery",
@@ -1353,7 +1353,7 @@
   },
   {
     "name": "Kroxa, Titan of Death's Hunger",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/e/cee0459b-9aac-4d2f-abe4-4d5fedde7eb8.jpg?1581481096"
     ],
     "type_line": "Legendary Creature — Elder Giant",
@@ -1366,7 +1366,7 @@
   },
   {
     "name": "Kunoros, Hound of Athreos",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/b/dbc0d2c3-8060-4155-b10e-d641648a4e6b.jpg?1581481106"
     ],
     "type_line": "Legendary Creature — Hound",
@@ -1379,7 +1379,7 @@
   },
   {
     "name": "Labyrinth of Skophos",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/f/ff0dd221-2660-43f6-8e28-8000e3fe72a4.jpg?1581481248"
     ],
     "type_line": "Land",
@@ -1392,7 +1392,7 @@
   },
   {
     "name": "Lagonna-Band Storyteller",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/3/c3a87498-2c2c-411a-aa71-d594b2c6cb26.jpg?1581479163"
     ],
     "type_line": "Creature — Centaur Advisor",
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "Lampad of Death's Vigil",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/8/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f.jpg?1581479856"
     ],
     "type_line": "Enchantment Creature — Nymph",
@@ -1418,7 +1418,7 @@
   },
   {
     "name": "Leonin of the Lost Pride",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/1/e1be3729-7970-45df-8c26-4fe09e56629d.jpg?1581479169"
     ],
     "type_line": "Creature — Cat Warrior",
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Loathsome Chimera",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/a/3afe6283-3642-4883-ac6e-83ae3280af9c.jpg?1581480674"
     ],
     "type_line": "Creature — Chimera",
@@ -1444,7 +1444,7 @@
   },
   {
     "name": "Mantle of the Wolf",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/3/83a786fa-4b86-40f7-ac58-1a05fb38fcdb.jpg?1581480687"
     ],
     "type_line": "Enchantment — Aura",
@@ -1457,7 +1457,7 @@
   },
   {
     "name": "Medomai's Prophecy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/d/3d2bd7b4-28de-4d9e-86c5-a46bd608cb02.jpg?1581479392"
     ],
     "type_line": "Enchantment — Saga",
@@ -1470,7 +1470,7 @@
   },
   {
     "name": "Memory Drain",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/a/aadc1809-d6bb-455c-b6ce-dd11521808b6.jpg?1581479403"
     ],
     "type_line": "Instant",
@@ -1483,7 +1483,7 @@
   },
   {
     "name": "Minion's Return",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/e/ce763778-0a35-41d2-9286-fdf2302554f5.jpg?1581479868"
     ],
     "type_line": "Enchantment — Aura",
@@ -1496,7 +1496,7 @@
   },
   {
     "name": "Mire's Grasp",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/a/0ae0c536-612d-4916-a8da-5aaaf14218b1.jpg?1581479882"
     ],
     "type_line": "Enchantment — Aura",
@@ -1509,7 +1509,7 @@
   },
   {
     "name": "Mire Triton",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/f/3f8427d3-4d9e-48c9-838b-239fd1357d95.jpg?1581479874"
     ],
     "type_line": "Creature — Zombie Merfolk",
@@ -1522,7 +1522,7 @@
   },
   {
     "name": "Mirror Shield",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/7/e7624e84-93ce-4983-8624-ebc934cab67f.jpg?1581481194"
     ],
     "type_line": "Artifact — Equipment",
@@ -1535,7 +1535,7 @@
   },
   {
     "name": "Mischievous Chimera",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/8/f8a3df0e-4ee8-458b-adf5-56aca20493e9.jpg?1581481116"
     ],
     "type_line": "Enchantment Creature — Chimera",
@@ -1548,7 +1548,7 @@
   },
   {
     "name": "Mogis's Favor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/e/de6bf7fb-11ca-4878-8072-cebaa763a549.jpg?1581479890"
     ],
     "type_line": "Enchantment — Aura",
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "Moss Viper",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/4/a4d35ec4-0e0d-4611-8ad9-39d2c8a2ad6e.jpg?1581480700"
     ],
     "type_line": "Creature — Snake",
@@ -1574,7 +1574,7 @@
   },
   {
     "name": "Mystic Repeal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/7/6797195a-508f-45b1-964d-da842dc46ca8.jpg?1581480711"
     ],
     "type_line": "Instant",
@@ -1587,7 +1587,7 @@
   },
   {
     "name": "Nadir Kraken",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/8/7817e039-e509-4b6f-b5a3-deb3769bbdc8.jpg?1581479411"
     ],
     "type_line": "Creature — Kraken",
@@ -1600,7 +1600,7 @@
   },
   {
     "name": "Naiad of Hidden Coves",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/c/dc6ae489-658b-4c12-b204-f7b58ce84375.jpg?1581479418"
     ],
     "type_line": "Enchantment Creature — Nymph",
@@ -1613,7 +1613,7 @@
   },
   {
     "name": "Nessian Boar",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/a/aaf91fc2-7317-47e4-9e6c-d7d74cdf0153.jpg?1581480722"
     ],
     "type_line": "Creature — Boar",
@@ -1626,7 +1626,7 @@
   },
   {
     "name": "Nessian Hornbeetle",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/2/8200fcda-e30c-460f-9964-47e657b7c758.jpg?1581480733"
     ],
     "type_line": "Creature — Insect",
@@ -1639,7 +1639,7 @@
   },
   {
     "name": "Nessian Wanderer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/0/50d50576-c3ee-479a-8533-6c147f5cb1c4.jpg?1581480745"
     ],
     "type_line": "Creature — Satyr Scout",
@@ -1652,7 +1652,7 @@
   },
   {
     "name": "Nexus Wardens",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/8/68cb4e56-bcad-43a3-8600-a3594047205a.jpg?1581480753"
     ],
     "type_line": "Creature — Satyr Archer",
@@ -1665,7 +1665,7 @@
   },
   {
     "name": "Nightmare Shepherd",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/a/4a46eec7-bb79-441c-959f-eea599e5c341.jpg?1581479899"
     ],
     "type_line": "Enchantment Creature — Demon",
@@ -1678,7 +1678,7 @@
   },
   {
     "name": "Nylea, Keen-Eyed",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/d/bdf894d4-1a06-4952-a481-22786ab87a73.jpg?1581480764"
     ],
     "type_line": "Legendary Enchantment Creature — God",
@@ -1691,7 +1691,7 @@
   },
   {
     "name": "Nylea's Forerunner",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/c/2cf2b6be-80a8-4464-a909-8cc658196a14.jpg?1581480774"
     ],
     "type_line": "Enchantment Creature — Beast",
@@ -1704,7 +1704,7 @@
   },
   {
     "name": "Nylea's Huntmaster",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/a/2a4fe89a-0d2b-493f-883e-a1e0b0918340.jpg?1581480783"
     ],
     "type_line": "Creature — Centaur Shaman",
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "Nylea's Intervention",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/a/daa2f963-9d16-4224-b24e-b6a79f2b9d75.jpg?1581480794"
     ],
     "type_line": "Sorcery",
@@ -1730,7 +1730,7 @@
   },
   {
     "name": "Nyxbloom Ancient",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/3/a391da36-0b40-46ea-b771-50d2b920207e.jpg?1581480808"
     ],
     "type_line": "Enchantment Creature — Elemental",
@@ -1743,7 +1743,7 @@
   },
   {
     "name": "Nyxborn Brute",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/5/05bc4236-566f-401b-b9d7-f58126fa228b.jpg?1581480309"
     ],
     "type_line": "Enchantment Creature — Cyclops",
@@ -1756,7 +1756,7 @@
   },
   {
     "name": "Nyxborn Colossus",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/b/8b4f003c-1e99-4e53-ad6d-81ff3c592b2c.jpg?1581480817"
     ],
     "type_line": "Enchantment Creature — Giant",
@@ -1769,7 +1769,7 @@
   },
   {
     "name": "Nyxborn Courser",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/f/0fd32240-c003-4e18-adf1-e2e992c702b1.jpg?1581479176"
     ],
     "type_line": "Enchantment Creature — Centaur Scout",
@@ -1782,7 +1782,7 @@
   },
   {
     "name": "Nyxborn Marauder",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/d/fd2a923a-1f9c-4a29-9c6b-344ae4d5ae8f.jpg?1581479907"
     ],
     "type_line": "Enchantment Creature — Minotaur",
@@ -1795,7 +1795,7 @@
   },
   {
     "name": "Nyxborn Seaguard",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/a/9ad0c7d7-0e44-496f-a2fc-fafc604cb1f1.jpg?1581479427"
     ],
     "type_line": "Enchantment Creature — Merfolk Soldier",
@@ -1808,7 +1808,7 @@
   },
   {
     "name": "Nyx Herald",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/6/866dcef0-8d3e-4126-963a-05598d8a9e79.jpg?1581480801"
     ],
     "type_line": "Enchantment Creature — Centaur Shaman",
@@ -1821,7 +1821,7 @@
   },
   {
     "name": "Nyx Lotus",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/b/5bd6353f-d119-40e6-895c-030a11a7a2fe.jpg?1581481199"
     ],
     "type_line": "Legendary Artifact",
@@ -1834,7 +1834,7 @@
   },
   {
     "name": "Omen of the Dead",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/0/8023fc44-fb8e-420d-a68c-b45912c4e5bd.jpg?1581479918"
     ],
     "type_line": "Enchantment",
@@ -1847,7 +1847,7 @@
   },
   {
     "name": "Omen of the Forge",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/0/70388773-709b-4cd8-a8b7-56093fd77a1d.jpg?1581480322"
     ],
     "type_line": "Enchantment",
@@ -1860,7 +1860,7 @@
   },
   {
     "name": "Omen of the Hunt",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/d/7d4ebdea-78d4-4034-921b-735bdb11a716.jpg?1581480831"
     ],
     "type_line": "Enchantment",
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Omen of the Sea",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/5/a5f30ecd-d009-4d44-aef4-c926ed55a521.jpg?1581479435"
     ],
     "type_line": "Enchantment",
@@ -1886,7 +1886,7 @@
   },
   {
     "name": "Omen of the Sun",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/6/86586fe3-1a6e-4648-b3ff-b0d9340e66ff.jpg?1581479183"
     ],
     "type_line": "Enchantment",
@@ -1899,7 +1899,7 @@
   },
   {
     "name": "One with the Stars",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/8/98b7070d-4b09-4390-aa21-1bc0aa2b629c.jpg?1581649081"
     ],
     "type_line": "Enchantment — Aura",
@@ -1912,7 +1912,7 @@
   },
   {
     "name": "Oread of Mountain's Blaze",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/f/0f9bb73a-5b4e-4c9b-b0a6-8e531dc27394.jpg?1581480333"
     ],
     "type_line": "Enchantment Creature — Nymph",
@@ -1925,7 +1925,7 @@
   },
   {
     "name": "Ox of Agonas",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/5/75caefa7-94d5-472e-a540-daad3ee69899.jpg?1581480343"
     ],
     "type_line": "Creature — Ox",
@@ -1938,7 +1938,7 @@
   },
   {
     "name": "Phalanx Tactics",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/f/5f114a10-0b00-4f3a-bd73-d4c791fbf4d5.jpg?1581479191"
     ],
     "type_line": "Instant",
@@ -1951,7 +1951,7 @@
   },
   {
     "name": "Pharika's Libation",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/3/0307bb5c-0a46-4f6b-b6d5-58cf31987bb5.jpg?1581479925"
     ],
     "type_line": "Instant",
@@ -1964,7 +1964,7 @@
   },
   {
     "name": "Pharika's Spawn",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/2/a2c8244b-7d86-4dff-9419-3945beb2a7b7.jpg?1581479932"
     ],
     "type_line": "Creature — Gorgon",
@@ -1977,7 +1977,7 @@
   },
   {
     "name": "Pheres-Band Brawler",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/0/10ac20a9-6b10-4165-ad81-a47587b64d1e.jpg?1581480839"
     ],
     "type_line": "Creature — Centaur Warrior",
@@ -1990,7 +1990,7 @@
   },
   {
     "name": "Phoenix of Ash",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/0/7010ce26-16de-44cb-ba7e-3d904175b429.jpg?1581480352"
     ],
     "type_line": "Creature — Phoenix",
@@ -2003,7 +2003,7 @@
   },
   {
     "name": "Pious Wayfarer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/0/10b1a2b5-5be2-43a2-bc35-95df6eb0984f.jpg?1581479198"
     ],
     "type_line": "Creature — Human Scout",
@@ -2016,7 +2016,7 @@
   },
   {
     "name": "Plummet",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/8/a8b2f186-4e04-49cb-a206-257cfb7e9361.jpg?1581480847"
     ],
     "type_line": "Instant",
@@ -2029,7 +2029,7 @@
   },
   {
     "name": "Polukranos, Unchained",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/7/87858278-632c-4d82-b3a3-adfc6f2f4fc6.jpg?1581481126"
     ],
     "type_line": "Legendary Creature — Zombie Hydra",
@@ -2042,7 +2042,7 @@
   },
   {
     "name": "Portent of Betrayal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/9/b9c2b855-5079-418e-bfb4-9fc575ebe4f7.jpg?1581480361"
     ],
     "type_line": "Sorcery",
@@ -2055,7 +2055,7 @@
   },
   {
     "name": "Protean Thaumaturge",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/4/749bfd81-c61b-4901-8efb-72611fd08244.jpg?1581479452"
     ],
     "type_line": "Creature — Human Wizard",
@@ -2068,7 +2068,7 @@
   },
   {
     "name": "Purphoros, Bronze-Blooded",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/f/af3af5c4-0960-44a2-976e-abdf7803c436.jpg?1582178876"
     ],
     "type_line": "Legendary Enchantment Creature — God",
@@ -2081,7 +2081,7 @@
   },
   {
     "name": "Purphoros's Intervention",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/c/ecc911ee-0e12-4b10-add7-9a9d63c29443.jpg?1581480381"
     ],
     "type_line": "Sorcery",
@@ -2094,7 +2094,7 @@
   },
   {
     "name": "Rage-Scarred Berserker",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/f/1f76d7c4-a5d6-4144-b5f3-e43b96b695b7.jpg?1581479940"
     ],
     "type_line": "Creature — Minotaur Berserker",
@@ -2107,7 +2107,7 @@
   },
   {
     "name": "Relentless Pursuit",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/5/752b9560-b1d6-441c-8bc8-bf6988112d25.jpg?1581480858"
     ],
     "type_line": "Sorcery",
@@ -2120,7 +2120,7 @@
   },
   {
     "name": "Renata, Called to the Hunt",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/b/2b27e6b2-13ad-42b2-a121-70935913723d.jpg?1581480865"
     ],
     "type_line": "Legendary Enchantment Creature — Demigod",
@@ -2133,7 +2133,7 @@
   },
   {
     "name": "Return to Nature",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/4/a4515a76-53f0-40a2-8b88-70b73447d1e6.jpg?1581480874"
     ],
     "type_line": "Instant",
@@ -2146,7 +2146,7 @@
   },
   {
     "name": "Reverent Hoplite",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/4/54153b9c-483e-4e5c-a1ab-b1c8a7a657d4.jpg?1581479206"
     ],
     "type_line": "Creature — Human Soldier",
@@ -2159,7 +2159,7 @@
   },
   {
     "name": "Revoke Existence",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/d/9dbb9f86-f487-44b1-815f-30d87868b531.jpg?1581479215"
     ],
     "type_line": "Sorcery",
@@ -2172,7 +2172,7 @@
   },
   {
     "name": "Riptide Turtle",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/c/cc4ba296-950c-4e39-ab5e-06be07e4a190.jpg?1581479464"
     ],
     "type_line": "Creature — Turtle",
@@ -2185,7 +2185,7 @@
   },
   {
     "name": "Rise to Glory",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/f/cf6c11c8-64a1-46a4-979c-56a6d5b873d3.jpg?1581481132"
     ],
     "type_line": "Sorcery",
@@ -2198,7 +2198,7 @@
   },
   {
     "name": "Rumbling Sentry",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/f/4f93f3c9-b317-40c1-87f5-0038c09b646d.jpg?1581479223"
     ],
     "type_line": "Creature — Giant",
@@ -2211,7 +2211,7 @@
   },
   {
     "name": "Sage of Mysteries",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/1/4138fd65-e0c3-42a1-9c0d-4d5f20228b55.jpg?1581479476"
     ],
     "type_line": "Creature — Human Wizard",
@@ -2224,7 +2224,7 @@
   },
   {
     "name": "Satyr's Cunning",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/4/646d8201-be68-42fa-bcfd-42d81a2ad195.jpg?1581480393"
     ],
     "type_line": "Sorcery",
@@ -2237,7 +2237,7 @@
   },
   {
     "name": "Scavenging Harpy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/0/b0e237c5-45b4-49df-adb9-62b9f3b62986.jpg?1581479949"
     ],
     "type_line": "Creature — Harpy",
@@ -2250,7 +2250,7 @@
   },
   {
     "name": "Sea God's Scorn",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/5/9504dc26-f5d8-4b9d-9eb1-51a12b893beb.jpg?1581479487"
     ],
     "type_line": "Sorcery",
@@ -2263,7 +2263,7 @@
   },
   {
     "name": "Sentinel's Eyes",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235"
     ],
     "type_line": "Enchantment — Aura",
@@ -2276,7 +2276,7 @@
   },
   {
     "name": "Setessan Champion",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/8/f8ce9858-747e-441c-95a8-6af44aa2098d.jpg?1581480884"
     ],
     "type_line": "Creature — Human Warrior",
@@ -2289,7 +2289,7 @@
   },
   {
     "name": "Setessan Petitioner",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/8/384495c2-238b-4f8d-89c2-e05b64f9dde0.jpg?1581480892"
     ],
     "type_line": "Creature — Human Druid",
@@ -2302,7 +2302,7 @@
   },
   {
     "name": "Setessan Skirmisher",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/6/46739993-6afe-428d-bf63-b57649e38a65.jpg?1581480900"
     ],
     "type_line": "Creature — Human Warrior",
@@ -2315,7 +2315,7 @@
   },
   {
     "name": "Setessan Training",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/8/b8322d31-6194-4fda-99a3-b6426c57488a.jpg?1581480908"
     ],
     "type_line": "Enchantment — Aura",
@@ -2328,7 +2328,7 @@
   },
   {
     "name": "Shadowspear",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.jpg?1581481207"
     ],
     "type_line": "Legendary Artifact — Equipment",
@@ -2341,7 +2341,7 @@
   },
   {
     "name": "Shatter the Sky",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/7/b706977b-db8e-4810-882d-ed3745404489.jpg?1581479244"
     ],
     "type_line": "Sorcery",
@@ -2354,7 +2354,7 @@
   },
   {
     "name": "Shimmerwing Chimera",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/3/f3b54bea-f2c5-4000-9cbd-04c03a1d2ea2.jpg?1581479499"
     ],
     "type_line": "Enchantment Creature — Chimera",
@@ -2367,7 +2367,7 @@
   },
   {
     "name": "Shoal Kraken",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/c/ec538182-efba-48d0-91ad-457461b44748.jpg?1581479511"
     ],
     "type_line": "Creature — Kraken",
@@ -2380,7 +2380,7 @@
   },
   {
     "name": "Siona, Captain of the Pyleas",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/b/2b1d890f-7ef8-47b9-9ec8-f3884a1d09db.jpg?1581481138"
     ],
     "type_line": "Legendary Creature — Human Soldier",
@@ -2393,7 +2393,7 @@
   },
   {
     "name": "Skola Grovedancer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/7/076ec900-345d-4720-96b6-441bce01618a.jpg?1581480915"
     ],
     "type_line": "Enchantment Creature — Satyr Druid",
@@ -2406,7 +2406,7 @@
   },
   {
     "name": "Skophos Maze-Warden",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/f/0f470a7b-63ef-4efa-855e-f8a3ce1ab534.jpg?1581480402"
     ],
     "type_line": "Creature — Minotaur Warrior",
@@ -2419,7 +2419,7 @@
   },
   {
     "name": "Skophos Warleader",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/9/59c39c70-8360-4c7c-b5fa-61c42828609a.jpg?1581480410"
     ],
     "type_line": "Creature — Minotaur Warrior",
@@ -2432,7 +2432,7 @@
   },
   {
     "name": "Slaughter-Priest of Mogis",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/2/a2b441c0-261e-4094-b694-5e11ea3c14ab.jpg?1581481146"
     ],
     "type_line": "Creature — Minotaur Shaman",
@@ -2445,7 +2445,7 @@
   },
   {
     "name": "Sleep of the Dead",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/0/4007572b-a6c8-4a56-b1a7-ff099189c9c0.jpg?1581479523"
     ],
     "type_line": "Sorcery",
@@ -2458,7 +2458,7 @@
   },
   {
     "name": "Soul-Guide Lantern",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/c/7c850b94-75c9-4457-8b5e-1193352d6fcb.jpg?1581481214"
     ],
     "type_line": "Artifact",
@@ -2471,7 +2471,7 @@
   },
   {
     "name": "Soulreaper of Mogis",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1581479959"
     ],
     "type_line": "Enchantment Creature — Minotaur Shaman",
@@ -2484,7 +2484,7 @@
   },
   {
     "name": "Staggering Insight",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/2/125b8be1-76b9-434e-a505-5099d950767c.jpg?1581481153"
     ],
     "type_line": "Enchantment — Aura",
@@ -2497,7 +2497,7 @@
   },
   {
     "name": "Stampede Rider",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/3/c32c6192-2f8d-4656-af8b-c488e27a75e1.jpg?1581480421"
     ],
     "type_line": "Creature — Satyr",
@@ -2510,7 +2510,7 @@
   },
   {
     "name": "Starlit Mantle",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/8/68c53625-6928-494a-af87-7eee2f6643a5.jpg?1581479536"
     ],
     "type_line": "Enchantment — Aura",
@@ -2523,7 +2523,7 @@
   },
   {
     "name": "Stern Dismissal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/a/0aec4d0f-ba1e-45f8-9764-9bcc3fa50e51.jpg?1581479548"
     ],
     "type_line": "Instant",
@@ -2536,7 +2536,7 @@
   },
   {
     "name": "Stinging Lionfish",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/1/0162a0b8-a2d1-4664-a445-331aee6d5175.jpg?1581479556"
     ],
     "type_line": "Enchantment Creature — Fish",
@@ -2549,7 +2549,7 @@
   },
   {
     "name": "Storm Herald",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/0/e0594aa2-1c53-4271-a0d0-9002c07f3697.jpg?1581480429"
     ],
     "type_line": "Creature — Human Shaman",
@@ -2562,7 +2562,7 @@
   },
   {
     "name": "Storm's Wrath",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/b/4bc9ecd2-7664-471b-90f2-2d0dd1acec80.jpg?1581480444"
     ],
     "type_line": "Sorcery",
@@ -2575,7 +2575,7 @@
   },
   {
     "name": "Sunmane Pegasus",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/2/52e28f5a-55ee-4fcc-bc16-e59944592fcd.jpg?1581479252"
     ],
     "type_line": "Creature — Pegasus",
@@ -2588,7 +2588,7 @@
   },
   {
     "name": "Sweet Oblivion",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/1/51ac77d4-f918-4bbc-b023-8117a8c401ee.jpg?1581479564"
     ],
     "type_line": "Sorcery",
@@ -2601,7 +2601,7 @@
   },
   {
     "name": "Taranika, Akroan Veteran",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/8/a8edd707-5ba3-4978-9a0b-efd0cda367c1.jpg?1581479259"
     ],
     "type_line": "Legendary Creature — Human Soldier",
@@ -2614,7 +2614,7 @@
   },
   {
     "name": "Tectonic Giant",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/f/6f226550-fc9f-4964-ac62-74f84d0ac3f3.jpg?1581480462"
     ],
     "type_line": "Creature — Elemental Giant",
@@ -2627,7 +2627,7 @@
   },
   {
     "name": "Temple of Abandon",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/d/7d5f8481-47f7-4531-9dad-686cdfb5d2ad.jpg?1581481254"
     ],
     "type_line": "Land",
@@ -2640,7 +2640,7 @@
   },
   {
     "name": "Temple of Deceit",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/3/e3d4fd29-dab5-481f-94c9-eeb70f3c29dd.jpg?1581481259"
     ],
     "type_line": "Land",
@@ -2653,7 +2653,7 @@
   },
   {
     "name": "Temple of Enlightenment",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/d/adad8390-66d8-4022-a059-c68e44e718fe.jpg?1581481265"
     ],
     "type_line": "Land",
@@ -2666,7 +2666,7 @@
   },
   {
     "name": "Temple of Malice",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/4/9490a495-9f17-45a8-b10c-7de4fcbd2778.jpg?1581481271"
     ],
     "type_line": "Land",
@@ -2679,7 +2679,7 @@
   },
   {
     "name": "Temple of Plenty",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/e/6e6256ea-ccb5-4595-8278-44266f922e31.jpg?1581481279"
     ],
     "type_line": "Land",
@@ -2692,7 +2692,7 @@
   },
   {
     "name": "Temple Thief",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/c/fc4a61aa-75d2-46bc-b13f-b863f5f49d32.jpg?1581479972"
     ],
     "type_line": "Creature — Human Rogue",
@@ -2705,7 +2705,7 @@
   },
   {
     "name": "Thassa, Deep-Dwelling",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/8/c83ed3e0-82d0-4410-a6ca-b0f923eadf83.jpg?1581479572"
     ],
     "type_line": "Legendary Enchantment Creature — God",
@@ -2718,7 +2718,7 @@
   },
   {
     "name": "Thassa's Intervention",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/c/2c1241d0-20d4-4eab-970d-74e476f023b4.jpg?1584279765"
     ],
     "type_line": "Instant",
@@ -2731,7 +2731,7 @@
   },
   {
     "name": "Thassa's Oracle",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/2/726e8b29-13e9-4138-b6a9-d2a0d8188d1c.jpg?1582752984"
     ],
     "type_line": "Creature — Merfolk Wizard",
@@ -2744,7 +2744,7 @@
   },
   {
     "name": "Thaumaturge's Familiar",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/b/7b497153-69a8-480e-b02f-88afec9d5053.jpg?1581481219"
     ],
     "type_line": "Artifact Creature — Bird",
@@ -2757,7 +2757,7 @@
   },
   {
     "name": "The Akroan War",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/8/28ea046b-1bbc-4430-a859-321602c9e928.jpg?1581480052"
     ],
     "type_line": "Enchantment — Saga",
@@ -2770,7 +2770,7 @@
   },
   {
     "name": "The Binding of the Titans",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/6/46fb94ad-f9be-48b4-b65a-4e736e5ffdbb.jpg?1581480556"
     ],
     "type_line": "Enchantment — Saga",
@@ -2783,7 +2783,7 @@
   },
   {
     "name": "The Birth of Meletis",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/8/d824f8bd-58f8-4796-80b5-5cd3033d35e8.jpg?1581478957"
     ],
     "type_line": "Enchantment — Saga",
@@ -2796,7 +2796,7 @@
   },
   {
     "name": "The First Iroan Games",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/b/4b05ada5-8e5f-4158-bd28-e6c24e4a2299.jpg?1581480603"
     ],
     "type_line": "Enchantment — Saga",
@@ -2809,7 +2809,7 @@
   },
   {
     "name": "The Triumph of Anax",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/9/49b5b348-1415-4062-a2a7-017694424c05.jpg?1581480489"
     ],
     "type_line": "Enchantment — Saga",
@@ -2822,7 +2822,7 @@
   },
   {
     "name": "Thirst for Meaning",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/4/2422973d-36ee-4b8c-9a47-fcd160aa9f63.jpg?1581479595"
     ],
     "type_line": "Instant",
@@ -2835,7 +2835,7 @@
   },
   {
     "name": "Threnody Singer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/4/242cdffb-5037-4d49-b194-4b60274a8758.jpg?1581479602"
     ],
     "type_line": "Creature — Siren",
@@ -2848,7 +2848,7 @@
   },
   {
     "name": "Thrill of Possibility",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/e/2e807edb-838d-44fe-a37e-fb864d59beaa.jpg?1581480475"
     ],
     "type_line": "Instant",
@@ -2861,7 +2861,7 @@
   },
   {
     "name": "Thryx, the Sudden Storm",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/2/4238b089-c6d8-4e4b-b6a1-a0f89e3b4968.jpg?1581479609"
     ],
     "type_line": "Legendary Creature — Elemental Giant",
@@ -2874,7 +2874,7 @@
   },
   {
     "name": "Thundering Chariot",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/d/cd2fa92d-5521-421c-b3f8-7c14bbef3080.jpg?1581481225"
     ],
     "type_line": "Artifact — Vehicle",
@@ -2887,7 +2887,7 @@
   },
   {
     "name": "Towering-Wave Mystic",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/c/8c2b4ffc-b1e1-4b16-9a51-1a12f8256a27.jpg?1581479618"
     ],
     "type_line": "Creature — Merfolk Wizard",
@@ -2900,7 +2900,7 @@
   },
   {
     "name": "Transcendent Envoy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/9/a9241289-28d2-4827-970e-81bdecbb5c16.jpg?1581479265"
     ],
     "type_line": "Enchantment Creature — Griffin",
@@ -2913,7 +2913,7 @@
   },
   {
     "name": "Traveler's Amulet",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/9/590926db-279c-494a-b92d-680b8abf9699.jpg?1581481232"
     ],
     "type_line": "Artifact",
@@ -2926,7 +2926,7 @@
   },
   {
     "name": "Treacherous Blessing",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/5/35b3ad6b-9966-489f-a4c9-2639a634fd62.jpg?1581479982"
     ],
     "type_line": "Enchantment",
@@ -2939,7 +2939,7 @@
   },
   {
     "name": "Triton Waverider",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/8/b8cb11d7-feae-4511-9a03-bda23119b6a5.jpg?1581479630"
     ],
     "type_line": "Creature — Merfolk Wizard",
@@ -2952,7 +2952,7 @@
   },
   {
     "name": "Triumphant Surge",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/5/75d6eb18-a49d-4fa5-a333-78aafbc4abcb.jpg?1581479273"
     ],
     "type_line": "Instant",
@@ -2965,7 +2965,7 @@
   },
   {
     "name": "Tymaret Calls the Dead",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/8/68c0d087-540a-4249-9265-f13cc8e776ea.jpg?1581479994"
     ],
     "type_line": "Enchantment — Saga",
@@ -2978,7 +2978,7 @@
   },
   {
     "name": "Tymaret, Chosen from Death",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/4/14b28eae-e8ed-4b99-b6ec-86d0716ec473.jpg?1581480007"
     ],
     "type_line": "Legendary Enchantment Creature — Demigod",
@@ -2991,7 +2991,7 @@
   },
   {
     "name": "Underworld Breach",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1583750118"
     ],
     "type_line": "Enchantment",
@@ -3004,7 +3004,7 @@
   },
   {
     "name": "Underworld Charger",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/2/f2dd847f-0db2-4f6a-bdfb-5c88ce7802f9.jpg?1581480014"
     ],
     "type_line": "Creature — Nightmare Horse",
@@ -3017,7 +3017,7 @@
   },
   {
     "name": "Underworld Dreams",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/3/03919c86-1c4a-43b0-a2db-54ca6ae1ac57.jpg?1581480025"
     ],
     "type_line": "Enchantment",
@@ -3030,7 +3030,7 @@
   },
   {
     "name": "Underworld Fires",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/f/0fe616c4-dcb0-4284-ba10-6fbf7cecd217.jpg?1581480512"
     ],
     "type_line": "Sorcery",
@@ -3043,7 +3043,7 @@
   },
   {
     "name": "Underworld Rage-Hound",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/0/a04eef82-fd53-41f4-9c7e-28b9ac039032.jpg?1581480522"
     ],
     "type_line": "Creature — Elemental Hound",
@@ -3056,7 +3056,7 @@
   },
   {
     "name": "Unknown Shores",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/9/492181e4-5825-45d4-b8a1-37f29c32a845.jpg?1581481287"
     ],
     "type_line": "Land",
@@ -3069,7 +3069,7 @@
   },
   {
     "name": "Uro, Titan of Nature's Wrath",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/0/a0b6a71e-56cb-4d25-8f2b-7a4f1b60900d.jpg?1581481163"
     ],
     "type_line": "Legendary Creature — Elder Giant",
@@ -3082,7 +3082,7 @@
   },
   {
     "name": "Venomous Hierophant",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/d/9dc2b661-2f42-419d-837f-bbf097c1153c.jpg?1581480034"
     ],
     "type_line": "Creature — Gorgon Cleric",
@@ -3095,7 +3095,7 @@
   },
   {
     "name": "Vexing Gull",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/6/869fee23-df75-448d-9fca-6ba6713d459f.jpg?1581479638"
     ],
     "type_line": "Creature — Bird",
@@ -3108,7 +3108,7 @@
   },
   {
     "name": "Voracious Typhon",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/f/efa2bccb-0e01-4629-b9a8-5c0ea26239b3.jpg?1581480923"
     ],
     "type_line": "Creature — Snake Beast",
@@ -3121,7 +3121,7 @@
   },
   {
     "name": "Warbriar Blessing",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/1/11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed.jpg?1581480932"
     ],
     "type_line": "Enchantment — Aura",
@@ -3134,7 +3134,7 @@
   },
   {
     "name": "Warden of the Chained",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/f/ff48d55e-aa8b-4061-9c77-fd7e696fd7ba.jpg?1581481170"
     ],
     "type_line": "Creature — Minotaur Warrior",
@@ -3147,7 +3147,7 @@
   },
   {
     "name": "Wavebreak Hippocamp",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/9/d900dff5-1196-443f-b9b0-b8e75c67c868.jpg?1581479648"
     ],
     "type_line": "Enchantment Creature — Horse Fish",
@@ -3160,7 +3160,7 @@
   },
   {
     "name": "Whirlwind Denial",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/e/9e127856-bedd-40a9-9e8e-d1f9fbefe07d.jpg?1581479658"
     ],
     "type_line": "Instant",
@@ -3173,7 +3173,7 @@
   },
   {
     "name": "Wings of Hubris",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/3/e3ef8f96-3e3c-4b1b-8180-3b38c7deaaff.jpg?1581481238"
     ],
     "type_line": "Artifact — Equipment",
@@ -3186,7 +3186,7 @@
   },
   {
     "name": "Witness of Tomorrows",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/4/64cd9d60-826c-4b35-9684-dccb0880399e.jpg?1581479667"
     ],
     "type_line": "Enchantment Creature — Sphinx",
@@ -3199,7 +3199,7 @@
   },
   {
     "name": "Woe Strider",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/4/3457b558-b35b-49fd-b499-b1ec755f86ce.jpg?1581480044"
     ],
     "type_line": "Creature — Horror",
@@ -3212,7 +3212,7 @@
   },
   {
     "name": "Wolfwillow Haven",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/2/72b886c3-234c-49ce-9a11-456c1e8f092f.jpg?1581480945"
     ],
     "type_line": "Enchantment — Aura",
@@ -3225,7 +3225,7 @@
   },
   {
     "name": "Wrap in Flames",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/5/b5f7ff4f-3fd6-4084-aaf7-9f290ecc0181.jpg?1581480532"
     ],
     "type_line": "Sorcery",
@@ -3238,7 +3238,7 @@
   },
   {
     "name": "Forest",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1576937833"
     ],
     "type_line": "Basic Land — Forest",
@@ -3251,7 +3251,7 @@
   },
   {
     "name": "Island",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1576937872"
     ],
     "type_line": "Basic Land — Island",
@@ -3264,7 +3264,7 @@
   },
   {
     "name": "Mountain",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1576937840"
     ],
     "type_line": "Basic Land — Mountain",
@@ -3277,7 +3277,7 @@
   },
   {
     "name": "Plains",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1576937884"
     ],
     "type_line": "Basic Land — Plains",
@@ -3290,7 +3290,7 @@
   },
   {
     "name": "Swamp",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/2/02cb5cfd-018e-4c5e-bef1-166262aa5f1d.jpg?1576937846"
     ],
     "type_line": "Basic Land — Swamp",

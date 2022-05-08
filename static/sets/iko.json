@@ -1,7 +1,7 @@
 [
   {
     "name": "Adaptive Shimmerer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/8/d8a2e243-e446-46c6-8a37-e26620951c41.jpg?1586545316"
     ],
     "type_line": "Creature — Insect",
@@ -14,7 +14,7 @@
   },
   {
     "name": "Adventurous Impulse",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/0/30811fb2-5767-4106-9a8d-6091f61969c6.jpg?1586515950"
     ],
     "type_line": "Sorcery",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Aegis Turtle",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/4/e433e7f0-7417-4dfe-a7a4-3f222b0a835f.jpg?1586514932"
     ],
     "type_line": "Creature — Turtle",
@@ -40,7 +40,7 @@
   },
   {
     "name": "Alert Heedbonder",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/5/15a2ccae-c322-4e99-a094-a68fc5d52ea3.jpg?1586297207"
     ],
     "type_line": "Creature — Human Scout",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Almighty Brushwagg",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/1/71f2b7ac-8742-468d-b6a3-87881cb522ff.jpg?1586363155"
     ],
     "type_line": "Creature — Brushwagg",
@@ -66,7 +66,7 @@
   },
   {
     "name": "Anticipate",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/6/46b6dfb2-ffe4-44fb-bfd9-df11bc3193df.jpg?1586514971"
     ],
     "type_line": "Instant",
@@ -79,7 +79,7 @@
   },
   {
     "name": "Archipelagore",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/2/f24b1030-64d5-4c94-a04c-1d9520bfddab.jpg?1585918192"
     ],
     "type_line": "Creature — Leviathan",
@@ -92,7 +92,7 @@
   },
   {
     "name": "Auspicious Starrix",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/3/a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1586185146"
     ],
     "type_line": "Creature — Elk Beast",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Avian Oddity",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/3/f325873b-97de-4701-910f-ec5cdb66de33.jpg?1586516264"
     ],
     "type_line": "Creature — Bird",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Back for More",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/f/3fc7210c-da23-4cec-9195-4de75587f40f.jpg?1585929044"
     ],
     "type_line": "Instant",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Barrier Breach",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/2/822f8403-77a7-4e75-88af-60d604632f5d.jpg?1586185068"
     ],
     "type_line": "Instant",
@@ -144,7 +144,7 @@
   },
   {
     "name": "Bastion of Remembrance",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/d/2dd354dd-939e-4b1a-8ed6-fe89a7fd64bf.jpg?1586039942"
     ],
     "type_line": "Enchantment",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Blade Banish",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/5/35a30091-7f68-4a67-b47e-f44318fc93b2.jpg?1586514147"
     ],
     "type_line": "Instant",
@@ -170,7 +170,7 @@
   },
   {
     "name": "Blazing Volley",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/a/3adc0288-acdf-4a99-9bfb-919cae1aeb69.jpg?1586517115"
     ],
     "type_line": "Sorcery",
@@ -183,7 +183,7 @@
   },
   {
     "name": "Blisterspit Gremlin",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/e/4ec65b97-d5c0-4609-8a60-3c4daa3e59c1.jpg?1586517168"
     ],
     "type_line": "Creature — Gremlin",
@@ -196,7 +196,7 @@
   },
   {
     "name": "Blitz Leech",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/d/7d9b5bde-a851-480b-b45e-d384fd1c11bb.jpg?1586521218"
     ],
     "type_line": "Creature — Leech",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Blitz of the Thunder-Raptor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/0/a0174556-9f9b-4756-84ca-d14a5a60720c.jpg?1586469983"
     ],
     "type_line": "Instant",
@@ -222,7 +222,7 @@
   },
   {
     "name": "Blood Curdle",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/1/4184c851-1419-476c-ba9c-9f0cb1137114.jpg?1585927236"
     ],
     "type_line": "Instant",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Bloodfell Caves",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/c/0c8269e6-b30c-4fdc-82a7-d503c133afa6.jpg?1586517246"
     ],
     "type_line": "Land",
@@ -248,7 +248,7 @@
   },
   {
     "name": "Blossoming Sands",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/2/828044d6-0f53-4caf-a581-d71919df4175.jpg?1586517316"
     ],
     "type_line": "Land",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Bonders' Enclave",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/f/4fe9388d-b1ee-4f35-9fbd-5f504528b398.jpg?1586788768"
     ],
     "type_line": "Land",
@@ -274,7 +274,7 @@
   },
   {
     "name": "Boneyard Lurker",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/7/37e4df5b-ec53-4f8a-8c26-272b3177c0a6.jpg?1586218368"
     ],
     "type_line": "Creature — Nightmare Beast",
@@ -287,7 +287,7 @@
   },
   {
     "name": "Boon of the Wish-Giver",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/e/0e790851-f0f7-4f1a-80e6-94be649499b6.jpg?1585924354"
     ],
     "type_line": "Sorcery",
@@ -300,7 +300,7 @@
   },
   {
     "name": "Boot Nipper",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/f/cff5a5b8-f823-4429-acd8-c4f34a676cb4.jpg?1586515954"
     ],
     "type_line": "Creature — Beast",
@@ -313,7 +313,7 @@
   },
   {
     "name": "Bristling Boar",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/3/c3c3243c-e9af-4b7d-8296-f7714436e571.jpg?1586185135"
     ],
     "type_line": "Creature — Boar",
@@ -326,7 +326,7 @@
   },
   {
     "name": "Brokkos, Apex of Forever",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/9/c9f07625-fbd8-4581-8568-eb3cfb2a4c1e.jpg?1587239674"
     ],
     "type_line": "Legendary Creature — Nightmare Beast Elemental",
@@ -339,7 +339,7 @@
   },
   {
     "name": "Bushmeat Poacher",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/c/cc01faf4-fabb-40c9-a1d6-359280535f91.jpg?1586800832"
     ],
     "type_line": "Creature — Human Soldier",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Call of the Death-Dweller",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/7/37e34017-0aeb-4a93-9edf-596bf3597a0e.jpg?1585927192"
     ],
     "type_line": "Sorcery",
@@ -365,7 +365,7 @@
   },
   {
     "name": "Capture Sphere",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/c/3c1d2d9d-6eee-4334-bbbe-87e026fa6fc0.jpg?1586183122"
     ],
     "type_line": "Enchantment — Aura",
@@ -378,7 +378,7 @@
   },
   {
     "name": "Cathartic Reunion",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/3/43d93cfd-06d1-4c6a-87f6-9b6eaa2a995f.jpg?1586183095"
     ],
     "type_line": "Sorcery",
@@ -391,7 +391,7 @@
   },
   {
     "name": "Cavern Whisperer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/4/64ae7651-4a5c-41f3-b528-41b9b0f2e5d8.jpg?1585924365"
     ],
     "type_line": "Creature — Nightmare",
@@ -404,7 +404,7 @@
   },
   {
     "name": "Channeled Force",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/9/8918d24e-8ae8-4028-9f06-ba6fafcc717e.jpg?1585922771"
     ],
     "type_line": "Instant",
@@ -417,7 +417,7 @@
   },
   {
     "name": "Charge of the Forever-Beast",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/b/4bf147a6-2282-4120-9cbd-d0309fc9b02b.jpg?1586185013"
     ],
     "type_line": "Sorcery",
@@ -430,7 +430,7 @@
   },
   {
     "name": "Checkpoint Officer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/a/4a0e12f5-7b15-4a8c-b045-35bcbf1fbb90.jpg?1586456597"
     ],
     "type_line": "Creature — Human Soldier",
@@ -443,7 +443,7 @@
   },
   {
     "name": "Chevill, Bane of Monsters",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/e/fecbf0a3-ebe1-43b6-a720-462ba19002eb.jpg?1586517441"
     ],
     "type_line": "Legendary Creature — Human Rogue",
@@ -456,7 +456,7 @@
   },
   {
     "name": "Chittering Harvester",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/5/d51a0700-d4d3-4b7e-bdb5-6cd913c948d9.jpg?1585924175"
     ],
     "type_line": "Creature — Nightmare",
@@ -469,7 +469,7 @@
   },
   {
     "name": "Clash of Titans",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/a/ca10e2b8-a317-4c98-a866-43bf274e82cb.jpg?1586218044"
     ],
     "type_line": "Instant",
@@ -482,7 +482,7 @@
   },
   {
     "name": "Cloudpiercer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/e/3ec5f005-d8fb-48b8-8ac5-74445cc83273.jpg?1585946426"
     ],
     "type_line": "Creature — Dinosaur",
@@ -495,7 +495,7 @@
   },
   {
     "name": "Colossification",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/b/7b6e6f2a-5015-44c6-aa8d-85188494d1a6.jpg?1585927210"
     ],
     "type_line": "Enchantment — Aura",
@@ -508,7 +508,7 @@
   },
   {
     "name": "Convolute",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/f/3fd8e607-8179-4ae8-ba7f-f5f22649dc18.jpg?1586515110"
     ],
     "type_line": "Instant",
@@ -521,7 +521,7 @@
   },
   {
     "name": "Coordinated Charge",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/2/129c404b-2c1e-4f0b-bb4e-7e8e627a69a8.jpg?1586514247"
     ],
     "type_line": "Instant",
@@ -534,7 +534,7 @@
   },
   {
     "name": "Corpse Churn",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/1/a1c0c764-791d-4181-8f7a-147554d97d97.jpg?1586516237"
     ],
     "type_line": "Instant",
@@ -547,7 +547,7 @@
   },
   {
     "name": "Crystacean",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/2/32afec8a-dbae-446e-919a-3efb556f5cb1.jpg?1586515152"
     ],
     "type_line": "Creature — Crab",
@@ -560,7 +560,7 @@
   },
   {
     "name": "Crystalline Giant",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/1/1146c418-2176-466e-8a06-f2ef6bf2b1a9.jpg?1585946379"
     ],
     "type_line": "Artifact Creature — Giant",
@@ -573,7 +573,7 @@
   },
   {
     "name": "Cubwarden",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/c/cc322744-5d8f-448d-b868-381bb86b68f9.jpg?1586191546"
     ],
     "type_line": "Creature — Cat",
@@ -586,7 +586,7 @@
   },
   {
     "name": "Cunning Nightbonder",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/d/adb202e7-f9a4-4785-840d-18aa6aa663b4.jpg?1587077779"
     ],
     "type_line": "Creature — Human Rogue",
@@ -599,7 +599,7 @@
   },
   {
     "name": "Dark Bargain",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/e/6ef6f861-90ef-4e1d-9f17-1dd306e7d0af.jpg?1586516216"
     ],
     "type_line": "Instant",
@@ -612,7 +612,7 @@
   },
   {
     "name": "Daysquad Marshal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/7/17d566bd-f272-49d1-bffb-588f2a42046a.jpg?1586514317"
     ],
     "type_line": "Creature — Human Soldier",
@@ -625,7 +625,7 @@
   },
   {
     "name": "Dead Weight",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/c/ecf18476-f67b-46e6-905c-e6808981c58a.jpg?1586521201"
     ],
     "type_line": "Enchantment — Aura",
@@ -638,7 +638,7 @@
   },
   {
     "name": "Death's Oasis",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/1/112e2cca-bae7-4296-9514-e6058f4b38a5.jpg?1586250213"
     ],
     "type_line": "Enchantment",
@@ -651,7 +651,7 @@
   },
   {
     "name": "Dire Tactics",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/0/e0e3974e-3753-4f25-8930-6d96b40332ce.jpg?1585926800"
     ],
     "type_line": "Instant",
@@ -664,7 +664,7 @@
   },
   {
     "name": "Dirge Bat",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/9/59677c76-8148-4b6f-95b0-0e3ccf137a3f.jpg?1585927438"
     ],
     "type_line": "Creature — Bat",
@@ -677,7 +677,7 @@
   },
   {
     "name": "Dismal Backwater",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/d/9de0981e-54fc-4919-96a4-a9608a5452fc.jpg?1586517370"
     ],
     "type_line": "Land",
@@ -690,7 +690,7 @@
   },
   {
     "name": "Divine Arrow",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/b/5b29acc2-5749-4e8a-924d-3c82406e6393.jpg?1586514383"
     ],
     "type_line": "Instant",
@@ -703,7 +703,7 @@
   },
   {
     "name": "Drannith Healer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/f/ff5a821c-eaec-4f69-97c7-8299cdebc2f4.jpg?1586606899"
     ],
     "type_line": "Creature — Human Cleric",
@@ -716,7 +716,7 @@
   },
   {
     "name": "Drannith Magistrate",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/8/98b0a4a8-9319-451b-9b79-b0bca7a41e91.jpg?1585922879"
     ],
     "type_line": "Creature — Human Wizard",
@@ -729,7 +729,7 @@
   },
   {
     "name": "Drannith Stinger",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/1/612ee4be-e7a2-423c-a37c-7c6ca97f630e.jpg?1585834476"
     ],
     "type_line": "Creature — Human Wizard",
@@ -742,7 +742,7 @@
   },
   {
     "name": "Dreamtail Heron",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/a/ca777d40-736a-4cd6-85c4-5afd52f2fadd.jpg?1585924264"
     ],
     "type_line": "Creature — Elemental Bird",
@@ -755,7 +755,7 @@
   },
   {
     "name": "Durable Coilbug",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/0/a0cbdfb6-c029-440f-bc07-c95e03c20110.jpg?1586516373"
     ],
     "type_line": "Creature — Insect",
@@ -768,7 +768,7 @@
   },
   {
     "name": "Duskfang Mentor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/c/fc38fe5d-6c35-4fff-8f1b-726a0685c6f8.jpg?1586456819"
     ],
     "type_line": "Creature — Human Cleric",
@@ -781,7 +781,7 @@
   },
   {
     "name": "Easy Prey",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/1/312fb6e4-1eb1-4fbb-b7a4-125829a6e96a.jpg?1586451145"
     ],
     "type_line": "Instant",
@@ -794,7 +794,7 @@
   },
   {
     "name": "Eerie Ultimatum",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/a/3a9fb2db-228f-4d48-acdf-6330baf356c7.jpg?1587755212"
     ],
     "type_line": "Sorcery",
@@ -807,7 +807,7 @@
   },
   {
     "name": "Emergent Ultimatum",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1586809591"
     ],
     "type_line": "Sorcery",
@@ -820,7 +820,7 @@
   },
   {
     "name": "Escape Protocol",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/d/2d3eeddd-c86d-4f35-ba57-3caa9565fcb0.jpg?1586813460"
     ],
     "type_line": "Enchantment",
@@ -833,7 +833,7 @@
   },
   {
     "name": "Essence Scatter",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/f/5f79c8a0-291e-4e13-b765-4cf8c726cf30.jpg?1586217571"
     ],
     "type_line": "Instant",
@@ -846,7 +846,7 @@
   },
   {
     "name": "Essence Symbiote",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/d/8d09ddf0-91f0-4e76-809f-c39ca7418ed5.jpg?1586457024"
     ],
     "type_line": "Creature — Beast",
@@ -859,7 +859,7 @@
   },
   {
     "name": "Everquill Phoenix",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/9/3953157f-2deb-4ab7-b4b3-592ebb7c7a9c.jpg?1585989459"
     ],
     "type_line": "Creature — Phoenix",
@@ -872,7 +872,7 @@
   },
   {
     "name": "Evolving Wilds",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/e/8e3d6745-8904-4905-a98f-d43f18b51d6d.jpg?1586517354"
     ],
     "type_line": "Land",
@@ -885,7 +885,7 @@
   },
   {
     "name": "Excavation Mole",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/a/3a1712dc-8f4c-407f-83ea-3a1c59c437d1.jpg?1586516022"
     ],
     "type_line": "Creature — Mole",
@@ -898,7 +898,7 @@
   },
   {
     "name": "Extinction Event",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/7/8725a869-462b-4381-880a-b4bcc63a655b.jpg?1587305619"
     ],
     "type_line": "Sorcery",
@@ -911,7 +911,7 @@
   },
   {
     "name": "Exuberant Wolfbear",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/c/8c8ff0da-fbe3-4c95-bc39-c975c55b6aea.jpg?1586186663"
     ],
     "type_line": "Creature — Wolf Bear",
@@ -924,7 +924,7 @@
   },
   {
     "name": "Facet Reader",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/1/b1199596-ae77-4192-ae70-3e2ebd009b64.jpg?1586521247"
     ],
     "type_line": "Creature — Human Wizard",
@@ -937,7 +937,7 @@
   },
   {
     "name": "Farfinder",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/3/53f63f40-46f1-4b9e-b447-ff9274f2b926.jpg?1586894598"
     ],
     "type_line": "Creature — Fox",
@@ -950,7 +950,7 @@
   },
   {
     "name": "Ferocious Tigorilla",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/9/5976e8d8-5122-4423-b3eb-61170390ad7a.jpg?1586517237"
     ],
     "type_line": "Creature — Cat Ape",
@@ -963,7 +963,7 @@
   },
   {
     "name": "Fertilid",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/c/9c6b39b9-0615-4899-8de2-b579d5b12f1c.jpg?1586185164"
     ],
     "type_line": "Creature — Elemental",
@@ -976,7 +976,7 @@
   },
   {
     "name": "Fiend Artisan",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/c/6cd9d800-6d31-42e2-87d2-772db0ff95ed.jpg?1585924224"
     ],
     "type_line": "Creature — Nightmare",
@@ -989,7 +989,7 @@
   },
   {
     "name": "Fight as One",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/c/5c62ea13-9bd5-46ce-a861-68cf9a2c6f8c.jpg?1586269051"
     ],
     "type_line": "Instant",
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "Fire Prophecy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/c/4c2029e5-cf7d-461f-b7b9-bf96399d8f49.jpg?1586377110"
     ],
     "type_line": "Instant",
@@ -1015,7 +1015,7 @@
   },
   {
     "name": "Flame Spill",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/3/b3090004-d7dd-47bc-92e5-977be4fd9ae5.jpg?1586373328"
     ],
     "type_line": "Instant",
@@ -1028,7 +1028,7 @@
   },
   {
     "name": "Flourishing Fox",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/8/78b81339-746d-4f71-9943-01c0f6a5683a.jpg?1586183479"
     ],
     "type_line": "Creature — Fox",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "Flycatcher Giraffid",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/9/1988e220-d746-46e4-a534-164203e63c14.jpg?1586516092"
     ],
     "type_line": "Creature — Antelope Lizard",
@@ -1054,7 +1054,7 @@
   },
   {
     "name": "Footfall Crater",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/1/f1b75aac-54e3-4181-bac5-5a142757ec05.jpg?1587049131"
     ],
     "type_line": "Enchantment — Aura",
@@ -1067,7 +1067,7 @@
   },
   {
     "name": "Forbidden Friendship",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/6/e634baa3-2cdd-412a-9407-c347fe46f9b8.jpg?1586192517"
     ],
     "type_line": "Sorcery",
@@ -1080,7 +1080,7 @@
   },
   {
     "name": "Forest",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/c/9c348494-f60c-4bd1-9077-bff24f2e634b.jpg?1586518815"
     ],
     "type_line": "Basic Land — Forest",
@@ -1093,7 +1093,7 @@
   },
   {
     "name": "Frenzied Raptor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/f/5fb22ac0-3863-4165-8c93-f2ec1775474f.jpg?1586517307"
     ],
     "type_line": "Creature — Dinosaur",
@@ -1106,7 +1106,7 @@
   },
   {
     "name": "Frillscare Mentor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/4/24c7d034-6403-41e2-9e44-4d58ef54cf10.jpg?1586548781"
     ],
     "type_line": "Creature — Human Warrior",
@@ -1119,7 +1119,7 @@
   },
   {
     "name": "Frondland Felidar",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/b/ab220695-e1a9-45ec-a1b1-5a82c9c90a03.jpg?1586183302"
     ],
     "type_line": "Creature — Cat Beast",
@@ -1132,7 +1132,7 @@
   },
   {
     "name": "Frost Lynx",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/f/dfcaeccc-fc8c-4a9e-80d5-b48da71d7ff1.jpg?1586515238"
     ],
     "type_line": "Creature — Elemental Cat",
@@ -1145,7 +1145,7 @@
   },
   {
     "name": "Frostveil Ambush",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/e/deef1197-e40a-4c9d-919a-213f1bdf3e3e.jpg?1586515297"
     ],
     "type_line": "Instant",
@@ -1158,7 +1158,7 @@
   },
   {
     "name": "Fully Grown",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/b/0b683d3f-025c-4b8d-89d7-3513488649d5.jpg?1585831007"
     ],
     "type_line": "Instant",
@@ -1171,7 +1171,7 @@
   },
   {
     "name": "Garrison Cat",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/7/e7ff8345-227c-43b4-bed5-af3a34c0a990.jpg?1586272433"
     ],
     "type_line": "Creature — Cat",
@@ -1184,7 +1184,7 @@
   },
   {
     "name": "Gemrazer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/0/0095245c-a30e-4e2a-88c9-632c678e9f03.jpg?1585989483"
     ],
     "type_line": "Creature — Beast",
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "General Kudro of Drannith",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/c/2c3227ae-0c72-478a-a6dd-661aaf718038.jpg?1585929059"
     ],
     "type_line": "Legendary Creature — Human Soldier",
@@ -1210,7 +1210,7 @@
   },
   {
     "name": "General's Enforcer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/6/f6a45d0e-582a-4ec1-b83b-71b6a0ff6249.jpg?1585918102"
     ],
     "type_line": "Creature — Human Soldier",
@@ -1223,7 +1223,7 @@
   },
   {
     "name": "Genesis Ultimatum",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/5/556dfe7a-43e8-4801-ad79-89ab2148eca6.jpg?1586517905"
     ],
     "type_line": "Sorcery",
@@ -1236,7 +1236,7 @@
   },
   {
     "name": "Glimmerbell",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/4/54f71f8a-546a-465e-a254-09a3ae873ef4.jpg?1586515371"
     ],
     "type_line": "Creature — Elemental Jellyfish",
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "Gloom Pangolin",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/f/3f135dd7-2a4f-4c83-9a90-76bcab3cc33d.jpg?1585830275"
     ],
     "type_line": "Creature — Nightmare Pangolin",
@@ -1262,7 +1262,7 @@
   },
   {
     "name": "Glowstone Recluse",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/6/06a9698d-400c-4c31-82cd-28d0897fe28c.jpg?1585919247"
     ],
     "type_line": "Creature — Spider",
@@ -1275,7 +1275,7 @@
   },
   {
     "name": "Go for Blood",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/7/67315df9-99a1-45ba-8ade-ddc476368a86.jpg?1586159884"
     ],
     "type_line": "Sorcery",
@@ -1288,7 +1288,7 @@
   },
   {
     "name": "Greater Sandwurm",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/9/d90c5650-7eb2-480a-856e-a04406096830.jpg?1586516230"
     ],
     "type_line": "Creature — Wurm",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Grimdancer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/1/819257c8-9806-48bd-ba49-e117ca31de54.jpg?1585834329"
     ],
     "type_line": "Creature — Nightmare",
@@ -1314,7 +1314,7 @@
   },
   {
     "name": "Gust of Wind",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/a/faabea92-d8cf-4591-b528-3e597d56b31f.jpg?1586515412"
     ],
     "type_line": "Sorcery",
@@ -1327,7 +1327,7 @@
   },
   {
     "name": "Gyruda, Doom of Depths",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/7/97eb1804-6fd8-4917-af36-87fdfce39d3a.jpg?1586892523"
     ],
     "type_line": "Legendary Creature — Demon Kraken",
@@ -1340,7 +1340,7 @@
   },
   {
     "name": "Hampering Snare",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/f/5f7b331a-bd21-429b-a49f-88da9a31c98e.jpg?1586515470"
     ],
     "type_line": "Instant",
@@ -1353,7 +1353,7 @@
   },
   {
     "name": "Heartless Act",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/4/e4e6794a-feeb-4fc8-a2ee-38c75c18aaae.jpg?1586521105"
     ],
     "type_line": "Instant",
@@ -1366,7 +1366,7 @@
   },
   {
     "name": "Heightened Reflexes",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/f/4f7cc8e7-3002-4ee0-869f-931438d8362d.jpg?1586517389"
     ],
     "type_line": "Instant",
@@ -1379,7 +1379,7 @@
   },
   {
     "name": "Helica Glider",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/f/8fc88fe0-2424-49a7-9abf-4773a547d010.jpg?1586288142"
     ],
     "type_line": "Creature — Nightmare Squirrel",
@@ -1392,7 +1392,7 @@
   },
   {
     "name": "Honey Mammoth",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/4/84b9bee2-b973-4de7-b72d-7f36f8e8153c.jpg?1586697553"
     ],
     "type_line": "Creature — Elephant",
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "Hornbash Mentor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/4/d47d2596-a321-44c0-a9f6-87bf80abc1c4.jpg?1586273890"
     ],
     "type_line": "Creature — Human Warrior",
@@ -1418,7 +1418,7 @@
   },
   {
     "name": "Humble Naturalist",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/f/8f56705d-eb64-4cef-b716-edbeac60bf79.jpg?1586516401"
     ],
     "type_line": "Creature — Human Druid",
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "Hunted Nightmare",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/f/5f2dddce-583e-4af3-b144-a60dd268e84f.jpg?1586516446"
     ],
     "type_line": "Creature — Nightmare",
@@ -1444,7 +1444,7 @@
   },
   {
     "name": "Huntmaster Liger",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/5/058d6a7d-12b0-4d82-a5bd-91fa44bbc5e1.jpg?1585830264"
     ],
     "type_line": "Creature — Cat",
@@ -1457,7 +1457,7 @@
   },
   {
     "name": "Illuna, Apex of Wishes",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/f/9fc99c81-d112-4811-9bba-77a14d904692.jpg?1585830265"
     ],
     "type_line": "Legendary Creature — Beast Elemental Dinosaur",
@@ -1470,7 +1470,7 @@
   },
   {
     "name": "Imposing Vantasaur",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/6/b6fa5feb-f5e9-4079-acc9-84e458044769.jpg?1586531560"
     ],
     "type_line": "Creature — Dinosaur",
@@ -1483,7 +1483,7 @@
   },
   {
     "name": "Indatha Crystal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/d/bdace59f-f025-4717-8eb4-3d1e13b31d2b.jpg?1585948958"
     ],
     "type_line": "Artifact",
@@ -1496,7 +1496,7 @@
   },
   {
     "name": "Indatha Triome",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/b/2b74bb81-fb9a-40e5-a941-e517430b52f5.jpg?1586959139"
     ],
     "type_line": "Land — Plains Swamp Forest",
@@ -1509,7 +1509,7 @@
   },
   {
     "name": "Insatiable Hemophage",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/0/70419590-2e0d-4232-b596-a5359b284647.jpg?1586103336"
     ],
     "type_line": "Creature — Nightmare",
@@ -1522,7 +1522,7 @@
   },
   {
     "name": "Inspired Ultimatum",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/d/dd64f064-8f05-41ef-b95b-1b723137f846.jpg?1586524450"
     ],
     "type_line": "Sorcery",
@@ -1535,7 +1535,7 @@
   },
   {
     "name": "Island",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/b/4b2ad5b3-7257-4521-8916-6b1cbfb89e27.jpg?1586518244"
     ],
     "type_line": "Basic Land — Island",
@@ -1548,7 +1548,7 @@
   },
   {
     "name": "Ivy Elemental",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/e/8e8aea71-02aa-4799-86fb-efd2a36efc22.jpg?1586516489"
     ],
     "type_line": "Creature — Elemental",
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "Jegantha, the Wellspring",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/d/1d52e527-3835-4350-8c01-0f2d5d623b9c.jpg?1586500745"
     ],
     "type_line": "Legendary Creature — Elemental Elk",
@@ -1574,7 +1574,7 @@
   },
   {
     "name": "Jubilant Skybonder",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/f/7f8f2d69-fba9-40e5-8ef7-75e14ef4070a.jpg?1586457162"
     ],
     "type_line": "Creature — Human Wizard",
@@ -1587,7 +1587,7 @@
   },
   {
     "name": "Jungle Hollow",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/1/01926862-bf2d-4a2b-af94-1ea5e4dd7444.jpg?1586517394"
     ],
     "type_line": "Land",
@@ -1600,7 +1600,7 @@
   },
   {
     "name": "Kaheera, the Orphanguard",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/4/d4ebed0b-8060-4a7b-a060-5cfcd2172b16.jpg?1586433878"
     ],
     "type_line": "Legendary Creature — Cat Beast",
@@ -1613,7 +1613,7 @@
   },
   {
     "name": "Keensight Mentor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/0/a0583065-9a6c-4ea4-b6dd-2edfbaed1181.jpg?1586550834"
     ],
     "type_line": "Creature — Human Cleric",
@@ -1626,7 +1626,7 @@
   },
   {
     "name": "Keep Safe",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/e/febfa682-76ae-4979-a40c-c1eae1121f3c.jpg?1586306431"
     ],
     "type_line": "Instant",
@@ -1639,7 +1639,7 @@
   },
   {
     "name": "Ketria Crystal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/d/7df435cb-3aeb-490a-8fca-91f3b6936965.jpg?1585948962"
     ],
     "type_line": "Artifact",
@@ -1652,7 +1652,7 @@
   },
   {
     "name": "Ketria Triome",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/2/a249b1f4-2b22-4b67-a207-e0c4ae95d2e1.jpg?1586470069"
     ],
     "type_line": "Land — Forest Island Mountain",
@@ -1665,7 +1665,7 @@
   },
   {
     "name": "Kinnan, Bonder Prodigy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/3/63cda4a0-0dff-4edb-ae67-a2b7e2971350.jpg?1586439211"
     ],
     "type_line": "Legendary Creature — Human Druid",
@@ -1678,7 +1678,7 @@
   },
   {
     "name": "Kogla, the Titan Ape",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/c/3c35ca79-eb72-427a-a8ed-404b2214389a.jpg?1587083119"
     ],
     "type_line": "Legendary Creature — Ape",
@@ -1691,7 +1691,7 @@
   },
   {
     "name": "Labyrinth Raptor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/6/c608543d-cb60-44c3-a437-e4a18c311420.jpg?1585870921"
     ],
     "type_line": "Creature — Nightmare Dinosaur",
@@ -1704,7 +1704,7 @@
   },
   {
     "name": "Lavabrink Venturer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/8/38c0d9d6-c9c7-4169-8106-400445643a1a.jpg?1587047909"
     ],
     "type_line": "Creature — Human Soldier",
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "Lava Serpent",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/0/00ebd57f-7f7c-41b0-aa56-511c1816bc14.jpg?1586517533"
     ],
     "type_line": "Creature — Elemental Serpent",
@@ -1730,7 +1730,7 @@
   },
   {
     "name": "Lead the Stampede",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/e/9e76b676-c7a3-4de6-a78d-3059a0df83f2.jpg?1586446513"
     ],
     "type_line": "Sorcery",
@@ -1743,7 +1743,7 @@
   },
   {
     "name": "Light of Hope",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/c/bcb00599-e082-49b0-88f3-ef91b75595e4.jpg?1586514524"
     ],
     "type_line": "Instant",
@@ -1756,7 +1756,7 @@
   },
   {
     "name": "Lore Drakkis",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/3/83e035ca-eccd-4b63-817c-f2c676b9c98d.jpg?1586182437"
     ],
     "type_line": "Creature — Lizard Beast",
@@ -1769,7 +1769,7 @@
   },
   {
     "name": "Lukka, Coppercoat Outcast",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/7/5798fdf0-d178-43d9-b821-8f3f654654b4.jpg?1585830275"
     ],
     "type_line": "Legendary Planeswalker — Lukka",
@@ -1782,7 +1782,7 @@
   },
   {
     "name": "Lurking Deadeye",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/3/43925a8d-dd02-4907-929e-c015d678bb49.jpg?1586516495"
     ],
     "type_line": "Creature — Human Assassin",
@@ -1795,7 +1795,7 @@
   },
   {
     "name": "Lutri, the Spellchaser",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/b/fb1189c9-7842-466e-8238-1e02677d8494.jpg?1586362188"
     ],
     "type_line": "Legendary Creature — Elemental Otter",
@@ -1808,7 +1808,7 @@
   },
   {
     "name": "Majestic Auricorn",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/d/8df320c9-449a-457e-8688-f611aceb3352.jpg?1586271346"
     ],
     "type_line": "Creature — Unicorn",
@@ -1821,7 +1821,7 @@
   },
   {
     "name": "Maned Serval",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/a/5ac51e35-e2c5-4457-981c-e59894584288.jpg?1586514703"
     ],
     "type_line": "Creature — Cat",
@@ -1834,7 +1834,7 @@
   },
   {
     "name": "Memory Leak",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/b/3b45a493-a1c2-430e-a45c-abc1ba554877.jpg?1586516570"
     ],
     "type_line": "Sorcery",
@@ -1847,7 +1847,7 @@
   },
   {
     "name": "Migration Path",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/3/d345ca63-16a3-4988-93f5-d0e00e8d6ab0.jpg?1586185270"
     ],
     "type_line": "Sorcery",
@@ -1860,7 +1860,7 @@
   },
   {
     "name": "Migratory Greathorn",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/a/6a2a287b-b83f-444f-84f7-e388beb616c2.jpg?1586185302"
     ],
     "type_line": "Creature — Beast",
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Momentum Rumbler",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/5/3587f450-c1ba-4074-84bb-47978a2b6116.jpg?1586800809"
     ],
     "type_line": "Creature — Dinosaur",
@@ -1886,7 +1886,7 @@
   },
   {
     "name": "Monstrous Step",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/9/893f300b-a823-4156-90f2-0636e9f499b0.jpg?1586521339"
     ],
     "type_line": "Sorcery",
@@ -1899,7 +1899,7 @@
   },
   {
     "name": "Mosscoat Goriak",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/2/c23139d4-0db5-4683-8d49-f4600fbe29e2.jpg?1586218226"
     ],
     "type_line": "Creature — Beast",
@@ -1912,7 +1912,7 @@
   },
   {
     "name": "Mountain",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/e/ae3d2fcd-11e0-4071-8c53-cb3315b7360a.jpg?1586520253"
     ],
     "type_line": "Basic Land — Mountain",
@@ -1925,7 +1925,7 @@
   },
   {
     "name": "Mutual Destruction",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/5/85ac0b25-80bf-4871-a6f6-5cf4d5b9496e.jpg?1586516623"
     ],
     "type_line": "Sorcery",
@@ -1938,7 +1938,7 @@
   },
   {
     "name": "Mysterious Egg",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/d/cdfac3c3-7f38-49d6-bd88-dc0f5001116f.jpg?1585928467"
     ],
     "type_line": "Creature — Egg",
@@ -1951,7 +1951,7 @@
   },
   {
     "name": "Mystic Subdual",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/2/627c2111-b7d7-40bc-aa30-57d72338b32d.jpg?1586515617"
     ],
     "type_line": "Enchantment — Aura",
@@ -1964,7 +1964,7 @@
   },
   {
     "name": "Mythos of Brokkos",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/a/fa4fc5b1-6666-4c60-898f-f927212c7923.jpg?1586249533"
     ],
     "type_line": "Sorcery",
@@ -1977,7 +1977,7 @@
   },
   {
     "name": "Mythos of Illuna",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/1/f1b07082-c5a5-4283-a2f5-5b1e0120d752.jpg?1586555174"
     ],
     "type_line": "Sorcery",
@@ -1990,7 +1990,7 @@
   },
   {
     "name": "Mythos of Nethroi",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/a/6abc24e1-e721-471a-9efd-547f320675b0.jpg?1586111259"
     ],
     "type_line": "Instant",
@@ -2003,7 +2003,7 @@
   },
   {
     "name": "Mythos of Snapdax",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/7/2712a1a3-dd28-44c8-a661-5bcf68d3acaa.jpg?1585927329"
     ],
     "type_line": "Sorcery",
@@ -2016,7 +2016,7 @@
   },
   {
     "name": "Mythos of Vadrok",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/b/2bbe99a7-3b58-4f23-bf86-e1e35b0bec2e.jpg?1586274051"
     ],
     "type_line": "Sorcery",
@@ -2029,7 +2029,7 @@
   },
   {
     "name": "Narset of the Ancient Way",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/a/fa7b28d8-b835-44a0-978d-cadfd392fff5.jpg?1586348457"
     ],
     "type_line": "Legendary Planeswalker — Narset",
@@ -2042,7 +2042,7 @@
   },
   {
     "name": "Necropanther",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/e/2e1ed055-8988-4625-9d57-8ce8a4e04aea.jpg?1586366348"
     ],
     "type_line": "Creature — Cat Nightmare",
@@ -2055,7 +2055,7 @@
   },
   {
     "name": "Nethroi, Apex of Death",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/c/8ca6eb5a-8bc9-4091-bcfb-b207f0afd188.jpg?1586043521"
     ],
     "type_line": "Legendary Creature — Cat Nightmare Beast",
@@ -2068,7 +2068,7 @@
   },
   {
     "name": "Neutralize",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/4/0430da3c-9460-4b62-ae28-2e7e6f4d06a4.jpg?1585920468"
     ],
     "type_line": "Instant",
@@ -2081,7 +2081,7 @@
   },
   {
     "name": "Nightsquad Commando",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/0/80306d10-0da7-4ee7-b975-ef6c9b535a2a.jpg?1586516688"
     ],
     "type_line": "Creature — Human Soldier",
@@ -2094,7 +2094,7 @@
   },
   {
     "name": "Obosh, the Preypiercer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1586892554"
     ],
     "type_line": "Legendary Creature — Hellion Horror",
@@ -2107,7 +2107,7 @@
   },
   {
     "name": "Offspring's Revenge",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/8/78619ffb-f514-4f9f-9d77-3ab49e045f7c.jpg?1586457085"
     ],
     "type_line": "Enchantment",
@@ -2120,7 +2120,7 @@
   },
   {
     "name": "Of One Mind",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/9/c95fb136-f21d-4f3a-82b7-bcf490b7e90c.jpg?1586456851"
     ],
     "type_line": "Sorcery",
@@ -2133,7 +2133,7 @@
   },
   {
     "name": "Ominous Seas",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/e/ce8965f2-756a-4461-a643-db024a11c2de.jpg?1586217626"
     ],
     "type_line": "Enchantment",
@@ -2146,7 +2146,7 @@
   },
   {
     "name": "Pacifism",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/4/7/47adc9fc-d620-4cb7-a03c-8d9578992249.jpg?1585829944"
     ],
     "type_line": "Enchantment — Aura",
@@ -2159,7 +2159,7 @@
   },
   {
     "name": "Parcelbeast",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/1/610bb98c-d66a-44cc-92e2-a80d700b59e4.jpg?1586266302"
     ],
     "type_line": "Creature — Elemental Beast",
@@ -2172,7 +2172,7 @@
   },
   {
     "name": "Patagia Tiger",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/e/be398100-89e2-432b-8017-74fb7e4dbc26.jpg?1586220948"
     ],
     "type_line": "Creature — Cat",
@@ -2185,7 +2185,7 @@
   },
   {
     "name": "Perimeter Sergeant",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/a/2a174587-d964-48b3-8f69-fa576c1b8bba.jpg?1586514826"
     ],
     "type_line": "Creature — Human Soldier",
@@ -2198,7 +2198,7 @@
   },
   {
     "name": "Phase Dolphin",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/8/88fb4042-e9c1-4b0f-b1f6-4180b0d79663.jpg?1585920738"
     ],
     "type_line": "Creature — Elemental Whale",
@@ -2211,7 +2211,7 @@
   },
   {
     "name": "Plains",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/6/16ebbce9-fd10-4c14-b52d-cf82c0c1a58c.jpg?1586518089"
     ],
     "type_line": "Basic Land — Plains",
@@ -2224,7 +2224,7 @@
   },
   {
     "name": "Plummet",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/8/d884b2f2-946e-4d5d-b8cf-ef035726a188.jpg?1586521369"
     ],
     "type_line": "Instant",
@@ -2237,7 +2237,7 @@
   },
   {
     "name": "Pollywog Symbiote",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/7/77adf375-e7d7-4ebd-8c86-ad7e822a5483.jpg?1585835649"
     ],
     "type_line": "Creature — Frog",
@@ -2250,7 +2250,7 @@
   },
   {
     "name": "Porcuparrot",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/5/856892c8-ba47-46d0-aec2-0416b55b9e88.jpg?1586469923"
     ],
     "type_line": "Creature — Bird Beast",
@@ -2263,7 +2263,7 @@
   },
   {
     "name": "Pouncing Shoreshark",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/8/c859b339-b55b-41fe-948c-27502e3b3ea8.jpg?1586043487"
     ],
     "type_line": "Creature — Shark Beast",
@@ -2276,7 +2276,7 @@
   },
   {
     "name": "Prickly Marmoset",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/a/bad8512f-31b9-48ba-bb10-1497303dcfba.jpg?1586517597"
     ],
     "type_line": "Creature — Monkey",
@@ -2289,7 +2289,7 @@
   },
   {
     "name": "Primal Empathy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/3/034e0afb-7787-4cb8-8bb4-cf6997dbf7e4.jpg?1585871050"
     ],
     "type_line": "Enchantment",
@@ -2302,7 +2302,7 @@
   },
   {
     "name": "Proud Wildbonder",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/4/f4876e17-a206-4351-9c0b-0845db4569a3.jpg?1585920261"
     ],
     "type_line": "Creature — Human Warrior",
@@ -2315,7 +2315,7 @@
   },
   {
     "name": "Pyroceratops",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/f/6/f6599645-dbb5-4174-bd26-8556af6d89c3.jpg?1586517652"
     ],
     "type_line": "Creature — Elemental Dinosaur",
@@ -2328,7 +2328,7 @@
   },
   {
     "name": "Quartzwood Crasher",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/8/c8e4c609-19c9-433b-a852-7999e375ee4f.jpg?1586218499"
     ],
     "type_line": "Creature — Dinosaur Beast",
@@ -2341,7 +2341,7 @@
   },
   {
     "name": "Raking Claws",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/e/6eb0d9a2-f9bb-4d8e-a1ca-896c42f8ad56.jpg?1586517706"
     ],
     "type_line": "Instant",
@@ -2354,7 +2354,7 @@
   },
   {
     "name": "Ram Through",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/c/ac0b24e7-14e7-45ee-b5d8-bdb8674b669c.jpg?1586516691"
     ],
     "type_line": "Instant",
@@ -2367,7 +2367,7 @@
   },
   {
     "name": "Raugrin Crystal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/5/c5bce0fb-53d6-47ee-8c5a-a99e50f67fc9.jpg?1585927279"
     ],
     "type_line": "Artifact",
@@ -2380,7 +2380,7 @@
   },
   {
     "name": "Raugrin Triome",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/2/02138fbb-3962-4348-8d31-faaefba0b8b2.jpg?1586470062"
     ],
     "type_line": "Land — Island Mountain Plains",
@@ -2393,7 +2393,7 @@
   },
   {
     "name": "Reconnaissance Mission",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/e/ae9f7efa-d125-4f83-825e-172ea099a62a.jpg?1585921195"
     ],
     "type_line": "Enchantment",
@@ -2406,7 +2406,7 @@
   },
   {
     "name": "Regal Leosaur",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/6/b6fdf313-740b-4976-911f-9fb5eb54afce.jpg?1586421924"
     ],
     "type_line": "Creature — Dinosaur Cat",
@@ -2419,7 +2419,7 @@
   },
   {
     "name": "Reptilian Reflection",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/8/7871b4dd-9085-4a3f-a1ae-9a292f73689b.jpg?1587458428"
     ],
     "type_line": "Enchantment",
@@ -2432,7 +2432,7 @@
   },
   {
     "name": "Rielle, the Everwise",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/f/5f03c944-1929-4cb2-a373-d57eefa29ed1.jpg?1586469953"
     ],
     "type_line": "Legendary Creature — Human Wizard",
@@ -2445,7 +2445,7 @@
   },
   {
     "name": "Rooting Moloch",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/c/cc2fd581-5cf8-4154-90dd-922afddcd556.jpg?1586218127"
     ],
     "type_line": "Creature — Lizard",
@@ -2458,7 +2458,7 @@
   },
   {
     "name": "Rugged Highlands",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/a/9a69fa8f-1c2b-453d-8d54-2748890ce925.jpg?1586517543"
     ],
     "type_line": "Land",
@@ -2471,7 +2471,7 @@
   },
   {
     "name": "Ruinous Ultimatum",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1586457817"
     ],
     "type_line": "Sorcery",
@@ -2484,7 +2484,7 @@
   },
   {
     "name": "Rumbling Rockslide",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/6/96f9aaa7-11c7-4cd0-9803-9471c14ab846.jpg?1586517757"
     ],
     "type_line": "Sorcery",
@@ -2497,7 +2497,7 @@
   },
   {
     "name": "Sanctuary Lockdown",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/3/1387b7be-f69e-4919-9070-a89654c656f3.jpg?1586521051"
     ],
     "type_line": "Enchantment",
@@ -2510,7 +2510,7 @@
   },
   {
     "name": "Sanctuary Smasher",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/c/cc634c10-42c5-4bdc-bc22-f862ae285492.jpg?1586506624"
     ],
     "type_line": "Creature — Rhino Beast",
@@ -2523,7 +2523,7 @@
   },
   {
     "name": "Savai Crystal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/9/6954a5c1-89b1-4edd-814e-8f88fd49cda3.jpg?1585917640"
     ],
     "type_line": "Artifact",
@@ -2536,7 +2536,7 @@
   },
   {
     "name": "Savai Sabertooth",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/4/d46702b0-7e10-462a-9aac-7564efe91804.jpg?1585921270"
     ],
     "type_line": "Creature — Cat",
@@ -2549,7 +2549,7 @@
   },
   {
     "name": "Savai Thundermane",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/3/73d3925c-cf7d-4546-bc70-33f04d4b7566.jpg?1586800755"
     ],
     "type_line": "Creature — Elemental Cat",
@@ -2562,7 +2562,7 @@
   },
   {
     "name": "Savai Triome",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/4/748e6a61-9c1f-4225-9f04-e54002f63ac3.jpg?1586470059"
     ],
     "type_line": "Land — Mountain Plains Swamp",
@@ -2575,7 +2575,7 @@
   },
   {
     "name": "Scoured Barrens",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/2/2282018a-46c8-41ca-ab93-f7dbf32cd295.jpg?1586517628"
     ],
     "type_line": "Land",
@@ -2588,7 +2588,7 @@
   },
   {
     "name": "Sea-Dasher Octopus",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/6/a6f59d9e-6c1b-437a-934c-7c776c8dd1d5.jpg?1586181572"
     ],
     "type_line": "Creature — Octopus",
@@ -2601,7 +2601,7 @@
   },
   {
     "name": "Serrated Scorpion",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/c/bc8f0242-35e1-4409-9321-56e742e8fef4.jpg?1586516746"
     ],
     "type_line": "Creature — Scorpion",
@@ -2614,7 +2614,7 @@
   },
   {
     "name": "Shark Typhoon",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/d/1da4d4f3-b3cb-4b61-81b8-06ae441c41bf.jpg?1585954666"
     ],
     "type_line": "Enchantment",
@@ -2627,7 +2627,7 @@
   },
   {
     "name": "Shredded Sails",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/b/8b10219a-aa72-4431-9a6a-984109a605c8.jpg?1585916424"
     ],
     "type_line": "Instant",
@@ -2640,7 +2640,7 @@
   },
   {
     "name": "Skull Prophet",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/f/2f5ec787-79f6-4922-a0f7-debde8f7a4be.jpg?1585924664"
     ],
     "type_line": "Creature — Human Druid",
@@ -2653,7 +2653,7 @@
   },
   {
     "name": "Skycat Sovereign",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/2/6209dbfd-b765-44c5-b3ad-94f6e0705926.jpg?1586373802"
     ],
     "type_line": "Creature — Elemental Cat",
@@ -2666,7 +2666,7 @@
   },
   {
     "name": "Sleeper Dart",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1586518201"
     ],
     "type_line": "Artifact",
@@ -2679,7 +2679,7 @@
   },
   {
     "name": "Slitherwisp",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/0/8067f195-8b6e-4329-a34e-43e52f67c571.jpg?1587458461"
     ],
     "type_line": "Creature — Elemental Nightmare",
@@ -2692,7 +2692,7 @@
   },
   {
     "name": "Snapdax, Apex of the Hunt",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/1/51fdeeb7-9868-4fc2-9c53-806244cd5488.jpg?1585832839"
     ],
     "type_line": "Legendary Creature — Dinosaur Cat Nightmare",
@@ -2705,7 +2705,7 @@
   },
   {
     "name": "Snare Tactician",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/f/5f640e0c-298d-4a5f-94d0-d839cf06ca86.jpg?1586521318"
     ],
     "type_line": "Creature — Human Soldier",
@@ -2718,7 +2718,7 @@
   },
   {
     "name": "Solid Footing",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/9/0900a8d1-a1b1-48c9-8af1-726a623c7d74.jpg?1586514861"
     ],
     "type_line": "Enchantment — Aura",
@@ -2731,7 +2731,7 @@
   },
   {
     "name": "Song of Creation",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/7/b7320233-1c83-4f61-8c08-cc8361867256.jpg?1586348449"
     ],
     "type_line": "Enchantment",
@@ -2744,7 +2744,7 @@
   },
   {
     "name": "Sonorous Howlbonder",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/9/595f0b25-6e6e-43c4-a4a0-903920067df1.jpg?1586343078"
     ],
     "type_line": "Creature — Human Warrior",
@@ -2757,7 +2757,7 @@
   },
   {
     "name": "Spelleater Wolverine",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/5/a5f03ffd-dcdb-441c-8dfc-4fe06a289b22.jpg?1586517828"
     ],
     "type_line": "Creature — Wolverine",
@@ -2770,7 +2770,7 @@
   },
   {
     "name": "Splendor Mare",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/3/535ccc75-b24e-4071-b6a0-fc5267a454e3.jpg?1586288112"
     ],
     "type_line": "Creature — Elk Unicorn",
@@ -2783,7 +2783,7 @@
   },
   {
     "name": "Spontaneous Flight",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/d/3dc24dd4-d259-4687-8247-f56aa7abb5b9.jpg?1586297224"
     ],
     "type_line": "Instant",
@@ -2796,7 +2796,7 @@
   },
   {
     "name": "Springjaw Trap",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/7/3741de51-ea92-493a-8058-e0f2000e7701.jpg?1586518257"
     ],
     "type_line": "Artifact",
@@ -2809,7 +2809,7 @@
   },
   {
     "name": "Sprite Dragon",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/8/281f6118-adb8-4a7d-9c77-5570f3399e6e.jpg?1585843749"
     ],
     "type_line": "Creature — Faerie Dragon",
@@ -2822,7 +2822,7 @@
   },
   {
     "name": "Startling Development",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/1/a12680db-957f-48c1-9062-2edd9115ba26.jpg?1586521227"
     ],
     "type_line": "Instant",
@@ -2835,7 +2835,7 @@
   },
   {
     "name": "Stormwild Capridor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/a/2afded81-2fc1-4285-bf48-d25f72e72138.jpg?1586043505"
     ],
     "type_line": "Creature — Bird Goat",
@@ -2848,7 +2848,7 @@
   },
   {
     "name": "Sudden Spinnerets",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/7/3730996a-96d2-4311-a4dc-0045a2f8ccc9.jpg?1586516785"
     ],
     "type_line": "Instant",
@@ -2861,7 +2861,7 @@
   },
   {
     "name": "Suffocating Fumes",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/6/66b562e4-35df-4aee-848d-ceb4204bbe58.jpg?1586516806"
     ],
     "type_line": "Instant",
@@ -2874,7 +2874,7 @@
   },
   {
     "name": "Survivors' Bond",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/3/530ff2a1-6447-4653-a661-d9a39156d6fa.jpg?1586555138"
     ],
     "type_line": "Sorcery",
@@ -2887,7 +2887,7 @@
   },
   {
     "name": "Swallow Whole",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/3/c3b9140b-848f-4886-8c28-eccd3829a607.jpg?1587458498"
     ],
     "type_line": "Sorcery",
@@ -2900,7 +2900,7 @@
   },
   {
     "name": "Swamp",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/c/6c8c3f0e-7af4-410b-a675-9ea84f51e812.jpg?1586518729"
     ],
     "type_line": "Basic Land — Swamp",
@@ -2913,7 +2913,7 @@
   },
   {
     "name": "Swiftwater Cliffs",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/1/7108c071-5f1c-4cf5-90c6-530cee3f7685.jpg?1586517647"
     ],
     "type_line": "Land",
@@ -2926,7 +2926,7 @@
   },
   {
     "name": "Tentative Connection",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/c/5c40fd33-bb95-48f3-a10f-a33eb27c48f1.jpg?1587579788"
     ],
     "type_line": "Sorcery",
@@ -2939,7 +2939,7 @@
   },
   {
     "name": "The Ozolith",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/3/9341ed06-53db-4604-b60a-3ea9129afbc2.jpg?1586268572"
     ],
     "type_line": "Legendary Artifact",
@@ -2952,7 +2952,7 @@
   },
   {
     "name": "Thieving Otter",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/7/07f84b0a-37d9-4b0f-8d75-1fab45a12d44.jpg?1586043466"
     ],
     "type_line": "Creature — Otter",
@@ -2965,7 +2965,7 @@
   },
   {
     "name": "Thornwood Falls",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/d/8d011b0f-1681-4a51-9f5d-47ad135d03fe.jpg?1586517670"
     ],
     "type_line": "Land",
@@ -2978,7 +2978,7 @@
   },
   {
     "name": "Thwart the Enemy",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/7/a7101f35-d8c9-4320-bffc-8bb25000d103.jpg?1586159762"
     ],
     "type_line": "Instant",
@@ -2991,7 +2991,7 @@
   },
   {
     "name": "Titanoth Rex",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/d/9d02e1e8-b85b-4e26-8ab8-ca2f49d05b88.jpg?1585834578"
     ],
     "type_line": "Creature — Dinosaur Beast",
@@ -3004,7 +3004,7 @@
   },
   {
     "name": "Titans' Nest",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1586521298"
     ],
     "type_line": "Enchantment",
@@ -3017,7 +3017,7 @@
   },
   {
     "name": "Tranquil Cove",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/6/366ac097-39cb-4401-87c7-1dd73bf34329.jpg?1586517687"
     ],
     "type_line": "Land",
@@ -3030,7 +3030,7 @@
   },
   {
     "name": "Trumpeting Gnarr",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/6/063a95ee-3fda-436f-9ff8-de80cc874dde.jpg?1585918887"
     ],
     "type_line": "Creature — Beast",
@@ -3043,7 +3043,7 @@
   },
   {
     "name": "Umori, the Collector",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/7/5/75ac31e0-ac70-4ee6-b2b1-cc445ffa1da9.jpg?1585838926"
     ],
     "type_line": "Legendary Creature — Ooze",
@@ -3056,7 +3056,7 @@
   },
   {
     "name": "Unbreakable Bond",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/9/c9da02a1-7b39-4a0e-8466-6512a02f3e3b.jpg?1586217978"
     ],
     "type_line": "Sorcery",
@@ -3069,7 +3069,7 @@
   },
   {
     "name": "Unexpected Fangs",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/a/aa6494ad-a35e-4b09-8623-7740f3c20b0b.jpg?1586516853"
     ],
     "type_line": "Instant",
@@ -3082,7 +3082,7 @@
   },
   {
     "name": "Unlikely Aid",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/a/bac3409e-7c24-43b0-9956-5f0cdeae6468.jpg?1586516918"
     ],
     "type_line": "Instant",
@@ -3095,7 +3095,7 @@
   },
   {
     "name": "Unpredictable Cyclone",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/3/a/3a0462f6-a027-43c0-8e01-c0591d9a45d9.jpg?1586450137"
     ],
     "type_line": "Enchantment",
@@ -3108,7 +3108,7 @@
   },
   {
     "name": "Vadrok, Apex of Thunder",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/e/d/ed7b0256-d342-4523-9516-6a007bf51825.jpg?1586787643"
     ],
     "type_line": "Legendary Creature — Elemental Dinosaur Cat",
@@ -3121,7 +3121,7 @@
   },
   {
     "name": "Valiant Rescuer",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/2/a2b13ff6-67e9-4760-aef4-a8548ea44344.jpg?1585927343"
     ],
     "type_line": "Creature — Human Soldier",
@@ -3134,7 +3134,7 @@
   },
   {
     "name": "Vivien, Monsters' Advocate",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/0/504ebb84-7e7b-4119-a128-a9c183c5d9de.jpg?1585830399"
     ],
     "type_line": "Legendary Planeswalker — Vivien",
@@ -3147,7 +3147,7 @@
   },
   {
     "name": "Void Beckoner",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/1/a1523cda-c47d-4419-a5d3-fd6ed9867c56.jpg?1585834058"
     ],
     "type_line": "Creature — Nightmare Horror",
@@ -3160,7 +3160,7 @@
   },
   {
     "name": "Voracious Greatshark",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/4/1400155f-8911-45fd-aab2-998c8a28292c.jpg?1586217669"
     ],
     "type_line": "Creature — Shark",
@@ -3173,7 +3173,7 @@
   },
   {
     "name": "Vulpikeet",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/7/07bce816-3d18-4ca1-b88f-7307ec7c345d.jpg?1586446347"
     ],
     "type_line": "Creature — Fox Bird",
@@ -3186,7 +3186,7 @@
   },
   {
     "name": "Weaponize the Monsters",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/6/8/68bba622-a0ab-4c0e-88b1-9120690ea5a0.jpg?1586269449"
     ],
     "type_line": "Enchantment",
@@ -3199,7 +3199,7 @@
   },
   {
     "name": "Whirlwind of Thought",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/d/0/d0699cbc-b499-44a6-82e1-631491aaaec6.jpg?1586792673"
     ],
     "type_line": "Enchantment",
@@ -3212,7 +3212,7 @@
   },
   {
     "name": "Whisper Squad",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/9/097eeb32-cfd5-4adb-ac30-d7762e6ea48f.jpg?1586516989"
     ],
     "type_line": "Creature — Human Soldier",
@@ -3225,7 +3225,7 @@
   },
   {
     "name": "Will of the All-Hunter",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/a/a/aa7acbfa-ce3b-424d-886d-6865bc5fc085.jpg?1586217467"
     ],
     "type_line": "Instant",
@@ -3238,7 +3238,7 @@
   },
   {
     "name": "Wilt",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/5/55987bab-c24f-4261-b97e-f0ad4474b0a0.jpg?1586185230"
     ],
     "type_line": "Instant",
@@ -3251,7 +3251,7 @@
   },
   {
     "name": "Wind-Scarred Crag",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/6/86367edc-9587-4f3b-aa95-c3a2bfc8c6f4.jpg?1586517798"
     ],
     "type_line": "Land",
@@ -3264,7 +3264,7 @@
   },
   {
     "name": "Wingfold Pteron",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/1/11e21a5f-fae7-4488-9463-f0af6e4c5233.jpg?1585921994"
     ],
     "type_line": "Creature — Dinosaur",
@@ -3277,7 +3277,7 @@
   },
   {
     "name": "Wingspan Mentor",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/8/9/89348a02-29f6-40b9-b39f-cb5f8c230a02.jpg?1586521239"
     ],
     "type_line": "Creature — Human Wizard",
@@ -3290,7 +3290,7 @@
   },
   {
     "name": "Winota, Joiner of Forces",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1586521992"
     ],
     "type_line": "Legendary Creature — Human Warrior",
@@ -3303,7 +3303,7 @@
   },
   {
     "name": "Yidaro, Wandering Monster",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/b/5/b540c7c6-5b9e-4606-ac84-e583a62a3647.jpg?1585989370"
     ],
     "type_line": "Legendary Creature — Dinosaur Turtle",
@@ -3316,7 +3316,7 @@
   },
   {
     "name": "Yorion, Sky Nomad",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/2/7/275426c4-c14e-47d0-a9d4-24da7f6f6911.jpg?1586518077"
     ],
     "type_line": "Legendary Creature — Bird Serpent",
@@ -3329,7 +3329,7 @@
   },
   {
     "name": "Zagoth Crystal",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/9/1/9138a442-8e8b-465f-bb76-b6af7e6dab6f.jpg?1585917672"
     ],
     "type_line": "Artifact",
@@ -3342,7 +3342,7 @@
   },
   {
     "name": "Zagoth Mamba",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/e/ce945f7e-ded9-4819-9313-d50d3aad40fa.jpg?1585833788"
     ],
     "type_line": "Creature — Nightmare Snake",
@@ -3355,7 +3355,7 @@
   },
   {
     "name": "Zagoth Triome",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/c/c/cc520518-2063-4b57-a0d4-10cf62a7175e.jpg?1586470053"
     ],
     "type_line": "Land — Swamp Forest Island",
@@ -3368,7 +3368,7 @@
   },
   {
     "name": "Zenith Flare",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/0/e/0efac1ed-3f01-487c-86be-8239568b4425.jpg?1586297274"
     ],
     "type_line": "Instant",
@@ -3381,7 +3381,7 @@
   },
   {
     "name": "Zirda, the Dawnwaker",
-    "image_uris": [
+    "card_image": [
       "https://img.scryfall.com/cards/normal/front/1/b/1bd8e61c-2ee8-4243-a848-7008810db8a0.jpg?1587458189"
     ],
     "type_line": "Legendary Creature — Elemental Fox",
