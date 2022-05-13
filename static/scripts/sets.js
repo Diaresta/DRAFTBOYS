@@ -1,3 +1,6 @@
+// Scryfall api to update sets: iko, thb, eld
+// https://api.scryfall.com/sets/iko
+
 const SETS = {
   snc: '/sets/snc.json',
   neo: '/sets/neo.json',
