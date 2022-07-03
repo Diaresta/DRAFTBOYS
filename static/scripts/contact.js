@@ -24,7 +24,7 @@ SUBMIT_BUTTON.addEventListener('click', (e) => {
 
 const sendMessage = () => {
   axios
-    .post('http://localhost:8000/api/contact/create', {
+    .post('https://draftboys.herokuapp.com/api/contact/create', {
       firstName: FIRST_NAME.value,
       lastName: LAST_NAME.value,
       email: EMAIL.value,
