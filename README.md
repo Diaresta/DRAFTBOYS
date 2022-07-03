@@ -1,3 +1,7 @@
+## _Currently transitioning to TypeScript, and refactoring the functionality._
+
+---
+
 # Draftboys
 
 ---
