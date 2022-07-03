@@ -10,7 +10,7 @@ app.use(express.json());
 dotenv.config();
 mongoose.connect(process.env.GETELLERDB, {});
 
-app.get('/', (req, res) => res.status(200).send('welcome gamers'));
+app.get('/', (req, res) => res.status(200).send('welcome gamersasdajbsd'));
 
 // Create contact message in db
 app.post('/api/contact/create', async (req, res) => {
