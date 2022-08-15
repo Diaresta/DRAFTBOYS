@@ -1,6 +1,2 @@
-/node_modules
-/Set_Images
-/static/scss
-/static/scripts/sets-format.js
 /server/node_modules
 /server/.env
