@@ -16,9 +16,12 @@ If you'd like to contribute to Draftboys, do the following:
 2.  Install [node.js](https://nodejs.org/en/).
 3.  Install JavaScript dependencies in the repository directory.
     `npm install`
+
     - Dependencies are:
-      - [express](https://expressjs.com/)
-      - [handlebars](https://handlebarsjs.com/)
+      - [React](https://reactjs.org)
+      - [React-Router-DOM](https://reactrouter.com/web/guides/quick-start)
+      - [TypeScript](https://www.typescriptlang.org)
+
 4.  Commit and push your changes.
 5.  Submit a pull request.
     - Pull requests will be reviewed, and if usable, will be merged into the main branch. _Pull requests are not guaranteed to be merged._
