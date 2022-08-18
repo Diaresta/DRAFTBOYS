@@ -1,7 +1,4 @@
 # Draftboys
-
-## _Currently transitioning to TypeScript, and refactoring the functionality._
-
 ---
 
 **_Draftboys_** is a _Magic: The Gathering_ [draft](https://magic.wizards.com/en/game-info/gameplay/formats/booster-draft) simulator, allowing a player to partake in draft gameplay as if they're seated around a table with friends. With fun and learning at the forefront of our work, Draftboys looks to create an experience to foster growth and enjoyment for players.
