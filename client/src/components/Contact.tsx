@@ -21,7 +21,6 @@ export const Contact = () => {
         contactDate: new Date().toLocaleDateString(),
       })
       .then((res) => {
-        console.log(res);
         setAlertText('Message Submitted!');
         fadeOutAlert('rgba(51, 185, 78, 1)', 'green');
         setCursor('not-allowed');
