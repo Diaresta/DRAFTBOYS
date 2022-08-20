@@ -8,6 +8,9 @@ interface DraftCards {
   img: string;
 }
 
+// Draftd cards array for end screen/draft download
+var draftedPack: Array<DraftCards> = [];
+
 export const Draft = () => {
   const [hoverSource, setHoverSource] = useState();
   const [hoverShow, setHoverShow] = useState(false);
@@ -169,6 +172,7 @@ export const Draft = () => {
 
   // Adds card to drafted array
   const selectCard = (e: any) => {
+    draftedPack.push({ name: e.alt, img: e.src });
     setDraftedCards([...draftedCards, { name: e.alt, img: e.src }]);
     setDraftCount(draftCount + 1);
     packCounter();
@@ -238,7 +242,7 @@ export const Draft = () => {
         headerBtn: 'initial',
       });
       setEndMediaQ('none');
-      setEndScreen(draftedCards);
+      setEndScreen(draftedPack);
       downloadFormat(endScreen);
     }
   };
@@ -275,7 +279,7 @@ export const Draft = () => {
             marginBottom: '15px',
           }}
           onClick={() => {
-            downloadDraft(downloadFormat(endScreen), 'draft.txt');
+            downloadDraft(downloadFormat(draftedPack), 'draft.txt');
           }}
         >
           Download Draft
@@ -345,8 +349,8 @@ export const Draft = () => {
         </div>
         <div id='selected-cards' style={{ display: endScreenStyling.drafted }}>
           <ul>
-            {draftedCards.map((card) => (
-              <li>
+            {draftedCards.map((card, i) => (
+              <li key={i}>
                 <img
                   className='cards'
                   src={card.img}
