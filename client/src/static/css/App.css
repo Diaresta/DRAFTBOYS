@@ -254,7 +254,7 @@ html {
   }
   #left-arrow {
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 32px;
     border: 2px solid #ccc !important;
     cursor: pointer;
@@ -267,7 +267,7 @@ html {
   }
   #right-arrow {
     position: absolute;
-    top: 50%;
+    top: 35%;
     right: 32px;
     border: 2px solid #ccc !important;
     cursor: pointer;
@@ -370,12 +370,12 @@ html {
   #selected-cards {
     width: 15%;
     display: inline-block;
-    overflow: scroll;
-    overflow-x: hidden;
     height: 475px;
     border: 10px solid black;
     border-radius: 10px;
     background-color: #3e4045;
+    overflow: scroll;
+    overflow-x: hidden;
     scrollbar-width: none;
     -ms-overflow-style: none;
   }
