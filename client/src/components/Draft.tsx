@@ -6,6 +6,7 @@ import { downloadDraft } from '../static/scripts/downloadDraft';
 interface DraftCards {
   name: string;
   img: string;
+  cmc: number;
 }
 
 // Draftd cards array for end screen/draft download
@@ -57,6 +58,7 @@ export const Draft = () => {
       packArray.push({
         name: filteredCards.name,
         img: filteredCards.card_image[0],
+        cmc: filteredCards.cmc,
       });
     }
 
@@ -172,8 +174,8 @@ export const Draft = () => {
 
   // Adds card to drafted array
   const selectCard = (e: any) => {
-    draftedPack.push({ name: e.alt, img: e.src });
-    setDraftedCards([...draftedCards, { name: e.alt, img: e.src }]);
+    draftedPack.push({ name: e.alt, img: e.src, cmc: e.cmc });
+    setDraftedCards([...draftedCards, { name: e.alt, img: e.src, cmc: e.cmc }]);
     setDraftCount(draftCount + 1);
     packCounter();
   };
