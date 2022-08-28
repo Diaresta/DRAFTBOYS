@@ -121,17 +121,7 @@ export const AllSets = () => {
               <ul key={`${set.code} - list`}>
                 <li>{set.name} -&nbsp;</li>
                 <li>
-                  <NavLink
-                    className='set-title'
-                    to={set.link}
-                    onClick={() => {
-                      if (set.code !== 'm21') {
-                        fadeOutElement();
-                      } else {
-                        return;
-                      }
-                    }}
-                  >
+                  <NavLink className='set-title' to={set.link}>
                     Draft
                   </NavLink>
                 </li>

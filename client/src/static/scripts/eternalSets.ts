@@ -11,19 +11,16 @@ export const eternalSets: {
   {
     name: 'Ikoria: Lair of Behemoths',
     code: 'iko',
-    // link: '/draft/iko',
-    link: '#',
+    link: '/draft/iko',
   },
   {
     name: 'Theros Beyond Death',
     code: 'thb',
-    // link: '/draft/thb',
-    link: '#',
+    link: '/draft/thb',
   },
   {
     name: 'Throne of Eldraine',
     code: 'eld',
-    // link: '/draft/eld',
-    link: '#',
+    link: '/draft/eld',
   },
 ];
