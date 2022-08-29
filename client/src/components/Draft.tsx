@@ -174,8 +174,11 @@ export const Draft = () => {
 
   // Adds card to drafted array
   const selectCard = (e: any) => {
-    draftedPack.push({ name: e.alt, img: e.src, cmc: e.cmc });
-    setDraftedCards([...draftedCards, { name: e.alt, img: e.src, cmc: e.cmc }]);
+    draftedPack.push({ name: e.alt, img: e.src, cmc: e.alt[e.alt.length - 1] });
+    setDraftedCards([
+      ...draftedCards,
+      { name: e.alt, img: e.src, cmc: e.alt[e.alt.length - 1] },
+    ]);
     setDraftCount(draftCount + 1);
     packCounter();
   };
@@ -317,7 +320,7 @@ export const Draft = () => {
             <img
               className='cards'
               src={card.img}
-              alt={card.name}
+              alt={`${card.name} ${card.cmc}`}
               onClick={(e) => {
                 selectCard(e.target);
                 packRemove(e);
