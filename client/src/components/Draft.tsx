@@ -224,7 +224,9 @@ export const Draft = () => {
     let downloadArray: string[] = [];
 
     for (let i = 0; i < draftedCards.length; i++) {
-      downloadArray.push(draftedCards[i].name);
+      downloadArray.push(
+        draftedCards[i].name.substring(0, draftedCards[i].name.length - 2)
+      );
     }
 
     return downloadArray.join('\n');
