@@ -309,6 +309,7 @@ export const Draft = () => {
                 border: '2px solid grey',
                 boxShadow: '2px 2px 8px',
                 height: '50%',
+                zIndex: '9999',
               }
             : { display: 'none' }
         }
@@ -328,6 +329,10 @@ export const Draft = () => {
                 packRemove(e);
                 packPassCount();
               }}
+              onMouseEnter={(e) => {
+                hoverZoom(e.target);
+              }}
+              onMouseLeave={clearHoverZoom}
               key={i}
             ></img>
           ))}
