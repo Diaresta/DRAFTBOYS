@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { setTitle } from '../static/scripts/setTitle';
 import { downloadDraft } from '../static/scripts/downloadDraft';
+import { example } from '../static/scripts/testArray';
 
 interface DraftCards {
   name: string;
@@ -232,6 +233,19 @@ export const Draft = () => {
     return downloadArray.join('\n');
   };
 
+  // Sorts cards at end screen by their properties #TODO
+  const draftSort = (sort: string, cards: any) => {
+    let initialState = cards;
+    let sorted = cards;
+
+    if (sort === 'cmc') {
+      sorted.sort((a: any, b: any) => a.cmc < b.cmc);
+      console.log(sorted);
+    } else if (sort === 'order') {
+      console.log(initialState);
+    }
+  };
+
   // Sets pack count
   const packCounter = () => {
     if (draftCount === 13) {
@@ -251,6 +265,7 @@ export const Draft = () => {
       setEndMediaQ('none');
       setEndScreen(draftedPack);
       downloadFormat(endScreen);
+      clearHoverZoom();
     }
   };
 
