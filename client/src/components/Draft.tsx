@@ -20,6 +20,10 @@ export const Draft = () => {
   const [draftCount, setDraftCount] = useState(0);
   const [passCount, setPassCount] = useState(0);
 
+  // #TODO
+  const [updateState, setUpdateState] = useState('');
+  var initEndDraft: Array<DraftCards> = [];
+
   const [packCards, setPackCards] = useState<Array<DraftCards>>([]);
 
   // Array of drafted cards
@@ -234,15 +238,16 @@ export const Draft = () => {
   };
 
   // Sorts cards at end screen by their properties #TODO
-  const draftSort = (sort: string, cards: any) => {
-    let initialState = cards;
-    let sorted = cards;
+  const draftSort = (sort: string, cards: any, initial: any) => {
+    const sorted = cards;
 
     if (sort === 'cmc') {
       sorted.sort((a: any, b: any) => a.cmc < b.cmc);
-      console.log(sorted);
+      setEndScreen(sorted);
+      setUpdateState('0');
     } else if (sort === 'order') {
-      console.log(initialState);
+      // setEndScreen(initial);
+      // setUpdateState('1');
     }
   };
 
@@ -264,6 +269,7 @@ export const Draft = () => {
       });
       setEndMediaQ('none');
       setEndScreen(draftedPack);
+      initEndDraft = draftedPack;
       downloadFormat(endScreen);
       clearHoverZoom();
     }
@@ -277,6 +283,21 @@ export const Draft = () => {
 
   return (
     <div id='draft-page-container'>
+      {/* #TODO
+      <button
+        onClick={() => {
+          draftSort('cmc', draftedPack, initEndDraft);
+        }}
+      >
+        cmc
+      </button>
+      <button
+        onClick={() => {
+          draftSort('order', draftedPack, initEndDraft);
+        }}
+      >
+        initial
+      </button> */}
       <div
         className='header-container'
         style={{ display: endScreenStyling.headerSet }}
@@ -291,7 +312,6 @@ export const Draft = () => {
           </p>
         </div>
       </div>
-
       <div className='header-container'>
         <button
           style={{
@@ -307,7 +327,6 @@ export const Draft = () => {
           Download Draft
         </button>
       </div>
-
       <img
         id='hover-card'
         src={hoverSource}
