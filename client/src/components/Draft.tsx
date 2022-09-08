@@ -284,6 +284,7 @@ export const Draft = () => {
         className='header-container'
         style={{ display: endScreenStyling.headerSet }}
       >
+        {/* Empty div for flex styling */}
         <div></div>
         <div>
           <h1>{setTitle()}</h1>
@@ -295,49 +296,77 @@ export const Draft = () => {
         </div>
       </div>
       <div className='header-container'>
-        <div>
-          <button
-            style={{
-              display: endScreenStyling.headerBtn,
-              width: '175px',
-              margin: 'auto',
-              marginBottom: '15px',
-            }}
-            onClick={() => {
-              downloadDraft(downloadFormat(draftedPack), 'draft.txt');
-            }}
-          >
-            Download Draft
-          </button>
-        </div>
-        <div>
-          <button
-            style={{
-              display: endScreenStyling.headerBtn,
-              width: '150px',
-              margin: 'auto',
-              marginBottom: '15px',
-            }}
-            onClick={() => {
-              draftSort('cmc', draftedPack);
-            }}
-          >
-            Mana Cost
-          </button>
-          <button
-            style={{
-              display: endScreenStyling.headerBtn,
-              width: '150px',
-              margin: 'auto',
-              marginBottom: '15px',
-            }}
-            onClick={() => {
-              draftSort('order', draftedPack);
-            }}
-          >
-            Draft Order
-          </button>
-        </div>
+        {/* <div> */}
+        <button
+          style={{
+            display: endScreenStyling.headerBtn,
+            width: '175px',
+            margin: 'auto',
+            marginBottom: '15px',
+          }}
+          onClick={() => {
+            downloadDraft(downloadFormat(draftedPack), 'draft.txt');
+          }}
+        >
+          Download Draft
+        </button>
+        {/* </div> */}
+        {/* #TODO
+        <div
+          id='sort-menu'
+          style={{
+            display: endScreenStyling.headerBtn,
+            width: '150px',
+            margin: 'auto',
+            marginBottom: '15px',
+          }}
+        >
+          <button className='drop-btn'>Sort</button>
+          <div id='sort-content'>
+            <button
+              className='sort-btn'
+              style={{
+                display: endScreenStyling.headerBtn,
+                width: '150px',
+                margin: 'auto',
+                // marginBottom: '15px',
+              }}
+              onClick={() => {
+                draftSort('order', draftedPack);
+              }}
+            >
+              Draft Order
+            </button>
+            <button
+              className='sort-btn'
+              style={{
+                display: endScreenStyling.headerBtn,
+                width: '150px',
+                margin: 'auto',
+                // marginBottom: '15px',
+              }}
+              onClick={() => {
+                // draftSort('order', draftedPack);
+              }}
+            >
+              Color
+            </button>
+            <button
+              className='sort-btn'
+              style={{
+                display: endScreenStyling.headerBtn,
+                width: '150px',
+                margin: 'auto',
+                // marginBottom: '15px',
+              }}
+              onClick={() => {
+                draftSort('cmc', draftedPack);
+              }}
+            >
+              Mana Cost
+            </button>
+          </div>
+        </div> */}
       </div>
       <img
         id='hover-card'
