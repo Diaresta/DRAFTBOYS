@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { setTitle } from '../static/scripts/setTitle';
 import { downloadDraft } from '../static/scripts/downloadDraft';
-import { example } from '../static/scripts/testArray';
 
 interface DraftCards {
   name: string;
@@ -19,10 +18,6 @@ export const Draft = () => {
   const [packCount, setPackCount] = useState(1);
   const [draftCount, setDraftCount] = useState(0);
   const [passCount, setPassCount] = useState(0);
-
-  // #TODO
-  const [updateState, setUpdateState] = useState('');
-  var initEndDraft: Array<DraftCards> = [];
 
   const [packCards, setPackCards] = useState<Array<DraftCards>>([]);
 
@@ -165,7 +160,7 @@ export const Draft = () => {
       timeout = setTimeout(() => {
         setHoverSource(e.src);
         setHoverShow(true);
-      }, 500);
+      }, 1000);
     } else {
       setHoverShow(false);
     }
@@ -237,16 +232,19 @@ export const Draft = () => {
     return downloadArray.join('\n');
   };
 
-  // Sorts cards at end screen by their properties #TODO
-  const draftSort = (sort: string, cards: any, initial: any) => {
-    const sorted = cards;
+  // Sorts cards at end screen by their properties
+  const draftSort = (sort: string, cards: any) => {
+    let initial: any = cards;
+    let sorted: any = [...cards];
 
     if (sort === 'cmc') {
       sorted.sort((a: any, b: any) => a.cmc < b.cmc);
       setEndScreen(sorted);
-      setUpdateState('0');
+      console.log(sorted);
+      // setUpdateState('0');
     } else if (sort === 'order') {
-      // setEndScreen(initial);
+      setEndScreen(initial);
+      console.log(initial);
       // setUpdateState('1');
     }
   };
@@ -269,7 +267,6 @@ export const Draft = () => {
       });
       setEndMediaQ('none');
       setEndScreen(draftedPack);
-      initEndDraft = draftedPack;
       downloadFormat(endScreen);
       clearHoverZoom();
     }
@@ -283,21 +280,6 @@ export const Draft = () => {
 
   return (
     <div id='draft-page-container'>
-      {/* #TODO
-      <button
-        onClick={() => {
-          draftSort('cmc', draftedPack, initEndDraft);
-        }}
-      >
-        cmc
-      </button>
-      <button
-        onClick={() => {
-          draftSort('order', draftedPack, initEndDraft);
-        }}
-      >
-        initial
-      </button> */}
       <div
         className='header-container'
         style={{ display: endScreenStyling.headerSet }}
@@ -313,19 +295,49 @@ export const Draft = () => {
         </div>
       </div>
       <div className='header-container'>
-        <button
-          style={{
-            display: endScreenStyling.headerBtn,
-            width: '175px',
-            margin: 'auto',
-            marginBottom: '15px',
-          }}
-          onClick={() => {
-            downloadDraft(downloadFormat(draftedPack), 'draft.txt');
-          }}
-        >
-          Download Draft
-        </button>
+        <div>
+          <button
+            style={{
+              display: endScreenStyling.headerBtn,
+              width: '175px',
+              margin: 'auto',
+              marginBottom: '15px',
+            }}
+            onClick={() => {
+              downloadDraft(downloadFormat(draftedPack), 'draft.txt');
+            }}
+          >
+            Download Draft
+          </button>
+        </div>
+        <div>
+          <button
+            style={{
+              display: endScreenStyling.headerBtn,
+              width: '150px',
+              margin: 'auto',
+              marginBottom: '15px',
+            }}
+            onClick={() => {
+              draftSort('cmc', draftedPack);
+            }}
+          >
+            Mana Cost
+          </button>
+          <button
+            style={{
+              display: endScreenStyling.headerBtn,
+              width: '150px',
+              margin: 'auto',
+              marginBottom: '15px',
+            }}
+            onClick={() => {
+              draftSort('order', draftedPack);
+            }}
+          >
+            Draft Order
+          </button>
+        </div>
       </div>
       <img
         id='hover-card'
@@ -386,6 +398,7 @@ export const Draft = () => {
                 packRemove(e);
                 packPassCount();
               }}
+              onMouseOver={clearHoverZoom}
               id={`{name: "${card.name}", img: "${card.img}"}`}
             ></img>
           ))}
