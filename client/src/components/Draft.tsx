@@ -296,22 +296,22 @@ export const Draft = () => {
         </div>
       </div>
       <div className='header-container'>
-        {/* <div> */}
-        <button
-          style={{
-            display: endScreenStyling.headerBtn,
-            width: '175px',
-            margin: 'auto',
-            marginBottom: '15px',
-          }}
-          onClick={() => {
-            downloadDraft(downloadFormat(draftedPack), 'draft.txt');
-          }}
-        >
-          Download Draft
-        </button>
-        {/* </div> */}
-        {/* #TODO
+        <div>
+          <button
+            style={{
+              display: endScreenStyling.headerBtn,
+              width: '175px',
+              margin: 'auto',
+              marginBottom: '15px',
+            }}
+            onClick={() => {
+              downloadDraft(downloadFormat(draftedPack), 'draft.txt');
+            }}
+          >
+            Download Draft
+          </button>
+        </div>
+        {/* #TODO */}
         <div
           id='sort-menu'
           style={{
@@ -327,9 +327,6 @@ export const Draft = () => {
               className='sort-btn'
               style={{
                 display: endScreenStyling.headerBtn,
-                width: '150px',
-                margin: 'auto',
-                // marginBottom: '15px',
               }}
               onClick={() => {
                 draftSort('order', draftedPack);
@@ -341,9 +338,6 @@ export const Draft = () => {
               className='sort-btn'
               style={{
                 display: endScreenStyling.headerBtn,
-                width: '150px',
-                margin: 'auto',
-                // marginBottom: '15px',
               }}
               onClick={() => {
                 // draftSort('order', draftedPack);
@@ -355,9 +349,6 @@ export const Draft = () => {
               className='sort-btn'
               style={{
                 display: endScreenStyling.headerBtn,
-                width: '150px',
-                margin: 'auto',
-                // marginBottom: '15px',
               }}
               onClick={() => {
                 draftSort('cmc', draftedPack);
@@ -366,7 +357,7 @@ export const Draft = () => {
               Mana Cost
             </button>
           </div>
-        </div> */}
+        </div>
       </div>
       <img
         id='hover-card'

@@ -362,6 +362,62 @@ html {
   display: none;
 }
 
+#draft-page-container #sort-menu {
+  position: relative;
+  display: inline-block;
+  margin: 5px 5px 0 2.5%;
+  width: 7%;
+}
+
+#draft-page-container #sort-menu button {
+  width: 100%;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#draft-page-container #sort-menu .drop-btn {
+  background-color: #263238;
+  color: #fff;
+}
+
+#draft-page-container #sort-menu #sort-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+}
+
+#draft-page-container #sort-menu #sort-content .sort-btn {
+  border-radius: 0px;
+  border-top: none;
+  border-bottom: none;
+  border-left: 2px solid #508f94;
+  border-right: 2px solid #508f94;
+  display: block;
+}
+
+#draft-page-container #sort-menu #sort-content .sort-btn:last-child {
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+  border-bottom: 2px solid #508f94;
+}
+
+#draft-page-container #sort-menu #sort-content .sort-btn:active {
+  background-color: #93b2ff;
+}
+
+#draft-page-container #sort-menu:hover #sort-content {
+  display: block;
+}
+
+#draft-page-container #sort-menu:hover .drop-btn {
+  color: #e5e5e5;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom: none !important;
+  border: 2px solid #508f94;
+}
+
 @media screen and (min-width: 1026px) {
   #selected-cards::-webkit-scrollbar {
     width: 0px;
