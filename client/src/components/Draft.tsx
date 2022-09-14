@@ -295,7 +295,7 @@ export const Draft = () => {
           </p>
         </div>
       </div>
-      <div className='header-container'>
+      <div id='end-header-container'>
         <div>
           <button
             style={{
@@ -334,7 +334,7 @@ export const Draft = () => {
             >
               Draft Order
             </button>
-            <button
+            {/* <button
               className='sort-btn'
               style={{
                 display: endScreenStyling.headerBtn,
@@ -344,7 +344,7 @@ export const Draft = () => {
               }}
             >
               Color
-            </button>
+            </button> */}
             <button
               className='sort-btn'
               style={{

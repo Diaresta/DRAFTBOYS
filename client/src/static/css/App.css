@@ -320,6 +320,32 @@ html {
   font-weight: bold;
 }
 
+#draft-page-container #end-header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#draft-page-container #end-header-container div {
+  width: 50%;
+}
+
+#draft-page-container #end-header-container h1 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+#draft-page-container #end-header-container p {
+  margin: 0;
+}
+
+#draft-page-container #end-header-container #draft-count {
+  text-align: right;
+  padding-right: 35px;
+  font-weight: bold;
+}
+
 #draft-page-container #draft-area {
   display: flex;
   flex-direction: row;
@@ -366,7 +392,6 @@ html {
   position: relative;
   display: inline-block;
   margin: 5px 5px 0 2.5%;
-  width: 7%;
 }
 
 #draft-page-container #sort-menu button {
@@ -416,6 +441,10 @@ html {
   border-bottom-right-radius: 0px;
   border-bottom: none !important;
   border: 2px solid #508f94;
+}
+
+.end-screen {
+  margin-bottom: 20px;
 }
 
 @media screen and (min-width: 1026px) {
