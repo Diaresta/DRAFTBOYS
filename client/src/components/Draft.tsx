@@ -12,6 +12,9 @@ interface DraftCards {
 // Draftd cards array for end screen/draft download
 var draftedPack: Array<DraftCards> = [];
 
+// TODO
+var endArrayRefactor: Array<DraftCards> = [];
+
 export const Draft = () => {
   const [hoverSource, setHoverSource] = useState();
   const [hoverShow, setHoverShow] = useState(false);
@@ -173,7 +176,9 @@ export const Draft = () => {
   };
 
   // Adds card to drafted array
-  const selectCard = (e: any) => {
+  const selectCard = (e: any, endScreenCardRector: any) => {
+    endArrayRefactor.push(endScreenCardRector);
+
     draftedPack.push({ name: e.alt, img: e.src, cmc: e.alt[e.alt.length - 1] });
     setDraftedCards([
       ...draftedCards,
@@ -244,7 +249,6 @@ export const Draft = () => {
       // setUpdateState('0');
     } else if (sort === 'order') {
       setEndScreen(initial);
-      console.log(initial);
       // setUpdateState('1');
     }
   };
@@ -311,7 +315,6 @@ export const Draft = () => {
             Download Draft
           </button>
         </div>
-        {/* #TODO */}
         <div
           id='sort-menu'
           style={{
@@ -334,6 +337,7 @@ export const Draft = () => {
             >
               Draft Order
             </button>
+            {/* TODO */}
             {/* <button
               className='sort-btn'
               style={{
@@ -391,11 +395,12 @@ export const Draft = () => {
               src={card.img}
               alt={`${card.name} ${card.cmc}`}
               onClick={(e) => {
-                selectCard(e.target);
+                selectCard(e.target, multiPackCards[passCount][i]);
                 packRemove(e);
                 packPassCount();
               }}
               onMouseEnter={(e) => {
+                clearHoverZoom();
                 hoverZoom(e.target);
               }}
               onMouseLeave={clearHoverZoom}
@@ -408,18 +413,19 @@ export const Draft = () => {
           className='draft-cards end-screen'
           style={{ display: endScreenStyling.end, width: '100%' }}
         >
-          {endScreen.map((card) => (
+          {endScreen.map((card, i) => (
             <img
               className='cards'
               src={card.img}
               alt={card.name}
               onClick={(e) => {
-                selectCard(e.target);
+                selectCard(e.target, multiPackCards[passCount][i]);
                 packRemove(e);
                 packPassCount();
               }}
               onMouseOver={clearHoverZoom}
               id={`{name: "${card.name}", img: "${card.img}"}`}
+              key={i}
             ></img>
           ))}
         </div>
