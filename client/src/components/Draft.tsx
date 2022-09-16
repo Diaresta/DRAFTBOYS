@@ -411,11 +411,6 @@ export const Draft = () => {
               className='cards'
               src={card.img}
               alt={card.name}
-              onClick={(e) => {
-                selectCard(multiPackCards[passCount][i]);
-                packRemove(e);
-                packPassCount();
-              }}
               onMouseOver={clearHoverZoom}
               id={`{name: "${card.name}", img: "${card.img}"}`}
               key={i}
