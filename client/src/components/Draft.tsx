@@ -7,13 +7,11 @@ interface DraftCards {
   name: string;
   img: string;
   cmc: number;
+  colors: string;
 }
 
 // Draftd cards array for end screen/draft download
 var draftedPack: Array<DraftCards> = [];
-
-// TODO
-var endArrayRefactor: Array<DraftCards> = [];
 
 export const Draft = () => {
   const [hoverSource, setHoverSource] = useState();
@@ -62,6 +60,7 @@ export const Draft = () => {
         name: filteredCards.name,
         img: filteredCards.card_image[0],
         cmc: filteredCards.cmc,
+        colors: filteredCards.colors,
       });
     }
 
@@ -176,14 +175,9 @@ export const Draft = () => {
   };
 
   // Adds card to drafted array
-  const selectCard = (e: any, endScreenCardRector: any) => {
-    endArrayRefactor.push(endScreenCardRector);
-
-    draftedPack.push({ name: e.alt, img: e.src, cmc: e.alt[e.alt.length - 1] });
-    setDraftedCards([
-      ...draftedCards,
-      { name: e.alt, img: e.src, cmc: e.alt[e.alt.length - 1] },
-    ]);
+  const selectCard = (card: any) => {
+    draftedPack.push(card);
+    setDraftedCards([...draftedCards, card]);
     setDraftCount(draftCount + 1);
     packCounter();
   };
@@ -245,11 +239,11 @@ export const Draft = () => {
     if (sort === 'cmc') {
       sorted.sort((a: any, b: any) => a.cmc < b.cmc);
       setEndScreen(sorted);
-      console.log(sorted);
-      // setUpdateState('0');
+    } else if (sort === 'color') {
+      sorted.sort((a: any, b: any) => a.colors < b.colors);
+      setEndScreen(sorted);
     } else if (sort === 'order') {
       setEndScreen(initial);
-      // setUpdateState('1');
     }
   };
 
@@ -337,18 +331,17 @@ export const Draft = () => {
             >
               Draft Order
             </button>
-            {/* TODO */}
-            {/* <button
+            <button
               className='sort-btn'
               style={{
                 display: endScreenStyling.headerBtn,
               }}
               onClick={() => {
-                // draftSort('order', draftedPack);
+                draftSort('color', draftedPack);
               }}
             >
               Color
-            </button> */}
+            </button>
             <button
               className='sort-btn'
               style={{
@@ -395,7 +388,7 @@ export const Draft = () => {
               src={card.img}
               alt={`${card.name} ${card.cmc}`}
               onClick={(e) => {
-                selectCard(e.target, multiPackCards[passCount][i]);
+                selectCard(multiPackCards[passCount][i]);
                 packRemove(e);
                 packPassCount();
               }}
@@ -419,7 +412,7 @@ export const Draft = () => {
               src={card.img}
               alt={card.name}
               onClick={(e) => {
-                selectCard(e.target, multiPackCards[passCount][i]);
+                selectCard(multiPackCards[passCount][i]);
                 packRemove(e);
                 packPassCount();
               }}
