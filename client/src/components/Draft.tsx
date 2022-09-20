@@ -8,6 +8,7 @@ interface DraftCards {
   img: string;
   cmc: number;
   colors: string;
+  type: string;
 }
 
 // Draftd cards array for end screen/draft download
@@ -52,25 +53,26 @@ export const Draft = () => {
   let multiPacksArray: any = [];
 
   // Filters card sets for specific card rarities
-  const cardFilter = (type: any, amount: number) => {
+  const cardFilter = (rarity: any, amount: number) => {
     for (let i = 0; i < amount; i++) {
-      let filteredCards = type[Math.floor(Math.random() * type.length)];
+      let filteredCards = rarity[Math.floor(Math.random() * rarity.length)];
 
       packArray.push({
         name: filteredCards.name,
         img: filteredCards.card_image[0],
         cmc: filteredCards.cmc,
         colors: filteredCards.colors,
+        type: filteredCards.type,
       });
     }
 
     // if (amount === 3 || amount === 10) {
-    //   checkDuplicates(packArray, type);
+    //   checkDuplicates(packArray, rarity);
     // }
   };
 
   // Checks array of cards for duplicates and replaces them with new, non-duplicate
-  const checkDuplicates = (boosterPack: any, type: Function) => {
+  const checkDuplicates = (boosterPack: any, rarity: Function) => {
     let duplicateCount: number = 0;
 
     let cardsInPack = boosterPack.map((card: any) => {
@@ -89,8 +91,8 @@ export const Draft = () => {
       }
 
       if ((cardsInPack.indexOf(card) !== idx) === true) {
-        checkDuplicates(boosterPack, type);
-        cardFilter(type, duplicateCount);
+        checkDuplicates(boosterPack, rarity);
+        cardFilter(rarity, duplicateCount);
       }
     });
   };
@@ -242,6 +244,9 @@ export const Draft = () => {
     } else if (sort === 'color') {
       sorted.sort((a: any, b: any) => a.colors < b.colors);
       setEndScreen(sorted);
+    } else if (sort === 'type') {
+      sorted.sort((a: any, b: any) => a.type.localeCompare(b.type));
+      setEndScreen(sorted);
     } else if (sort === 'order') {
       setEndScreen(initial);
     }
@@ -352,6 +357,17 @@ export const Draft = () => {
               }}
             >
               Mana Cost
+            </button>
+            <button
+              className='sort-btn'
+              style={{
+                display: endScreenStyling.headerBtn,
+              }}
+              onClick={() => {
+                draftSort('type', draftedPack);
+              }}
+            >
+              Type
             </button>
           </div>
         </div>
