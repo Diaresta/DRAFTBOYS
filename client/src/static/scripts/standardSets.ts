@@ -5,6 +5,12 @@ export const standardSets: {
   link: String;
 }[] = [
   {
+    name: 'Dominaria United',
+    code: 'dmu',
+    img: 'https://images.ctfassets.net/s5n2t79q9icq/P0uNWIH4HeTgqyYxFtczA/b7c3f1ed8381cf63953f974f6cbeb694/Header_Desktop_1920.jpg?q=70',
+    link: '/draft/dmu',
+  },
+  {
     name: 'Streets of New Capenna',
     code: 'snc',
     img: 'https://images.ctfassets.net/s5n2t79q9icq/2EncB6WsdGeJirUcFabG1e/fe58ac2db2e2a6b4d5b9886293569458/Product_Page_Header_Desktop.jpg?q=70',

@@ -2,6 +2,10 @@ export const setTitle = () => {
   const setCode: string = window.location.pathname.split('/')[2];
 
   switch (setCode) {
+    case 'dmu':
+      return 'Dominaria United';
+      break;
+
     case 'snc':
       return 'Streets of New Capenna';
       break;
