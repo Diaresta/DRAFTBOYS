@@ -4,6 +4,26 @@ export const eternalSets: {
   link: String;
 }[] = [
   {
+    name: 'Adventures in the Forgotten Realms',
+    code: 'afr',
+    link: '/draft/afr',
+  },
+  {
+    name: 'Strixhaven',
+    code: 'stx',
+    link: '/draft/stx',
+  },
+  {
+    name: 'Kaldheim',
+    code: 'khm',
+    link: '/draft/khm',
+  },
+  {
+    name: 'Zendikar Rising',
+    code: 'znr',
+    link: '/draft/znr',
+  },
+  {
     name: 'Core 2021',
     code: 'm21',
     link: '/draft/m21',
