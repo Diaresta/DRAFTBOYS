@@ -1,5 +1,4 @@
 import { useEffect } from 'react';
-import { NavLink } from 'react-router-dom';
 
 const ERROR_IMAGES = [
   '/images/error-images/404-0.png',

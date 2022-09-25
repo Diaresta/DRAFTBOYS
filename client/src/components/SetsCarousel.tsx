@@ -27,7 +27,7 @@ export const SetsCarousel = () => {
       <button id='left-arrow' onClick={slidePrevious}>
         <i className='fa-solid fa-arrow-left' />
       </button>
-      {standardSets.map((set: any, index: any) => (
+      {standardSets.map((set: any, index: number) => (
         <div
           className={
             index === imageView
