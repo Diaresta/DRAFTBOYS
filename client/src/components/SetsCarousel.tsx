@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { standardSets } from '../static/scripts/standardSets';
+import { standardCardSet } from '../static/scripts/standardSets';
 
 export const SetsCarousel = () => {
   const [imageView, setImageView] = useState(0);
@@ -27,7 +28,7 @@ export const SetsCarousel = () => {
       <button id='left-arrow' onClick={slidePrevious}>
         <i className='fa-solid fa-arrow-left' />
       </button>
-      {standardSets.map((set: any, index: number) => (
+      {standardSets.map((set: standardCardSet, index: number) => (
         <div
           className={
             index === imageView

@@ -1,9 +1,11 @@
-export const standardSets: {
-  name: String;
-  code: String;
-  img: String;
-  link: String;
-}[] = [
+export interface standardCardSet {
+  name: string;
+  code: string;
+  img: string;
+  link: string;
+}
+
+export const standardSets: standardCardSet[] = [
   {
     name: 'Dominaria United',
     code: 'dmu',

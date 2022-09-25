@@ -1,10 +1,11 @@
 import { NavLink } from 'react-router-dom';
 import { standardSets } from '../static/scripts/standardSets';
+import { standardCardSet } from '../static/scripts/standardSets';
 
 export const SetsHome = () => {
   return (
     <div id='home-sets-container'>
-      {standardSets.map((set: any, index: number) => (
+      {standardSets.map((set: standardCardSet, index: number) => (
         <div className='select-set ' key={index}>
           <NavLink to={set.link}>
             <p className='set-title'>{set.name}</p>

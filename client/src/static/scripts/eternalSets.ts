@@ -1,8 +1,10 @@
-export const eternalSets: {
-  name: String;
-  code: String;
-  link: String;
-}[] = [
+export interface eternalCardSet {
+  name: string;
+  code: string;
+  link: string;
+}
+
+export const eternalSets: eternalCardSet[] = [
   {
     name: 'Adventures in the Forgotten Realms',
     code: 'afr',

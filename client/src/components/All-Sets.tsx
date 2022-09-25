@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 import { standardSets } from '../static/scripts/standardSets';
+import { standardCardSet } from '../static/scripts/standardSets';
+import { eternalCardSet } from '../static/scripts/eternalSets';
 import { eternalSets } from '../static/scripts/eternalSets';
 import { fadeOutWait } from '../static/scripts/fadeOut';
 
@@ -96,7 +98,7 @@ export const AllSets = () => {
         >
           <h2 className='sets-header'>Standard</h2>
           <div>
-            {standardSets.map((set: any) => (
+            {standardSets.map((set: standardCardSet) => (
               <ul key={`${set.code} - list`}>
                 <li>{set.name} -&nbsp;</li>
                 <li>
@@ -117,7 +119,7 @@ export const AllSets = () => {
         >
           <h2 className='sets-header'>Eternal</h2>
           <div>
-            {eternalSets.map((set: any) => (
+            {eternalSets.map((set: eternalCardSet) => (
               <ul key={`${set.code} - list`}>
                 <li>{set.name} -&nbsp;</li>
                 <li>
