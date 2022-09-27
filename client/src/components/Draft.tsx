@@ -2,17 +2,10 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { setTitle } from '../static/scripts/setTitle';
 import { downloadDraft } from '../static/scripts/downloadDraft';
-
-interface DraftCards {
-  name: string;
-  img: string;
-  cmc: number;
-  colors: string;
-  type: string;
-}
+import { cardSets, DraftCards } from '../static/scripts/cardInterfaces';
 
 // Draftd cards array for end screen/draft download
-var draftedPack: Array<DraftCards> = [];
+var draftedPack: DraftCards[] = [];
 
 export const Draft = () => {
   const [hoverSource, setHoverSource] = useState();
@@ -21,16 +14,16 @@ export const Draft = () => {
   const [draftCount, setDraftCount] = useState(0);
   const [passCount, setPassCount] = useState(0);
 
-  const [packCards, setPackCards] = useState<Array<DraftCards>>([]);
+  const [packCards, setPackCards] = useState<DraftCards[]>([]);
 
   // Array of drafted cards
-  const [draftedCards, setDraftedCards] = useState<Array<DraftCards>>([]);
+  const [draftedCards, setDraftedCards] = useState<DraftCards[]>([]);
 
   // Array of all 8 draft packs
-  const [multiPackCards, setMultiPackCards] = useState<Array<[DraftCards]>>([]);
+  const [multiPackCards, setMultiPackCards] = useState<[DraftCards][]>([]);
 
   // Array of completed draft cards
-  const [endScreen, setEndScreen] = useState<Array<DraftCards>>([]);
+  const [endScreen, setEndScreen] = useState<DraftCards[]>([]);
 
   const [endScreenStyling, setEndScreenStyling] = useState({
     draft: 'flex',
@@ -44,10 +37,10 @@ export const Draft = () => {
   const [endMediaQ, setEndMediaQ] = useState('');
 
   // Timeout variable for clearing hovered image state
-  let timeout: any = null;
+  let timeout: ReturnType<typeof setTimeout>;
 
   // Initial pack array
-  let packArray: Array<DraftCards> = [];
+  let packArray: DraftCards[] = [];
 
   // Array of all 8 draft packs
   let multiPacksArray: any = [];
@@ -79,7 +72,7 @@ export const Draft = () => {
       return card.name;
     });
 
-    cardsInPack.some((card: any, idx: any) => {
+    cardsInPack.some((card: any, idx: number) => {
       const checkedCard = cardsInPack.indexOf(card);
       if (checkedCard !== idx) {
         if (idx > -1) {
@@ -135,15 +128,15 @@ export const Draft = () => {
     axios
       .get(`/sets/${setCode}.json`)
       .then((res: any) => {
-        const commons = res.data.filter((set: any) => {
+        const commons = res.data.filter((set: cardSets) => {
           return set.rarity === 'common';
         });
 
-        const uncommons = res.data.filter((set: any) => {
+        const uncommons = res.data.filter((set: cardSets) => {
           return set.rarity === 'uncommon';
         });
 
-        const rareMythic = res.data.filter((set: any) => {
+        const rareMythic = res.data.filter((set: cardSets) => {
           if (Math.random() <= 1 / 8) {
             return set.rarity === 'mythic';
           } else {
@@ -221,7 +214,7 @@ export const Draft = () => {
   };
 
   // Sets array of completed draft card names for download
-  const downloadFormat = (draftedCards: Array<DraftCards>) => {
+  const downloadFormat = (draftedCards: DraftCards[]) => {
     let downloadArray: string[] = [];
 
     for (let i = 0; i < draftedCards.length; i++) {
