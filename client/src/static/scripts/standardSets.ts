@@ -6,6 +6,12 @@ export interface standardCardSet {
 }
 
 export const standardSets: standardCardSet[] = [
+  // {
+  //   name: "The Brother's War",
+  //   code: 'bro  ',
+  //   img: 'https://images.ctfassets.net/s5n2t79q9icq/5s6h7KJffSi5fyEf9wSDvO/fe8fbdb5a11b5e801426cfadaf094499/JHf3OI8Gz2_1920x700.jpg?q=80&w=1920&h=700&fit=crop&f=center&fm=avif',
+  //   link: '/draft/bro',
+  // },
   {
     name: 'Dominaria United',
     code: 'dmu',
