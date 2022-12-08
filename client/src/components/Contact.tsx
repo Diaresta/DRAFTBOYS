@@ -13,7 +13,7 @@ export const Contact = () => {
 
   const submitMessage = () => {
     axios
-      .post('http://localhost:8000/api/contact/create', {
+      .post('https://draftboys.herokuapp.com/api/contact/create', {
         firstName: firstName,
         lastName: lastName,
         email: userEmail,
