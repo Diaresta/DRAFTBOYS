@@ -4,7 +4,7 @@ import { setTitle } from '../static/scripts/setTitle';
 import { downloadDraft } from '../static/scripts/downloadDraft';
 import { cardSets, DraftCards } from '../static/scripts/cardInterfaces';
 
-// Draftd cards array for end screen/draft download
+// Draft cards array for end screen/draft download
 var draftedPack: DraftCards[] = [];
 
 export const Draft = () => {

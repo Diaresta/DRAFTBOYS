@@ -1,0 +1,3395 @@
+[
+  {
+    "name": "Adaptive Sporesinger",
+    "cmc": 3,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/d/3db6d202-9c6f-4485-9224-173b23de7054.jpg?1675490703"
+    ],
+    "type": "Creature — Phyrexian Druid",
+    "text": "Vigilance\nWhen Adaptive Sporesinger enters the battlefield, choose one —\n• Target creature gets +2/+2 and gains vigilance until end of turn.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{2}{G}"
+  },
+  {
+    "name": "Against All Odds",
+    "cmc": 4,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/c/3cd8dd4e-6892-49d7-8fae-97d04f9f6c84.jpg?1674772677"
+    ],
+    "type": "Sorcery",
+    "text": "Choose one or both —\n• Exile target artifact or creature you control, then return it to the battlefield under its owner's control.\n• Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.",
+    "mana": "{3}{W}"
+  },
+  {
+    "name": "All Will Be One",
+    "cmc": 5,
+    "colors": ["R"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/d/6d75e1f4-bd63-428e-8e6e-131594b3ba44.jpg?1674810979"
+    ],
+    "type": "Enchantment",
+    "text": "Whenever you put one or more counters on a permanent or player, All Will Be One deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.",
+    "mana": "{3}{R}{R}"
+  },
+  {
+    "name": "Ambulatory Edifice",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/3/43c9005c-0574-4b75-8dbf-0a6641c3ae33.jpg?1674772810"
+    ],
+    "type": "Artifact Creature — Phyrexian Construct",
+    "text": "When Ambulatory Edifice enters the battlefield, you may pay 2 life. When you do, target creature gets -1/-1 until end of turn.",
+    "mana": "{2}{B}"
+  },
+  {
+    "name": "Annex Sentry",
+    "cmc": 3,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/4/04baad61-1b51-4602-9e33-0de4a9f34793.jpg?1674772680"
+    ],
+    "type": "Artifact Creature — Phyrexian Cleric",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen Annex Sentry enters the battlefield, exile target artifact or creature an opponent controls with mana value 3 or less until Annex Sentry leaves the battlefield.",
+    "mana": "{2}{W}"
+  },
+  {
+    "name": "Annihilating Glare",
+    "cmc": 1,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/e/be5d0b95-ec12-4e8e-99a0-7aca457f9107.jpg?1674772813"
+    ],
+    "type": "Sorcery",
+    "text": "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.\nDestroy target creature or planeswalker.",
+    "mana": "{B}"
+  },
+  {
+    "name": "Anoint with Affliction",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1674772815"
+    ],
+    "type": "Instant",
+    "text": "Exile target creature if it has mana value 3 or less.\nCorrupted — Exile that creature instead if its controller has three or more poison counters.",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Apostle of Invasion",
+    "cmc": 6,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/a/8a973487-5def-4771-bb77-5748cbd2f469.jpg?1674772682"
+    ],
+    "type": "Creature — Phyrexian Angel",
+    "text": "Flying\nCorrupted — As long as an opponent has three or more poison counters, Apostle of Invasion has double strike.",
+    "mana": "{4}{W}{W}"
+  },
+  {
+    "name": "Archfiend of the Dross",
+    "cmc": 4,
+    "colors": ["B"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/6/86b0edaf-8cfd-4508-9554-6f0fddc2dfc4.jpg?1674772817"
+    ],
+    "type": "Creature — Phyrexian Demon",
+    "text": "Flying\nArchfiend of the Dross enters the battlefield with four oil counters on it.\nAt the beginning of your upkeep, remove an oil counter from Archfiend of the Dross. Then if it has no oil counters on it, you lose the game.\nWhenever a creature an opponent controls dies, its controller loses 2 life.",
+    "mana": "{2}{B}{B}"
+  },
+  {
+    "name": "Argentum Masticore",
+    "cmc": 5,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/7/9746e3ab-c0a6-46c1-a418-275b419962e4.jpg?1674773075"
+    ],
+    "type": "Artifact Creature — Phyrexian Masticore",
+    "text": "First strike, protection from multicolored\nAt the beginning of your upkeep, sacrifice Argentum Masticore unless you discard a card. When you discard a card this way, destroy target nonland permanent an opponent controls with mana value less than or equal to the mana value of the discarded card.",
+    "mana": "{5}"
+  },
+  {
+    "name": "Armored Scrapgorger",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/1/61e220d0-38c9-4584-940b-8a9e983ecfe7.jpg?1675490712"
+    ],
+    "type": "Creature — Phyrexian Beast",
+    "text": "Armored Scrapgorger gets +3/+0 as long as it has three or more oil counters on it.\n{T}: Add one mana of any color.\nWhenever Armored Scrapgorger becomes tapped, exile target card from a graveyard and put an oil counter on Armored Scrapgorger.",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Aspirant's Ascent",
+    "cmc": 1,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/7/57551332-e2a4-4e6a-9bd8-e3a9baafcd17.jpg?1674772745"
+    ],
+    "type": "Instant",
+    "text": "Until end of turn, target creature gets +1/+3 and gains flying and toxic 1. (Players dealt combat damage by that creature also get a poison counter.)",
+    "mana": "{U}"
+  },
+  {
+    "name": "Atmosphere Surgeon",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/6/c66988ca-29d5-45ea-8d68-c8e0e4c3ffb1.jpg?1674772746"
+    ],
+    "type": "Creature — Phyrexian Wizard",
+    "text": "Whenever you cast a noncreature spell, put an oil counter on Atmosphere Surgeon.\nRemove an oil counter from Atmosphere Surgeon: Target creature gains flying until end of turn. Activate only as a sorcery.",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Atraxa, Grand Unifier",
+    "cmc": 7,
+    "colors": ["B", "G", "U", "W"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1674773027"
+    ],
+    "type": "Legendary Creature — Phyrexian Angel",
+    "text": "Flying, vigilance, deathtouch, lifelink\nWhen Atraxa, Grand Unifier enters the battlefield, reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order. (Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)",
+    "mana": "{3}{G}{W}{U}{B}"
+  },
+  {
+    "name": "Atraxa's Skitterfang",
+    "cmc": 3,
+    "colors": [],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/d/cdedebad-f71e-4434-871e-5bbbd3c07a12.jpg?1674773078"
+    ],
+    "type": "Artifact Creature — Phyrexian Insect",
+    "text": "Atraxa's Skitterfang enters the battlefield with three oil counters on it.\nAt the beginning of combat on your turn, you may remove an oil counter from Atraxa's Skitterfang. When you do, target creature you control gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.",
+    "mana": "{3}"
+  },
+  {
+    "name": "Awaken the Sleeper",
+    "cmc": 4,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/b/3b92f866-2522-4f2a-a5ca-7d01ad79b927.jpg?1674772884"
+    ],
+    "type": "Sorcery",
+    "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If it's equipped, you may destroy all Equipment attached to that creature.",
+    "mana": "{3}{R}"
+  },
+  {
+    "name": "Axiom Engraver",
+    "cmc": 2,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/9/c9b3b785-396e-4240-bfa3-58ab53497686.jpg?1674772886"
+    ],
+    "type": "Creature — Phyrexian Wizard",
+    "text": "Axiom Engraver enters the battlefield with two oil counters on it.\n{T}, Remove an oil counter from Axiom Engraver, Discard a card: Draw a card.",
+    "mana": "{1}{R}"
+  },
+  {
+    "name": "Barbed Batterfist",
+    "cmc": 2,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/e/de1d02d1-91dc-47d6-bdbe-87602428abfb.jpg?1674772887"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +1/-1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "mana": "{1}{R}"
+  },
+  {
+    "name": "Basilica Shepherd",
+    "cmc": 5,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/1/81ef3cfa-63e6-4450-af65-da7f05d13cf3.jpg?1674772683"
+    ],
+    "type": "Creature — Phyrexian Angel",
+    "text": "Flying\nWhen Basilica Shepherd enters the battlefield, create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This creature can't block.\" (Players dealt combat damage by them also get a poison counter.)",
+    "mana": "{3}{W}{W}"
+  },
+  {
+    "name": "Basilica Skullbomb",
+    "cmc": 1,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/e/8e2f0ae2-db68-4338-93f9-9d9268cec41e.jpg?1674815142"
+    ],
+    "type": "Artifact",
+    "text": "{1}, Sacrifice Basilica Skullbomb: Draw a card.\n{2}{W}, Sacrifice Basilica Skullbomb: Target creature you control gets +2/+2 and gains flying until end of turn. Draw a card. Activate only as a sorcery.",
+    "mana": "{1}"
+  },
+  {
+    "name": "Bilious Skulldweller",
+    "cmc": 1,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.jpg?1674772817"
+    ],
+    "type": "Creature — Phyrexian Insect",
+    "text": "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+    "mana": "{B}"
+  },
+  {
+    "name": "Blackcleave Cliffs",
+    "cmc": 0,
+    "colors": ["B", "R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/4/1441fba4-fe06-4b5f-a103-aa6cf59a3859.jpg?1674773127"
+    ],
+    "type": "Land",
+    "text": "Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R}.",
+    "mana": ""
+  },
+  {
+    "name": "Black Sun's Twilight",
+    "cmc": 1,
+    "colors": ["B"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/5/e5bb4def-c67c-44c2-b3b2-8c53a077432d.jpg?1674772819"
+    ],
+    "type": "Instant",
+    "text": "Up to one target creature gets -X/-X until end of turn. If X is 5 or more, return a creature card with mana value X or less from your graveyard to the battlefield tapped.",
+    "mana": "{X}{B}"
+  },
+  {
+    "name": "Bladed Ambassador",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/b/0bd8d2b8-4caf-4349-9538-0dfbebf0ce1b.jpg?1674772687"
+    ],
+    "type": "Creature — Phyrexian Soldier",
+    "text": "Bladed Ambassador enters the battlefield with an oil counter on it.\n{1}, Remove an oil counter from Bladed Ambassador: Bladed Ambassador gains indestructible until end of turn.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Bladegraft Aspirant",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/d/2d6cf933-73fe-4e79-8d0b-29dc0f18b25d.jpg?1674772887"
+    ],
+    "type": "Creature — Phyrexian Warrior",
+    "text": "Menace\nEquipment spells you cast cost {1} less to cast.\nActivated abilities of Equipment you control that target Bladegraft Aspirant cost {1} less to activate.",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Bladehold War-Whip",
+    "cmc": 3,
+    "colors": ["R", "W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/6/563e9ba5-e0ec-4fb3-8301-689aa145cc19.jpg?1674773029"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nEquip abilities you activate of other Equipment cost {1} less to activate.\nEquipped creature has double strike.\nEquip {3}{R}{W}",
+    "mana": "{1}{R}{W}"
+  },
+  {
+    "name": "Blade of Shared Souls",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1674772747"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nWhenever Blade of Shared Souls becomes attached to a creature, for as long as Blade of Shared Souls remains attached to it, you may have that creature become a copy of another target creature you control.\nEquip {2}",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Blazing Crescendo",
+    "cmc": 2,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/6/d6bfc16a-2871-40a4-b279-636b80491a06.jpg?1674772890"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets +3/+1 until end of turn.\nExile the top card of your library. Until the end of your next turn, you may play that card.",
+    "mana": "{1}{R}"
+  },
+  {
+    "name": "Blightbelly Rat",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/2/9255cd01-a611-4fec-b9ec-b271687740ba.jpg?1674772821"
+    ],
+    "type": "Creature — Phyrexian Rat",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen Blightbelly Rat dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Bloated Contaminator",
+    "cmc": 3,
+    "colors": ["G"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/1/411bda96-6c65-475d-9850-0a9b3eefa553.jpg?1674772958"
+    ],
+    "type": "Creature — Phyrexian Beast",
+    "text": "Trample\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever Bloated Contaminator deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{2}{G}"
+  },
+  {
+    "name": "Blue Sun's Twilight",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/a/3a836e6b-6854-4f6f-bc78-2da1fd4dd224.jpg?1675431184"
+    ],
+    "type": "Sorcery",
+    "text": "Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature.",
+    "mana": "{X}{U}{U}"
+  },
+  {
+    "name": "Bonepicker Skirge",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/8/b83f4e41-a5f5-4929-9816-06dc1c228474.jpg?1675490606"
+    ],
+    "type": "Creature — Phyrexian Imp",
+    "text": "Flying\nCorrupted — As long as an opponent has three or more poison counters, Bonepicker Skirge has deathtouch and lifelink.",
+    "mana": "{2}{B}"
+  },
+  {
+    "name": "Branchblight Stalker",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/5/e5290a4c-1f98-4e97-a407-f951e386b8b0.jpg?1674772959"
+    ],
+    "type": "Creature — Phyrexian Elf Scout",
+    "text": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Bring the Ending",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1674810983"
+    ],
+    "type": "Instant",
+    "text": "Counter target spell unless its controller pays {2}.\nCorrupted — Counter that spell instead if its controller has three or more poison counters.",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Cacophony Scamp",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/5/3553dcef-7b99-49d5-b071-06b894696952.jpg?1674772895"
+    ],
+    "type": "Creature — Phyrexian Goblin Warrior",
+    "text": "Whenever Cacophony Scamp deals combat damage to a player, you may sacrifice it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nWhen Cacophony Scamp dies, it deals damage equal to its power to any target.",
+    "mana": "{R}"
+  },
+  {
+    "name": "Cankerbloom",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1674772963"
+    ],
+    "type": "Creature — Phyrexian Fungus",
+    "text": "{1}, Sacrifice Cankerbloom: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Capricious Hellraiser",
+    "cmc": 6,
+    "colors": ["R"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/3/23afca1a-62a8-497f-994f-ceb479d020ba.jpg?1674772895"
+    ],
+    "type": "Creature — Phyrexian Dragon",
+    "text": "This spell costs {3} less to cast if you have nine or more cards in your graveyard.\nFlying\nWhen Capricious Hellraiser enters the battlefield, exile three cards at random from your graveyard. Choose a noncreature, nonland card from among them and copy it. You may cast the copy without paying its mana cost.",
+    "mana": "{3}{R}{R}{R}"
+  },
+  {
+    "name": "Carnivorous Canopy",
+    "cmc": 3,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/b/7b43ba43-f7ae-4e00-b797-2360c3ccd839.jpg?1674772966"
+    ],
+    "type": "Sorcery",
+    "text": "Destroy target artifact, enchantment, or creature with flying. If that permanent's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{2}{G}"
+  },
+  {
+    "name": "Cephalopod Sentry",
+    "cmc": 4,
+    "colors": ["U", "W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/0/30c22eb9-5056-4c0b-a5d8-41e09161eb40.jpg?1674773032"
+    ],
+    "type": "Artifact Creature — Phyrexian Squid",
+    "text": "Flying\nCephalopod Sentry's power is equal to the number of artifacts you control.",
+    "mana": "{2}{W}{U}"
+  },
+  {
+    "name": "Charforger",
+    "cmc": 3,
+    "colors": ["B", "R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/5/45db6b46-c4b4-4684-8a49-53a64ffc82f2.jpg?1674773033"
+    ],
+    "type": "Creature — Phyrexian Beast",
+    "text": "When Charforger enters the battlefield, create a 1/1 red Phyrexian Goblin creature token.\nWhenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on Charforger.\nRemove three oil counters from Charforger: Exile the top card of your library. You may play that card this turn.",
+    "mana": "{1}{B}{R}"
+  },
+  {
+    "name": "Charge of the Mites",
+    "cmc": 3,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/2/42060b9d-de58-485e-817a-1e64839943aa.jpg?1675431173"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Charge of the Mites deals damage equal to the number of creatures you control to target creature or planeswalker.\n• Create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This creature can't block.\" (Players dealt combat damage by them also get a poison counter.)",
+    "mana": "{2}{W}"
+  },
+  {
+    "name": "Chimney Rabble",
+    "cmc": 4,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/6/5668699d-8df8-426b-a04a-99cfe55e570b.jpg?1674772897"
+    ],
+    "type": "Creature — Phyrexian Goblin Warrior",
+    "text": "Haste\nWhen Chimney Rabble enters the battlefield, create a 1/1 red Phyrexian Goblin creature token.",
+    "mana": "{3}{R}"
+  },
+  {
+    "name": "Chittering Skitterling",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/0/e0328d43-ae9b-462a-a1e5-8ed408eea1a7.jpg?1674772824"
+    ],
+    "type": "Creature — Phyrexian Rat",
+    "text": "Corrupted — Sacrifice an artifact or creature: Draw a card. Activate only if an opponent has three or more poison counters and only once each turn.",
+    "mana": "{2}{B}"
+  },
+  {
+    "name": "Chrome Prowler",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/9/a94378a2-cbde-4adf-b889-43e90fc6ba28.jpg?1674772750"
+    ],
+    "type": "Artifact Creature — Phyrexian Cat",
+    "text": "Flash\nWhen Chrome Prowler enters the battlefield, tap target creature an opponent controls.",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Churning Reservoir",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/c/0c117239-8e40-4e7e-ab1b-82f2ddf55cf4.jpg?1674772898"
+    ],
+    "type": "Artifact",
+    "text": "At the beginning of your upkeep, put an oil counter on another target nontoken artifact or creature you control.\n{2}, {T}: Create a 1/1 red Phyrexian Goblin creature token. Activate only if an oil counter was removed from a permanent you controlled this turn or a permanent with an oil counter on it was put into a graveyard this turn.",
+    "mana": "{R}"
+  },
+  {
+    "name": "Cinderslash Ravager",
+    "cmc": 6,
+    "colors": ["G", "R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/e/eee24300-fff8-4405-9629-9f62b4a839ef.jpg?1674773036"
+    ],
+    "type": "Creature — Phyrexian Warrior",
+    "text": "This spell costs {1} less to cast for each permanent you control with oil counters on it.\nVigilance\nWhen Cinderslash Ravager enters the battlefield, it deals 1 damage to each creature your opponents control.",
+    "mana": "{4}{R}{G}"
+  },
+  {
+    "name": "Compleat Devotion",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674814772"
+    ],
+    "type": "Instant",
+    "text": "Target creature you control gets +2/+2 until end of turn. If that creature has toxic, draw a card.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Conduit of Worlds",
+    "cmc": 4,
+    "colors": ["G"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/3/635146da-d415-4107-a7f9-2c46189e5c52.jpg?1674772966"
+    ],
+    "type": "Artifact",
+    "text": "You may play lands from your graveyard.\n{T}: Choose target nonland permanent card in your graveyard. If you haven't cast a spell this turn, you may cast that card. If you do, you can't cast additional spells this turn. Activate only as a sorcery.",
+    "mana": "{2}{G}{G}"
+  },
+  {
+    "name": "Contagious Vorrac",
+    "cmc": 3,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/8/18af2c85-e58f-4043-99d3-e90121348aca.jpg?1674815063"
+    ],
+    "type": "Creature — Phyrexian Boar Beast",
+    "text": "When Contagious Vorrac enters the battlefield, look at the top four cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{2}{G}"
+  },
+  {
+    "name": "Copperline Gorge",
+    "cmc": 0,
+    "colors": ["G", "R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/8/78b0f36b-7d8c-4e77-adc2-a4dad93a81d5.jpg?1674773128"
+    ],
+    "type": "Land",
+    "text": "Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G}.",
+    "mana": ""
+  },
+  {
+    "name": "Copper Longlegs",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/8/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd.jpg?1674772969"
+    ],
+    "type": "Creature — Phyrexian Spider",
+    "text": "Reach\n{1}{G}, Sacrifice Copper Longlegs: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Crawling Chorus",
+    "cmc": 1,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/a/aace4c44-7250-414b-aac4-df042a1e2e1d.jpg?1674918664"
+    ],
+    "type": "Creature — Phyrexian Horror",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen Crawling Chorus dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This creature can't block.\"",
+    "mana": "{W}"
+  },
+  {
+    "name": "Cruel Grimnarch",
+    "cmc": 6,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/3/e3f571b5-ce50-4856-a151-fe6610d27bca.jpg?1674772828"
+    ],
+    "type": "Creature — Phyrexian Cleric",
+    "text": "Deathtouch\nWhen Cruel Grimnarch enters the battlefield, each opponent discards a card. For each opponent who can't, you gain 4 life.",
+    "mana": "{5}{B}"
+  },
+  {
+    "name": "Cutthroat Centurion",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/3/b3890961-d636-4ccc-9c42-2088a8531c9b.jpg?1674772829"
+    ],
+    "type": "Artifact Creature — Phyrexian Warrior",
+    "text": "Sacrifice another artifact or creature: Cutthroat Centurion gets +2/+2 until end of turn. Activate only once each turn.",
+    "mana": "{2}{B}"
+  },
+  {
+    "name": "Darkslick Shores",
+    "cmc": 0,
+    "colors": ["B", "U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/c/bcbda15b-e49a-4445-a0e1-f221aa82c1e8.jpg?1674773128"
+    ],
+    "type": "Land",
+    "text": "Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {U} or {B}.",
+    "mana": ""
+  },
+  {
+    "name": "Distorted Curiosity",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/9/f932ddd3-beb4-4dc8-8c15-e1c9c2276986.jpg?1674814791"
+    ],
+    "type": "Sorcery",
+    "text": "Corrupted — This spell costs {2} less to cast if an opponent has three or more poison counters.\nDraw two cards.",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Dragonwing Glider",
+    "cmc": 5,
+    "colors": ["R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/4/5456b036-231e-4a64-b060-0709f5254664.jpg?1674772898"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+2 and has flying and haste.\nEquip {3}{R}{R}",
+    "mana": "{3}{R}{R}"
+  },
+  {
+    "name": "Drivnod, Carnage Dominus",
+    "cmc": 5,
+    "colors": ["B"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/b/6bc26bca-c4d8-4e8b-a96a-9529fc2daed7.jpg?1674772830"
+    ],
+    "type": "Legendary Creature — Phyrexian Horror",
+    "text": "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\n{B/P}{B/P}, Exile three creature cards from your graveyard: Put an indestructible counter on Drivnod, Carnage Dominus. ({B/P} can be paid with either {B} or 2 life.)",
+    "mana": "{3}{B}{B}"
+  },
+  {
+    "name": "Dross Skullbomb",
+    "cmc": 1,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/6/66270dd2-9139-4329-9621-852962836688.jpg?1674815169"
+    ],
+    "type": "Artifact",
+    "text": "{1}, Sacrifice Dross Skullbomb: Draw a card.\n{2}{B}, Sacrifice Dross Skullbomb: Return target creature card from your graveyard to your hand. Draw a card. Activate only as a sorcery.",
+    "mana": "{1}"
+  },
+  {
+    "name": "Drown in Ichor",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/f/bf148ef4-0ed7-4fbe-8ab6-01dd3981c8d3.jpg?1674772833"
+    ],
+    "type": "Sorcery",
+    "text": "Target creature gets -4/-4 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Duelist of Deep Faith",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/6/56444440-a9e6-4583-a289-9f0571a98093.jpg?1674809832"
+    ],
+    "type": "Creature — Phyrexian Soldier",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nAs long as it's your turn, Duelist of Deep Faith has first strike.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Dune Mover",
+    "cmc": 2,
+    "colors": [],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/9/29d2c689-af37-433a-a012-e8d384702811.jpg?1674773085"
+    ],
+    "type": "Artifact Creature — Phyrexian Golem",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen Dune Mover enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",
+    "mana": "{2}"
+  },
+  {
+    "name": "Duress",
+    "cmc": 1,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1674772833"
+    ],
+    "type": "Sorcery",
+    "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+    "mana": "{B}"
+  },
+  {
+    "name": "Elesh Norn, Mother of Machines",
+    "cmc": 5,
+    "colors": ["W"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/4/44dcab01-1d13-4dfc-ae2f-fbaa3dd35087.jpg?1674772693"
+    ],
+    "type": "Legendary Creature — Phyrexian Praetor",
+    "text": "Vigilance\nIf a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nPermanents entering the battlefield don't cause abilities of permanents your opponents control to trigger.",
+    "mana": "{4}{W}"
+  },
+  {
+    "name": "Encroaching Mycosynth",
+    "cmc": 4,
+    "colors": ["U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/5/65a2fcc9-2317-48a1-a5eb-234fb3300364.jpg?1675431238"
+    ],
+    "type": "Artifact",
+    "text": "Nonland permanents you control are artifacts in addition to their other types. The same is true for permanent spells you control and nonland permanent cards you own that aren't on the battlefield.",
+    "mana": "{3}{U}"
+  },
+  {
+    "name": "Escaped Experiment",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/1/611497d2-83df-4c69-bbeb-6a807c686bc4.jpg?1674772757"
+    ],
+    "type": "Artifact Creature — Phyrexian Beast",
+    "text": "Whenever Escaped Experiment attacks, target creature an opponent controls gets -X/-0 until end of turn, where X is the number of artifacts you control.",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Evolved Spinoderm",
+    "cmc": 4,
+    "colors": ["G"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/d/dd4bcb42-f5cf-410d-8f20-1006b0f92abe.jpg?1675567312"
+    ],
+    "type": "Creature — Phyrexian Beast",
+    "text": "Evolved Spinoderm enters the battlefield with four oil counters on it.\nEvolved Spinoderm has trample as long as it has two or fewer oil counters on it. Otherwise, it has hexproof.\nAt the beginning of your upkeep, remove an oil counter from Evolved Spinoderm. Then if it has no oil counters on it, sacrifice it.",
+    "mana": "{2}{G}{G}"
+  },
+  {
+    "name": "Evolving Adaptive",
+    "cmc": 1,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/3/13366c60-1200-4ad2-bbf4-77596121fcd2.jpg?1674772975"
+    ],
+    "type": "Creature — Phyrexian Warrior",
+    "text": "Evolving Adaptive enters the battlefield with an oil counter on it.\nEvolving Adaptive gets +1/+1 for each oil counter on it.\nWhenever another creature enters the battlefield under your control, if that creature has greater power or toughness than Evolving Adaptive, put an oil counter on Evolving Adaptive.",
+    "mana": "{G}"
+  },
+  {
+    "name": "Expand the Sphere",
+    "cmc": 4,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/7/572e174e-99f7-4b5e-8506-1833adddbf07.jpg?1674772976"
+    ],
+    "type": "Sorcery",
+    "text": "Look at the top six cards of your library. Put up to two land cards from among them onto the battlefield tapped and the rest on the bottom of your library in a random order. If you put fewer than two lands onto the battlefield this way, proliferate a number of times equal to the difference. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{3}{G}"
+  },
+  {
+    "name": "Experimental Augury",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/5/e508ae5d-ffb5-4480-be90-a4394954b559.jpg?1675431249"
+    ],
+    "type": "Instant",
+    "text": "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Exuberant Fuseling",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/6/a6e8d7b9-ff5e-48ae-9e38-d2b6a45b119b.jpg?1675120091"
+    ],
+    "type": "Creature — Phyrexian Goblin Warrior",
+    "text": "Trample\nExuberant Fuseling gets +1/+0 for each oil counter on it.\nWhen Exuberant Fuseling enters the battlefield and whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on Exuberant Fuseling.",
+    "mana": "{R}"
+  },
+  {
+    "name": "Eye of Malcator",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/c/7cc4246b-ff59-44b2-acff-c0bb6e4cd6ac.jpg?1674772759"
+    ],
+    "type": "Artifact",
+    "text": "When Eye of Malcator enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\nWhenever another artifact enters the battlefield under your control, Eye of Malcator becomes a 4/4 Phyrexian Eye artifact creature until end of turn.",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Ezuri, Stalker of Spheres",
+    "cmc": 4,
+    "colors": ["G", "U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/3/d38961ce-0257-412f-acec-c5c9886061f8.jpg?1674773036"
+    ],
+    "type": "Legendary Creature — Phyrexian Elf Warrior",
+    "text": "When Ezuri, Stalker of Spheres enters the battlefield, you may pay {3}. If you do, proliferate twice.\nWhenever you proliferate, draw a card.",
+    "mana": "{2}{G}{U}"
+  },
+  {
+    "name": "Feed the Infection",
+    "cmc": 4,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/f/9f013a1a-d4b9-4380-9802-c299ee6c4492.jpg?1674772834"
+    ],
+    "type": "Sorcery",
+    "text": "You draw three cards and you lose 3 life.\nCorrupted — Each opponent who has three or more poison counters loses 3 life.",
+    "mana": "{3}{B}"
+  },
+  {
+    "name": "Flensing Raptor",
+    "cmc": 3,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/3/134aecf0-dc48-4fb3-8c8b-4e5272077856.jpg?1674772697"
+    ],
+    "type": "Creature — Phyrexian Bird",
+    "text": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen Flensing Raptor enters the battlefield, another target creature you control with toxic gets +1/+1 and gains flying until end of turn.",
+    "mana": "{2}{W}"
+  },
+  {
+    "name": "Fleshless Gladiator",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1674814817"
+    ],
+    "type": "Creature — Phyrexian Skeleton",
+    "text": "Corrupted — {2}{B}: Return Fleshless Gladiator from your graveyard to the battlefield tapped. You lose 1 life. Activate only if an opponent has three or more poison counters.",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Font of Progress",
+    "cmc": 1,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/7/272c9888-ef13-4d47-a4bc-f5239b357a1b.jpg?1674772760"
+    ],
+    "type": "Artifact",
+    "text": "Font of Progress enters the battlefield with two oil counters on it.\n{3}, {T}: Target player mills X cards, where X is the number of oil counters on Font of Progress.",
+    "mana": "{U}"
+  },
+  {
+    "name": "Forgehammer Centurion",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/4/c4c2c914-e9a7-450b-88d9-8885fe0f6643.jpg?1674772906"
+    ],
+    "type": "Creature — Phyrexian Warrior",
+    "text": "Whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on Forgehammer Centurion.\nWhenever Forgehammer Centurion attacks, you may remove two oil counters from it. When you do, target creature can't block this turn.",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Free from Flesh",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/c/2c83600d-ea4d-4219-8dbb-34c4215a2005.jpg?1674772908"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets +2/+2 until end of turn. Put two oil counters on it.",
+    "mana": "{R}"
+  },
+  {
+    "name": "Furnace Punisher",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/5/65e5fc08-7a04-4bba-81ba-990889cae96a.jpg?1674772909"
+    ],
+    "type": "Creature — Phyrexian Warrior",
+    "text": "Menace\nAt the beginning of each player's upkeep, Furnace Punisher deals 2 damage to that player unless they control two or more basic lands.",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Furnace Skullbomb",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/b/cb530f9d-cf35-48a7-8711-f74b3d9a35a7.jpg?1674815188"
+    ],
+    "type": "Artifact",
+    "text": "{1}, Sacrifice Furnace Skullbomb: Draw a card.\n{1}{R}, Sacrifice Furnace Skullbomb: Put two oil counters on target artifact or creature you control. Draw a card. Activate only as a sorcery.",
+    "mana": "{1}"
+  },
+  {
+    "name": "Furnace Strider",
+    "cmc": 5,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/a/aa625ab0-1e79-4497-a5da-98fe1abfd024.jpg?1674772909"
+    ],
+    "type": "Creature — Phyrexian Beast",
+    "text": "Furnace Strider enters the battlefield with two oil counters on it.\nRemove an oil counter from Furnace Strider: Target creature you control gains haste until end of turn.",
+    "mana": "{4}{R}"
+  },
+  {
+    "name": "Geth, Thane of Contracts",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/2/c26e18be-81a1-4645-866a-fae5c2fdf7c9.jpg?1674772839"
+    ],
+    "type": "Legendary Creature — Phyrexian Zombie",
+    "text": "Other creatures you control get -1/-1.\n{1}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains \"If this creature would leave the battlefield, exile it instead of putting it anywhere else.\" Activate only as a sorcery.",
+    "mana": "{1}{B}{B}"
+  },
+  {
+    "name": "Gitaxian Anatomist",
+    "cmc": 4,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/3/63517062-77da-4b60-aa24-f91553a81bed.jpg?1674772765"
+    ],
+    "type": "Creature — Phyrexian Wizard",
+    "text": "When Gitaxian Anatomist enters the battlefield, you may tap it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{3}{U}"
+  },
+  {
+    "name": "Gitaxian Raptor",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/f/4f5e95f8-c04d-405f-bba4-e83a8f6bf463.jpg?1674772767"
+    ],
+    "type": "Creature — Phyrexian Bird",
+    "text": "Flying\nGitaxian Raptor enters the battlefield with three oil counters on it.\nRemove an oil counter from Gitaxian Raptor: Gitaxian Raptor gets +1/-1 until end of turn.",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Gleeful Demolition",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/3/a3e4efa6-5783-4a51-99c6-116d1a8f01cf.jpg?1674772910"
+    ],
+    "type": "Sorcery",
+    "text": "Destroy target artifact. If you controlled that artifact, create three 1/1 red Phyrexian Goblin creature tokens.",
+    "mana": "{R}"
+  },
+  {
+    "name": "Glissa Sunslayer",
+    "cmc": 3,
+    "colors": ["B", "G"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/2/b2bf633e-0470-4b87-99ed-5ad1683b0954.jpg?1674773040"
+    ],
+    "type": "Legendary Creature — Phyrexian Zombie Elf",
+    "text": "First strike, deathtouch\nWhenever Glissa Sunslayer deals combat damage to a player, choose one —\n• You draw a card and you lose 1 life.\n• Destroy target enchantment.\n• Remove up to three counters from target permanent.",
+    "mana": "{1}{B}{G}"
+  },
+  {
+    "name": "Glistener Seer",
+    "cmc": 1,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/2/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd.jpg?1674772768"
+    ],
+    "type": "Creature — Phyrexian Advisor",
+    "text": "Glistener Seer enters the battlefield with three oil counters on it.\n{T}, Remove an oil counter from Glistener Seer: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "mana": "{U}"
+  },
+  {
+    "name": "Goldwarden's Helm",
+    "cmc": 3,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/4/f4057210-ef07-4496-94c8-95c3b807c23c.jpg?1674772697"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +0/+1.\nEquip {1}{W} ({1}{W}: Attach to target creature you control. Equip only as a sorcery.)",
+    "mana": "{2}{W}"
+  },
+  {
+    "name": "Graaz, Unstoppable Juggernaut",
+    "cmc": 8,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/0/e0e73b63-17cc-4dca-abd6-728b74bc37a8.jpg?1674773089"
+    ],
+    "type": "Legendary Artifact Creature — Juggernaut",
+    "text": "Juggernauts you control attack each combat if able.\nJuggernauts you control can't be blocked by Walls.\nOther creatures you control have base power and toughness 5/3 and are Juggernauts in addition to their other creature types.",
+    "mana": "{8}"
+  },
+  {
+    "name": "Green Sun's Twilight",
+    "cmc": 1,
+    "colors": ["G"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/8/184c985d-cb70-41a7-9f66-3506708b7e26.jpg?1674772977"
+    ],
+    "type": "Sorcery",
+    "text": "Reveal the top X plus one cards of your library. Choose a creature card and/or a land card from among them. Put those cards into your hand and the rest on the bottom of your library in a random order. If X is 5 or more, instead put the chosen cards onto the battlefield or into your hand and the rest on the bottom of your library in a random order.",
+    "mana": "{X}{G}"
+  },
+  {
+    "name": "Gulping Scraptrap",
+    "cmc": 5,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/8/28f48394-c6aa-4453-954a-68195d9bd6ea.jpg?1674772844"
+    ],
+    "type": "Creature — Phyrexian Horror",
+    "text": "When Gulping Scraptrap enters the battlefield or dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{4}{B}"
+  },
+  {
+    "name": "Hazardous Blast",
+    "cmc": 4,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/3/0380a4c9-a5d3-465f-8584-e546b54f91e0.jpg?1675490660"
+    ],
+    "type": "Sorcery",
+    "text": "Hazardous Blast deals 1 damage to each creature your opponents control. Creatures your opponents control can't block this turn.",
+    "mana": "{3}{R}"
+  },
+  {
+    "name": "Hexgold Halberd",
+    "cmc": 2,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/2/f22108ec-28f0-44d3-ba6b-3075f5f6bc65.jpg?1674772917"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nAs long as it's your turn, equipped creature has first strike and trample.\nEquip {2}{R}",
+    "mana": "{1}{R}"
+  },
+  {
+    "name": "Hexgold Hoverwings",
+    "cmc": 4,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/4/c498dbf9-c68c-400c-9349-c3c3fc8efcae.jpg?1674772700"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature has flying.\nCreatures you control that are equipped get +1/+0.\nEquip {2}{W}",
+    "mana": "{3}{W}"
+  },
+  {
+    "name": "Hexgold Slash",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/e/0ec44465-68d4-4dca-a313-7f2ab0ce2e63.jpg?1674772919"
+    ],
+    "type": "Instant",
+    "text": "Hexgold Slash deals 2 damage to target creature. If that creature has toxic, Hexgold Slash deals 4 damage to that creature instead.",
+    "mana": "{R}"
+  },
+  {
+    "name": "Ichormoon Gauntlet",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/c/2c093ce0-2561-4847-ab58-f6f1650d743e.jpg?1674772770"
+    ],
+    "type": "Artifact",
+    "text": "Planeswalkers you control have \"[0]: Proliferate\" and \"[-12]: Take an extra turn after this one.\"\nWhenever you cast a noncreature spell, choose a counter on target permanent. Put an additional counter of that kind on that permanent.",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Ichorplate Golem",
+    "cmc": 3,
+    "colors": [],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/5/e555abb1-ffd4-4143-9be8-ec8a758f5c2a.jpg?1674773094"
+    ],
+    "type": "Artifact Creature — Phyrexian Golem",
+    "text": "Whenever a creature enters the battlefield under your control, if it has one or more oil counters on it, put an oil counter on it.\nCreatures you control with oil counters on them get +1/+1.",
+    "mana": "{3}"
+  },
+  {
+    "name": "Ichorspit Basilisk",
+    "cmc": 3,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/9/0955b64f-6721-4fa6-b161-cae404cb5b9f.jpg?1674772978"
+    ],
+    "type": "Creature — Phyrexian Basilisk",
+    "text": "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+    "mana": "{2}{G}"
+  },
+  {
+    "name": "Ichor Synthesizer",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/f/7f516ee6-8f7b-40b2-82e5-9c4ea3e0a355.jpg?1674772768"
+    ],
+    "type": "Creature — Phyrexian Wizard",
+    "text": "Whenever you cast a noncreature spell, put an oil counter on Ichor Synthesizer.\nAs long as Ichor Synthesizer has four or more oil counters on it, it gets +2/+0 and can't be blocked.",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Incisor Glider",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/3/b3cf4c4f-bda6-454c-991d-429c0dca0e85.jpg?1674772701"
+    ],
+    "type": "Artifact Creature — Phyrexian Construct",
+    "text": "Flying\nCorrupted — Whenever Incisor Glider attacks, if an opponent has three or more poison counters, creatures you control get +1/+1 until end of turn.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Incubation Sac",
+    "cmc": 1,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/6/a6b36e23-a414-400c-a3a5-e23883e866d3.jpg?1674772979"
+    ],
+    "type": "Artifact",
+    "text": "Incubation Sac enters the battlefield with three oil counters on it.\n{4}, {T}, Remove an oil counter from Incubation Sac: Create a 3/3 colorless Phyrexian Golem artifact creature token. Activate only as a sorcery.",
+    "mana": "{G}"
+  },
+  {
+    "name": "Indoctrination Attendant",
+    "cmc": 4,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/0/d051bfc7-b402-444d-896e-c3a9562cdb0d.jpg?1674772701"
+    ],
+    "type": "Creature — Phyrexian Cleric",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen Indoctrination Attendant enters the battlefield, you may return another permanent you control to its owner's hand. If you do, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This creature can't block.\"",
+    "mana": "{3}{W}"
+  },
+  {
+    "name": "Infectious Bite",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/3/83dfb2a5-cd5c-46c6-9bb8-7c5d00f3e003.jpg?1675567330"
+    ],
+    "type": "Instant",
+    "text": "Target creature you control deals damage equal to its power to target creature you don't control. Each opponent gets a poison counter.",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Infectious Inquiry",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/a/0a10f284-b043-4307-bdc7-6dad47cc9221.jpg?1675490641"
+    ],
+    "type": "Sorcery",
+    "text": "You draw two cards and you lose 2 life. Each opponent gets a poison counter.",
+    "mana": "{2}{B}"
+  },
+  {
+    "name": "Infested Fleshcutter",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/f/9f03d6bf-cbba-4ad7-8cec-065a47f03dbe.jpg?1674772707"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "Equipped creature gets +2/+0.\nWhenever equipped creature attacks, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This creature can't block.\" (Players dealt combat damage by it also get a poison counter.)\nEquip {2}{W}",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Jace, the Perfected Mind",
+    "cmc": 4,
+    "colors": ["U"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/4/64e6a8d1-ae75-45bd-af62-9a622620cb5c.jpg?1674772771"
+    ],
+    "type": "Legendary Planeswalker — Jace",
+    "text": "Compleated ({U/P} can be paid with {U} or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Until your next turn, up to one target creature gets -3/-0.\n−2: Target player mills three cards. Then if a graveyard has twenty or more cards in it, you draw three cards. Otherwise, you draw a card.\n−X: Target player mills three times X cards.",
+    "mana": "{2}{U}{U/P}"
+  },
+  {
+    "name": "Jawbone Duelist",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/0/b00ea7bb-705b-4669-bb2a-560bed04b14a.jpg?1674772707"
+    ],
+    "type": "Creature — Phyrexian Soldier",
+    "text": "Double strike\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Jor Kadeen, First Goldwarden",
+    "cmc": 2,
+    "colors": ["R", "W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/7/e7e4d8f7-874d-4b2a-ad23-afab479784ea.jpg?1674773043"
+    ],
+    "type": "Legendary Creature — Human Rebel",
+    "text": "Trample\nWhenever Jor Kadeen, First Goldwarden attacks, it gets +X/+X until end of turn, where X is the number of equipped creatures you control. Then if Jor Kadeen's power is 4 or greater, draw a card.",
+    "mana": "{R}{W}"
+  },
+  {
+    "name": "Kaito, Dancing Shadow",
+    "cmc": 4,
+    "colors": ["B", "U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/d/0d97f59a-07b8-47ef-aa88-d94f8c3feae4.jpg?1674773044"
+    ],
+    "type": "Legendary Planeswalker — Kaito",
+    "text": "Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand. If you do, you may activate loyalty abilities of Kaito twice this turn rather than only once.\n+1: Up to one target creature can't attack or block until your next turn.\n0: Draw a card.\n−2: Create a 2/2 colorless Drone artifact creature token with deathtouch and \"When this creature leaves the battlefield, each opponent loses 2 life and you gain 2 life.\"",
+    "mana": "{2}{U}{B}"
+  },
+  {
+    "name": "Karumonix, the Rat King",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/1/f16e282d-8941-46c7-a974-c05b6f73c964.jpg?1674772845"
+    ],
+    "type": "Legendary Creature — Phyrexian Rat",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nOther Rats you control have toxic 1.\nWhen Karumonix enters the battlefield, look at the top five cards of your library. You may reveal any number of Rat cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in a random order.",
+    "mana": "{1}{B}{B}"
+  },
+  {
+    "name": "Kaya, Intangible Slayer",
+    "cmc": 7,
+    "colors": ["B", "W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/8/6865b8c7-b260-48e8-a905-64cbf06b7e57.jpg?1674773044"
+    ],
+    "type": "Legendary Planeswalker — Kaya",
+    "text": "Hexproof\n+2: Each opponent loses 3 life and you gain 3 life.\n0: You draw two cards. Then each opponent may scry 1.\n−3: Exile target creature or enchantment. If it wasn't an Aura, create a token that's a copy of it, except it's a 1/1 white Spirit creature with flying in addition to its other types.",
+    "mana": "{3}{W}{W}{B}{B}"
+  },
+  {
+    "name": "Kemba, Kha Enduring",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/4/945d283d-4592-485f-808a-6e5a721f3cf7.jpg?1674772708"
+    ],
+    "type": "Legendary Creature — Cat Cleric",
+    "text": "Whenever Kemba, Kha Enduring or another Cat enters the battlefield under your control, attach up to one target Equipment you control to that creature.\nEquipped creatures you control get +1/+1.\n{3}{W}{W}: Create a 2/2 white Cat creature token.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Kethek, Crucible Goliath",
+    "cmc": 4,
+    "colors": ["B", "R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/1/4152a5a8-e5a1-46b0-8f75-b9ac341da474.jpg?1674773046"
+    ],
+    "type": "Legendary Creature — Phyrexian Beast",
+    "text": "At the beginning of your end step, you may sacrifice another creature. If you do, reveal cards from the top of your library until you reveal a nonlegendary creature card with lesser mana value, put it onto the battlefield, then put the rest on the bottom of your library in a random order.",
+    "mana": "{2}{B}{R}"
+  },
+  {
+    "name": "Koth, Fire of Resistance",
+    "cmc": 4,
+    "colors": ["R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/5/6528e012-4091-4722-b706-c51772676167.jpg?1674772920"
+    ],
+    "type": "Legendary Planeswalker — Koth",
+    "text": "+2: Search your library for a basic Mountain card, reveal it, put it into your hand, then shuffle.\n−3: Koth, Fire of Resistance deals damage to target creature equal to the number of Mountains you control.\n−7: You get an emblem with \"Whenever a Mountain enters the battlefield under your control, this emblem deals 4 damage to any target.\"",
+    "mana": "{2}{R}{R}"
+  },
+  {
+    "name": "Kuldotha Cackler",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/7/f7155c42-a824-4bbe-9f7a-fa01e7625fd6.jpg?1674772920"
+    ],
+    "type": "Creature — Phyrexian Hyena",
+    "text": "Trample\nWhenever Kuldotha Cackler attacks, it gets +X/+0 until end of turn, where X is the number of permanents you control with oil counters on them.",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Lattice-Blade Mantis",
+    "cmc": 4,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/7/f7427def-c4b2-475a-8dc9-7e89409d9abb.jpg?1674772985"
+    ],
+    "type": "Creature — Phyrexian Insect",
+    "text": "Lattice-Blade Mantis enters the battlefield with two oil counters on it.\nWhenever Lattice-Blade Mantis attacks, you may remove an oil counter from it. If you do, untap it and it gets +1/+1 until end of turn.",
+    "mana": "{3}{G}"
+  },
+  {
+    "name": "Leonin Lightbringer",
+    "cmc": 3,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/6/96ae13df-670e-49a0-99b0-baf908ac9eb4.jpg?1674772709"
+    ],
+    "type": "Creature — Cat Rebel",
+    "text": "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nAs long as Leonin Lightbringer is equipped, it gets +1/+1.",
+    "mana": "{2}{W}"
+  },
+  {
+    "name": "Lukka, Bound to Ruin",
+    "cmc": 5,
+    "colors": ["G", "R"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/d/6df77017-c4a7-4b79-a16b-26463bd6a96a.jpg?1674773048"
+    ],
+    "type": "Legendary Planeswalker — Lukka",
+    "text": "Compleated ({R/G/P} can be paid with {R}, {G}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Add {R}{G}. Spend this mana only to cast creature spells or activate abilities of creatures.\n−1: Create a 3/3 green Phyrexian Beast creature token with toxic 1.\n−4: Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you controlled as you activated this ability.",
+    "mana": "{2}{R}{R/G/P}{G}"
+  },
+  {
+    "name": "Magmatic Sprinter",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/e/2e6af42f-35ec-432f-9879-2a0fb938a9f6.jpg?1675005328"
+    ],
+    "type": "Creature — Phyrexian Warrior",
+    "text": "Haste\nWhen Magmatic Sprinter enters the battlefield, put two oil counters on target artifact or creature you control.\nAt the beginning of your end step, return Magmatic Sprinter to its owner's hand unless you remove two oil counters from it.",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Malcator, Purity Overseer",
+    "cmc": 3,
+    "colors": ["U", "W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/6/36bda977-e5d1-4813-a5f5-265023965142.jpg?1674773052"
+    ],
+    "type": "Legendary Creature — Phyrexian Elephant Wizard",
+    "text": "When Malcator, Purity Overseer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.\nAt the beginning of your end step, if three or more artifacts entered the battlefield under your control this turn, create a 3/3 colorless Phyrexian Golem artifact creature token.",
+    "mana": "{1}{W}{U}"
+  },
+  {
+    "name": "Malcator's Watcher",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/5/95a7e5ff-ba81-4b45-933e-0ac747525ab8.jpg?1674772776"
+    ],
+    "type": "Artifact Creature — Phyrexian Drone",
+    "text": "Flying, vigilance\nWhen Malcator's Watcher dies, draw a card.",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Mandible Justiciar",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/4/544a707d-4090-4a74-91aa-60fbd8a4ae96.jpg?1674772710"
+    ],
+    "type": "Artifact Creature — Phyrexian Cleric",
+    "text": "Lifelink\nWhenever another artifact enters the battlefield under your control, Mandible Justiciar gets +1/+1 until end of turn.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Maze Skullbomb",
+    "cmc": 1,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/0/1073aee2-aea6-473d-97c6-248778d79d80.jpg?1674815205"
+    ],
+    "type": "Artifact",
+    "text": "{1}, Sacrifice Maze Skullbomb: Draw a card.\n{2}{G}, Sacrifice Maze Skullbomb: Target creature you control gets +3/+3 and gains trample until end of turn. Draw a card. Activate only as a sorcery.",
+    "mana": "{1}"
+  },
+  {
+    "name": "Maze's Mantle",
+    "cmc": 3,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/c/bc79106b-9aa2-4add-b9ca-e3c7aafd9821.jpg?1674772986"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Flash\nEnchant creature\nWhen Maze's Mantle enters the battlefield, if enchanted creature has toxic, that creature gains hexproof until end of turn.\nEnchanted creature gets +2/+2.",
+    "mana": "{2}{G}"
+  },
+  {
+    "name": "Meldweb Curator",
+    "cmc": 4,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/0/f0d392b2-1dac-432d-930c-66b238f7512b.jpg?1675490575"
+    ],
+    "type": "Creature — Phyrexian Wizard",
+    "text": "When Meldweb Curator enters the battlefield, put up to one target instant or sorcery card from your graveyard on top of your library.",
+    "mana": "{3}{U}"
+  },
+  {
+    "name": "Meldweb Strider",
+    "cmc": 5,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/5/c5efd9b5-05e5-440f-b28c-658e461cf644.jpg?1674772777"
+    ],
+    "type": "Artifact — Vehicle",
+    "text": "Vigilance\nMeldweb Strider enters the battlefield with an oil counter on it.\nRemove an oil counter from Meldweb Strider: It becomes an artifact creature until end of turn.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "mana": "{4}{U}"
+  },
+  {
+    "name": "Melira, the Living Cure",
+    "cmc": 2,
+    "colors": ["G", "W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/1/e1329ad9-5989-4920-b17b-943b9b4a0cd9.jpg?1674773053"
+    ],
+    "type": "Legendary Creature — Human Scout",
+    "text": "If you would get one or more poison counters, instead you get one poison counter and you can't get additional poison counters this turn.\nExile Melira, the Living Cure: Choose another target creature or artifact. When it's put into a graveyard this turn, return that card to the battlefield under its owner's control.",
+    "mana": "{G}{W}"
+  },
+  {
+    "name": "Mercurial Spelldancer",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/f/cf28c75d-1fb3-44cc-b651-5b2830e22add.jpg?1674772778"
+    ],
+    "type": "Creature — Phyrexian Rogue",
+    "text": "Mercurial Spelldancer can't be blocked.\nWhenever you cast a noncreature spell, put an oil counter on Mercurial Spelldancer.\nWhenever Mercurial Spelldancer deals combat damage to a player, you may remove two oil counters from it. If you do, when you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Mesmerizing Dose",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/a/dac28e27-78aa-48b1-96fa-edca1fbcfb77.jpg?1674772781"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Enchant creature\nWhen Mesmerizing Dose enters the battlefield, tap enchanted creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nEnchanted creature doesn't untap during its controller's untap step.",
+    "mana": "{1}{U}{U}"
+  },
+  {
+    "name": "Migloz, Maze Crusher",
+    "cmc": 3,
+    "colors": ["G", "R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.jpg?1674773054"
+    ],
+    "type": "Legendary Creature — Phyrexian Beast",
+    "text": "Migloz, Maze Crusher enters the battlefield with five oil counters on it.\n{1}, Remove an oil counter from Migloz: It gains vigilance and menace until end of turn.\n{2}, Remove two oil counters from Migloz: It gets +2/+2 until end of turn.\n{3}, Remove three oil counters from Migloz: Destroy target artifact or enchantment.",
+    "mana": "{1}{R}{G}"
+  },
+  {
+    "name": "Mindsplice Apparatus",
+    "cmc": 4,
+    "colors": ["U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/f/7f4ad1cb-4bbb-4485-b322-0b003f06d034.jpg?1674772782"
+    ],
+    "type": "Artifact",
+    "text": "Flash\nAt the beginning of your upkeep, put an oil counter on Mindsplice Apparatus.\nInstant and sorcery spells you cast cost {1} less to cast for each oil counter on Mindsplice Apparatus.",
+    "mana": "{3}{U}"
+  },
+  {
+    "name": "Minor Misstep",
+    "cmc": 1,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/6/360ca37b-5bbd-4923-a493-7674786a36af.jpg?1674772785"
+    ],
+    "type": "Instant",
+    "text": "Counter target spell with mana value 1 or less.",
+    "mana": "{U}"
+  },
+  {
+    "name": "Mirran Bardiche",
+    "cmc": 5,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/0/3006ea5a-5391-41eb-b0c8-092741dca2eb.jpg?1674772712"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+1 and has vigilance.\nEquip {3}{W} ({3}{W}: Attach to target creature you control. Equip only as a sorcery.)",
+    "mana": "{4}{W}"
+  },
+  {
+    "name": "Mirran Safehouse",
+    "cmc": 3,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/7/d76fe2f2-ce2c-49e4-9f00-89c82f2fae8d.jpg?1675567356"
+    ],
+    "type": "Artifact",
+    "text": "As long as Mirran Safehouse is on the battlefield, it has all activated abilities of all land cards in all graveyards.",
+    "mana": "{3}"
+  },
+  {
+    "name": "Mirrex",
+    "cmc": 0,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/4/54a702cd-ca49-4570-b47e-8b090452a3c3.jpg?1674773137"
+    ],
+    "type": "Land — Sphere",
+    "text": "{T}: Add {C}.\n{T}: Add one mana of any color. Activate only if Mirrex entered the battlefield this turn.\n{3}, {T}: Create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This creature can't block.\" (Players dealt combat damage by it also get a poison counter.)",
+    "mana": ""
+  },
+  {
+    "name": "Molten Rebuke",
+    "cmc": 5,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/2/d2e3291b-de5c-4a10-9915-2cd2d84a815c.jpg?1675490669"
+    ],
+    "type": "Sorcery",
+    "text": "Choose one or both —\n• Molten Rebuke deals 5 damage to target creature or planeswalker.\n• Destroy target Equipment.",
+    "mana": "{4}{R}"
+  },
+  {
+    "name": "Mondrak, Glory Dominus",
+    "cmc": 4,
+    "colors": ["W"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/2/8296a455-21d5-498e-9029-2bdf0da855a8.jpg?1674772717"
+    ],
+    "type": "Legendary Creature — Phyrexian Horror",
+    "text": "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n{1}{W/P}{W/P}, Sacrifice two other artifacts and/or creatures: Put an indestructible counter on Mondrak, Glory Dominus. ({W/P} can be paid with either {W} or 2 life.)",
+    "mana": "{2}{W}{W}"
+  },
+  {
+    "name": "Monument to Perfection",
+    "cmc": 2,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/b/ab892e7b-6797-4ede-ab5d-d9d0fa488c80.jpg?1674773097"
+    ],
+    "type": "Artifact",
+    "text": "{3}, {T}: Search your library for a basic, Sphere, or Locus land card, reveal it, put it into your hand, then shuffle.\n{3}: Monument to Perfection becomes a 9/9 Phyrexian Construct artifact creature, loses all abilities, and gains indestructible and toxic 9. Activate only if there are nine or more lands with different names among the basic, Sphere, and Locus lands you control.",
+    "mana": "{2}"
+  },
+  {
+    "name": "Myr Convert",
+    "cmc": 2,
+    "colors": [],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/d/9df0adcf-7ad0-4d70-8dcd-28f69471495b.jpg?1674773098"
+    ],
+    "type": "Artifact Creature — Phyrexian Myr",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\n{T}, Pay 2 life: Add one mana of any color.",
+    "mana": "{2}"
+  },
+  {
+    "name": "Myr Custodian",
+    "cmc": 3,
+    "colors": [],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/6/56bfdd21-4d46-4ec2-ba25-f16b6993f1a8.jpg?1674773099"
+    ],
+    "type": "Artifact Creature — Myr",
+    "text": "When Myr Custodian enters the battlefield, scry 2. Then each opponent may scry 1. (To scry X, that player looks at the top X cards of their library, then put any number of them on the bottom and the rest on top in any order.)",
+    "mana": "{3}"
+  },
+  {
+    "name": "Myr Kinsmith",
+    "cmc": 4,
+    "colors": [],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/0/6046e50a-f4c9-4029-a589-62a19371b734.jpg?1674773104"
+    ],
+    "type": "Artifact Creature — Myr",
+    "text": "When Myr Kinsmith enters the battlefield, you may search your library for a Myr card, reveal it, put it into your hand, then shuffle.",
+    "mana": "{4}"
+  },
+  {
+    "name": "Nahiri's Sacrifice",
+    "cmc": 2,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/8/98395039-1353-4fa8-b51d-c4e1cadf9263.jpg?1674810991"
+    ],
+    "type": "Sorcery",
+    "text": "As an additional cost to cast this spell, sacrifice an artifact or creature with mana value X.\nNahiri's Sacrifice deals X damage divided as you choose among any number of target creatures.",
+    "mana": "{1}{R}"
+  },
+  {
+    "name": "Nahiri, the Unforgiving",
+    "cmc": 4,
+    "colors": ["R", "W"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/7/578e35b9-7252-4767-a1f3-aecd71256515.jpg?1674773057"
+    ],
+    "type": "Legendary Planeswalker — Nahiri",
+    "text": "Compleated ({R/W/P} can be paid with {R}, {W}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Until your next turn, up to one target creature attacks a player each combat if able.\n+1: Discard a card, then draw a card.\n0: Exile target creature or Equipment card with mana value less than Nahiri's loyalty from your graveyard. Create a token that's a copy of it. That token gains haste. Exile it at the beginning of the next end step.",
+    "mana": "{1}{R}{R/W/P}{W}"
+  },
+  {
+    "name": "Necrogen Communion",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/a/6ac8cd7c-992f-4953-b5bf-42e5a9ff09ad.jpg?1674772845"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Enchant creature you control\nEnchanted creature has toxic 2. (Players dealt combat damage by it also get two poison counters.)\nWhen enchanted creature dies, return that card to the battlefield under your control.",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Necrogen Rotpriest",
+    "cmc": 4,
+    "colors": ["B", "G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/7/87519b36-1d95-4020-a61d-6afb75555e3e.jpg?1674773057"
+    ],
+    "type": "Creature — Phyrexian Zombie Cleric",
+    "text": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever a creature you control with toxic deals combat damage to a player, that player gets an additional poison counter.\n{1}{B}{G}: Target creature you control with toxic gains deathtouch until end of turn.",
+    "mana": "{2}{B}{G}"
+  },
+  {
+    "name": "Necrosquito",
+    "cmc": 4,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/2/72af72d2-5995-4cad-82f1-e2d0c465d6f1.jpg?1674772849"
+    ],
+    "type": "Creature — Phyrexian Insect",
+    "text": "Flying\nNecrosquito enters the battlefield with two oil counters on it.\nNecrosquito gets +1/+1 for each oil counter on it.\nWhenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on Necrosquito.",
+    "mana": "{3}{B}"
+  },
+  {
+    "name": "Nimraiser Paladin",
+    "cmc": 5,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1674814839"
+    ],
+    "type": "Creature — Phyrexian Knight",
+    "text": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhen Nimraiser Paladin enters the battlefield, return target creature card with mana value 3 or less from your graveyard to your hand.",
+    "mana": "{4}{B}"
+  },
+  {
+    "name": "Nissa, Ascended Animist",
+    "cmc": 7,
+    "colors": ["G"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg?1674772987"
+    ],
+    "type": "Legendary Planeswalker — Nissa",
+    "text": "Compleated ({G/P} can be paid with {G} or 2 life. For each {G/P} paid with life, this planeswalker enters with two fewer loyalty counters.)\n+1: Create an X/X green Phyrexian Horror creature token, where X is Nissa, Ascended Animist's loyalty.\n−1: Destroy target artifact or enchantment.\n−7: Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample.",
+    "mana": "{3}{G}{G}{G/P}{G/P}"
+  },
+  {
+    "name": "Norn's Wellspring",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/e/eeebc0ab-89fb-47d5-a20f-8f1fe5e3c149.jpg?1674772717"
+    ],
+    "type": "Artifact",
+    "text": "Whenever a creature you control dies, scry 1 and put an oil counter on Norn's Wellspring.\n{1}, {T}, Remove two oil counters from Norn's Wellspring: Draw a card.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Noxious Assault",
+    "cmc": 5,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/6/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54.jpg?1674772989"
+    ],
+    "type": "Sorcery",
+    "text": "Creatures you control get +2/+2 until end of turn. Whenever a creature blocks this turn, its controller gets a poison counter.",
+    "mana": "{3}{G}{G}"
+  },
+  {
+    "name": "Offer Immortality",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/0/b0aac10a-6d47-4a6c-8a10-2b7c06f3ff32.jpg?1674772855"
+    ],
+    "type": "Instant",
+    "text": "Target creature gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Oil-Gorger Troll",
+    "cmc": 5,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/8/78493579-1fad-4664-96d7-195bf59ceef2.jpg?1674772990"
+    ],
+    "type": "Creature — Phyrexian Troll Warrior",
+    "text": "When Oil-Gorger Troll enters the battlefield, you gain 3 life. Then if you control a permanent with an oil counter on it, draw a card.",
+    "mana": "{3}{G}{G}"
+  },
+  {
+    "name": "Orthodoxy Enforcer",
+    "cmc": 4,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/c/8c938a0f-531c-4293-a89c-c7440d5acc5d.jpg?1674772718"
+    ],
+    "type": "Creature — Phyrexian Cleric",
+    "text": "Vigilance\nOrthodoxy Enforcer gets +2/+0 as long as you control two or more artifacts.",
+    "mana": "{3}{W}"
+  },
+  {
+    "name": "Ossification",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/d/0da03224-c1af-438f-96c2-b0e41e1070b7.jpg?1674772719"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Enchant basic land you control\nWhen Ossification enters the battlefield, exile target creature or planeswalker an opponent controls until Ossification leaves the battlefield.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Ovika, Enigma Goliath",
+    "cmc": 7,
+    "colors": ["R", "U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/2/b298cf34-7aa5-4f97-a86c-7f28d2113b87.jpg?1674773060"
+    ],
+    "type": "Legendary Creature — Phyrexian Nightmare",
+    "text": "Flying\nWard—{3}, Pay 3 life.\nWhenever you cast a noncreature spell, create X 1/1 red Phyrexian Goblin creature tokens, where X is the mana value of that spell. They gain haste until end of turn.",
+    "mana": "{5}{U}{R}"
+  },
+  {
+    "name": "Oxidda Finisher",
+    "cmc": 7,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/1/7177431e-5cc4-4ecd-8848-f51903289072.jpg?1674772929"
+    ],
+    "type": "Creature — Ogre Rebel",
+    "text": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nTrample",
+    "mana": "{5}{R}{R}"
+  },
+  {
+    "name": "Paladin of Predation",
+    "cmc": 7,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1674772995"
+    ],
+    "type": "Creature — Phyrexian Knight",
+    "text": "Toxic 6 (Plavers dealt combat damage by\nthis creature also get six poison counters.)\nPaladin of Predation can't be blocked by creatures with power 2 or less.",
+    "mana": "{5}{G}{G}"
+  },
+  {
+    "name": "Pestilent Syphoner",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/4/947a1e44-3485-4e24-a34d-6c318584743c.jpg?1674772855"
+    ],
+    "type": "Creature — Phyrexian Insect",
+    "text": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Phyrexian Arena",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/4/54f69d43-de01-46a8-b102-b47e23e0e947.jpg?1674810976"
+    ],
+    "type": "Enchantment",
+    "text": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
+    "mana": "{1}{B}{B}"
+  },
+  {
+    "name": "Phyrexian Atlas",
+    "cmc": 3,
+    "colors": [],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/5/b5adb509-6ad3-4838-925d-1cafa926b83a.jpg?1675567378"
+    ],
+    "type": "Artifact",
+    "text": "{T}: Add one mana of any color.\nCorrupted — Whenever Phyrexian Atlas becomes tapped, each opponent who has three or more poison counters loses 1 life.",
+    "mana": "{3}"
+  },
+  {
+    "name": "Phyrexian Obliterator",
+    "cmc": 4,
+    "colors": ["B"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg?1674772856"
+    ],
+    "type": "Creature — Phyrexian Horror",
+    "text": "Trample\nWhenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents.",
+    "mana": "{B}{B}{B}{B}"
+  },
+  {
+    "name": "Phyrexian Vindicator",
+    "cmc": 4,
+    "colors": ["W"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/1/e18780ce-add4-4346-8028-4bc3b4099d71.jpg?1674772720"
+    ],
+    "type": "Creature — Phyrexian Horror",
+    "text": "Flying\nIf damage would be dealt to Phyrexian Vindicator, prevent that damage. When damage is prevented this way, Phyrexian Vindicator deals that much damage to any other target.",
+    "mana": "{W}{W}{W}{W}"
+  },
+  {
+    "name": "Plague Nurse",
+    "cmc": 4,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/e/5e7eef9e-68ae-4743-ad89-64f6fafbe365.jpg?1674831123"
+    ],
+    "type": "Creature — Phyrexian Cleric",
+    "text": "Toxic 2\n{2}{G}: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (A player dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)",
+    "mana": "{3}{G}"
+  },
+  {
+    "name": "Planar Disruption",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/e/8ee69a1f-aeed-4eb4-8987-fa720fc99715.jpg?1674810974"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Enchant artifact, creature, or planeswalker\nEnchanted permanent can't attack or block, and its activated abilities can't be activated.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Plated Onslaught",
+    "cmc": 5,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/7/472a635a-a581-4c00-89d6-464f30887944.jpg?1674772727"
+    ],
+    "type": "Instant",
+    "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nCreatures you control get +2/+1 until end of turn.",
+    "mana": "{3}{W}{W}"
+  },
+  {
+    "name": "Porcelain Zealot",
+    "cmc": 4,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/4/0409bacf-b728-473d-bf9b-41fdf364e783.jpg?1674772727"
+    ],
+    "type": "Creature — Phyrexian Soldier",
+    "text": "At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If that creature has toxic, instead it gets +2/+2 until end of turn.",
+    "mana": "{3}{W}"
+  },
+  {
+    "name": "Predation Steward",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/1/419fab07-f921-4eff-91e2-1974ae121077.jpg?1674772997"
+    ],
+    "type": "Creature — Phyrexian Elf Warrior",
+    "text": "Predation Steward enters the battlefield with two oil counters on it.\n{2}{G}, {T}, Remove an oil counter from Predation Steward: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Prologue to Phyresis",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/c/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8.jpg?1674772786"
+    ],
+    "type": "Instant",
+    "text": "Each opponent gets a poison counter.\nDraw a card.",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Prophetic Prism",
+    "cmc": 2,
+    "colors": [],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/0/3056ac38-7630-4301-88bb-a012a5b186ed.jpg?1674773108"
+    ],
+    "type": "Artifact",
+    "text": "When Prophetic Prism enters the battlefield, draw a card.\n{1}, {T}: Add one mana of any color.",
+    "mana": "{2}"
+  },
+  {
+    "name": "Prosthetic Injector",
+    "cmc": 1,
+    "colors": [],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/5/75a1beec-bafe-4243-b91e-040a88fb0e95.jpg?1674773109"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "Equipped creature gets +0/+2 and has toxic 1. (Players dealt damage by equipped creature also get a poison counter.)\nEquip {1}",
+    "mana": "{1}"
+  },
+  {
+    "name": "Quicksilver Fisher",
+    "cmc": 5,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/a/bad0e96a-b4cc-4439-aab9-731a1036145d.jpg?1674772787"
+    ],
+    "type": "Creature — Phyrexian Drake",
+    "text": "Flying\nWhen Quicksilver Fisher enters the battlefield, draw a card, then discard a card.",
+    "mana": "{3}{U}{U}"
+  },
+  {
+    "name": "Ravenous Necrotitan",
+    "cmc": 4,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/e/ce7e1e9b-ad7f-4f4c-bdb5-2ccb6f147037.jpg?1674772860"
+    ],
+    "type": "Creature — Phyrexian Horror",
+    "text": "Corrupted — When Ravenous Necrotitan enters the battlefield, sacrifice a creature unless an opponent has three or more poison counters.",
+    "mana": "{2}{B}{B}"
+  },
+  {
+    "name": "Razorverge Thicket",
+    "cmc": 0,
+    "colors": ["G", "W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/5/65b26f68-3a25-4c4e-bc76-a199ab479a50.jpg?1674773140"
+    ],
+    "type": "Land",
+    "text": "Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W}.",
+    "mana": ""
+  },
+  {
+    "name": "Rebel Salvo",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/d/cd37d1b1-70ce-466e-890d-36be82433035.jpg?1675490679"
+    ],
+    "type": "Instant",
+    "text": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nRebel Salvo deals 5 damage to target creature or planeswalker. That permanent loses indestructible until end of turn.",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Red Sun's Twilight",
+    "cmc": 2,
+    "colors": ["R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/c/7cac1827-69af-469d-b88c-fb9f2f33866a.jpg?1674772932"
+    ],
+    "type": "Sorcery",
+    "text": "Destroy up to X target artifacts. If X is 5 or more, for each artifact destroyed this way, create a token that's a copy of it. Those tokens gain haste. Exile them at the beginning of the next end step.",
+    "mana": "{X}{R}{R}"
+  },
+  {
+    "name": "Reject Imperfection",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/7/c7ce5296-f28f-4105-9c79-b9c63ea720e7.jpg?1674772787"
+    ],
+    "type": "Instant",
+    "text": "Counter target spell. If that spell's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{U}{U}"
+  },
+  {
+    "name": "Resistance Reunited",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/b/bbc4b5ca-557e-4465-9725-9e7a15590258.jpg?1674810986"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets +2/+2 until end of turn.\nEquipped creatures you control gain indestructible until end of turn.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Resistance Skywarden",
+    "cmc": 5,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/2/6249aabe-8f21-4257-9e04-ceffd44d42a5.jpg?1675490693"
+    ],
+    "type": "Creature — Ogre Rebel",
+    "text": "Menace, reach",
+    "mana": "{3}{R}{R}"
+  },
+  {
+    "name": "Ria Ivor, Bane of Bladehold",
+    "cmc": 4,
+    "colors": ["B", "W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/7/f7531ed3-235f-4368-98a8-e4e1947c53fb.jpg?1674773064"
+    ],
+    "type": "Legendary Creature — Phyrexian Knight",
+    "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nAt the beginning of combat on your turn, the next time target creature would deal combat damage to one or more players this combat, prevent that damage. If damage is prevented this way, create that many 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This creature can't block.\"",
+    "mana": "{2}{W}{B}"
+  },
+  {
+    "name": "Ribskiff",
+    "cmc": 4,
+    "colors": [],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/e/1ec8f984-5ed4-4b34-8b2a-a113cbba001d.jpg?1674773109"
+    ],
+    "type": "Artifact — Vehicle",
+    "text": "Toxic 2 (Players dealt combat damage by this permanent also get two poison counters.)\nWhen Ribskiff enters the battlefield, draw a card.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "mana": "{4}"
+  },
+  {
+    "name": "Rustvine Cultivator",
+    "cmc": 1,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/b/6b71fd8f-e688-4210-bc5b-a3f19b5b3497.jpg?1674772998"
+    ],
+    "type": "Creature — Phyrexian Elf Druid",
+    "text": "{T}: Put an oil counter on Rustvine Cultivator.\n{T}, Remove an oil counter from Rustvine Cultivator: Untap target land.",
+    "mana": "{G}"
+  },
+  {
+    "name": "Ruthless Predation",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/2/123f0c76-1fde-439e-a76d-eccf96f8d941.jpg?1674773000"
+    ],
+    "type": "Sorcery",
+    "text": "Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Sawblade Scamp",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/f/7f04c2e5-9100-439a-9aa4-28d388518e4a.jpg?1674772933"
+    ],
+    "type": "Creature — Phyrexian Beast",
+    "text": "Haste\nWhenever you cast a noncreature spell, put an oil counter on Sawblade Scamp.\n{T}, Remove an oil counter from Sawblade Scamp: It deals 1 damage to each opponent.",
+    "mana": "{R}"
+  },
+  {
+    "name": "Scheming Aspirant",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/d/8de80f71-82b5-499c-afc0-6bbae6b896ad.jpg?1674772862"
+    ],
+    "type": "Creature — Phyrexian Advisor",
+    "text": "Whenever you proliferate, each opponent loses 2 life and you gain 2 life.",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Seachrome Coast",
+    "cmc": 0,
+    "colors": ["U", "W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg?1674773143"
+    ],
+    "type": "Land",
+    "text": "Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}.",
+    "mana": ""
+  },
+  {
+    "name": "Serum-Core Chimera",
+    "cmc": 4,
+    "colors": ["R", "U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/1/31147651-9a5e-4329-923b-e464f67135e9.jpg?1674773065"
+    ],
+    "type": "Creature — Phyrexian Chimera",
+    "text": "Flying\nWhenever you cast a noncreature spell, put an oil counter on Serum-Core Chimera.\nRemove three oil counters from Serum-Core Chimera: Draw a card. Then you may discard a nonland card. When you discard a card this way, Serum-Core Chimera deals 3 damage to target creature or planeswalker. Activate only as a sorcery.",
+    "mana": "{2}{U}{R}"
+  },
+  {
+    "name": "Serum Snare",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/3/d326bff1-5370-4817-8370-6da87a061058.jpg?1674772791"
+    ],
+    "type": "Instant",
+    "text": "Return target nonland permanent to its owner's hand. If that permanent had mana value 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Sheoldred's Edict",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/9/a9225cc3-90f0-448f-a8d9-7c6c2796d077.jpg?1675490650"
+    ],
+    "type": "Instant",
+    "text": "Choose one —\n• Each opponent sacrifices a nontoken creature.\n• Each opponent sacrifices a creature token.\n• Each opponent sacrifices a planeswalker.",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Sheoldred's Headcleaver",
+    "cmc": 4,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/c/8c6b818f-6912-4ea1-a35a-c8cd7ee9aead.jpg?1674772865"
+    ],
+    "type": "Creature — Phyrexian Warrior",
+    "text": "Menace\nToxic 2 (Players dealt combat damage by this creature also gets two poison counter.)",
+    "mana": "{3}{B}"
+  },
+  {
+    "name": "Shrapnel Slinger",
+    "cmc": 2,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/6/a6147bdc-4e02-48be-9ab9-c212f70d9194.jpg?1674772937"
+    ],
+    "type": "Artifact Creature — Phyrexian Beast",
+    "text": "When Shrapnel Slinger enters the battlefield, you may sacrifice a creature. When you do, destroy target artifact an opponent controls.",
+    "mana": "{1}{R}"
+  },
+  {
+    "name": "Sinew Dancer",
+    "cmc": 1,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/e/b/ebad4fcc-4f78-48dc-b236-c78c22edc1e9.jpg?1674772729"
+    ],
+    "type": "Creature — Phyrexian Soldier",
+    "text": "{3}{W}, {T}: Tap target creature.\nCorrupted — {W}, {T}: Tap target creature. Activate only if an opponent has three or more poison counters.",
+    "mana": "{W}"
+  },
+  {
+    "name": "Skrelv, Defector Mite",
+    "cmc": 1,
+    "colors": ["W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/0/60b565da-a49b-479c-b0c4-8ff3dd20cc0b.jpg?1675451062"
+    ],
+    "type": "Legendary Artifact Creature — Phyrexian Mite",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nSkrelv, Defector Mite can't block.\n{W/P}, {T}: Choose a color. Another target creature you control gains toxic 1 and hexproof from that color until end of turn. It can't be blocked by creatures of that color this turn. ({W/P} can be paid with either {W} or 2 life.)",
+    "mana": "{W}"
+  },
+  {
+    "name": "Skrelv's Hive",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/f/ffbd77ec-fc81-41d5-934f-c3dd844cb053.jpg?1674772734"
+    ],
+    "type": "Enchantment",
+    "text": "At the beginning of your upkeep, you lose 1 life and create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This creature can't block.\"\nCorrupted — As long as an opponent has three or more poison counters, creatures you control with toxic have lifelink.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Skyscythe Engulfer",
+    "cmc": 6,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/7/d7898399-3c52-402c-9cd7-baad2cb7f00e.jpg?1674773002"
+    ],
+    "type": "Creature — Phyrexian Beast",
+    "text": "Reach, trample\nSkyscythe Engulfer can't be blocked by creatures with flying.",
+    "mana": "{5}{G}"
+  },
+  {
+    "name": "Slaughter Singer",
+    "cmc": 2,
+    "colors": ["G", "W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.jpg?1674773065"
+    ],
+    "type": "Creature — Phyrexian Cleric",
+    "text": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever another creature you control with toxic attacks, it gets +1/+1 until end of turn.",
+    "mana": "{G}{W}"
+  },
+  {
+    "name": "Slobad, Iron Goblin",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/b/2b7dadf0-7323-403e-b353-33c121bdb0db.jpg?1674772940"
+    ],
+    "type": "Legendary Creature — Phyrexian Goblin Artificer",
+    "text": "{T}, Sacrifice an artifact: Add an amount of {R} equal to the sacrificed artifact's mana value. Spend this mana only to cast artifact spells or activate abilities of artifacts.",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Solphim, Mayhem Dominus",
+    "cmc": 4,
+    "colors": ["R"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1674815017"
+    ],
+    "type": "Legendary Creature — Phyrexian Horror",
+    "text": "If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals double that damage to that player or permanent instead.\n{1}{R/P}{R/P}, Discard two cards: Put an indestructible counter on Solphim, Mayhem Dominus. ({R/P} can be paid with either {R} or 2 life.)",
+    "mana": "{2}{R}{R}"
+  },
+  {
+    "name": "Soulless Jailer",
+    "cmc": 2,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/f/bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634.jpg?1674773114"
+    ],
+    "type": "Artifact Creature — Phyrexian Golem",
+    "text": "Permanent cards in graveyards can't enter the battlefield.\nPlayers can't cast noncreature spells from graveyards or exile.",
+    "mana": "{2}"
+  },
+  {
+    "name": "Staff of Compleation",
+    "cmc": 3,
+    "colors": [],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/2/d2934af5-aa4f-4c88-adbd-dcd847ef43a2.jpg?1674773116"
+    ],
+    "type": "Artifact",
+    "text": "{T}, Pay 1 life: Destroy target permanent you own.\n{T}, Pay 2 life: Add one mana of any color.\n{T}, Pay 3 life: Proliferate.\n{T}, Pay 4 life: Draw a card.\n{5}: Untap Staff of Compleation.",
+    "mana": "{3}"
+  },
+  {
+    "name": "Stinging Hivemaster",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/d/cdbbcbe1-5317-455e-8d71-a4e2ad0addfc.jpg?1674814888"
+    ],
+    "type": "Creature — Phyrexian Warlock",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen Stinging Hivemaster dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This creature can't block.\"",
+    "mana": "{2}{B}"
+  },
+  {
+    "name": "Surgical Skullbomb",
+    "cmc": 1,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/8/98c2b2af-739f-413c-8c36-da6f78df0acb.jpg?1674815222"
+    ],
+    "type": "Artifact",
+    "text": "{1}, Sacrifice Surgical Skullbomb: Draw a card.\n{2}{U}, Sacrifice Surgical Skullbomb: Return target creature to its owner's hand. Draw a card. Activate only as a sorcery.",
+    "mana": "{1}"
+  },
+  {
+    "name": "Swooping Lookout",
+    "cmc": 1,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/6/b62c740d-260d-4dfa-b6b3-9a1527538f89.jpg?1674772737"
+    ],
+    "type": "Artifact Creature — Phyrexian Construct",
+    "text": "Flying, vigilance",
+    "mana": "{W}"
+  },
+  {
+    "name": "Sword of Forge and Frontier",
+    "cmc": 3,
+    "colors": [],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/d/2daa3621-8a2c-4b4b-87ac-f981192a0567.jpg?1674773118"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}",
+    "mana": "{3}"
+  },
+  {
+    "name": "Sylvok Battle-Chair",
+    "cmc": 6,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/1/71c1a1d0-5616-42f8-a59c-42c1ccd48d26.jpg?1674773007"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +4/+4 and has trample.\nEquip {5}{G}{G}",
+    "mana": "{4}{G}{G}"
+  },
+  {
+    "name": "Tablet of Compleation",
+    "cmc": 2,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/7/9747e4b0-fcf9-4f1d-b990-2a3e461adfee.jpg?1674773119"
+    ],
+    "type": "Artifact",
+    "text": "{T}: Put an oil counter on Tablet of Compleation.\n{T}: Add {C}. Activate only if Tablet of Compleation has two or more oil counters on it.\n{1}, {T}: Draw a card. Activate only if Tablet of Compleation has five or more oil counters on it.",
+    "mana": "{2}"
+  },
+  {
+    "name": "Tainted Observer",
+    "cmc": 3,
+    "colors": ["G", "U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/9/b9cba67a-b714-49b0-9797-24aca283f162.jpg?1674773068"
+    ],
+    "type": "Creature — Phyrexian Bird",
+    "text": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever another creature enters the battlefield under your control, you may pay {2}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{G}{U}"
+  },
+  {
+    "name": "Tamiyo's Immobilizer",
+    "cmc": 4,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/a/daa20112-2955-439d-8802-3a228ba0832e.jpg?1675490594"
+    ],
+    "type": "Artifact",
+    "text": "Tamiyo's Immobilizer enters the battlefield with four oil counters on it.\n{T}, Remove an oil counter from Tamiyo's Immobilizer: Tap target artifact or creature.",
+    "mana": "{3}{U}"
+  },
+  {
+    "name": "Tamiyo's Logbook",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/e/0edb2d01-9a94-410c-8ab7-ca1b404ab5f0.jpg?1674772795"
+    ],
+    "type": "Artifact",
+    "text": "{5}{U}, {T}: Draw a card. This ability costs {1} less to activate for each other artifact you control.",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Tekuthal, Inquiry Dominus",
+    "cmc": 4,
+    "colors": ["U"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/1/f1d4b157-2c77-4355-8c65-78dec9d44c85.jpg?1674772797"
+    ],
+    "type": "Legendary Creature — Phyrexian Horror",
+    "text": "Flying\nIf you would proliferate, proliferate twice instead.\n{1}{U/P}{U/P}, Remove three counters from among other artifacts, creatures, and planeswalkers you control: Put an indestructible counter on Tekuthal, Inquiry Dominus. ({U/P} can be paid with either {U} or 2 life.)",
+    "mana": "{2}{U}{U}"
+  },
+  {
+    "name": "Terramorphic Expanse",
+    "cmc": 0,
+    "colors": [],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/a/5adceb34-78c7-40dd-af31-6fb282d577ca.jpg?1674773146"
+    ],
+    "type": "Land",
+    "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "mana": ""
+  },
+  {
+    "name": "Testament Bearer",
+    "cmc": 4,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/5/a5424859-628a-4c19-acd0-0c63c21c8338.jpg?1674772869"
+    ],
+    "type": "Creature — Phyrexian Warrior",
+    "text": "When Testament Bearer dies, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.",
+    "mana": "{3}{B}"
+  },
+  {
+    "name": "The Autonomous Furnace",
+    "cmc": 0,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/1/c16f96f5-a2a6-4ac4-bdae-326cee92bf2e.jpg?1674773125"
+    ],
+    "type": "Land — Sphere",
+    "text": "The Autonomous Furnace enters the battlefield tapped.\n{T}: Add {R}.\n{1}{R}, {T}, Sacrifice The Autonomous Furnace: Draw a card.",
+    "mana": ""
+  },
+  {
+    "name": "The Dross Pits",
+    "cmc": 0,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/9/19d469f1-2219-4466-9f8a-769ee43e28db.jpg?1674815238"
+    ],
+    "type": "Land — Sphere",
+    "text": "The Dross Pits enters the battlefield tapped.\n{T}: Add {B}.\n{1}{B}, {T}, Sacrifice The Dross Pits: Draw a card.",
+    "mana": ""
+  },
+  {
+    "name": "The Eternal Wanderer",
+    "cmc": 6,
+    "colors": ["W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/9/0/905f0dd4-0197-45f8-8e7f-396d6dcef600.jpg?1674772696"
+    ],
+    "type": "Legendary Planeswalker",
+    "text": "No more than one creature can attack The Eternal Wanderer each combat.\n+1: Exile up to one target artifact or creature. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.\n0: Create a 2/2 white Samurai creature token with double strike.\n−4: For each player, choose a creature that player controls. Each player sacrifices all creatures they control not chosen this way.",
+    "mana": "{4}{W}{W}"
+  },
+  {
+    "name": "The Fair Basilica",
+    "cmc": 0,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/1/01d6ba55-7bc0-41c6-84be-8cd528e46a05.jpg?1674773132"
+    ],
+    "type": "Land — Sphere",
+    "text": "The Fair Basilica enters the battlefield tapped.\n{T}: Add {W}.\n{1}{W}, {T}, Sacrifice The Fair Basilica: Draw a card.",
+    "mana": ""
+  },
+  {
+    "name": "The Filigree Sylex",
+    "cmc": 2,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/e/6e0958a1-1bac-48be-888d-f7573f409a9b.jpg?1674773086"
+    ],
+    "type": "Legendary Artifact",
+    "text": "{T}: Put an oil counter on The Filigree Sylex.\n{T}, Sacrifice The Filigree Sylex: Destroy each nonland permanent with mana value equal to the number of oil counters on The Filigree Sylex.\n{T}, Remove ten oil counters from among permanents you control and sacrifice The Filigree Sylex: It deals 10 damage to any target.",
+    "mana": "{2}"
+  },
+  {
+    "name": "The Hunter Maze",
+    "cmc": 0,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/3/6389c242-2139-4f12-af30-2b080a1c5e83.jpg?1675567396"
+    ],
+    "type": "Land — Sphere",
+    "text": "The Hunter Maze enters the battlefield tapped.\n{T}: Add {G}.\n{1}{G}, {T}, Sacrifice The Hunter Maze: Draw a card.",
+    "mana": ""
+  },
+  {
+    "name": "The Monumental Facade",
+    "cmc": 0,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/6/d6785057-0d06-4f91-b45f-c05f7c4e2b19.jpg?1674773137"
+    ],
+    "type": "Land — Sphere",
+    "text": "The Monumental Facade enters the battlefield with two oil counters on it.\n{T}: Add {C}.\n{T}, Remove an oil counter from The Monumental Facade: Put an oil counter on target artifact or creature you control. Activate only as a sorcery.",
+    "mana": ""
+  },
+  {
+    "name": "The Mycosynth Gardens",
+    "cmc": 0,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/a/5a931463-25f6-4e31-95b4-bb4a9388009b.jpg?1674773138"
+    ],
+    "type": "Land — Sphere",
+    "text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{X}, {T}: The Mycosynth Gardens becomes a copy of target nontoken artifact you control with mana value X.",
+    "mana": ""
+  },
+  {
+    "name": "The Seedcore",
+    "cmc": 0,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/9/29c91aad-bf33-448e-b122-65940fb2e33b.jpg?1674773144"
+    ],
+    "type": "Land — Sphere",
+    "text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast Phyrexian creature spells.\nCorrupted — {T}: Target 1/1 creature gets +2/+1 until end of turn. Activate only if an opponent has three or more poison counters.",
+    "mana": ""
+  },
+  {
+    "name": "The Surgical Bay",
+    "cmc": 0,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/b/1b49ec35-2c4f-4144-85fe-226f7cb67266.jpg?1674773146"
+    ],
+    "type": "Land — Sphere",
+    "text": "The Surgical Bay enters the battlefield tapped.\n{T}: Add {U}.\n{1}{U}, {T}, Sacrifice The Surgical Bay: Draw a card.",
+    "mana": ""
+  },
+  {
+    "name": "Thirsting Roots",
+    "cmc": 1,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/5/75a4a340-453b-471a-82ba-48ebf20b271a.jpg?1675567343"
+    ],
+    "type": "Sorcery",
+    "text": "Choose one —\n• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{G}"
+  },
+  {
+    "name": "Thrill of Possibility",
+    "cmc": 2,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/e/1efd4ae5-0076-46a0-a113-58cfff53144f.jpg?1674772944"
+    ],
+    "type": "Instant",
+    "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
+    "mana": "{1}{R}"
+  },
+  {
+    "name": "Thrummingbird",
+    "cmc": 2,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/7/67f0a63e-0866-423e-b917-fc7c71063021.jpg?1674772798"
+    ],
+    "type": "Creature — Phyrexian Bird Horror",
+    "text": "Flying\nWhenever Thrummingbird deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{U}"
+  },
+  {
+    "name": "Thrun, Breaker of Silence",
+    "cmc": 5,
+    "colors": ["G"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/d/6d9f51dd-0393-4b3c-bea5-8f74634ab0e5.jpg?1674773010"
+    ],
+    "type": "Legendary Creature — Troll Shaman",
+    "text": "This spell can't be countered.\nTrample\nThrun, Breaker of Silence can't be the target of nongreen spells your opponents control or abilities from nongreen sources your opponents control.\nAs long as it's your turn, Thrun has indestructible.",
+    "mana": "{3}{G}{G}"
+  },
+  {
+    "name": "Titanic Growth",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/5/3583ea03-525f-4c70-9d7e-ccc6002ee9e1.jpg?1674773010"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets +4/+4 until end of turn.",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Transplant Theorist",
+    "cmc": 4,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/9/f912c4ec-08e9-4524-a2ba-98f6dfabdc18.jpg?1674772798"
+    ],
+    "type": "Artifact Creature — Phyrexian Artificer",
+    "text": "Whenever Transplant Theorist or another artifact enters the battlefield under your control, you may draw a card. If you do, discard a card.\n{2}: Put target card from your graveyard on the bottom of your library.",
+    "mana": "{3}{U}"
+  },
+  {
+    "name": "Trawler Drake",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/4/f442442d-2e5d-4913-82d8-bab2f31541f8.jpg?1674772802"
+    ],
+    "type": "Creature — Phyrexian Drake",
+    "text": "Flying\nTrawler Drake enters the battlefield with an oil counter on it.\nTrawler Drake gets +1/+1 for each oil counter on it.\nWhenever you cast a noncreature spell, put an oil counter on Trawler Drake.",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Tyrranax Atrocity",
+    "cmc": 5,
+    "colors": ["G"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/5/157cf43c-f7f2-4362-bfc8-11682e94b747.jpg?1674773012"
+    ],
+    "type": "Creature — Phyrexian Dinosaur",
+    "text": "Haste\nToxic 3 (Players dealt combat damage by this creature also get three poison counters.)",
+    "mana": "{3}{G}{G}"
+  },
+  {
+    "name": "Tyrranax Rex",
+    "cmc": 7,
+    "colors": ["G"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg?1674773013"
+    ],
+    "type": "Creature — Phyrexian Dinosaur",
+    "text": "This spell can't be countered.\nTrample, ward {4}, haste\nToxic 4 (Players dealt combat damage by this creature also get four poison counters.)",
+    "mana": "{4}{G}{G}{G}"
+  },
+  {
+    "name": "Tyvar, Jubilant Brawler",
+    "cmc": 3,
+    "colors": ["B", "G"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1674773069"
+    ],
+    "type": "Legendary Planeswalker — Tyvar",
+    "text": "You may activate abilities of creatures you control as though those creatures had haste.\n+1: Untap up to one target creature.\n−2: Mill three cards, then you may return a creature card with mana value 2 or less from your graveyard to the battlefield.",
+    "mana": "{1}{B}{G}"
+  },
+  {
+    "name": "Tyvar's Stand",
+    "cmc": 1,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg?1674810981"
+    ],
+    "type": "Instant",
+    "text": "Target creature you control gets +X/+X and gains hexproof and indestructible until end of turn. (A creature with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say \"destroy\" don't destroy it.)",
+    "mana": "{X}{G}"
+  },
+  {
+    "name": "Unctus, Grand Metatect",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/6/164b07e6-48ba-4789-bd8f-7cada1fec8a9.jpg?1674772805"
+    ],
+    "type": "Legendary Artifact Creature — Phyrexian Vedalken",
+    "text": "Other blue creatures you control have \"Whenever this creature becomes tapped, draw a card, then discard a card.\"\nOther artifact creatures you control get +1/+1.\n{U/P}: Until end of turn, target creature you control becomes a blue artifact in addition to its other colors and types. Activate only as a sorcery. ({U/P} can be paid with either {U} or {2} life.)",
+    "mana": "{1}{U}{U}"
+  },
+  {
+    "name": "Unctus's Retrofitter",
+    "cmc": 3,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/0/30225e40-4bde-4e2e-b0f0-48ed16aebafd.jpg?1674819625"
+    ],
+    "type": "Creature — Phyrexian Artificer",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen Unctus's Retrofitter enters the battlefield, up to one target artifact you control becomes an artifact creature with base power and toughness 4/4 for as long as Unctus's Retrofitter remains on the battlefield.",
+    "mana": "{2}{U}"
+  },
+  {
+    "name": "Unnatural Restoration",
+    "cmc": 2,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/d/4d4e6a91-59cc-4f7f-af25-16acabdafb1a.jpg?1674773018"
+    ],
+    "type": "Sorcery",
+    "text": "Return target permanent card from your graveyard to your hand. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{1}{G}"
+  },
+  {
+    "name": "Urabrask's Anointer",
+    "cmc": 4,
+    "colors": ["R"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/b/3/b3ef034f-37e5-4baa-a7a9-5fd0de792535.jpg?1674772944"
+    ],
+    "type": "Artifact Creature — Phyrexian Wizard",
+    "text": "When Urabrask's Anointer enters the battlefield, it deals X damage to any target, where X is the number of permanents you control with oil counters on them.",
+    "mana": "{3}{R}"
+  },
+  {
+    "name": "Urabrask's Forge",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/8/68f9f9d8-9ea0-4608-a79c-a09a87918186.jpg?1674810972"
+    ],
+    "type": "Artifact",
+    "text": "At the beginning of combat on your turn, put an oil counter on Urabrask's Forge, then create an X/1 red Phyrexian Horror creature token with trample and haste, where X is the number of oil counters on Urabrask's Forge. Sacrifice that token at the beginning of the next end step.",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Vanish into Eternity",
+    "cmc": 3,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/f/8f0b3308-9c0b-4461-9094-38deec20e1bc.jpg?1674810989"
+    ],
+    "type": "Instant",
+    "text": "This spell costs {3} more to cast if it targets a creature.\nExile target nonland permanent.",
+    "mana": "{2}{W}"
+  },
+  {
+    "name": "Vat Emergence",
+    "cmc": 5,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/a/3a2aeaeb-7853-4588-8a5e-cfd997ba8515.jpg?1674772869"
+    ],
+    "type": "Sorcery",
+    "text": "Put target creature card from a graveyard onto the battlefield under your control. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{4}{B}"
+  },
+  {
+    "name": "Vat of Rebirth",
+    "cmc": 1,
+    "colors": ["B"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/2/0/20a961ea-0639-4f5d-8cf4-f909c59a4ae1.jpg?1674772873"
+    ],
+    "type": "Artifact",
+    "text": "Whenever another artifact or creature you control is put into a graveyard from the battlefield, put an oil counter on Vat of Rebirth.\n{2}{B}, {T}, Remove four oil counters from Vat of Rebirth: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",
+    "mana": "{B}"
+  },
+  {
+    "name": "Veil of Assimilation",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/f/1f9d8d87-e32f-4ad9-8d72-d1b88cd14510.jpg?1674772820"
+    ],
+    "type": "Artifact",
+    "text": "Whenever Veil of Assimilation or another artifact enters the battlefield under your control, target creature you control gets +1/+1 and gains vigilance until end of turn.",
+    "mana": "{1}{W}"
+  },
+  {
+    "name": "Venerated Rotpriest",
+    "cmc": 1,
+    "colors": ["G"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/1/d1b032e3-14e3-48ba-ab8a-d2b4f8d31a7d.jpg?1674773022"
+    ],
+    "type": "Creature — Phyrexian Druid",
+    "text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever a creature you control becomes the target of a spell, target opponent gets a poison counter.",
+    "mana": "{G}"
+  },
+  {
+    "name": "Venomous Brutalizer",
+    "cmc": 4,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/d/d/dd9df44a-a0ab-435f-914c-aa11cd88f4ec.jpg?1674773023"
+    ],
+    "type": "Creature — Phyrexian Knight",
+    "text": "Toxic 3 (Players dealt combat damage by this creature also get three poison counters.)\nWhen Venomous Brutalizer enters the battlefield, you may pay {1}{G}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{2}{G}{G}"
+  },
+  {
+    "name": "Venser, Corpse Puppet",
+    "cmc": 2,
+    "colors": ["B", "U"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/b/1b5b94b8-0420-40f2-b989-39cb43cff916.jpg?1674773073"
+    ],
+    "type": "Legendary Creature — Phyrexian Zombie Wizard",
+    "text": "Lifelink, toxic 1\nWhenever you proliferate, choose one —\n• If you don't control a creature named The Hollow Sentinel, create The Hollow Sentinel, a legendary 3/3 colorless Phyrexian Golem artifact creature token.\n• Target artifact creature you control gains flying and lifelink until end of turn.",
+    "mana": "{U}{B}"
+  },
+  {
+    "name": "Vindictive Flamestoker",
+    "cmc": 1,
+    "colors": ["R"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/6/f67e7a16-ff30-4fb9-9fcb-6561eec50caf.jpg?1674772947"
+    ],
+    "type": "Creature — Phyrexian Wizard",
+    "text": "Whenever you cast a noncreature spell, put an oil counter on Vindictive Flamestoker.\n{6}{R}, Sacrifice Vindictive Flamestoker: Discard your hand, then draw four cards. This ability costs {1} less to activate for each oil counter on Vindictive Flamestoker.",
+    "mana": "{R}"
+  },
+  {
+    "name": "Viral Spawning",
+    "cmc": 3,
+    "colors": ["G"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1674815108"
+    ],
+    "type": "Sorcery",
+    "text": "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.)\nCorrupted — As long as an opponent has three or more poison counters and Viral Spawning is in your graveyard, it has flashback {2}{G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "mana": "{2}{G}"
+  },
+  {
+    "name": "Vivisection Evangelist",
+    "cmc": 5,
+    "colors": ["B", "W"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/6/2/626c46a3-72b8-4e04-adf2-c9c7aaf94f04.jpg?1674773074"
+    ],
+    "type": "Creature — Phyrexian Cleric",
+    "text": "Vigilance\nCorrupted — When Vivisection Evangelist enters the battlefield, if an opponent has three or more poison counters, destroy target creature or planeswalker an opponent controls.",
+    "mana": "{3}{W}{B}"
+  },
+  {
+    "name": "Vivisurgeon's Insight",
+    "cmc": 5,
+    "colors": ["U"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/c/d/cd244359-781e-4e1d-946d-243664f40c7c.jpg?1674772807"
+    ],
+    "type": "Sorcery",
+    "text": "Draw three cards. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{3}{U}{U}"
+  },
+  {
+    "name": "Voidwing Hybrid",
+    "cmc": 2,
+    "colors": ["B", "U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/8/a/8a48705f-bd8a-43f1-b1fe-14a5c9a83ccd.jpg?1674773075"
+    ],
+    "type": "Creature — Phyrexian Bat",
+    "text": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen you proliferate, return Voidwing Hybrid from your graveyard to your hand.",
+    "mana": "{U}{B}"
+  },
+  {
+    "name": "Volt Charge",
+    "cmc": 3,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/7/3/73d74045-cc9b-4b01-bc5f-0f2eb4b01580.jpg?1674772952"
+    ],
+    "type": "Instant",
+    "text": "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{2}{R}"
+  },
+  {
+    "name": "Vraan, Executioner Thane",
+    "cmc": 2,
+    "colors": ["B"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/4/c/4c4a3119-c70a-46ff-8ede-6356f2b7bc13.jpg?1674772874"
+    ],
+    "type": "Legendary Creature — Phyrexian Vampire",
+    "text": "Whenever one or more other creatures you control die, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn.",
+    "mana": "{1}{B}"
+  },
+  {
+    "name": "Vraska, Betrayal's Sting",
+    "cmc": 6,
+    "colors": ["B"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/5/f59f2b07-47ad-4efd-ae8c-1c04b9265024.jpg?1674772876"
+    ],
+    "type": "Legendary Planeswalker — Vraska",
+    "text": "Compleated ({B/P} can be paid with {B} or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n0: You draw a card and you lose 1 life. Proliferate.\n−2: Target creature becomes a Treasure artifact with \"{T}, Sacrifice this artifact: Add one mana of any color\" and loses all other card types and abilities.\n−9: If target player has fewer than nine poison counters, they get a number of poison counters equal to the difference.",
+    "mana": "{4}{B}{B/P}"
+  },
+  {
+    "name": "Vraska's Fall",
+    "cmc": 3,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/0/1/0173b7b4-2832-4943-ba45-8ba498d7a056.jpg?1674772877"
+    ],
+    "type": "Instant",
+    "text": "Each opponent sacrifices a creature or planeswalker and gets a poison counter.",
+    "mana": "{2}{B}"
+  },
+  {
+    "name": "Vulshok Splitter",
+    "cmc": 4,
+    "colors": ["R"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/0/f05078dd-b928-4b3f-9636-f299ebac180b.jpg?1674772953"
+    ],
+    "type": "Artifact — Equipment",
+    "text": "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+0.\nEquip {2}{R} ({2}{R}: Attach to target creature you control. Equip only as a sorcery.)",
+    "mana": "{3}{R}"
+  },
+  {
+    "name": "Watchful Blisterzoa",
+    "cmc": 6,
+    "colors": ["U"],
+    "rarity": "uncommon",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/a/8/a895f63f-3c59-4249-9346-55ef489944fc.jpg?1675008068"
+    ],
+    "type": "Creature — Phyrexian Jellyfish",
+    "text": "Flying\nWatchful Blisterzoa enters the battlefield with an oil counter on it.\nWhen Watchful Blisterzoa dies, draw cards equal to the number of oil counters on it.",
+    "mana": "{4}{U}{U}"
+  },
+  {
+    "name": "Whisper of the Dross",
+    "cmc": 1,
+    "colors": ["B"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/5/8/58d287e8-5297-415a-97d5-02002470c52b.jpg?1674772880"
+    ],
+    "type": "Instant",
+    "text": "Target creature gets -1/-1 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "mana": "{B}"
+  },
+  {
+    "name": "White Sun's Twilight",
+    "cmc": 2,
+    "colors": ["W"],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/f/fff13d77-8133-4328-b91e-efce229bc331.jpg?1674772739"
+    ],
+    "type": "Sorcery",
+    "text": "You gain X life. Create X 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This creature can't block.\" If X is 5 or more, destroy all other creatures. (Players dealt combat damage by a creature with toxic 1 also get a poison counter.)",
+    "mana": "{X}{W}{W}"
+  },
+  {
+    "name": "Zealot's Conviction",
+    "cmc": 1,
+    "colors": ["W"],
+    "rarity": "common",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/3/a/3a419ba1-7bd3-48e3-8f88-d9f833b25d6d.jpg?1674772739"
+    ],
+    "type": "Enchantment — Aura",
+    "text": "Flash\nEnchant creature\nEnchanted creature gets +1/+1.\nCorrupted — As long as an opponent has three or more poison counters, enchanted creature gets an additional +1/+0 and has first strike.",
+    "mana": "{W}"
+  },
+  {
+    "name": "Zenith Chronicler",
+    "cmc": 2,
+    "colors": [],
+    "rarity": "rare",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/1/4/1431fe83-7dc7-4c40-8d66-6525560e4323.jpg?1674773121"
+    ],
+    "type": "Artifact Creature — Phyrexian Construct",
+    "text": "Whenever a player casts their first multicolored spell each turn, each other player draws a card.",
+    "mana": "{2}"
+  },
+  {
+    "name": "Zopandrel, Hunger Dominus",
+    "cmc": 7,
+    "colors": ["G"],
+    "rarity": "mythic",
+    "set": "one",
+    "card_image": [
+      "https://cards.scryfall.io/normal/front/f/b/fb419d9d-e06f-48c8-a4f8-a57f9be39e50.jpg?1674773026"
+    ],
+    "type": "Legendary Creature — Phyrexian Horror",
+    "text": "Reach\nAt the beginning of each combat, double the power and toughness of each creature you control until end of turn.\n{G/P}{G/P}, Sacrifice two other creatures: Put an indestructible counter on Zopandrel, Hunger Dominus. ({G/P} can be paid with either {G} or 2 life.)",
+    "mana": "{5}{G}{G}"
+  }
+]

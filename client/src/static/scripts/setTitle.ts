@@ -2,6 +2,10 @@ export const setTitle = () => {
   const setCode: string = window.location.pathname.split('/')[2];
 
   switch (setCode) {
+    case 'one':
+      return 'Phyrexia: All Will Be One';
+      break;
+
     case 'bro':
       return "The Brother's War";
       break;
