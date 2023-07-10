@@ -7,6 +7,12 @@ export interface standardCardSet {
 
 export const standardSets: standardCardSet[] = [
   {
+    name: 'March of the Machine',
+    code: 'mom',
+    img: 'https://images.ctfassets.net/s5n2t79q9icq/1BIOyV6yL4BnKrSyW3oo7p/c7109bfe5e3a256c578ae2df0ffe8c6c/cndogSD3p_1600x1080-100.jpg?q=70&w=1920&fm=avif',
+    link: '/draft/mom',
+  },
+  {
     name: 'Phyrexia: All Will Be One',
     code: 'one',
     img: 'https://images.ctfassets.net/s5n2t79q9icq/74TgLyl0Ii7vBA7LmsWvHd/eef8cc5795f80762198176f27b05f59e/dje94ndH__1920x1080.jpg?q=80&w=1920&h=700&fit=crop&f=center&fm=avif',
