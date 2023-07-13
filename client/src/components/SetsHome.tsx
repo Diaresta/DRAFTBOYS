@@ -1,6 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { standardSets } from '../static/scripts/standardSets';
-import { standardCardSet } from '../static/scripts/standardSets';
+import { standardCardSet, standardSets } from '../static/scripts/standardSets';
 
 export const SetsHome = () => {
   return (

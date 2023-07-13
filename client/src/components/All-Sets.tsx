@@ -1,10 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { standardSets } from '../static/scripts/standardSets';
-import { standardCardSet } from '../static/scripts/standardSets';
-import { eternalCardSet } from '../static/scripts/eternalSets';
-import { eternalSets } from '../static/scripts/eternalSets';
+import { eternalCardSet, eternalSets } from '../static/scripts/eternalSets';
 import { fadeOutWait } from '../static/scripts/fadeOut';
+import { standardCardSet, standardSets } from '../static/scripts/standardSets';
 
 export const AllSets = () => {
   const [formatButton, setFormatButton] = useState(true);

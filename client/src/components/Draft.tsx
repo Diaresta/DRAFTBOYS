@@ -1,8 +1,8 @@
-import { useState, useEffect } from 'react';
 import axios from 'axios';
-import { setTitle } from '../static/scripts/setTitle';
+import { useEffect, useState } from 'react';
+import { DraftCards, cardSets } from '../static/scripts/cardInterfaces';
 import { downloadDraft } from '../static/scripts/downloadDraft';
-import { cardSets, DraftCards } from '../static/scripts/cardInterfaces';
+import { setTitle } from '../static/scripts/setTitle';
 
 // Draft cards array for end screen/draft download
 var draftedPack: DraftCards[] = [];

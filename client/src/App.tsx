@@ -1,11 +1,11 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import './static/css/App.css';
-import { Header } from './components/Header';
-import { Home } from './components/Home';
-import { Draft } from './components/Draft';
+import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import { AllSets } from './components/All-Sets';
 import { Contact } from './components/Contact';
+import { Draft } from './components/Draft';
+import { Header } from './components/Header';
+import { Home } from './components/Home';
 import { NotFound } from './components/Not-Found';
+import './static/css/App.css';
 
 function App() {
   return (

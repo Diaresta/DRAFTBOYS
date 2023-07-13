@@ -1,6 +1,6 @@
-import { SetsHome } from './SetsHome';
-import { SetsCarousel } from './SetsCarousel';
 import { useEffect } from 'react';
+import { SetsCarousel } from './SetsCarousel';
+import { SetsHome } from './SetsHome';
 
 export const Home = () => {
   useEffect(() => {
