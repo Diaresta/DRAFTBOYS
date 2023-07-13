@@ -219,7 +219,7 @@ export const Draft = () => {
 
     for (let i = 0; i < draftedCards.length; i++) {
       downloadArray.push(
-        draftedCards[i].name.substring(0, draftedCards[i].name.length - 2)
+        draftedCards[i].name.substring(0, draftedCards[i].name.length)
       );
     }
 
