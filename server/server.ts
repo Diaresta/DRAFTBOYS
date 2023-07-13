@@ -3,6 +3,7 @@ import dotenv from 'dotenv';
 import express, { Express, Request, Response } from 'express';
 import mongoose from 'mongoose';
 import Contact, { userContact } from './db/dbContact';
+import { validateContact } from './scripts/validation';
 
 const app: Express = express();
 app.use(cors());
@@ -25,69 +26,22 @@ app.post('/api/contact/create', (req: Request, res: Response) => {
     contactDate,
   };
 
-  if (!dbContact.firstName || typeof dbContact.firstName !== 'string') {
+  let response: { status: string; error: string } = validateContact(dbContact);
+
+  if (response.status === 'Error') {
     return res.status(400).json({
       status: 'Error',
-      error: 'Please enter a valid first name',
+      error: response.error,
+    });
+  } else {
+    Contact.create(dbContact, (err, data) => {
+      if (err) {
+        res.status(500).send(err);
+      } else {
+        res.status(201).send(data);
+      }
     });
   }
-
-  if (dbContact.firstName.length < 2 || dbContact.firstName.length > 20) {
-    return res.status(400).json({
-      status: 'Error',
-      error: 'First name must be 2- 20 characters',
-    });
-  }
-
-  if (!dbContact.lastName || typeof dbContact.lastName !== 'string') {
-    return res.status(400).json({
-      status: 'Error',
-      error: 'Please enter a valid last name',
-    });
-  }
-
-  if (dbContact.lastName.length < 2 || dbContact.lastName.length > 30) {
-    return res.status(400).json({
-      status: 'Error',
-      error: 'Last name must be 2- 30 characters',
-    });
-  }
-
-  if (!dbContact.email || typeof dbContact.email !== 'string') {
-    return res.status(400).json({
-      status: 'Error',
-      error: 'Please enter a valid email',
-    });
-  }
-
-  if (dbContact.email.length < 10 || dbContact.email.length > 40) {
-    return res.status(400).json({
-      status: 'Error',
-      error: 'Email must be 10- 40 characters',
-    });
-  }
-
-  if (!dbContact.message || typeof dbContact.message !== 'string') {
-    return res.status(400).json({
-      status: 'Error',
-      error: 'Please enter a valid message',
-    });
-  }
-
-  if (dbContact.message.length < 5) {
-    return res.status(400).json({
-      status: 'Error',
-      error: 'Message must be at least 5 characters',
-    });
-  }
-
-  Contact.create(dbContact, (err, data) => {
-    if (err) {
-      res.status(500).send(err);
-    } else {
-      res.status(201).send(data);
-    }
-  });
 });
 
 const PORT = process.env.PORT || 8000;
