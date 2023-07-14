@@ -13,14 +13,18 @@ export const Contact = () => {
 
   const submitMessage = () => {
     axios
-      .post('https://draftboys.herokuapp.com/api/contact/create', {
-        firstName: firstName,
-        lastName: lastName,
-        email: userEmail,
-        message: userMessage,
-        contactDate: new Date().toLocaleDateString(),
-      })
+      .post(
+        'https://draftboys-server-temp-e4eebd8e7c2f.herokuapp.com/api/contact/create',
+        {
+          firstName: firstName,
+          lastName: lastName,
+          email: userEmail,
+          message: userMessage,
+          contactDate: new Date().toLocaleDateString(),
+        }
+      )
       .then((res) => {
+        console.log(res);
         setAlertText('Message Submitted!');
         fadeOutAlert('rgba(51, 185, 78, 1)', 'green');
         setCursor('not-allowed');
