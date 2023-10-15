@@ -7,6 +7,12 @@ export interface standardCardSet {
 
 export const standardSets: standardCardSet[] = [
   {
+    name: 'Wilds of Eldraine',
+    code: 'woe',
+    img: 'https://images.ctfassets.net/s5n2t79q9icq/2Eq0mcvZ8Pw9H57HaVRZrq/6af5fd80dcea300cb818e1b014c98dc1/v4anjdKFGB_1600x1080-80.jpg?q=70&w=1920&fm=avif',
+    link: '/draft/woe',
+  },
+  {
     name: 'March of the Machine',
     code: 'mom',
     img: 'https://images.ctfassets.net/s5n2t79q9icq/1BIOyV6yL4BnKrSyW3oo7p/c7109bfe5e3a256c578ae2df0ffe8c6c/cndogSD3p_1600x1080-100.jpg?q=70&w=1920&fm=avif',

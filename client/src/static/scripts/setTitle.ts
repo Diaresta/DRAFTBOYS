@@ -2,6 +2,9 @@ export const setTitle = () => {
   const setCode: string = window.location.pathname.split('/')[2];
 
   switch (setCode) {
+    case 'woe':
+      return 'Wilds of Eldraine';
+
     case 'mom':
       return 'March of the Machine';
 
